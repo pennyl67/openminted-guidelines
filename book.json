@@ -9,9 +9,5 @@
             "addClass": true,
             "className": "toc"
         },
-        "theme-default": {
-            "styles": "",
-            "showLevel": true
-        }
     }
 }
