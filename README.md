@@ -33,6 +33,9 @@ The OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-
 
 > Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.
 
+{% blurb style='tip', title='Important notice' %}
+Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.
+{% endblurb %}
 
 Each set of guidelines contains the following information:
 
