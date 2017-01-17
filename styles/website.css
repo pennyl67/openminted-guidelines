@@ -1,5 +1,9 @@
 /* CSS for website */
 
+nav{
+    font-family: Roboto !important;
+}
+
 body{
     font-family: Roboto !important;
     text-align: justify;
