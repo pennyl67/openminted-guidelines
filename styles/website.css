@@ -1,5 +1,9 @@
 /* CSS for website */
 
+.book.font-family-<sans> {
+  font-family: 'Roboto';
+}
+
 nav{
     font-family: Roboto !important;
 }
