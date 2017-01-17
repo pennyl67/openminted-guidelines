@@ -1,7 +1,7 @@
 {
     "plugins": [
         "-fontsettings",
-        "toc".
+        "toc",
         "collapsible-menu"
     ],
     "pluginsConfig": {
