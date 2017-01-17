@@ -9,21 +9,21 @@ body{
 h1 {
 font-family: Roboto;
 color: rgb(0, 191, 195);
-font-size: 128pt !important;
+font-size: 64pt !important;
 font-weight: normal;
 }
 
 h2 {
 font-family: Roboto;
 color: rgb(0, 191, 195);
-font-size: 64pt;
+font-size: 48pt !important;
 font-weight: normal;
 }
 
 h3 {
 font-family: Roboto;
 color: rgb(0, 191, 195);
-font-size: 48pt;
+font-size: 36pt !important;
 font-weight: normal;
 }
 
