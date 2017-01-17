@@ -4,6 +4,10 @@ nav{
     font-family: Roboto !important;
 }
 
+table, th, td {
+   border: 5px solid rgb(0,  185, 180);
+}
+
 body{
     font-family: Roboto !important;
     text-align: justify;
