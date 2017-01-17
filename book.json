@@ -1,9 +1,9 @@
 {
     "plugins": [
         "-fontsettings",
-        "toc",
         "collapsible-menu",
-        "blurbs"
+        "blurbs",
+        "creativecommons"
     ],
     "pluginsConfig": {
         "toc": {
