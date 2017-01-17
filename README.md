@@ -1,7 +1,11 @@
 # OpenMinTeD guidelines {#openminted-guidelines}
 
 Welcome to the OpenMinTeD Guidelines!
+
+
 newtest for nav
+
+
 
 {% creativecommons type="by-nc" %}
 {% endcreativecommons %}
