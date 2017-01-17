@@ -9,9 +9,6 @@
             "addClass": true,
             "className": "toc"
         },
-        "localized-footer": {
-            "filename": "FOOTER.md"
-        },
         "theme-default": {
             "styles": "",
             "showLevel": true
