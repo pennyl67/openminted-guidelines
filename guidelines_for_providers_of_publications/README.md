@@ -1,3 +1,3 @@
 # Guidelines for providers of publications {#guidelines-for-providers-of-publications}
 
-<!-- toc -->
+another test for publications
