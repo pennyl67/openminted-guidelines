@@ -1,6 +1,13 @@
 {
     "plugins": [
         "-fontsettings",
-        "etoc"
-    ]
+        "toc"
+    ],
+    "pluginsConfig": {
+        "etoc": {
+            "mindepth": 2,
+            "maxdepth": 4,
+            "notoc": false
+        }
+    }
 }
