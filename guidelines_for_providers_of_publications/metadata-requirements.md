@@ -1,9 +1,3 @@
-## Instructions for publication repositories, libraries, journals, publishers, etc. {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
-
-
-
-
-
 ### Documentation/Metadata requirements {#documentation-metadata-requirements}
 
 To be fully compatible with OpenMinTeD, you must
