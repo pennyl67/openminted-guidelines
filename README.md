@@ -63,7 +63,6 @@ The guidelines have been the product of work carried out mainly in the OpenMinTe
 * Antonis Lempesis \(ARC, Greece\)
 * Miguel Madrid \(CNIO\)
 * ​Natalia Manola \(ARC, Greece\)
-* Theo Manouilidis \(ARC, Greece\)
 * Thomas Margoni \(University of Glasgow, UK\)
 * John McNaught \(University of Manchester, UK\)
 * Claire Nedellec \(INRA, France\)
