@@ -2,8 +2,7 @@
     "plugins": [
         "-fontsettings",
         "collapsible-menu",
-        "blurbs",
-        "localized-footer"
+        "blurbs"
     ],
     "pluginsConfig": {
         "toc": {
