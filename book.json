@@ -4,10 +4,9 @@
         "toc"
     ],
     "pluginsConfig": {
-        "etoc": {
-            "mindepth": 2,
-            "maxdepth": 4,
-            "notoc": false
+        "toc": {
+            "addClass": true,
+            "className": "toc"
         }
     }
 }
