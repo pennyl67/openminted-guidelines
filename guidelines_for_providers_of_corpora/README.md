@@ -1,0 +1,1 @@
+# Guidelines for providers of corpora {#guidelines-for-providers-of-corpora}
