@@ -1,6 +1,7 @@
 # Summary
 
 * [OpenMinTeD guidelines](README.md)
+* [Acknowledgements & Contributors](acknowledgements--contributors.md)
 * [Guidelines for providers of publications](guidelines_for_providers_of_publications/README.md)
     * [Introduction](guidelines_for_providers_of_publications/introduction.md)
     * [Instructions for publication repositories, libraries, journals, publishers, etc.](guidelines_for_providers_of_publications/instructions_for_publication_repositories,_librari.md)
@@ -22,4 +23,6 @@
     * [Recommended schema for s\/w resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
+* Example metadata records
+* How to contribute
 
