@@ -1,6 +1,7 @@
 ## Instructions for providers of ancillary knowledge resources {#instructions-for-providers-of-ancillary-knowledge-resources}
 
-### Packaging and uploading procedures {#packaging-and-uploading-procedures}
+<!-- toc -->
+## Packaging and uploading procedures {#packaging-and-uploading-procedures}
 
 Ancillary knowledge resources can be uploaded by registered users as decided in the OpenMinTeD Policies.
 
