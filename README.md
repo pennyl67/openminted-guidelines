@@ -5,6 +5,7 @@ Welcome to the OpenMinTeD Guidelines!
 OpenMinTeD aspires to enable the creation of an infrastructure that fosters and facilitates the use of text mining technologies in the scientific publications world, builds on existing text mining tools and platforms, and renders them discoverable and interoperable through appropriate registries and a standards-based interoperability layer, respectively.
 
 
+
 another new test to see how it works
 
 
