@@ -27,9 +27,12 @@ The OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-
 
 **Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.**
 
+> Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.
+
+
 Each set of guidelines contains the following information:
 
-* a brief introduction, specifying the resources expected, potential sources, minimal requirements for the contributions
+> * a brief introduction, specifying the resources expected, potential sources, minimal requirements for the contributions
 * packaging and uploading instructions for the OpenMinTeD registry
 * technical and metadata requirements that empower interoperability
 * for each resource type, an overview of the OMTD-SHARE metadata schema \(minimal level\) with definitions, explanations, recommended usage and mappings to other popular and supported by OpenMinTeD metadata schemas
