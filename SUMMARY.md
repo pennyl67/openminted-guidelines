@@ -28,4 +28,5 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
 * How to contribute
+* [Glossary](GLOSSARY.md)
 
