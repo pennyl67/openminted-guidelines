@@ -10,7 +10,7 @@ body{
 h1 {
 font-family: Roboto;
 color: rgb(0, 191, 195);
-font-size: 128pt;
+font-size: 128pt !important;
 font-weight: normal;
 }
 
