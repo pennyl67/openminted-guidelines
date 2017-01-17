@@ -1,0 +1,49 @@
+/* CSS for website */
+
+body{
+    font-family: Roboto;
+    background-color: yellow;
+    text-align: justify;
+    text-justify: inter-word;    
+}
+
+h1 {
+font-family: Roboto;
+color: rgb(0, 191, 195);
+font-size: 64pt;
+font-weight: normal;
+}
+
+h2 {
+font-family: Roboto;
+color: rgb(0, 191, 195);
+font-size: 48pt;
+font-weight: normal;
+}
+
+h3 {
+font-family: Roboto;
+color: rgb(0, 191, 195);
+font-size: 36pt;
+font-weight: normal;
+}
+
+h4 {
+font-family: Roboto;
+color: rgb(0, 191, 195);
+font-size: 24pt;
+font-weight: normal;
+}
+
+h5 {
+font-family: Roboto;
+font-size: 24pt;
+font-style: italic;
+font-weight: bold;
+}
+
+h6 {
+font-family: Roboto;
+font-size: 18pt;
+font-weight: bold;
+}
