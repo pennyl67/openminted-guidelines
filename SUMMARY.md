@@ -10,6 +10,8 @@
         * [Metadata requirements](guidelines_for_providers_of_publications/metadata-requirements.md)
     * [​Instructions for OpenAIRE and CORE](guidelines_for_providers_of_publications/instructions_for_openaire_and_core.md)
     * [​Recommended schema for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
+    * [Overview of publications](guidelines_for_providers_of_publications/overview-of-publications.md)
+    * [Metadata for annotated publications](guidelines_for_providers_of_publications/metadata-for-annotated-publications.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
     * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
     * [Instructions for providers of corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
