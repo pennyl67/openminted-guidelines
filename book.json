@@ -3,12 +3,17 @@
         "-fontsettings",
         "collapsible-menu",
         "blurbs",
-        "creativecommons"
+        "creativecommons",
+        "layout"
     ],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
             "className": "toc"
+        },
+        "layout": {
+            "headerPath" : "layouts/header.html",
+            "footerPath" : "layouts/footer.html"
         }
     }
 }
