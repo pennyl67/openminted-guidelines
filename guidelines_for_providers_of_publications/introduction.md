@@ -9,7 +9,5 @@ Scholarly publications will be imported into OpenMinTeD based on a procedure whi
 The following sections present a list of requirements and recommendations that publications must meet to interact with TDM resources. **Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.**
 
 [^1]: Open Access is defined as “the free and online availability of literature, which allows to read, download d, copy, distribute, print, search, or link to the full text, crawl articles for indexing, pass them as data to software, or use them for any other useful purpose. An availability that is granted without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself, and those related to giving authors control over the integrity of their work and the right to be properly acknowledged and cited” [Budapest OA Initiative 2002; Bethesda Statement on OA Publishing 2003; Berlin Declaration on OA Knowledge in Science and Humanities 2003]
-
 [^2]: [http://www.openaire.eu](http://www.openaire.eu)
-
 [^3]: [https://core.ac.uk](https://core.ac.uk)
