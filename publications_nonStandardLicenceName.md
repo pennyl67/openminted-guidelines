@@ -1,0 +1,12 @@
+##### Usage
+Mandatory under conditions
+##### Conditions for usage
+to be used with ms:licence other (i.e. for licences not included in the list of recommended ones) 
+##### Type
+free text
+##### Definition/Explanations
+The name with which a licence is known; to be used for licences not included in the pre-defined list of recommended licences
+##### Recommended usage
+Please, provide the name of the licence if it's already known or supply one that can uniquely identify it.
+* OpenAIRE current version: bestlicense
+* DCMI: skos:closeMatch dct:title (for dct:licenseDocument)
