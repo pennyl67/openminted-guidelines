@@ -29,6 +29,6 @@
     * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
-   * How to contribute
+* How to contribute
 * [Glossary](GLOSSARY.md)
 
