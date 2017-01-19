@@ -8,15 +8,18 @@ Annotated corpora are documented as separate resources
 | OMTD-SHARE element | Usage |
 | --- | --- |
 | [resourceIdentifier](\corpora_identifier.md) | M |
-| annotationLevel | M |
-| annotationStandoff | R |
-| mimeType | R |
-| dataFormatSpecific | R |
-| documentationURL | R |
-| characterEncoding | R |
-| typesystem | R |
-| tagset | R |
-| annotationMode | R |
-| isAnnotatedBy | R |
-| annotationDate | R |
+| [annotationLevel](\annotations_annotationLevel.md) | M |
+| [annotationStandoff](\annotations_annotationStandoff.md) | R |
+| [mimeType](\annotations_mimeType.md) | R |
+| [dataFormatSpecific](\annotations_dataFormatSpecific.md) | R |
+| [documentationURL](\annotations_documentationURL.md) | R |
+| [characterEncoding](\annotations_characterEncoding.md) | R |
+| [typesystem](\annotations_typesystem.md) | R |
+| [tagset](\annotations_tagset.md) | R |
+| [annotationMode](\annotations_annotationMode.md) | R |
+| [isAnnotatedBy](\annotations_isAnnotatedBy.md) | R |
+| [annotationDate](\annotations_annotationDate.md) | R |
+
+
+
 
