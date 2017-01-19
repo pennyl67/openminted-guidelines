@@ -142,8 +142,6 @@
             * [relationType](models_relationType.md)
             * [relatedResource1](models_relatedResource1.md)
             * [relatedResource2](models_relatedResource2.md)
-
-        
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
     * [Introduction](guidelines_for_providers_of_sw_resources/introduction.md)
     * [​Instructions for providers of web services and end-user applications](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_web_services_and_end.md)
