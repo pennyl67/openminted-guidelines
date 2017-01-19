@@ -119,7 +119,7 @@
             * [rightsStmtURL](models_rightsStmtURL.md)
             * [nonStandardLicenceName](models_nonStandardLicenceName.md)
             * [nonStandardLicenceTermsURL](models_nonStandardLicenceTermsURL.md)
-            * [version of licence](models_version of licence.md)
+            * [version of licence](models_version_of_licence.md)
             * [distributionMedium](models_distributionMedium.md)
             * [downloadURL](models_downloadURL.md)
             * [contactEmail](models_contactEmail.md)
