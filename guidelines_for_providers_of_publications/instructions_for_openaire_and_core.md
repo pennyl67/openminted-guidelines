@@ -1,4 +1,4 @@
-## ​Instructions for OpenAIRE and CORE {#instructions-for-openaire-and-core}
+## ​Instructions for aggregators {#instructions-for-openaire-and-core}
 
 OpenAIRE and CORE will bring content resources into OpenMinTeD through user queries.
 
