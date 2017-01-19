@@ -3,7 +3,8 @@
         "-fontsettings",
         "blurbs",
         "collapsible-menu",
-        "footer"
+        "footer",
+        "header"
     ],
     "pluginsConfig": {
         "fontsettings": {
