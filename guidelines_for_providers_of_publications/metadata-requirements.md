@@ -1,4 +1,4 @@
-### Documentation/Metadata requirements {#documentation-metadata-requirements}
+### How to document your resources {#documentation-metadata-requirements}
 
 To be fully compatible with OpenMinTeD, you must
 

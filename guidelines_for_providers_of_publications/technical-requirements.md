@@ -1,4 +1,4 @@
-### Technical requirements {#technical-requirements}
+### How to make your resources interoperable {#technical-requirements}
 
 To be fully compatible with OpenMinTeD, you must:
 
