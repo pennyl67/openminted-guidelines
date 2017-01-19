@@ -1,8 +1,4 @@
-## ​Recommended s# chema for ​lexical/conceptual resources, incl. annotation resources (tagsets, ontologies, and typesystems) {#recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources-tagsets-ontologies-and-typesystems}
-
-### Overview {#overview}
-
-Table 5 - Overview of the recommended OMTD-SHARE schema for lexical/conceptual resources
+## ​Recommended schema for ​lexical/conceptual resources, incl. annotation resources {#recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources}
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
