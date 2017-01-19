@@ -1,4 +1,4 @@
-## ​Recommended schema for ​lexical/conceptual resources, incl. annotation resources {#recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources}
+## ​Recommended schema for ​lexical/conceptual resources, incl. annotation resources {#recommended-schema-for-lexical-conceptual-resources}
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
