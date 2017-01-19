@@ -12,11 +12,11 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [publicationType](/publications_publicationType.md) | M |
 | [identifier](/publications_identifier.md) | M |
 | [title](/publications_title.md) | M |
-| [distributionMedium](/publications_distributionMedium.md) | M |
 | [licence](/publications_licence.md) or [rightsStmtName](/publications_rightsStmtName.md) &amp; [rightsStmtURL](/publications_rightsStmtURL.md) (one of the two must be provided) | M |
 | [version of licence](/publications_version_of_licence.md) | Μ |
 | [nonStandardLicenceName](/publications_nonStandardLicenceName) | R when applicable |
 | [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL) | M when applicable |
+| [distributionMedium](/publications_distributionMedium.md) | M |
 | [downloadURL ](/publications_downloadURL.md)| Μ when applicable |
 | [fullText](/publications_fullText.md) | R |
 | [abstract](/publications_abstract.md) | R |
