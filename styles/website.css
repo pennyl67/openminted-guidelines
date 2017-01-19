@@ -1,11 +1,11 @@
 /* CSS for website */
 
 .book.font-family-1 {
-    font-family: "Lato" !important;
+    font: "Lato" !important;
 }
 
 nav{
-    font-family: Lato !important;
+    font: Lato !important;
 }
 
 table, th, td {
@@ -25,13 +25,13 @@ th {
     color: white;
 }
 body{
-    font-family: Lato !important;
+    font: Lato !important;
     text-align: justify;
     text-justify: inter-word;    
 }
 
 h1 {
-font-family: Lato;
+font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 36pt !important;
 font-weight: normal;
