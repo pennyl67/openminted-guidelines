@@ -11,7 +11,7 @@
     * [​Instructions for OpenAIRE and CORE](guidelines_for_providers_of_publications/instructions_for_openaire_and_core.md)
     * [​Recommended schema for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
         * [Overview of publications](guidelines_for_providers_of_publications/overview-of-publications.md)
-        * Detailed presentation
+        * [Detailed presentation](guidelines_for_providers_of_publications/detailed-presentation.md)
             * [documentType](publications_documentType.md)
             * [originalDataProviderType](publications_originalDataProviderType.md)
             * [documentLanguage](publications_documentLanguage.md)
