@@ -1,4 +1,4 @@
-### How to make your resources interoperable {#technical-requirements}
+### How to make your resources interoperable {#how-to-make-your-resources-interoperable}
 
 There are no general requirements yet for corpora to be used for ancillary purposes, as these are dependent on the requirements of the s/w components that will use them and on the purpose of use.
 

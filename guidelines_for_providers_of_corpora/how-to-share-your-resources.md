@@ -1,4 +1,4 @@
-### How to share your resources {#packaging-and-uploading-instructions}
+### How to share your resources {#How-to-share-your-resources}
 
 Corpora can be uploaded by registered users as decided in the OpenMinTeD Policies.
 
