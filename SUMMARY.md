@@ -54,6 +54,52 @@
         * [How to document your resources](guidelines_for_providers_of_corpora/how-to-document-your-resources.md)
         * [Further requirements for annotated corpora](guidelines_for_providers_of_corpora/further-requirements-for-annotated-corpora.md)
         * [​Recommended schema for corpora](guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md)
+            * [resourceName](corpora_resourceName.md)
+            * [resourceType](corpora_resourceType.md)
+            * [description](corpora_description.md)
+            * [identifier](corpora_identifier.md)
+            * [licence](corpora_licence.md)
+            * [rightsStmtName](corpora_rightsStmtName.md)
+            * [rightsStmtURL](corpora_rightsStmtURL.md)
+            * [version of licence](corpora_version of licence.md)
+            * [nonStandardLicenceName](corpora_nonStandardLicenceName.md)
+            * [nonStandardLicenceTermsURL](corpora_nonStandardLicenceTermsURL.md)
+            * [distributionMedium](corpora_distributionMedium.md)
+            * [downloadURL](corpora_downloadURL.md)
+            * [contactEmail](corpora_contactEmail.md)
+            * [landingPage](corpora_landingPage.md)
+            * [contactPerson (identifier or personName)](corpora_contactPerson.md)
+            * [contactGroup (identifier or organizationName)](corpora_contactGroup.md)
+            * [mustBeCitedWith](corpora_mustBeCitedWith.md)
+            * [resourceCreator](corpora_resourceCreator.md)
+            * [creationDate](corpora_creationDate.md)
+            * [corpusType](corpora_corpusType.md)
+            * [mediaType](corpora_mediaType.md)
+            * [lingualityType](corpora_lingualityType.md)
+            * [multilingualityType](corpora_multilingualityType.md)
+            * [language](corpora_language.md)
+            * [sizePerLanguage](corpora_sizePerLanguage.md)
+            * [size](corpora_size.md)
+            * [mimeType](corpora_mimeType.md)
+            * [characterEncoding](corpora_characterEncoding.md)
+            * [domain](corpora_domain.md)
+            * [subject](corpora_subject.md)
+            * [keyword](corpora_keyword.md)
+            * [userQuery](corpora_userQuery.md)
+            * [relationType](corpora_relationType.md)
+            * [relatedResource1](corpora_relatedResource1.md)
+            * [relatedResource2](corpora_relatedResource2.md)
+
+            
+                                                            
+            
+            
+            
+            
+        
+        
+        
+        
         * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md)
 * [Guidelines for providers of ancillary resources \(lexica, ontologies, tagsets, annotation schemas, models etc.\)](guidelines_for_providers_of_ancillary_resources_le/README.md)
     * [Introduction](guidelines_for_providers_of_ancillary_resources_le/introduction.md)
