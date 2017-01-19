@@ -4,7 +4,7 @@
 * [Acknowledgements & Contributors](acknowledgements--contributors.md)
 * [Guidelines for providers of publications](guidelines_for_providers_of_publications/README.md)
     * [Introduction](guidelines_for_providers_of_publications/introduction.md)
-    * [Instructions for publication repositories, libraries, journals, publishers, etc.](guidelines_for_providers_of_publications/instructions_for_publication_repositories,_librari.md)
+    * [Instructions for publication repositories, libraries, journals, publishers, etc.](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
         * [How to share your resources](guidelines_for_providers_of_publications/uploading-instructions.md)
         * [How to make your resources interoperable](guidelines_for_providers_of_publications/technical-requirements.md)
         * [How to document your resources](guidelines_for_providers_of_publications/metadata-requirements.md)
@@ -68,8 +68,8 @@
             * [downloadURL](corpora_downloadURL.md)
             * [contactEmail](corpora_contactEmail.md)
             * [landingPage](corpora_landingPage.md)
-            * [contactPerson (identifier or personName)](corpora_contactPerson.md)
-            * [contactGroup (identifier or organizationName)](corpora_contactGroup.md)
+            * [contactPerson \(identifier or personName\)](corpora_contactPerson.md)
+            * [contactGroup \(identifier or organizationName\)](corpora_contactGroup.md)
             * [mustBeCitedWith](corpora_mustBeCitedWith.md)
             * [resourceCreator](corpora_resourceCreator.md)
             * [creationDate](corpora_creationDate.md)
@@ -106,5 +106,4 @@
 * Example metadata records
 * How to contribute
 * [Glossary](GLOSSARY.md)
-* Detailed presentation
 
