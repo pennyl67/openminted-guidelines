@@ -17,3 +17,5 @@ Annotated publications are documented as separate resources with a link to the r
 | annotationMode | R |
 | isAnnotatedBy | R |
 | annotationDate | R |
+
+
