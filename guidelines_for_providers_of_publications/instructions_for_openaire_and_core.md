@@ -9,7 +9,7 @@ End-users that wish to run TDM services on specific content will be presented wi
 For each new corpus created according to this procedure, an automatically generated metadata record will be produced which will be submitted to the user for further editing.
 
 
-* [How to share your resources](/guidelines_for_providers_of_publications/uploading-instructions.md)
+* [How to share your resources](/guidelines_for_providers_of_publications/how-to-share-your-resources.md)
 * [How to make your resources interoperable](/guidelines_for_providers_of_publications/technical-requirements.md)
 * [How to document your resources](/guidelines_for_providers_of_publications/metadata-requirements.md)
 
