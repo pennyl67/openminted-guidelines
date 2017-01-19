@@ -1,4 +1,4 @@
-### Uploading instructions {#uploading-instructions}
+### How to share your resources {#uploading-instructions}
 
 If you wish to share publications that can be harvested for TDM purposes through OpenMinTeD, you can do so
 
