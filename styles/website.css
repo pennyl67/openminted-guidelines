@@ -9,8 +9,8 @@ nav{
 }
 
 body{
-    font: "Lato" !important;
-    text-align: justify;
+    font-family: Roboto !important;
+    text-align: justify !important;
     text-justify: inter-word;    
 }
 
