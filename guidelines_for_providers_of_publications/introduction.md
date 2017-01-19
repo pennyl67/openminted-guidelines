@@ -10,5 +10,5 @@ The following sections present a list of requirements and recommendations that p
 
 **Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.**
 
-{% blurb style='help', title='Come back for updates' %}
+{% blurb style='help', title='Come back for updates!' %}
 Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.{% endblurb %}
