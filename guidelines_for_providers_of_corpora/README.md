@@ -2,5 +2,3 @@
 
 * Introduction
 * Instructions for providers of corpora
-* Recommended schema for corpora
-* Additional metadata for annotated corpora
