@@ -1,19 +1,12 @@
 ## Instructions for providers of ancillary knowledge resources {#instructions-for-providers-of-ancillary-knowledge-resources}
 
+* [How to share your knowledge resources](how-to-share-your-knowledge-resources.md)
+* [How to make your knowledge resources interoperable](how-to-make-your-knowledge-resources-interoperable.md)
+* [How to document your knowledge resources](how-to-document-your-knowledge-resources.md)
+* [Further requirements for annotated corpora](further-requirements-for-annotated-corpora.md)
+* [​Recommended schema for corpora](recommended_schema_for_corpora.md)
 
 
 
 
 
-
-[^30]: 
-
-[^31]: For citation, OpenMinTeD endorses the
-
-[^32]: Medical Subject Headings (https://www.nlm.nih.gov/mesh/)
-
-[^33]: Dewey Decimal Classification (https://www.oclc.org/dewey.en.html)
-
-[^34]: Library of Congress Subject Headings (http://id.loc.gov/authorities/subjects.html)
-
-[^35]: The full OMTD-SHARE schema is documented at:
