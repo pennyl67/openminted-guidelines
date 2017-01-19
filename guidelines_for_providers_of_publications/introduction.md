@@ -9,3 +9,6 @@ Scholarly publications will be imported into OpenMinTeD based on a procedure whi
 The following sections present a list of requirements and recommendations that publications must meet to interact with TDM resources. 
 
 **Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.**
+
+{% blurb style='help', title='Come back for updates!' %}
+Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.{% endblurb %}
