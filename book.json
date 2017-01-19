@@ -2,7 +2,8 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "collapsible-menu"
+        "collapsible-menu",
+        "etoc"
     ],
     "pluginsConfig": {
         "toc": {
@@ -13,6 +14,11 @@
             "theme": "white",
             "family": "sans",
             "size": 3
+        },
+        "etoc": {
+            "mindepth": 2,
+            "maxdepth": 5,
+            "notoc": false
         }
     }
 }
