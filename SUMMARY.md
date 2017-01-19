@@ -14,11 +14,17 @@
         * [Further requirements for annotated publications](guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md)
     * [​Recommended schema for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
         * [documentType](publications_documentType.md)
+        * [publicationType](publications_publicationType.md)
+        * [identifier](publications_identifier.md)
+        * [title](publications_title.md)
+        
+        
+        
+        
         * [originalDataProviderType](publications_originalDataProviderType.md)
         * [documentLanguage](publications_documentLanguage.md)
         * [originalDataProviderJournal](publications_originalDataProviderJournal.md)
         * [downloadURL](publications_downloadURL.md)
-        * [title](publications_title.md)
         * [fullText](publications_fullText.md)
         * [relatedResource2](publications_relatedResource2.md)
         * [rightsStmtName](publications_rightsStmtName.md)
@@ -29,7 +35,6 @@
         * [sourceMetadataLink](publications_sourceMetadataLink.md)
         * [journal](publications_journal.md)
         * [abstract](publications_abstract.md)
-        * [publicationType](publications_publicationType.md)
         * [nonStandardLicenceTermsURL](publications_nonStandardLicenceTermsURL.md)
         * [publisher](publications_publisher.md)
         * [characterEncoding](publications_characterEncoding.md)
@@ -40,7 +45,6 @@
         * [version of licence](publications_version of licence.md)
         * [collectedFrom repositoryName or repositoryIdentifier](publications_collectedFrom.md)
         * [licence](publications_licence.md)
-        * [identifier](publications_identifier.md)
         * [rightsStmtURL](publications_rightsStmtURL.md)
         * [publicationDate](publications_publicationDate.md)
         * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
