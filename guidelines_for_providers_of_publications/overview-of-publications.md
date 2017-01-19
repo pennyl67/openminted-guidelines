@@ -2,8 +2,8 @@
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| documentType | M |
-| publicationType | M |
+| [documentType](/publications_documentType.md) | M |
+| [publicationType](/publications_publicationType.md) | M |
 | identifier | M |
 | title | M |
 | distributionMedium | M |
@@ -11,7 +11,7 @@
 | (licence) version | Μ |
 | downloadURL | Μ when applicable |
 | fullText | R |
-| abstract | R |
+| [abstract](/publications_abstract.md) | R |
 | author | R |
 | publisher | R |
 | journal | R |
