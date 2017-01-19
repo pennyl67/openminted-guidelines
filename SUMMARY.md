@@ -38,7 +38,7 @@
         * [author](publications_author.md)
         * [originalDataProviderRepository](publications_originalDataProviderRepository.md)
         * [version of licence](publications_version of licence.md)
-        * [collectedFrom repositoryName or repositoryIdentifier](publications_collectedFrom repositoryName or repositoryIdentifier.md)
+        * [collectedFrom repositoryName or repositoryIdentifier](publications_collectedFrom.md)
         * [licence](publications_licence.md)
         * [identifier](publications_identifier.md)
         * [rightsStmtURL](publications_rightsStmtURL.md)
