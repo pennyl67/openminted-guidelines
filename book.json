@@ -10,10 +10,6 @@
             "theme": "white",
             "family": "sans",
             "size": 3
-        },
-        "layout": {
-            "headerPath" : "assets/header.html",
-            "footerPath" : "assets/footer.html"
-        }        
+        }  
     }
 }
