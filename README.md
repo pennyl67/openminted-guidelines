@@ -27,10 +27,6 @@ Four guidelines are released targeting providers of these resources:
 
 The OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-infrastructures and repositories, collecting, transforming and making available **resources only as needed for TDM purposes**. In other words, it is not one more registry of content and services, and it doesn't seek to collect and provide information about resources that might be of interest to TDM stakeholders.
 
-**Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.**
-
-> Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.
-
 {% blurb style='tip', title='Important notice' %}
 Resources are to be registered into OpenMinTeD only if they can be accessed and deployed in the context of a TDM processing operation.
 {% endblurb %}
