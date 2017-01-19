@@ -30,26 +30,24 @@
         * [author](publications_author.md)
         * [publisher](publications_publisher.md)
         * [journal](publications_journal.md)
+        * [documentLanguage](publications_documentLanguage.md)
         * [mimeType](publications_mimeType.md)
         * [characterEncoding](publications_characterEncoding.md)
-
-
-        
-        
-        
-        * [originalDataProviderType](publications_originalDataProviderType.md)
-        * [documentLanguage](publications_documentLanguage.md)
-        * [originalDataProviderJournal](publications_originalDataProviderJournal.md)
-        * [relatedResource2](publications_relatedResource2.md)
+        * [publicationDate](publications_publicationDate.md)
+        * [subject](publications_subject.md)
         * [keyword](publications_keyword.md)
+        * [collectedFrom repositoryName or repositoryIdentifier](publications_collectedFrom.md)
+        * [sourceMetadataLink](publications_sourceMetadataLink.md)
+        * [originalDataProviderType](publications_originalDataProviderType.md)
+        * [originalDataProviderRepository](publications_originalDataProviderRepository.md)
+        * [originalDataProviderJournal](publications_originalDataProviderJournal.md)
+        * [originalDataProviderPublisher](publications_originalDataProviderPublisher.md)
         * [relationType](publications_relationType.md)
         * [relatedResource1](publications_relatedResource1.md)
-        * [sourceMetadataLink](publications_sourceMetadataLink.md)
-        * [subject](publications_subject.md)
-        * [originalDataProviderPublisher](publications_originalDataProviderPublisher.md)
-        * [originalDataProviderRepository](publications_originalDataProviderRepository.md)
-        * [collectedFrom repositoryName or repositoryIdentifier](publications_collectedFrom.md)
-        * [publicationDate](publications_publicationDate.md)
+        * [relatedResource2](publications_relatedResource2.md)
+        
+        
+        
     * [Metadata for annotated publications](guidelines_for_providers_of_publications/metadata-for-annotated-publications.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
     * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
