@@ -3,10 +3,6 @@
 * [How to share your knowledge resources](how-to-share-your-knowledge-resources.md)
 * [How to make your knowledge resources interoperable](how-to-make-your-knowledge-resources-interoperable.md)
 * [How to document your knowledge resources](how-to-document-your-knowledge-resources.md)
-* [Further requirements for annotated corpora](further-requirements-for-annotated-corpora.md)
-* [​Recommended schema for corpora](recommended_schema_for_corpora.md)
-
-
-
-
+* [Recommended schema for ​lexical/conceptual resources, incl. annotation resources] (recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources.md)
+* [​Recommended schema for models] (recommended-schema-for-models.md)
 

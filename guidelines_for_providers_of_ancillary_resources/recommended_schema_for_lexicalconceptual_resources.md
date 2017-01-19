@@ -1,4 +1,4 @@
-## ​Recommended schema for ​lexical/conceptual resources, incl. annotation resources (tagsets, ontologies, and typesystems) {#recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources-tagsets-ontologies-and-typesystems}
+## ​Recommended s# chema for ​lexical/conceptual resources, incl. annotation resources (tagsets, ontologies, and typesystems) {#recommended-schema-for-lexical-conceptual-resources-incl-annotation-resources-tagsets-ontologies-and-typesystems}
 
 ### Overview {#overview}
 
