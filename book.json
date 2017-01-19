@@ -2,7 +2,7 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "toggle2"
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "toc": {
