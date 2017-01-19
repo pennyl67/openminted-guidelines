@@ -1,3 +1,5 @@
+###How to document your resources {#how-to-document-your-resources}
+
 In the case of publications, the required metadata records come at two levels:
 
 * one for the whole query-generated corpus of publications, in compliance with the OMTD-SHARE schema for corpora, which is automatically constructed on the basis of the user filters and manually enriched by the user;
