@@ -45,7 +45,6 @@
         * [publicationDate](publications_publicationDate.md)
         * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
         * [distributionMedium](publications_distributionMedium.md)
-            * [Overview of publications](guidelines_for_providers_of_publications/overview-of-publications.md)
     * [Metadata for annotated publications](guidelines_for_providers_of_publications/metadata-for-annotated-publications.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
     * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
