@@ -18,6 +18,7 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL) | M when applicable |
 | [distributionMedium](/publications_distributionMedium.md) | M |
 | [downloadURL ](/publications_downloadURL.md)| Μ when applicable |
+| [documentLanguage](/publications_documentLanguage.md) | M |
 | [fullText](/publications_fullText.md) | R |
 | [abstract](/publications_abstract.md) | R |
 | [author](/publications_author.md) | R |
