@@ -23,7 +23,7 @@ Four guidelines are released targeting providers of these resources:
 * [Guidelines for providers of publications](/guidelines_for_providers_of_publications/README.md)
 * [Guidelines for providers of corpora](/guidelines_for_providers_of_corpora/README.md)
 * [Guidelines for providers of software resources](/guidelines_for_providers_of_sw_resources/README.md)
-* [Guidelines for providers of knowledge resources](/guidelines_for_providers_of_ancillary_resources_le/README.md)
+* [Guidelines for providers of knowledge resources](/guidelines_for_providers_of_knowledge_resources/README.md)
 
 The OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-infrastructures and repositories, collecting, transforming and making available **resources only as needed for TDM purposes**. In other words, it is not one more registry of content and services, and it doesn't seek to collect and provide information about resources that might be of interest to TDM stakeholders.
 

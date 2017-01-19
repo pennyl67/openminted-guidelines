@@ -1,1 +1,0 @@
-# Guidelines for providers of ancillary resources (lexica, ontologies, tagsets, annotation schemas, models etc.) {#guidelines-for-providers-of-ancillary-resources-lexica-ontologies-tagsets-annotation-schemas-models-etc}

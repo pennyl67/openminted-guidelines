@@ -90,7 +90,7 @@
             * [relatedResource1](corpora_relatedResource1.md)
             * [relatedResource2](corpora_relatedResource2.md)
         * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md)
-* [Guidelines for providers of ancillary resources \(lexica, ontologies, tagsets, annotation schemas, models etc.\)](guidelines_for_providers_of_ancillary_resources_le/README.md)
+* [Guidelines for providers of knowledge resources](guidelines_for_providers_of_ancillary_resources_le/README.md)
     * [Introduction](guidelines_for_providers_of_ancillary_resources_le/introduction.md)
     * [Instructions for providers of ancillary knowledge resources](guidelines_for_providers_of_ancillary_resources_le/instructions_for_providers_of_ancillary_knowledge_.md)
     * [​Recommended schema for ​lexical\/conceptual resources, incl. annotation resources \(tagsets, ontologies, and typesystems\)](guidelines_for_providers_of_ancillary_resources_le/recommended_schema_for_lexicalconceptual_resources.md)
