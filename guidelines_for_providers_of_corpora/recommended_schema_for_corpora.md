@@ -4,7 +4,7 @@
 
 This section includes a synopsis of the minimal schema for corpora, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements. Additional elements required for the management of the metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
 
-Table 3 - Overview of the recommended OMTD-SHARE schema for corpora
+For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
 | OMTD-SHARE element | Usage |
 | --- | --- |

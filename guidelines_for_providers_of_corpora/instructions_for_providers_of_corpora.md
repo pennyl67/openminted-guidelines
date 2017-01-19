@@ -5,8 +5,6 @@
 * [How to document your resources](how-to-document-your-resources.md)
 * [Further requirements for annotated corpora](further-requirements-for-annotated-corpora.md)
 * [​Recommended schema for corpora](recommended_schema_for_corpora.md)
-* [Metadata schema for annotated corpora](metadata-schema-for-annotated-corpora.md)
-
 
 
 
