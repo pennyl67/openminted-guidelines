@@ -8,24 +8,8 @@ nav{
     font-family: Roboto !important;
 }
 
-table, th, td {
-   border: 1px solid rgb(0, 185, 180);
-}
-
-
-tr:nth-child(even){background-color: rgb(183, 255, 253);}
-
-tr:hover {background-color: rgb(5, 255, 249);}
-
-th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: rgb(0, 185, 180);
-    color: white;
-}
 body{
-    font-family: Roboto !important;
+    font: "Lato" !important;
     text-align: justify;
     text-justify: inter-word;    
 }
@@ -70,4 +54,21 @@ h6 {
 font-family: Roboto;
 font-size: 18pt;
 font-weight: bold;
+}
+
+table, th, td {
+   border: 1px solid rgb(0, 185, 180);
+}
+
+
+tr:nth-child(even){background-color: rgb(183, 255, 253);}
+
+tr:hover {background-color: rgb(5, 255, 249);}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(0, 185, 180);
+    color: white;
 }
