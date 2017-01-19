@@ -48,7 +48,7 @@
     * [Metadata schema for annotated publications](guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md)
         * [annotationLevel](annotations_annotationLevel.md)
         * [annotationStandoff](annotations_annotationStandoff.md)
-        * [mimeType ](annotations_mimeType.md)
+        * [mimeType](annotations_mimeType.md)
         * [dataFormatSpecific](annotations_dataFormatSpecific.md)
         * [documentationURL](annotations_documentationURL.md)        
         * [characterEncoding](annotations_characterEncoding.md)
