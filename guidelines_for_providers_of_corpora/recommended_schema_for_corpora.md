@@ -16,7 +16,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [licence](/corpora_licence.md) or [rightsStmtName](/corpora_rightsStmtName.md) & [rightsStmtURL](/corpora_rightsStmtURL.md) \(one of the two must be provided\) | Μ |
 | [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) | R when applicable |
 | [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Μ when applicable |
-| [version of licence](/corpora_version of licence.md) | Μ |
+| [version of licence](/corpora_version_of_licence.md) | Μ |
 | [distributionMedium](/corpora_distributionMedium.md) | Μ |
 | [downloadURL](/corpora_downloadURL.md) | Μ when applicable |
 | [contactEmail](/corpora_contactEmail.md) or [landingPage](/corpora_landingPage.md) \(one of the two must be provided\) | Μ |

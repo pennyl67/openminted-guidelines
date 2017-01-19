@@ -72,7 +72,7 @@
             * [licence](corpora_licence.md)
             * [rightsStmtName](corpora_rightsStmtName.md)
             * [rightsStmtURL](corpora_rightsStmtURL.md)
-            * [version of licence](corpora_version of licence.md)
+            * [version of licence](corpora_version_of_licence.md)
             * [nonStandardLicenceName](corpora_nonStandardLicenceName.md)
             * [nonStandardLicenceTermsURL](corpora_nonStandardLicenceTermsURL.md)
             * [distributionMedium](corpora_distributionMedium.md)
