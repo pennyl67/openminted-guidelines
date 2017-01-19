@@ -5,8 +5,8 @@ Annotated publications are documented as separate resources with a link to the r
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| publicationIdentifier | M |
-| annotationLevel | M |
+| [publicationIdentifier](\publications_identifier) | M |
+| [annotationLevel](\annotations_annotationLevel) | M |
 | annotationStandoff | R |
 | mimeType | R |
 | dataFormatSpecific | R |

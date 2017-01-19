@@ -45,7 +45,7 @@
         * [relationType](publications_relationType.md)
         * [relatedResource1](publications_relatedResource1.md)
         * [relatedResource2](publications_relatedResource2.md)
-    * [Metadata schema for annotated publications](guidelines_for_providers_of_publications/metadata-for-annotated-publications.md)
+    * [Metadata schema for annotated publications](guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
     * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
     * [Instructions for providers of corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
