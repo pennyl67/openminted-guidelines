@@ -6,7 +6,7 @@ To be fully compatible with OpenMinTeD, you must
 *   include in the metadata record a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource
 *   if you already have a PID for your resource (e.g. a URI or a HANDLE), make sure it is included in the metadata record.
 *   provide linkage between your resource and other resources (domain-specific or generic resources); for links between knowledge resources in the Linked Data paradigm, mapping should be expressed through RDF statements, using relations from [SKOS](https://www.w3.org/2004/02/skos/), together with the following OWL and RDF object properties: owl:sameAs, owl:equivalentClass, owl:equivalentProperty, rdfs:subClassOf, rdfs:subPropertyOf.
-*   version all your resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](/semver.org)[^30].
+*   version all your resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](/semver.org).
 
 The following recommendations contribute to interoperability but are not yet enforced:
 

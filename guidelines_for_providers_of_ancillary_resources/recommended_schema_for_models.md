@@ -1,8 +1,5 @@
 ## ​Recommended schema for models {#recommended-schema-for-models}
 
-### Overview {#overview}
-
-Table 6 - Overview of the recommended OMTD-SHARE schema for models
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
