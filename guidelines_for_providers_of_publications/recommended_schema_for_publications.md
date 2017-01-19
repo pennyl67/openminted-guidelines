@@ -26,7 +26,7 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [publicationDate](/publications_publicationDate.md) | R |
 | [subject ](/publications_subject.md)| R |
 | [keyword ](/publications_keyword.md)| R |
-| [collectedFrom: repositoryName or repositoryIdentifier ](/publications_collectedFrom.md)| R |
+| collectedFrom repositoryName or repositoryIdentifier| R |
 | [sourceMetadataLink ](/publications_sourceMetadataLink.md)| R |
 | [originalDataProviderType ](/publications_originalDataProviderType.md)| R |
 | [originalDataProviderRepository ](/publications_originalDataProviderRepository.md)| R when applicable |
