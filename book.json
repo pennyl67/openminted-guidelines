@@ -2,7 +2,7 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "toggle-chapters"
+        "toggle2"
     ],
     "pluginsConfig": {
         "toc": {
