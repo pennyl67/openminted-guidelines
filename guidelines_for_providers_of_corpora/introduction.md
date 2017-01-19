@@ -6,8 +6,9 @@ Corpora in the OpenMinTeD framework refer mainly to the collections of publicati
 
 Corpora may also come from repositories of language resources, such as META-SHARE and CLARIN, or discipline-specific repositories, in which case they do not have to be composed of scholarly publications. Examples include reference corpora (i.e. corpora deemed representative of general language or a sublanguage usage), news corpora, collections of domain-specific texts, such as manuals, etc. as well as annotated corpora, such as treebanks, morphologically tagged golden corpora etc. These corpora are not targeted as source of mining but can be used for training components (e.g. train a language model) or for evaluating their performance or for ancillary purposes.
 
-To be valid for import into OpenMinTeD, all corpora must be accompanied with a metadata record conformant with the OMTD-SHARE schema<sup><sup id="916464963798167-footnote-ref-19"><a href="#916464963798167-footnote-19">[19]</a></sup></sup>, and a file with the contents must be uploaded or made accessible for uploading.
+To be valid for import into OpenMinTeD, all corpora must be accompanied with a metadata record conformant with the OMTD-SHARE schema, and a file with the contents must be uploaded or made accessible for uploading.
 
-The following sections present a list of requirements and recommendations that corpora must meet to interact with TDM resources. **Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.**
+The following sections present a list of requirements and recommendations that corpora must meet to interact with TDM resources. 
 
-[^19]: The full OMTD-SHARE schema is documented at:
+{% blurb style='tip', title='Come back for updates!' %}
+Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.{% endblurb %}
