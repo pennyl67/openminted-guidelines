@@ -1,9 +1,9 @@
 # Guidelines for providers of publications {#guidelines-for-providers-of-publications}
 
-test for table of contents with etoc
 
-
-<!-- toc -->
-
+* Introduction
+* Instructions for publishers
+* Instructions for aggregators
+* Recommended schema for publications
 
 

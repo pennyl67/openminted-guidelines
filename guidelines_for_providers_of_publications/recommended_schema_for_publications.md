@@ -6,31 +6,31 @@ This section includes the overview of the recommended OMTD-SHARE schema for publ
 | --- | --- |
 | [documentType](/publications_documentType.md) | M |
 | [publicationType](/publications_publicationType.md) | M |
-| identifier | M |
-| title | M |
-| distributionMedium | M |
-| licence or [rightsStmtName &amp; rightsStmtURL] (one of the two must be provided) | M |
-| (licence) version | Μ |
-| downloadURL | Μ when applicable |
-| fullText | R |
+| [identifier](/publications_identifier.md) | M |
+| [title](/publications_title.md) | M |
+| [distributionMedium](/publications_distributionMedium.md) | M |
+| [licence](/publications_licence.md) or [[rightsStmtName](/publications_rightsStmtName.md) &amp; [rightsStmtURL](/publications_rightsStmtURL.md)] (one of the two must be provided) | M |
+| [(licence) version](/publications_version of licence.md) | Μ |
+| [downloadURL ](/publications_downloadURL.md)| Μ when applicable |
+| [fullText](/publications_fullText.md) | R |
 | [abstract](/publications_abstract.md) | R |
-| author | R |
-| publisher | R |
-| journal | R |
-| mimeType | R |
-| characterEncoding | R |
-| publicationDate | R |
-| subject | R |
-| keyword | R |
-| collectedFrom: repositoryName or repositoryIdentifier | R |
-| sourceMetadataLink | R |
-| originalDataProviderType | R |
-| originalDataProviderRepository | R when applicable |
-| originalDataProviderJournal | R when applicable |
-| originalDataProviderPublisher | R when applicable |
-| relationType | R |
-| relatedResource1 | R |
-| relatedResource2 |  |
+| [author](/publications_author.md) | R |
+| [publisher](/publications_publisher.md) | R |
+| [journal](/publications_journal.md) | R |
+| [mimeType](/publications_mimeType.md) | R |
+| [characterEncoding](/publications_characterEncoding.md) | R |
+| [publicationDate](/publications_publicationDate.md) | R |
+| [subject ](/publications_subject.md)| R |
+| [keyword ](/publications_keyword.md)| R |
+| [collectedFrom: repositoryName or repositoryIdentifier ](/publications_collectedFrom repositoryName or repositoryIdentifier.md)| R |
+| [sourceMetadataLink ](/publications_sourceMetadataLink.md)| R |
+| [originalDataProviderType ](/publications_originalDataProviderType.md)| R |
+| [originalDataProviderRepository ](/publications_originalDataProviderRepository.md)| R when applicable |
+| [originalDataProviderJournal ](/publications_originalDataProviderJournal.md)| R when applicable |
+| [originalDataProviderPublisher ](/publications_originalDataProviderPublisher.md)| R when applicable |
+| [relationType ](/publications_relationType.md)| R |
+| [relatedResource1 ](/publications_relatedResource1.md)| R |
+| [relatedResource2 ](/publications_relatedResource2.md)|  |
 
 
 

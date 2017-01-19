@@ -25,7 +25,7 @@ In the case of publications, the required metadata records come at two levels:
 *   one for the whole query-generated corpus of publications, in compliance with the OMTD-SHARE schema for corpora, which is automatically constructed on the basis of the user filters and manually enriched by the user;
 *   one per publication, with a minimal set of metadata elements in compliance with the OMTD-SHARE schema for publications, automatically converted from the current schemas of the providers.
 
-It should be noted that the resource providers do not have to change their current schemas<sup><sup id="916464963798167-footnote-ref-16"><a href="#916464963798167-footnote-16">[16]</a></sup></sup>; mappings and conversions between OpenAIRE/CORE and the OMTD-SHARE schema are made in the framework of OpenMinTeD<sup><sup id="916464963798167-footnote-ref-17"><a href="#916464963798167-footnote-17">[17]</a></sup></sup>.
+It should be noted that the resource providers do not have to change their current schemas<sup id="916464963798167-footnote-ref-16"><a href="#916464963798167-footnote-1">[1]</a></sup>; mappings and conversions between OpenAIRE/CORE and the OMTD-SHARE schema are made in the framework of OpenMinTeD
 
 All metadata records for publications must be delivered in XML format.
 
@@ -40,6 +40,4 @@ In these cases, the annotated output is considered a new resource and, therefore
 
 It should be noted that publications annotated by means of the OpenMinTeD platform will be automatically assigned the appropriate values for these elements.
 
-[^16]: The OpenAIRE schema and guidelines are currently under revision; collaboration with the relevant actors has been established to take into account the new features and, where desired, influence the changes so as to support TDM processes in accordance to the interoperability requirements.
-
-[^17]: Mappings with other metadata schemas, including OpenAIRE and CORE, are included in _Appendix D - Detailed presentation of the recommended metadata elements for publications_
+[^1]: The OpenAIRE schema and guidelines are currently under revision; collaboration with the relevant actors has been established to take into account the new features and, where desired, influence the changes so as to support TDM processes in accordance to the interoperability requirements.
