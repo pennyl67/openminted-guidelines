@@ -54,6 +54,7 @@
     * [How to document your resources](guidelines_for_providers_of_corpora/how-to-document-your-resources.md)
     * [Further requirements for annotated corpora](guidelines_for_providers_of_corpora/further-requirements-for-annotated-corpora.md)
     * [​Recommended schema for corpora](guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md)
+    * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md)
 * [Guidelines for providers of ancillary resources \(lexica, ontologies, tagsets, annotation schemas, models etc.\)](guidelines_for_providers_of_ancillary_resources_le/README.md)
     * [Introduction](guidelines_for_providers_of_ancillary_resources_le/introduction.md)
     * [Instructions for providers of ancillary knowledge resources](guidelines_for_providers_of_ancillary_resources_le/instructions_for_providers_of_ancillary_knowledge_.md)
