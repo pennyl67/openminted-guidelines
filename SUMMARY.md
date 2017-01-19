@@ -11,6 +11,7 @@
     * [​Instructions for aggregators](guidelines_for_providers_of_publications/instructions_for_openaire_and_core.md)
         * [How to share your resources](guidelines_for_providers_of_publications/how-to-share-your-resources.md)
         * [How to document your resources](guidelines_for_providers_of_publications/how-to-document-your-resources.md)
+        * [Further requirements for annotated publications](guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md)
     * [​Recommended schema for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
         * [documentType](publications_documentType.md)
         * [originalDataProviderType](publications_originalDataProviderType.md)
