@@ -89,7 +89,7 @@
             * [relationType](corpora_relationType.md)
             * [relatedResource1](corpora_relatedResource1.md)
             * [relatedResource2](corpora_relatedResource2.md)
-        * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md)
+        * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md) 
 * [Guidelines for providers of knowledge resources](guidelines_for_providers_of_ancillary_resources/README.md)
     * [Introduction](guidelines_for_providers_of_ancillary_resources/introduction.md)
     * [Instructions for providers of ancillary knowledge resources](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge_.md)
