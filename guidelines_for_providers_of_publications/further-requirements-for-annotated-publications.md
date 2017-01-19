@@ -7,6 +7,6 @@ However, certain providers may decide to run the TDM or annotation software at t
 
 In these cases, the annotated output is considered a new resource and, therefore, should be uploaded
 * as a separate resource from the raw publication in a folder called "annotated files"
-* with its own metadata record, following the [instructions for annotated publications](/guidelines_for_providers_of_publications/metadata-for-annotated-publications.md).
+* with its own metadata record, following the [instructions for annotated publications](/guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md).
 
 It should be noted that publications annotated by means of the OpenMinTeD platform will be automatically assigned the appropriate values for these elements.
