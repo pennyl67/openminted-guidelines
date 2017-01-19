@@ -5,7 +5,7 @@
 }
 
 nav{
-    font: Lato !important;
+    font: "Lato" !important;
 }
 
 table, th, td {
@@ -25,7 +25,7 @@ th {
     color: white;
 }
 body{
-    font: Lato !important;
+    font: "Lato" !important;
     text-align: justify;
     text-justify: inter-word;    
 }
@@ -38,35 +38,35 @@ font-weight: normal;
 }
 
 h2 {
-font-family: Lato;
+font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 30pt !important;
 font-weight: normal;
 }
 
 h3 {
-font-family: Lato;
+font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 24pt !important;
 font-weight: normal;
 }
 
 h4 {
-font-family: Lato;
+font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 24pt;
 font-weight: normal;
 }
 
 h5 {
-font-family: Lato;
+font-family: Roboto;
 font-size: 24pt;
 font-style: italic;
 font-weight: bold;
 }
 
 h6 {
-font-family: Lato;
+font-family: Roboto;
 font-size: 18pt;
 font-weight: bold;
 }
