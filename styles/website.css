@@ -5,7 +5,7 @@
 }
 
 nav{
-    font: "Lato" !important;
+    font-family: Roboto !important;
 }
 
 table, th, td {
@@ -25,7 +25,7 @@ th {
     color: white;
 }
 body{
-    font: "Lato" !important;
+    font-family: Roboto !important;
     text-align: justify;
     text-justify: inter-word;    
 }
