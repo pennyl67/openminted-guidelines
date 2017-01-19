@@ -13,12 +13,6 @@ Corpora can be registered in the OpenMinTeD platform
 
 It should be noted that corpora annotated by means of the OpenMinTeD platform will be automatically assigned the appropriate values for these elements.
 
-[^20]: https://jats.nlm.nih.gov/index.html
-
-[^21]: http://www.tei-c.org/Guidelines/P5/
-
-[^22]: 
-
 [^23]: For citation, OpenMinTeD endorses the
 
 [^24]: Medical Subject Headings (https://www.nlm.nih.gov/mesh/)
