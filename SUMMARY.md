@@ -103,7 +103,7 @@
         * [Metadata schema for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md) 
 * [Guidelines for providers of knowledge resources](guidelines_for_providers_of_ancillary_resources/README.md)
     * [Introduction](guidelines_for_providers_of_ancillary_resources/introduction.md)
-    * [Instructions for providers of ancillary knowledge resources](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge_.md)
+    * [Instructions for providers of ancillary knowledge resources](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge.md)
     * [​Recommended schema for ​lexical\/conceptual resources, incl. annotation resources \(tagsets, ontologies, and typesystems\)](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_lexicalconceptual_resources.md)
     * [​Recommended schema for models](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_models.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
