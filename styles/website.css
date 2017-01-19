@@ -1,11 +1,11 @@
 /* CSS for website */
 
 .book.font-family-1 {
-    font-family: "Roboto";
+    font-family: "Lato" !important;
 }
 
 nav{
-    font-family: Roboto !important;
+    font-family: Lato !important;
 }
 
 table, th, td {
@@ -25,13 +25,13 @@ th {
     color: white;
 }
 body{
-    font-family: Roboto !important;
+    font-family: Lato !important;
     text-align: justify;
     text-justify: inter-word;    
 }
 
 h1 {
-font-family: Ubuntu;
+font-family: Lato;
 color: rgb(0, 191, 195);
 font-size: 36pt !important;
 font-weight: normal;
@@ -45,28 +45,28 @@ font-weight: normal;
 }
 
 h3 {
-font-family: Roboto;
+font-family: Lato;
 color: rgb(0, 191, 195);
 font-size: 24pt !important;
 font-weight: normal;
 }
 
 h4 {
-font-family: Roboto;
+font-family: Lato;
 color: rgb(0, 191, 195);
 font-size: 24pt;
 font-weight: normal;
 }
 
 h5 {
-font-family: Roboto;
+font-family: Lato;
 font-size: 24pt;
 font-style: italic;
 font-weight: bold;
 }
 
 h6 {
-font-family: Roboto;
+font-family: Lato;
 font-size: 18pt;
 font-weight: bold;
 }
