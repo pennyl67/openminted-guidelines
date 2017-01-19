@@ -2,8 +2,7 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "collapsible-menu",
-        "etoc"
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "toc": {
