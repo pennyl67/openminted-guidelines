@@ -2,22 +2,18 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "collapsible-menu"
+        "collapsible-menu",
+        "layout"
     ],
     "pluginsConfig": {
-        "toc": {
-            "addClass": true,
-            "className": "toc"
-        },
         "fontsettings": {
             "theme": "white",
             "family": "sans",
             "size": 3
         },
-        "etoc": {
-            "mindepth": 2,
-            "maxdepth": 5,
-            "notoc": false
-        }
+        "layout": {
+            "headerPath" : "assets/header.html",
+            "footerPath" : "assets/footer.html"
+        }        
     }
 }
