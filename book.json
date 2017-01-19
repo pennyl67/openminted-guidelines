@@ -1,8 +1,8 @@
 {
     "plugins": [
-        "fontsettings",
-        "collapsible-menu",
-        "blurbs"
+        "-fontsettings",
+        "blurbs",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "toc": {
