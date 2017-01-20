@@ -1,0 +1,8 @@
+### How to make your components interoperable {#how-to-make-your-components-interoperable}
+
+In addition, if you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your s/w resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
+
+*   Please, keep separate ancillary knowledge resources, e.g. models, annotation resources, etc. from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in **_[Guidelines for providers of ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md)_**. If you want to refer to these resources from the s/w metadata record, please use the resource identifier for the linking.
+*   To ensure that provided s/w components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component. E.g. a component that counts all tokens in a corpus cannot be trivially scaled.
+*   In addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors; further instructions for deploying UIMA components in Argo are found in Appendix E.
+
