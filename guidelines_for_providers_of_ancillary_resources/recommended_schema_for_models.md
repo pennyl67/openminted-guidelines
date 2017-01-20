@@ -28,5 +28,4 @@
 | [multilingualityType](\models_multilingualityType.md) | M when applicable  |
 | [language](\models_language.md) | M  |
 | [size](\models_size.md) | M  |
-| [relationType](\models_relationType.md) = isCompatibleWith (external relation between models and components that can use them)](\models_relationType = isCompatibleWith (external relation between models and components that can use them).md) | R  |
-| relationType = isCompatibleWith (external relation between models and components that can use them) | R |
+| [relationType](\models_relationType.md) = isCompatibleWith \(external relation between models and components that can use them\) | R  |
