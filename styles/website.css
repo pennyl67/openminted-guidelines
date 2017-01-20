@@ -73,13 +73,3 @@ th {
     color: white;
 }
 
-tip {
-    border: 2px solid rgb(1, 75, 179);
-    border-radius: 10px;
-    padding: 10px;
-}
-
-element.style {
-    border: 10px solid rgb(1, 75, 179);
-    padding: 10px;
-}
