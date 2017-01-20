@@ -10,7 +10,7 @@
 | [version](\models_version.md) | M  |
 | [distributionMedium](\models_distributionMedium.md) | M  |
 | [licence](\models_licence.md) or [rightsStmtName](\models_rightsStmtName.md) &amp; [rightsStmtURL](\models_rightsStmtURL.md) \(one of the two must be provided\)  | M  |
-| [version of licence](\models_version_of_licence|.md) | M  |
+| [version of licence](\models_version_of_licence.md) | M  |
 | [distributionMedium](\models_distributionMedium.md) | M  |
 | [downloadURL](\models_downloadURL.md) | M when applicable  |
 | [contactEmail](\models_contactEmail.md) or [landingPage](\models_landingPage.md) \(one of the two must be provided\) | M  |
