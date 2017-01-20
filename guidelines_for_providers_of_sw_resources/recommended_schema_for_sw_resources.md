@@ -12,7 +12,7 @@ This section includes a synopsis of the recommended schema for s/w resources, i.
 | [componentDistributionMedium](/components_componentDistributionMedium.md) | M | 
 | [componentType](/components_componentType.md) | M | 
 | [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) &amp; [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M | 
-| [version of licence](version_of_licence.md) | M | 
+| [version of licence](/components_version_of_licence.md) | M | 
 | [contactEmail](/components_contactEmail.md) or [landingPage](/components_landingPage.md) \(one of the two must be provided\) | M | 
 | [contactPerson](/components_contactPerson.md) \(identifier or personName\) | R | 
 | [contactGroup](/components_contactGroup.md) \(identifier or organizationName\) | R | 
