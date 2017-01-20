@@ -8,32 +8,32 @@ This section includes a synopsis of the recommended schema for s/w resources, i.
 | [resourceName](/components_resourceName.md) | M | 
 | [description](/components_description.md) | M | 
 | [identifier](/components_identifier.md) | M | 
-| [version](version.md) | M | 
-| [componentDistributionMedium](componentDistributionMedium.md) | M | 
-| [componentType](componentType.md) | M | 
-| [licence](licence.md) or [rightsStmtName](rightsStmtName.md) &amp; [rightsStmtURL](rightsStmtURL.md) \(one of the two must be provided\) | M | 
+| [version](/components_version.md) | M | 
+| [componentDistributionMedium](/components_componentDistributionMedium.md) | M | 
+| [componentType](/components_componentType.md) | M | 
+| [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) &amp; [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M | 
 | [version of licence](version_of_licence.md) | M | 
-| [contactEmail](contactEmail.md) or [landingPage](landingPage.md) \(one of the two must be provided\) | M | 
-| [contactPerson](contactPerson.md) \(identifier or personName\) | R | 
-| [contactGroup](contactGroup.md) \(identifier or organizationName\) | R | 
-| [mailingList](mailingList.md) \(mailingListName, subscribe, unsubscribe, post, archive, otherArchive\) | R | 
-| [issueTracker](issueTracker.md) | R | 
-| [onlineHelpURL](onlineHelpURL.md) | R | 
-| [mustBeCitedWith](mustBeCitedWith.md) | R | 
-| [downloadURL](downloadURL.md) or [accessURL](accessURL.md) \(one of the two should be provided\) | M when applicable | 
-| [resourceCreator](resourceCreator.md) \(person or organization, described with identifier or name\) | R | 
-| [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable | 
-| [resourceType inside inputContentResourceInfo or outputResourceInfo](resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [language inside inputContentResourceInfo or outputResourceInfo](language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [characterEncoding inside inputContentResourceInfo or outputResourceInfo](characterEncoding_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [mimeType inside inputContentResourceInfo or outputResourceInfo](mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [typesystem inside inputContentResourceInfo or outputResourceInfo](typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [tagset inside inputContentResourceInfo or outputResourceInfo](tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [annotationLevel inside inputContentResourceInfo or outputResourceInfo](annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [typesystem](components_typesystem_inside_componentDependencies.md) | R | 
-| [tagset](components_tagset_inside_componentDependencies.md) | R | 
-| [annotationResource](components_annotationResource_inside_componentDependencies.md) | R | 
-| [framework](framework.md) | R | 
-| [for parameters: parameterName, description, parameterType, mandatory, multiValue](for parameters: parameterName, description, parameterType, mandatory, multiValue.md) | M when applicable | 
-| [relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component)](relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component).md) | R | 
+| [contactEmail](/components_contactEmail.md) or [landingPage](/components_landingPage.md) \(one of the two must be provided\) | M | 
+| [contactPerson](/components_contactPerson.md) \(identifier or personName\) | R | 
+| [contactGroup](/components_contactGroup.md) \(identifier or organizationName\) | R | 
+| [mailingList](/components_mailingList.md) \(mailingListName, subscribe, unsubscribe, post, archive, otherArchive\) | R | 
+| [issueTracker](/components_issueTracker.md) | R | 
+| [onlineHelpURL](/components_onlineHelpURL.md) | R | 
+| [mustBeCitedWith](/components_mustBeCitedWith.md) | R | 
+| [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) \(one of the two should be provided\) | M when applicable | 
+| [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | R | 
+| [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](/components_mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable | 
+| [resourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [language inside inputContentResourceInfo or outputResourceInfo](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [characterEncoding inside inputContentResourceInfo or outputResourceInfo](/components_characterEncoding_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [mimeType inside inputContentResourceInfo or outputResourceInfo](/components_mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [typesystem inside inputContentResourceInfo or outputResourceInfo](/components_typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [tagset inside inputContentResourceInfo or outputResourceInfo](/components_tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [annotationLevel inside inputContentResourceInfo or outputResourceInfo](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [typesystem](/components_typesystem_inside_componentDependencies.md) | R | 
+| [tagset](/components_tagset_inside_componentDependencies.md) | R | 
+| [annotationResource](/components_annotationResource_inside_componentDependencies.md) | R | 
+| [framework](/components_framework.md) | R | 
+| for parameters: parameterName, description, parameterType, mandatory, multiValue | M when applicable | 
+| [relationType](/compoments_relationType.md) =isCompatibleWith \(external relation; link to models, annotation resources etc. that can be used with the component\) | R | 
