@@ -22,4 +22,4 @@ Further recommendations that contribute to interoperability include the followin
 
 *********************
 
-[^1]: For citation, OpenMinTeD endorses the
+[^1] For citation, OpenMinTeD endorses the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final), as well as the more specialised [RDA recommendations for data citation of evolving data](https://www.rd-alliance.org/system/files/RDA-DC-Recommendations_151020.pdf) and [DataCite guidelines](https://www.datacite.org/cite-your-data.html).
