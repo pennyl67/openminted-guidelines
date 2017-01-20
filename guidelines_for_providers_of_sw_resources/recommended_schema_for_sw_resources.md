@@ -4,10 +4,10 @@ This section includes a synopsis of the recommended schema for s/w resources, i.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [resourceType](resourceType.md) | M | 
-| [resourceName](resourceName.md) | M | 
-| [description](description.md) | M | 
-| [identifier](identifier.md) | M | 
+| [resourceType](/components_resourceType.md) | M | 
+| [resourceName](/components_resourceName.md) | M | 
+| [description](/components_description.md) | M | 
+| [identifier](/components_identifier.md) | M | 
 | [version](version.md) | M | 
 | [componentDistributionMedium](componentDistributionMedium.md) | M | 
 | [componentType](componentType.md) | M | 
