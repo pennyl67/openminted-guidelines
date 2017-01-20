@@ -1,4 +1,4 @@
-### ****Documentation/Metadata requirements**** {#documentation-metadata-requirements}
+### How to document your web services or applications {#how-to-document-your-web-services-or-applications}
 
 To be fully compatible with OpenMinTeD, you must
 

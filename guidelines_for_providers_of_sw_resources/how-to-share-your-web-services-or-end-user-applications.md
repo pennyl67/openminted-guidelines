@@ -1,4 +1,4 @@
-###How to share your web services or end-user applications {#how-to-share-your-web-services-or-end-user-applications.md}
+###How to share your web services or end-user applications {#how-to-share-your-web-services-or-end-user-applications}
 
 S/w resources can be uploaded by registered users as decided in the OpenMinTeD Policies.
 
