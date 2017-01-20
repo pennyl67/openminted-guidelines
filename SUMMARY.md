@@ -187,4 +187,5 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
 * How to contribute
+* [How to share your components](how-to-share-your-components.md)
 
