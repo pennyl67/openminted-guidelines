@@ -27,8 +27,6 @@
 | [mimeType](\lcr_mimeType.md) | R | 
 | [characterEncoding](\lcr_characterEncoding.md) | R | 
 | [domain](\lcr_domain.md) | R | 
-| [collectedFrom repositoryName or repositoryIdentifier](\lcr_collectedFrom.md) \(with attribute\) | R | 
-| [sourceMetadataLink](\lcr_sourceMetadataLink.md) | R | 
 | [relationType](\lcr_relationType.md) | R | 
 | [relatedResource1](\lcr_relatedResource1.md) | R | 
 | [relatedResource2](\lcr_relatedResource2.md) | R | 
