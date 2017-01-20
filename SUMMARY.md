@@ -184,9 +184,9 @@
         * [How to share your components](how-to-share-your-components.md)
         * [How to make your components interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
         * [How to document your components](guidelines_for_providers_of_sw_resources/how-to-document-your-components.md)
+        * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
     * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
     * [Recommended schema for s\/w resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
-    * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
 * Recommended controlled vocabularies
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records

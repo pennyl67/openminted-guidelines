@@ -1,4 +1,4 @@
-## Appendix - Guide for deploying UIMA components in the Argo platform {#appendix-guide-for-deploying-uima-components-in-the-argo-platform}
+## Guide for deploying UIMA components in the Argo platform {#guide-for-deploying-uima-components-in-the-argo-platform}
 
 Argo is able to use standard Java UIMA components, however they must be first packaged as UIMA PEAR (Processing Engine ARchive) files before they can be deployed within the Argo platform.
 
