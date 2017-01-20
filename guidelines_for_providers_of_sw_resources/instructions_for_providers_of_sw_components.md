@@ -68,9 +68,7 @@ Further recommendations that contribute to interoperability include the followin
 *   Make sure that you fill in the metadata record all the elements required for citing your resource<sup><sup id="916464963798167-footnote-ref-41"><a href="#916464963798167-footnote-41">[41]</a></sup></sup>, i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor of
 *   In all cases, where linking to other resources or entities (e.g. persons, projects etc.), please try to do this through unique and persistent identifiers of authority lists and sources, to the extent possible, documenting also the authority and/or scheme it adheres to.
 
-[^37]: Details of GATE descriptors can be found at
 
-[^38]: Mappings between the OMTD-SHARE and the Maven, UIMA/uimaFIT and CREOLE descriptors are included in _Section 5.2.2.3 – Recommended schema for s/w resources - Detailed presentation_
 
 [^39]: ISOcat has redently moved to the
 

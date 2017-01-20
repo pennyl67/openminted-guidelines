@@ -181,11 +181,11 @@
         * [How to make your web services or applications interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-web-services-or-applications-interoperable.md)
         * [How to document your web services or applications](guidelines_for_providers_of_sw_resources/how-to-document-your-web-services-or-applications.md)
     * [Instructions for providers of s\/w components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
+    * [How to share your components](how-to-share-your-components.md)
     * [Recommended schema for s\/w resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
 * Recommended controlled vocabularies
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
 * How to contribute
-* [How to share your components](how-to-share-your-components.md)
 
