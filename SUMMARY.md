@@ -177,7 +177,7 @@
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
     * [Introduction](guidelines_for_providers_of_sw_resources/introduction.md)
     * [​Instructions for providers of web services and end-user applications](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_web_services_and_end.md)
-    * How to share your web services or end-user applications
+    * [How to share your web services or end-user applications](guidelines_for_providers_of_sw_resources/how-to-share-your-web-services-or-end-user-applications.md)
     * [Instructions for providers of s\/w components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
     * [Recommended schema for s\/w resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
@@ -185,5 +185,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
 * How to contribute
-* How to share your web services or end-user applications
 
