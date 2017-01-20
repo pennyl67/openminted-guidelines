@@ -1,13 +1,5 @@
 ## ​Instructions for providers of web services and end-user applications {#instructions-for-providers-of-web-services-and-end-user-applications}
 
-### Packaging and uploading procedures {#packaging-and-uploading-procedures}
-
-S/w resources can be uploaded by registered users as decided in the OpenMinTeD Policies.
-
-The recommended way of providing **_web services_ **is through Docker repositories according to the following instructions:
-
-*   Submit the appropriate URL link or image id.
-
 ### Technical requirements {#technical-requirements}
 
 In addition, if you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your s/w resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.

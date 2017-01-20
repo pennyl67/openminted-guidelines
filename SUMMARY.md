@@ -107,7 +107,7 @@
         * [How to share your knowledge resources](guidelines_for_providers_of_ancillary_resources/how-to-share-your-knowledge-resources.md)
         * [How to make your knowledge resources interoperable](guidelines_for_providers_of_ancillary_resources/how-to-make-your-knowledge-resources-interoperable.md)
         * [How to document your knowledge resources](guidelines_for_providers_of_ancillary_resources/how-to-document-your-knowledge-resources.md)
-        * [​Recommended schema for ​lexical/conceptual resources, incl. annotation resources](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_lexicalconceptual_resources.md)
+        * [​Recommended schema for ​lexical\/conceptual resources, incl. annotation resources](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_lexicalconceptual_resources.md)
             * [resourceType](lcr_resourceType.md)
             * [resourceName](lcr_resourceName.md)
             * [description](lcr_description.md)
@@ -123,8 +123,8 @@
             * [accessURL](lcr_accessURL.md)
             * [contactEmail](lcr_contactEmail.md)
             * [landingPage](lcr_landingPage.md)
-            * [contactPerson (identifier or personName)](lcr_contactPerson.md)
-            * [contactGroup (identifier or organizationName)](lcr_contactGroup.md)
+            * [contactPerson \(identifier or personName\)](lcr_contactPerson.md)
+            * [contactGroup \(identifier or organizationName\)](lcr_contactGroup.md)
             * [mustBeCitedWith](lcr_mustBeCitedWith.md)
             * [lexicalConceptualResourceType](lcr_lexicalConceptualResourceType.md)
             * [encodingLevel](lcr_encodingLevel.md)
@@ -156,14 +156,14 @@
             * [downloadURL](models_downloadURL.md)
             * [contactEmail](models_contactEmail.md)
             * [landingPage](models_landingPage.md)
-            * [contactPerson (identifier or personName)](models_contactPerson.md)
-            * [contactGroup (identifier or organizationName)](models_contactGroup.md)
+            * [contactPerson \(identifier or personName\)](models_contactPerson.md)
+            * [contactGroup \(identifier or organizationName\)](models_contactGroup.md)
             * [mustBeCitedWith](models_mustBeCitedWith.md)
-            * [resourceCreator (person or organization, described with identifier or name)](models_resourceCreator.md)
+            * [resourceCreator \(person or organization, described with identifier or name\)](models_resourceCreator.md)
             * [variantName](models_variantName.md)
             * [tagset](models_tagset.md)
             * [typesystem](models_typesystem.md)
-            * [algorithm](models_algorithm.md)            
+            * [algorithm](models_algorithm.md)
             * [trainingCorpusDetails](models_trainingCorpusDetails.md)
             * [mediaType](models_mediaType.md)
             * [lingualityType](models_lingualityType.md)
@@ -177,6 +177,7 @@
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
     * [Introduction](guidelines_for_providers_of_sw_resources/introduction.md)
     * [​Instructions for providers of web services and end-user applications](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_web_services_and_end.md)
+    * How to share your web services or end-user applications
     * [Instructions for providers of s\/w components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
     * [Recommended schema for s\/w resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [Appendix - Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/appendix_-_guide_for_deploying_uima_components_in_.md)
@@ -184,5 +185,5 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * Example metadata records
 * How to contribute
-* [Glossary](GLOSSARY.md)
+* How to share your web services or end-user applications
 
