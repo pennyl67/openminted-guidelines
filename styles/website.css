@@ -19,6 +19,7 @@ font-family: Roboto;
 color: rgb(1, 75, 179);
 font-size: 36pt !important;
 font-weight: normal;
+text-align: left !important;
 }
 
 h2 {
@@ -26,6 +27,7 @@ font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 30pt !important;
 font-weight: normal;
+text-align: left !important;
 }
 
 h3 {
@@ -33,6 +35,7 @@ font-family: Roboto;
 color: rgb(0, 191, 195);
 font-size: 24pt !important;
 font-weight: normal;
+text-align: left !important;
 }
 
 h4 {
@@ -40,6 +43,7 @@ font-family: Roboto;
 color: rgb(1, 75, 179);
 font-size: 24pt;
 font-weight: normal;
+text-align: left !important;
 }
 
 h5 {
@@ -48,6 +52,7 @@ font-size: 24pt;
 color: rgb(0, 191, 195);
 font-style: italic;
 font-weight: bold;
+text-align: left !important;
 }
 
 h6 {
