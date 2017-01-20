@@ -4,40 +4,36 @@ This section includes a synopsis of the recommended schema for s/w resources, i.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| resourceType | M |
-| resourceName | M |
-| description | M |
-| identifier | M |
-| version | M |
-| componentDistributionMedium | M |
-| componentType | M |
-| licence or rightsStmtName &amp; rightsStmtURL (one of the two must be provided) | M |
-| (licence) version | M |
-| contactEmail or landingPage (one of the two must be provided) | M |
-| contactPerson (identifier or personName) | R |
-| contactGroup (identifier or organizationName) | R |
-| mailingList (mailingListName, subscribe, unsubscribe, post, archive, otherArchive) | R |
-| issueTracker | R |
-| onlineHelpURL | R |
-| mustBeCitedWith | R |
-| downloadURL or accessURL (one of the two should be provided) | M when applicable |
-| resourceCreator (person or organization, described with identifier or name) | R |
-| inputContentResourceInfo or outputContentResourceInfo/mediaType (i.e. mediaType of input and output resource) | M when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/resourceType | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/language | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/characterEncoding | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/mimeType | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/dataFormatSpecific | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/typesystem | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/tagset | R when applicable |
-| inputContentResourceInfo or outputContentResourceInfo/annotationLevel | R when applicable |
-| typesystem | R |
-| tagset | R |
-| annotationResource | R |
-| framework | R |
-| for parameters: parameterName, description, parameterType, mandatory, multiValue | M when applicable |
-| collectedFrom : repositoryName or repositoryIdentifier (with attribute) | R |
-| sourceMetadataLink | R |
-| relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component) | R |
-
-[^42]: The full OMTD-SHARE schema is documented at:
+| [resourceType](resourceType.md) | M | 
+| [resourceName](resourceName.md) | M | 
+| [description](description.md) | M | 
+| [identifier](identifier.md) | M | 
+| [version](version.md) | M | 
+| [componentDistributionMedium](componentDistributionMedium.md) | M | 
+| [componentType](componentType.md) | M | 
+| [licence](licence.md) or [rightsStmtName](rightsStmtName.md) &amp; [rightsStmtURL](rightsStmtURL.md) \(one of the two must be provided\) | M | 
+| [version of licence](version_of_licence.md) | M | 
+| [contactEmail](contactEmail.md) or [landingPage](landingPage.md) \(one of the two must be provided\) | M | 
+| [contactPerson](contactPerson.md) \(identifier or personName\) | R | 
+| [contactGroup](contactGroup.md) \(identifier or organizationName\) | R | 
+| [mailingList](mailingList.md) \(mailingListName, subscribe, unsubscribe, post, archive, otherArchive\) | R | 
+| [issueTracker](issueTracker.md) | R | 
+| [onlineHelpURL](onlineHelpURL.md) | R | 
+| [mustBeCitedWith](mustBeCitedWith.md) | R | 
+| [downloadURL](downloadURL.md) or [accessURL](accessURL.md) \(one of the two should be provided\) | M when applicable | 
+| [resourceCreator](resourceCreator.md) \(person or organization, described with identifier or name\) | R | 
+| [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable | 
+| [resourceType inside inputContentResourceInfo or outputResourceInfo](resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [language inside inputContentResourceInfo or outputResourceInfo](language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [characterEncoding inside inputContentResourceInfo or outputResourceInfo](characterEncoding_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [mimeType inside inputContentResourceInfo or outputResourceInfo](mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [inputContentResourceInfo or outputContentResourceInfo/typesystem](inputContentResourceInfo or outputContentResourceInfo/typesystem.md) | R when applicable | 
+| [inputContentResourceInfo or outputContentResourceInfo/tagset](inputContentResourceInfo or outputContentResourceInfo/tagset.md) | R when applicable | 
+| [inputContentResourceInfo or outputContentResourceInfo/annotationLevel](inputContentResourceInfo or outputContentResourceInfo/annotationLevel.md) | R when applicable | 
+| [typesystem](typesystem.md) | R | 
+| [tagset](tagset.md) | R | 
+| [annotationResource](annotationResource.md) | R | 
+| [framework](framework.md) | R | 
+| [for parameters: parameterName, description, parameterType, mandatory, multiValue](for parameters: parameterName, description, parameterType, mandatory, multiValue.md) | M when applicable | 
+| [relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component)](relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component).md) | R | 
