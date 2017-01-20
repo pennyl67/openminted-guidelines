@@ -2,9 +2,7 @@
 
 ### Overview {#overview}
 
-This section includes a synopsis of the recommended schema<sup><sup id="916464963798167-footnote-ref-42"><a href="#916464963798167-footnote-42">[42]</a></sup></sup> for s/w resources, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
-
-Table 7 - Overview of the recommended OMTD-SHARE schema for s/w resources
+This section includes a synopsis of the recommended schema for s/w resources, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
