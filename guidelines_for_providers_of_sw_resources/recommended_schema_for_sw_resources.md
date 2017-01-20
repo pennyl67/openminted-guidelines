@@ -28,12 +28,12 @@ This section includes a synopsis of the recommended schema for s/w resources, i.
 | [characterEncoding inside inputContentResourceInfo or outputResourceInfo](characterEncoding_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
 | [mimeType inside inputContentResourceInfo or outputResourceInfo](mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
 | [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
-| [inputContentResourceInfo or outputContentResourceInfo/typesystem](inputContentResourceInfo or outputContentResourceInfo/typesystem.md) | R when applicable | 
-| [inputContentResourceInfo or outputContentResourceInfo/tagset](inputContentResourceInfo or outputContentResourceInfo/tagset.md) | R when applicable | 
-| [inputContentResourceInfo or outputContentResourceInfo/annotationLevel](inputContentResourceInfo or outputContentResourceInfo/annotationLevel.md) | R when applicable | 
-| [typesystem](typesystem.md) | R | 
-| [tagset](tagset.md) | R | 
-| [annotationResource](annotationResource.md) | R | 
+| [typesystem inside inputContentResourceInfo or outputResourceInfo](typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [tagset inside inputContentResourceInfo or outputResourceInfo](tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [annotationLevel inside inputContentResourceInfo or outputResourceInfo](annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable | 
+| [typesystem](components_typesystem_inside_componentDependencies.md) | R | 
+| [tagset](components_tagset_inside_componentDependencies.md) | R | 
+| [annotationResource](components_annotationResource_inside_componentDependencies.md) | R | 
 | [framework](framework.md) | R | 
 | [for parameters: parameterName, description, parameterType, mandatory, multiValue](for parameters: parameterName, description, parameterType, mandatory, multiValue.md) | M when applicable | 
 | [relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component)](relationType=isCompatibleWith (external relation; link to models, annotation resources etc. that can be used with the component).md) | R | 
