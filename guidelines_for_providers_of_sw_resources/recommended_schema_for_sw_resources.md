@@ -1,7 +1,5 @@
 ## Recommended schema for s/w resources {#recommended-schema-for-s-w-resources}
 
-### Overview {#overview}
-
 This section includes a synopsis of the recommended schema for s/w resources, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
 
 | OMTD-SHARE element | Usage |
