@@ -2,7 +2,8 @@
     "plugins": [
         "-fontsettings",
         "blurbs",
-        "-highlight"
+        "-highlight",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "fontsettings": {
