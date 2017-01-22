@@ -3,7 +3,6 @@
 * [OpenMinTeD guidelines](README.md)
 * [Acknowledgements & Contributors](acknowledgements--contributors.md)
 * [Guidelines for providers of publications](guidelines_for_providers_of_publications/README.md)
-    * [Introduction](introduction.md)
     * [Instructions for publication repositories, libraries, journals, publishers, etc.](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
         * [How to share your resources](guidelines_for_providers_of_publications/uploading-instructions.md)
         * [How to make your resources interoperable](guidelines_for_providers_of_publications/technical-requirements.md)
@@ -57,6 +56,7 @@
         * [annotationMode](annotations_annotationMode.md)
         * [isAnnotatedBy](annotations_isAnnotatedBy.md)
         * [annotationDate](annotations_annotationDate.md)
+* [Introductory remarks](introductory-remarks.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
     * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
     * [Instructions for providers of corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
@@ -227,6 +227,5 @@
         * [relatedResource1](components_relatedResource1.md)
         * [relatedResource2](components_relatedResource2.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
-* Recommended controlled vocabularies
-* Example metadata records
+* Introductory remarks
 
