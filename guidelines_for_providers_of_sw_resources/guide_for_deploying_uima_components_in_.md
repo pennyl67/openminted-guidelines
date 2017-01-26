@@ -12,6 +12,8 @@ The very minimum files required to produce a working UIMA component are:
 
 Figure 1 shows the recommended layout of a very simple component project managed by Maven, using the example placeholder values found in the Maven pom.xml template. The UIMA XML descriptor should be named using the Maven artifactId value (e.g. uima-component) and reside under the desc directory and then a nested set of directories representing the Maven groupId value (e.g. xyz.company.uima).
 
+![](/assets/Figure1.jpg)
+
 Figure 1: Basic layout of a Maven-based UIMA component project
 
 It is recommended to use the Maven artifactId and groupId to produce the UIMA Component ID (e.g the groupId xyz.company.uima and artifactId uima-component should result in a Component ID of xyz.company.uima.uima-component). The default configuration of the PEAR Packaging Maven plugin, within the pom.xml template, automates this procedure. A Component ID is intended to be unique and is not intended to be visible to Argo end-users.
@@ -25,11 +27,26 @@ A component may also contain an Argo XML descriptor file, although this is entir
 
 Figure 2 shows the location and name of an Argo XML descriptor file for a component with the ID of xyz.company.uima.uima-component, while Figure 3 shows the general format of the descriptor file itself.
 
+![](/assets/Figure2.jpg)
+
 Figure 2: Example file structure of a component containing Argo XML descriptor file
 
-| &lt;argoDescriptor&gt; |
-| --- |
 
+```
+<argoDescriptor>
+<tags>
+		<tag>{string}/tag>
+		...
+	</tags>
+<minimumMemoryInMbs>{integer}</minimumMemoryInMbs>
+	<interactive>[true/false]</interactive>
+	<configurationParametersMetaData>
+		<configurationParameterMetaData>...</configurationParameterMetaData>
+		...
+	<configurationParametersMetaData>
+</argoDescriptor>
+
+```
 Figure 3: Structure of an Argo XML descriptor
 
 Within an Argo descriptor file, all of the sub-elements directly under the argoDescriptor element are optional.
@@ -44,29 +61,69 @@ The configurationParametersMetaData can contain multiple configurationParameterM
 
 Figure 4 shows how configurationParameterMetaData elements are configured if their uiType value is either _time_, _date_ or _datetime_. The corresponding UIMA configuration parameter must be of type _string_. Argo needs to know how to format the time chosen by the end-user using a calendar UI widget, so this has to be specified in the format subelement, as demonstrated in Figure 4.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
 
+
+```
+<configurationParameterMetaData>
+	<name>timeParam</name>
+	<uiType>time</uiType>
+	<uiConfiguration>
+		<format>HH:mm:ss</format>
+	</uiConfiguration>
+</configurationParameterMetaData>
+
+```
 Figure 4: A date, time or datetime configuration parameter
 
 For configuration parameters that have a fixed set of values, a uiType value of _enum_ is required. These fixed values should be listed as a set of value elements, nested within a values element, as shown in Figure 5.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
+
+
+```
+<configurationParameterMetaData>
+	<name>enumParam</name>
+	<uiType>enum</uiType>
+	<values>
+		<value>red</value>
+		<value>green</value>
+		<value>blue</value>
+	</values>
+</configurationParameterMetaData>
+
+```
 
 Figure 5: An enum configuration parameter
 
 Configuration parameters containing sensitive information, such as passwords, should use a uiType value of _password_. This hides the value of the parameter from the user and, once entered, does not get transmitted back to the Argo UI, for additional security. Additionally, it is also possible to specify the minimum and/or the maximum number of characters which this value can hold, using min and max elements within the valueConstraints element. See Figure 6 for an example.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
+
+
+```
+<configurationParameterMetaData>
+	<name>passwordParam</name>
+	<uiType>password</uiType>
+	<valueConstraints>
+		<min>5</min>
+		<max>10</max>
+	</valueConstraints>
+</configurationParameterMetaData>
+
+```
 
 Figure 6: A password configuration parameter
 
-To make it easier for a user to select UIMA type(s) within the Argo UI, any configuration parameters representing types should have uiType value of _type_. This will result in a searchable list of all types, known to Argo, being displayed to the end-user when they are configuring the component, from which the required types can be selected.
+To make it easier for a user to select UIMA type(s) within the Argo UI, any configuration parameters representing types should have uiType value of _type_. This will result in a searchable list of all types, known to Argo, being displayed to the end-user when they are configuring the component, from which the required types can be selected. See Figure 7 for an example.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
+
+```
+`````
+<configurationParameterMetaData>
+	<name>typeParam</name>
+	<uiType>type</uiType>
+</configurationParameterMetaData>
+
+```
+
 
 Figure 8: A type configuration parameter
 
