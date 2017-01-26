@@ -116,7 +116,6 @@ To make it easier for a user to select UIMA type(s) within the Argo UI, any conf
 
 
 ```
-`````
 <configurationParameterMetaData>
 	<name>typeParam</name>
 	<uiType>type</uiType>
@@ -124,15 +123,28 @@ To make it easier for a user to select UIMA type(s) within the Argo UI, any conf
 
 ```
 
+Figure 7: A type configuration parameter
 
-Figure 8: A type configuration parameter
+Configuration parameters which refer to local files and/or directories should have the uiType value of _document_. This will allow an end-user to select files from the Argo File Store using a file selector dialog. Figure 8 shows an example configuration and a table declaring the UI configuration parameters available to configure the file dialog can be found in Figure 9.
 
-Configuration parameters which refer to local files and/or directories should have the uiType value of _document_. This will allow an end-user to select files from the Argo File Store using a file selector dialog. Figure 6 shows an example configuration and a table declaring the UI configuration parameters available to configure the file dialog can be found in Figure 7.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
 
-Figure 7: A document configuration parameter
+```
+<configurationParameterMetaData>
+	<name>documentParam</name>
+	<uiType>document</uiType>
+	<uiConfiguration>
+		<selectFile>true</selectFile>
+		<selectFolder>false</selectFolder>
+		<selectFilesRecursively>false</selectFilesRecursively>
+		<hideFiles>false</hideFiles>
+		<windowCaption>Save file as...</windowCaption>
+	</uiConfiguration>
+</configurationParameterMetaData>
+
+```
+
+Figure 8: A document configuration parameter
 
 | **selectFile** | Boolean | Allows a user to select a file in the dialog |
 | --- | --- | --- |
@@ -141,28 +153,323 @@ Figure 7: A document configuration parameter
 | **hideFiles** | Boolean | Only show directories in the dialog |
 | **windowCaption** | Boolean | A caption to display in the file browser window |
 
-Figure 8: uiConfiguration elements
+Figure 9: uiConfiguration elements
 
-Configuration parameters that are likely to hold a large amount of text should use a uiType value of _text_. This will result in a larger text box being made available to the end-user. The size of the text area is configured using characterWidth and visibleLines elements, nested within the uiConfiguration element, as shown in Figure 9.
+Configuration parameters that are likely to hold a large amount of text should use a uiType value of _text_. This will result in a larger text box being made available to the end-user. The size of the text area is configured using characterWidth and visibleLines elements, nested within the uiConfiguration element, as shown in Figure 10.
 
-| &lt;configurationParameterMetaData&gt; |
-| --- |
 
-Figure 9: A text area configuration parameter
+
+```
+<configurationParameterMetaData>
+	<name>textAreaParam</name>
+	<uiType>text</uiType>
+	<uiConfiguration>
+		<characterWidth>30</characterWidth>
+		<visibleLines>5</visibleLines>
+	</uiConfiguration>
+</configurationParameterMetaData>
+
+```
+Figure 10: A text area configuration parameter
 
 An example of a UIMA XML descriptor, along with its corresponding Argo XML descriptor, can be found further below.
 
 **Maven pom.xml template for Argo components**
 
-| &lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt; |
-| --- |
+```
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>xyz.company.uima</groupId>
+ <artifactId>uima-component</artifactId>
+ <version>1.0</version>
+
+ <build>
+ <resources>
+ <resource>
+ <directory>desc</directory>
+ </resource>
+ <resource>
+ <directory>src/main/resources</directory>
+ </resource>
+ </resources>
+ <plugins>
+<plugin>
+ <groupId>org.apache.maven.plugins</groupId>
+ <artifactId>maven-dependency-plugin</artifactId>
+ <version>2.4</version>
+ <executions>
+ <execution>
+ <id>copy-dependencies</id>
+ <phase>prepare-package</phase>
+ <goals>
+ <goal>copy-dependencies</goal>
+ </goals>
+ <configuration>
+ <stripVersion>true</stripVersion> <outputDirectory>${project.build.directory}/pearPackaging/lib</outputDirectory>
+ <overWriteReleases>true</overWriteReleases>
+ <overWriteSnapshots>true</overWriteSnapshots>
+ <includeScope>runtime</includeScope>
+ 				<excludeArtifactIds>U_compareTypeSystem,uimaj-core</excludeArtifactIds>
+ </configuration>
+ </execution>
+ </executions>
+ </plugin>
+ <plugin>
+ <groupId>org.apache.uima</groupId>
+ <artifactId>PearPackagingMavenPlugin</artifactId>
+ <version>2.4.0</version>
+ <extensions>true</extensions>
+ <executions>
+ <execution>
+ <phase>package</phase>
+ <configuration> <mainComponentDesc>desc/xyz/company/uima/uima-component.xml</mainComponentDesc> <componentId>${project.groupId}.${project.artifactId}</componentId>
+ </configuration>
+ <goals>
+ <goal>package</goal>
+ </goals>
+ </execution>
+ </executions>
+ </plugin>
+ <plugin>
+ <groupId>org.apache.maven.plugins</groupId>
+ <artifactId>maven-install-plugin</artifactId>
+ <version>2.3.1</version>
+ <executions>
+ <execution>
+ <phase>install</phase>
+ <configuration>
+ <packaging>pear</packaging>
+ <groupId>${project.groupId}</groupId>
+ <artifactId>${project.artifactId}</artifactId>
+ <version>${project.version}</version>
+ <file> ${project.build.directory}/${project.groupId}.${project.artifactId}.pear
+ </file>
+ </configuration>
+ <goals>
+ <goal>install-file</goal>
+ </goals>
+ </execution>
+ </executions>
+ </plugin>
+ </plugins>
+
+ <pluginManagement>
+ <plugins>
+ <plugin>
+ <groupId>org.eclipse.m2e</groupId>
+ <artifactId>lifecycle-mapping</artifactId>
+ <version>1.0.0</version>
+ <configuration>
+ <lifecycleMappingMetadata>
+ <pluginExecutions> 
+ <pluginExecution>
+ <pluginExecutionFilter>
+ <groupId>org.apache.maven.plugins</groupId>
+ <artifactId>maven-dependency-plugin</artifactId>
+ <versionRange>[1.0.0,)</versionRange>
+ <goals>
+ <goal>copy-dependencies</goal>
+ </goals>
+ </pluginExecutionFilter>
+ <action>
+ <execute>
+ <runOnIncremental>false</runOnIncremental>
+ </execute>
+ </action>
+ </pluginExecution>
+ </pluginExecutions>
+ </lifecycleMappingMetadata>
+ </configuration>
+ </plugin>
+ </plugins>
+ </pluginManagement>
+ </build>
+
+ 
+ 
+ <dependencies>
+ <dependency>
+ <groupId>org.apache.uima</groupId>
+ <artifactId>uimaj-core</artifactId>
+ <version>2.7.0</version>
+ </dependency>
+ <dependency>
+ <groupId>org.u_compare</groupId>
+ <artifactId>U_compareTypeSystem</artifactId>
+ <version>1.1</version>
+ </dependency>
+ </dependencies>
+</project>
+
+```
+
 
 **Argo XML Descriptor example**
 
-| &lt;argoDescriptor&gt; |
-| --- |
+```
+<argoDescriptor>
+<tags>
+		<tag>categoryA</tag>
+		<tag>finance</tag>
+	</tags>
+<minimumMemoryInMbs>256</minimumMemoryInMbs>
+	<interactive>false</interactive>
+	<configurationParametersMetaData>
+		<configurationParameterMetaData>
+			<name>timeParam</name>
+			<uiType>time</uiType>
+			<uiConfiguration>
+				<format>HH:mm:ss</format>
+			</uiConfiguration>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>dateParam</name>
+			<uiType>date</uiType>
+			<uiConfiguration>
+				<format>yyyy/MM/dd</format>
+			</uiConfiguration>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>dateTimeParam</name>
+			<uiType>datetime</uiType>
+			<uiConfiguration>
+				<format>yyyy/MM/dd HH:mm:ss</format>
+			</uiConfiguration>
+		</configurationParameterMetaData>	
+		<configurationParameterMetaData>
+			<name>enumParam</name>
+			<uiType>enum</uiType>
+			<values>
+				<value>red</value>
+				<value>green</value>
+				<value>blue</value>
+			</values>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>passwordParam</name>
+			<uiType>password</uiType>
+			<uiConfiguration>
+			</uiConfiguration>
+			<valueConstraints>
+				<min>5</min>
+				<max>10</max>
+			</valueConstraints>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>typeParam</name>
+			<uiType>type</uiType>
+			<uiConfiguration>
+			</uiConfiguration>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>documentParam</name>
+			<uiType>document</uiType>
+			<uiConfiguration>
+				<selectFile>true</selectFile>
+				<selectFolder>false</selectFolder>
+				<selectFilesRecursively>false</selectFilesRecursively>
+				<hideFiles>false</hideFiles>
+				<windowCaption>Save file as...</windowCaption>
+			</uiConfiguration>
+		</configurationParameterMetaData>
+		<configurationParameterMetaData>
+			<name>textAreaParam</name>
+			<uiType>text</uiType>
+			<uiConfiguration>
+				<characterWidth>30</characterWidth>
+				<visibleLines>5</visibleLines>
+			</uiConfiguration>
+		</configurationParameterMetaData>
+	</configurationParametersMetaData>
+</argoDescriptor>
+
+```
+
 
 **UIMA Analysis Engine XML Descriptor referenced by the Argo XML Descriptor**
 
-| &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt; |
-| --- |
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+<frameworkImplementation>org.apache.uima.Java</frameworkImplementation>
+ 	<primitive>true</primitive>
+<annotatorImplementationName>xyz.company.uima.UimaComponent</annotatorImplementationName>
+ 	<analysisEngineMetaData>
+ 		<name>UIMA Component</name>
+ 		<description/>
+ 		<version>1.0</version>
+ 		<vendor/>
+ 		<configurationParameters>
+ 			<configurationParameter>
+ 			<name>timeParam</name>
+ 			<type>String</type>
+ 			<multiValued>false</multiValued>
+ 			<mandatory>false</mandatory>
+ 			</configurationParameter>
+ 			<configurationParameter>
+ 			<name>dateParam</name>
+ 			<type>String</type>
+ 			<multiValued>false</multiValued>
+ 			<mandatory>false</mandatory>
+ 			</configurationParameter>
+ 			<configurationParameter>
+ <name>dateTimeParam</name>
+ <type>String</type>
+ <multiValued>false</multiValued>
+ <mandatory>false</mandatory>
+</configurationParameter>
+ 		<configurationParameter>
+ 		<name>enumParam</name>
+ 		<type>String</type>
+ 		<multiValued>false</multiValued>
+ 		<mandatory>false</mandatory>
+ 		</configurationParameter>
+<configurationParameter>
+ <name>passwordParam</name>
+ <type>String</type>
+ <multiValued>false</multiValued>
+ <mandatory>false</mandatory>
+</configurationParameter>
+<configurationParameter>
+ <name>typeParam</name>
+ <type>String</type>
+ <multiValued>false</multiValued>
+ <mandatory>false</mandatory>
+</configurationParameter>
+<configurationParameter>
+ <name>documentParam</name>
+ <type>String</type>
+ <multiValued>false</multiValued>
+ <mandatory>false</mandatory>
+</configurationParameter>
+<configurationParameter>
+ <name>textAreaParam</name>
+ <type>String</type>
+ <multiValued>false</multiValued>
+ <mandatory>false</mandatory>
+</configurationParameter>
+</configurationParameters>
+<configurationParameterSettings/>
+<typeSystemDescription/>
+ 		<typePriorities/>
+ 		<fsIndexCollection/>
+ 		<capabilities>
+ 		<capability>
+ 		<inputs/>
+ 		<outputs/>
+ 		<languagesSupported/>
+ 		</capability>
+ 	</capabilities>
+ 	<operationalProperties>
+ 		<modifiesCas>true</modifiesCas>
+ 		<multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+ 		<outputsNewCASes>false</outputsNewCASes>
+ 		</operationalProperties>
+ 	</analysisEngineMetaData>
+ 	<resourceManagerConfiguration/>
+</analysisEngineDescription>
+
+```
+
+
+
