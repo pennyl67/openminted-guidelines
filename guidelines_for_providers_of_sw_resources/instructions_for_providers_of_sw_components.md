@@ -1,4 +1,4 @@
-## Instructions for providers of s/w components {#instructions-for-providers-of-s-w-components}
+## Instructions for providers of software components {#instructions-for-providers-of-s-w-components}
 
 * [How to share your components](how-to-share-your-components.md)
 * [How to make your components interoperable](how-to-make-your-components-interoperable.md)
