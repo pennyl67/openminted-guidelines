@@ -12,5 +12,5 @@ The supplementary level of data format
 ##### Recommended usage
 Please, use to further specify the format of the resource supported by the component (as input or output). 
 For interoperability reasons, it is important to standardise as far as possible this element; this is why a list of values including the formats currently supported by components in the OMTD registry is provided. Where possible, it is also recommended to use the "documentationURL" element with information and examples about the specific data format.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **UIMA/UIMA-fit:** @MimeTypeCapability

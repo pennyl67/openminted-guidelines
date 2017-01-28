@@ -5,6 +5,7 @@ Recommended
 open controlled vocabulary
 ##### Controlled vocabulary reference and/or values
 ms:characterEncoding: a long list of popular character encodings
+
 ##### Definition/Explanations
 The name of the character encoding used in the resource or accepted by the component
 ##### Recommended usage

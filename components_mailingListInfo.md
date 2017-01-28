@@ -7,5 +7,5 @@ set of metadata elements
 Set of metadata elements (name, subscribe, unsbuscribe, post, archive, otherArchive) required for documenting a mailing 
 ##### Recommended usage
 Mailing lists are important for tracking information useful for developers and/or users; the whole set of elements in the mailingList group can be repeated for recording multiple mailing lists.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **Maven POM 4.0.0:** Mailing list

@@ -12,6 +12,6 @@ The language(s) of the text that the component supports (takes as input and/or p
 ##### Recommended usage
 Please, enter the language and, if needed, the region, script and variant identifier that best fits the language of the document (e.g. en-US) that the component supports (takes as input and/or produces), expressed according to the IETF BCP47 guidelines. 
 The element can be repeated for components that support various character encodings.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **UIMA/UIMA-fit:** @LanguageCapability
 * **DataCite 4.0:** language - but this is the language of the resource and not of input/output

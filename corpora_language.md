@@ -13,6 +13,6 @@ For corpora created through the OMTD corpus building process, the value can be c
 The element can be repeated to encode multiple languages.
 ##### Recommended usage
 Please, enter the language and, if needed, the region, script and variant identifier that best fits the language of the document (e.g. en-US) according to the IETF BCP47 guidelines
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **DCMI:** skos:closeMatch dct:language
 * **DataCite 4.0:** skos:closeMatch datacite:Language

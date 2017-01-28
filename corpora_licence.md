@@ -11,6 +11,10 @@ ms:licence: _CC-BY_, _CC-BY-NC_, _CC-BY-NC-ND_, _CC-BY-NC-SA_, _CC-BY-ND_, _CC-B
 The licence of use for the resource
 ##### Recommended usage
 You can provide information on the rights of accessing and using a resource in one of the following ways, in order of preference:
-##### Relation to other metadata schema elements
+* use the element "licence" and select one of the recommended licences; please, note that the list contains licences intended for data resources & components mixed together;for components the recommended licences are the Open Source licences; for data resources, please use a standard licence such as one of the CC family;
+* if the licence you use is not included in the list, you can use the "nonStandardLicenceTerms" or the "proprietary" values and give further information on your licence in the elements: "nonStandardLicenceName", "nonStandardLicenceTermsURL" and "nonStandardLicenceTermsText"
+* you can also use the "rightsStatementName" and the "rightsStatementURL" \(with a link to a URL with more explanations on its usage\) if the resource is provided with a general statement of use and not an official licence document; please, note that this is an option used mainly to facilitate end-users in accessing your resource, while you are strongly advised to properly license your resource. 
+For corpora created through the OMTD corpus building process, the licence values can be automatically aggregated from the licence values of the metadata records included in them; in any case, the "rightsStmtName" can also be computed automatically.
+##### Relation to other metadata schemas
 * **DCMI:** skos:closeMatch dct:license
 * **DataCite 4.0:** skos:closeMatch datacite:rights

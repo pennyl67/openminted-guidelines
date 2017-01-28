@@ -10,5 +10,5 @@ The subtype of the corpus in terms of processing (i.e. whether it is raw/unproce
 ##### Recommended usage
 Please, select the appropriate value. 
 For corpora created through the corpus building process of OMTD, the value is automatically set to "raw"
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **DCMI:** skos:narrowMatch dc:type

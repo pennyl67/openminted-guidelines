@@ -10,6 +10,6 @@ The language(s) for which the model has been trained, expressed according to IET
 ##### Recommended usage
 Please, enter the language and, if needed, the region, script and variant identifier that best fits the language that the model can be used for (e.g. en-US) according to the IETF BCP47 guidelines. 
 The element can be repeated to encode multiple languages.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **DCMI:** skos:closeMatch dct:language
 * **DataCite 4.0:** skos:closeMatch datacite:Language

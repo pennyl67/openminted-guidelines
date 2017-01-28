@@ -8,6 +8,6 @@ The date of the creation of hte resource, expressed as a range between starting 
 ##### Recommended usage
 Please, indicate at least year of creation, or time interval. 
 For corpora created through the OMTD corpus building process, the creationDate is automatically inserted.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **DCMI:** skos:exactMatch dct:created
 * **DataCite 4.0:** skos:exactMatch datacite:CreationDate
