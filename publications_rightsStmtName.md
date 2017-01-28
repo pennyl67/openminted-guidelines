@@ -13,7 +13,7 @@ The name of an official statement indicative of licensing terms for the use of a
 The current list of predefined values comes from OpenAIRE, but it's under revision.
 ##### Recommended usage
 The "rightsStmtName" and "rightsStmtURL" elements can be used in addition to the "licence" value in order to facilitate users to understand the licensing terms of a resource.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE current version:** conversion from bestlicence classname
 * **DCMI:** skos:closeMatch dct:accessRights
 * **DataCite 4.0:** skos:closeMatch datacite:rights

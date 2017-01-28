@@ -11,6 +11,6 @@ Specifies the medium (channel) used for delivery or providing access to the reso
 Please, use one of the provided values to indicate the medium of distribution. 
 For publications harvested from OpenAIRE and CORE, the default value is "downloadable", if the documentType is "abstract" or "fullText". 
 Please, note that If the publication is distributed in different mediums under different terms of use or licences, you can repeat the whole set of elements ("distributionInfo") to describe them.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE v4.0:** distributionInfo are related to webresource or url
 * **DCMI:** skos:closeMatch dct:medium

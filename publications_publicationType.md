@@ -9,7 +9,7 @@ ms-omtd:publicationType: _article_, _bachelorThesis_, _masterThesis_, _doctoralT
 Specifies the type of the publication (e.g. whether it's a journal article, oral paper or poster in the proceedings of a conference etc.)
 ##### Recommended usage
 Please, select one of the values from the list (compatible with the CASRAI research/scholarly output types Ihttp://dictionary.casrai.org/Output_Types)); if none of the values fits, please use "other"
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE current version:** computed from instanceType 
 * **OpenAIRE v4.0:** dc:type
 * **CORE:** article.types

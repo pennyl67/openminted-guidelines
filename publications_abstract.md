@@ -9,7 +9,7 @@ xs:lang
 The abstract of the document in plain text format  
 ##### Recommended usage
 You can use this metadata element to include the abstract of the publication in simple text format; the element can be repeated for the different language versions using the "lang" attribute to specify the language.
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE current version:** dc:description
 * **OpenAIRE v4.0:** dc:description
 * **CORE:** article.description

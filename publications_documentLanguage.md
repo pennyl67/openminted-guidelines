@@ -9,7 +9,7 @@ ms-omtd:documentLanguage (a combination of languageId, scriptId, regionId and va
 The language the document is written in according to IETF BCP47 guidelines
 ##### Recommended usage
 Please, enter the language and, if needed, the region, script and variant identifier that best fits the language of the document (e.g. en-US) according to the IETF BCP47 guidelines
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE current version:** language (but to be mapped from ISO 639-2 3-letter codes to us)
 * **OpenAIRE v4.0:** dc:language
 * **CORE:** article.language

@@ -9,7 +9,7 @@ ms:mimetype (a subset of values (the most popular ones for text files) from the 
 The mime-type of the resource (a formalized specifier for the format) or a mime-type that the component accepts, in conformance with the values of the IANA (Internet Assigned Numbers Authority)
 ##### Recommended usage
 Please, select one of the pre-defined values (which are the most popular ones for text files) or add a value, PREFERABLY FROM THE IANA MEDIA MIMETYPE RECOMMENDED VALUES (http://www.iana.org/assignments/media-types/media-types.xhtml)
-##### Relation to other metadata schema elements
+##### Relation to other metadata schemas
 * **OpenAIRE v4.0:** format & file/mimetype
 * **DCMI:** skos:closeMatch dct:format
 * **DataCite 4.0:** skos:closeMatch datacite:Format
