@@ -108,7 +108,7 @@
     * [How to register your knowledge resources](guidelines_for_providers_of_ancillary_resources/how-to-share-your-knowledge-resources.md)
     * [How to make your knowledge resources interoperable](guidelines_for_providers_of_ancillary_resources/how-to-make-your-knowledge-resources-interoperable.md)
     * [How to document your knowledge resources](guidelines_for_providers_of_ancillary_resources/how-to-document-your-knowledge-resources.md)
-    * [​Recommended schema for ​lexical\/conceptual resources, incl. annotation resources](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_lexicalconceptual_resources.md)
+    * [​Recommended schema for ​lexical/conceptual resources, incl. annotation resources](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_lexicalconceptual_resources.md)
       * [resourceType](lcr_resourceType.md)
       * [resourceName](lcr_resourceName.md)
       * [description](lcr_description.md)
