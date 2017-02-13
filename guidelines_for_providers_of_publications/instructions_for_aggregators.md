@@ -12,6 +12,4 @@ For each new corpus created according to this procedure, an automatically genera
 
 * [How to register your resources](/guidelines_for_providers_of_publications/how-to-share-your-resources.md)
 * [How to document your resources](/guidelines_for_providers_of_publications/how-to-document-your-resources.md)
-* [Further requirements for annotated publications](/guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md)
-
 
