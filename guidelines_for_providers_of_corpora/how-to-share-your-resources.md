@@ -1,8 +1,8 @@
 ### How to share your resources {#How-to-share-your-resources}
 
-Corpora can be uploaded by registered users as decided in the OpenMinTeD Policies.
+Corpora can be registered by authorsed users.
 
-If you wish to share a corpus, you must:
+If you wish to register a corpus, you must:
 
 *   provide a metadata record compliant with the OMTD-SHARE schema for corpora, at least at the minimal level which you can upload to the Registry as an XML file and/or edit with the OpenMinTeD metadata editor
 *   provide a zipped file with the contents of the corpus or a link to a URL where the corpus is directly accessible (i.e. not a landing page); where possible, the zipped file should follow the folder structure recommended for OpenMinTeD publications, i.e. separate folders for contents, metadata records and licence documents.
