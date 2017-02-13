@@ -1,4 +1,4 @@
-### How to share your resources {#How-to-share-your-resources}
+### How to register your resources {#How-to-share-your-resources}
 
 Corpora can be registered by authorised users.
 
