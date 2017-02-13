@@ -1,6 +1,6 @@
 ### How to share your resources {#How-to-share-your-resources}
 
-Corpora can be registered by authorsed users.
+Corpora can be registered by authorised users.
 
 If you wish to register a corpus, you must:
 
