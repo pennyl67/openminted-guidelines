@@ -9,7 +9,7 @@ OpenMinTeD aspires to enable the creation of an infrastructure that fosters and 
 This is where you'll find information on
 
 * how to make your resources interoperable with other resources for TDM purposes
-* how to register your resources at the OpenMinTeD platform \(https://services.openminted.eu/\)
+* how to register your resources at the OpenMinTeD platform \(https://services.openminted.eu/)
 * how to contribute to the guidelines.
 
 TDM involves a wide range of resource types:
