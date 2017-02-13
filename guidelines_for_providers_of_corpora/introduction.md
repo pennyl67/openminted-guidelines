@@ -10,8 +10,5 @@ To be valid for import into OpenMinTeD, all corpora must be accompanied with a m
 
 The following sections present a list of requirements and recommendations that corpora must meet to interact with TDM resources. 
 
-{% blurb style='tip', title='Come back for updates!' %}
-Please, note that this list will continue to be updated and visit the site often to find more recommendations and advice.{% endblurb %}
-
 
 
