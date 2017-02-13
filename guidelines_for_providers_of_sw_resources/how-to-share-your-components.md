@@ -7,7 +7,7 @@ The recommended way of providing **_software components_ **is through the Maven 
     *   licence text(s), preferably named as &quot;LICENCE.TXT&quot; in order to be unambiguously recognised; in the case of multiple licences, they should be all aggregated in the same file
     *   a readme notice, that describes the contents of the folder as well as any important notice for the compilation and execution of the component
     *   all descriptors (UIMA/uimaFIT, GATE CREOLE[^1], OMTD-SHARE etc.) available for the component according to the implementation framework,
-    *   a Maven POM xml file.
+    *   a Maven POM XML file.
 *   Pack them as a JAR using the respective Maven plugin.
 *   Upload them to the Maven repository according to the Maven guidelines
 *   Finally, submit the Maven coordinates in the OMTD registry; in this case, the metadata record will be partially converted from the Maven POM file and, potentially from elements included in the metadata descriptors supported by OpenMinTeD (UIMA/uimaFIT, CREOLE, and then you can enrich it using the OpenMinTeD editor.
