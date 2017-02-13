@@ -69,6 +69,7 @@
       * [resourceType](corpora_resourceType.md)
       * [description](corpora_description.md)
       * [identifier](corpora_identifier.md)
+      * [version](corpora_version.md)
       * [licence](corpora_licence.md)
       * [rightsStmtName](corpora_rightsStmtName.md)
       * [rightsStmtURL](corpora_rightsStmtURL.md)
