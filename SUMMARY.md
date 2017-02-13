@@ -228,4 +228,8 @@
     * [relatedResource1](components_relatedResource1.md)
     * [relatedResource2](components_relatedResource2.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
+* [Glossary](GLOSSARY.md)
+
+
+
 
