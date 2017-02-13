@@ -1,8 +1,8 @@
-## How to share your knowledge resources {#How-to-share-your knowledge-resources}
+## How to register your knowledge resources {#How-to-share-your knowledge-resources}
 
-Ancillary knowledge resources can be uploaded by registered users as decided in the OpenMinTeD Policies.
+Ancillary knowledge resources can be registered by authorised users as decided in the OpenMinTeD Policies.
 
-If you wish to share such a resource, depending on the mode of registering the resource, the following requirements are in order:
+If you wish to register such a resource, depending on the mode of registering the resource, the following requirements are in order:
 
 *   if the resource is being provided for upload to the OpenMinTeD registry, please package it as a zip file preserving the recommended folder structure
 *   if the resource is available as part of a Maven artifact, please provide the appropriate Maven coordinates
