@@ -4,6 +4,7 @@
 
 Welcome to the OpenMinTeD Guidelines!
 test for download
+
 OpenMinTeD aspires to enable the creation of an infrastructure that fosters and facilitates the use of Text and Data Mining (TDM) technologies in the scientific publications world, builds on existing TDM tools and platforms, and renders them discoverable and interoperable through appropriate registries and a standards-based interoperability layer, respectively.
 
 This is where you'll find information on
