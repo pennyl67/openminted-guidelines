@@ -1,6 +1,6 @@
-### How to share your components {#how-to-share-your-components}
+### How to register your components {#how-to-share-your-components}
 
-The recommended way of providing **_s/w components_ **is through the Maven Central repository according to the following instructions:
+The recommended way of providing **_software components_ **is through the Maven Central repository according to the following instructions:
 
 *   Please, put together in a single folder (in the form that is required from the used technologies/frameworks)
     *   all files that implement the component (e.g. Java classes etc.)

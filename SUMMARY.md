@@ -182,7 +182,7 @@
     * [How to make your web services or applications interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-web-services-or-applications-interoperable.md)
     * [How to document your web services or applications](guidelines_for_providers_of_sw_resources/how-to-document-your-web-services-or-applications.md)
   * [Instructions for providers of s\/w components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
-    * [How to share your components](guidelines_for_providers_of_sw_resources/how-to-share-your-components.md)
+    * [How to register your components](guidelines_for_providers_of_sw_resources/how-to-share-your-components.md)
     * [How to make your components interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
     * [How to document your components](guidelines_for_providers_of_sw_resources/how-to-document-your-components.md)
     * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
