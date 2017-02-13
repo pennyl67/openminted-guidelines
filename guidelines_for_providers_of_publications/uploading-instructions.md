@@ -1,6 +1,6 @@
-### How to share your resources {#uploading-instructions}
+### How to register your resources {#uploading-instructions}
 
-If you wish to share publications that can be harvested for TDM purposes through OpenMinTeD, you can do so
+If you wish to register publications that can be harvested for TDM purposes through OpenMinTeD, you can do so
 
 * by registering through OpenAIRE, following procedures and guidelines at: [https://www.openaire.eu/validator/welcome.action](https://www.openaire.eu/validator/welcome.action)
 
