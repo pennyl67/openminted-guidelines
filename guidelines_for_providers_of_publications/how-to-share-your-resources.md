@@ -1,6 +1,6 @@
 ###How to register your resources {#how-to-share-your-resources}
 
-The transfer layer between OpenAIRE/CORE and the OMTD platform will make use of *RESTful calls*.
+The transfer layer between OpenAIRE/CORE and the OMTD platform makes use of *RESTful calls*.
 
 The delivery of the requested publications must be made in a compressed file, with the following folder structure:
 
