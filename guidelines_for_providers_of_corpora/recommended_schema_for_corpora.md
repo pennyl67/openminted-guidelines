@@ -12,7 +12,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [resourceName](/corpora_resourceName.md) | Μ |
 | [description](/corpora_description.md) | Μ |
 | [identifier](/corpora_identifier.md) | Μ |
-| version | M |
+| [version](/corpora_version.md) | M |
 | [licence](/corpora_licence.md) or [rightsStmtName](/corpora_rightsStmtName.md) & [rightsStmtURL](/corpora_rightsStmtURL.md) \(one of the two must be provided\) | Μ |
 | [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) | R when applicable |
 | [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Μ when applicable |
