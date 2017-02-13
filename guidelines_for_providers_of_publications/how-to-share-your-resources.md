@@ -1,4 +1,4 @@
-###How to share your resources {#how-to-share-your-resources}
+###How to register your resources {#how-to-share-your-resources}
 
 The transfer layer between OpenAIRE/CORE and the OMTD platform will make use of *RESTful calls*.
 
