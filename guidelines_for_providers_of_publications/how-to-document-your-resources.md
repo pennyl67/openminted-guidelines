@@ -5,7 +5,7 @@ In the case of publications, the required metadata records come at two levels:
 * one for the whole query-generated corpus of publications, in compliance with the OMTD-SHARE schema for corpora, which is automatically constructed on the basis of the user filters and manually enriched by the user;
 * one per publication, with a minimal set of metadata elements in compliance with the OMTD-SHARE schema for publications, automatically converted from the current schemas of the providers. 
 
-It should be noted that the original resource providers \(e.g. publication repositories, publishers etc.\) do not have to change their current schemas[^1]; mappings and conversions between OpenAIRE/CORE/future content providers and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
+It should be noted that the original resource providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas; mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
 
 All metadata records for publications must be delivered in XML format.
 
