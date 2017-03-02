@@ -1,4 +1,4 @@
-## ​Introductory remarks {#introduction}
+## ​Introduction {#introduction}
 
 OpenMinTeD facilitates the use of TDM technologies in the scientific publications world, ranging from generic scholarly communication to literature related to specific disciplines.
 

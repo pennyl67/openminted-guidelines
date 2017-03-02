@@ -1,4 +1,4 @@
-## Introductory remarks {#introductory remarks}
+## Introduction {#introduction}
 
 OpenMinTeD facilitates the use of TDM technologies in the scientific publications world, ranging from generic scholarly communication to literature related to specific disciplines. Scholarly publications come from a wide bulk of stakeholders, e.g. institutional and discipline repositories, academic journals, scientific publishers, etc. For the first phase, the focus is on literature repositories and publishers, as regards sources, and on Open Access content, as regards access conditions.
 
