@@ -2,7 +2,7 @@
 
 In order to ensure that your corpora can be mined in the OpenMinTeD platform, you must follow the same requirements that are set for scholarly publications. You must therefore
 
-* provide access to the contents of each corpus
+* provide direct access to the contents of each corpus
 * describe each corpus with a metadata record compatible with the OTMD-SHARE minimal schema.
 
 In addition, the following recommendations contribute to interoperability and make your corpora easier to process:
