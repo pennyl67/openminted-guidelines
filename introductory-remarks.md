@@ -1,6 +1,6 @@
 ## Introductory remarks {#introductory remarks}
 
-OpenMinTeD aspires to facilitate the use of TDM technologies in the scientific publications world, ranging from generic scholarly communication to literature related to specific disciplines. Scholarly publications come from a wide bulk of stakeholders, e.g. institutional and discipline repositories, academic journals, scientific publishers, etc. For the first phase, the focus is on literature repositories and publishers, as regards sources, and on Open Access content, as regards access conditions.
+OpenMinTeD facilitates the use of TDM technologies in the scientific publications world, ranging from generic scholarly communication to literature related to specific disciplines. Scholarly publications come from a wide bulk of stakeholders, e.g. institutional and discipline repositories, academic journals, scientific publishers, etc. For the first phase, the focus is on literature repositories and publishers, as regards sources, and on Open Access content, as regards access conditions.
 
 {% blurb style='tip', title='Important notice' %}
 
@@ -17,5 +17,5 @@ As one of the first steps of building a corpus of scholarly publications, end-us
 
 Thus, a corpus included in the OpenMinTeD Registry essentially consists of a list of publications. Each publication is identified (equivalent to a primary key) by its content (full text pdf) hash value and a set of metadata files (in the OMTD-SHARE schema) that describe the resource. In most cases, this set consists of just one item but the case that multiple metadata files describe the same resource is possible (for example different metadata files from CORE or OpenAIRE, update in metadata fields, richer metadata from a content provider, etc.) 
 
-The following sections present a list of requirements and recommendations that publications must meet to interact with TDM resources.
+The following sections present a list of instructions, requirements and recommendations that publications must meet to interact with TDM resources.
 
