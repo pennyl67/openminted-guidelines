@@ -78,3 +78,9 @@ th {
     color: white;
 }
 
+markdown-section a {
+	color:rgb(0, 185, 180);
+	text-decoration:none;
+	background:0 0
+}
+
