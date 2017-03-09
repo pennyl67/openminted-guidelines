@@ -43,7 +43,7 @@ The schema is currently implemented as an XSD[^5]. An important difference from 
 
 Work is ongoing for producing also an RDF/OWL version, which will be documented in the next release of the guidelines.
 
-[^1] The full OMTD-SHARE schema is documented at: https://openminted.github.io/releases/omtd-share/.
+[^1]: The full OMTD-SHARE schema is documented at: https://openminted.github.io/releases/omtd-share/.
 
 [^2] Models could be considered as a subtype of language descriptions, but we decided to keep it distinct because it had a lot of properties that differentiated it from grammars; at this point it was also considered better to keep them apart as it would enhance their discoverability.
 
