@@ -52,4 +52,4 @@ Work is ongoing for producing also an RDF/OWL version, which will be documented 
 
 [^4] To avoid confusion with the term &quot;component&quot; also used for software components, we will from now on refer to this concept as &quot;modules&quot;.
 
-[^5] The current version of XSD&#039;s is available  at: [https://github.com/openminted/omtd-share_metadata_schema](https://github.com/openminted/omtd-share_metadata_schema) and the documentation of v1.0.0 at: https://openminted.github.io/openminted-site/releases/omtd-share/1.0.0/html/index.html
+[^5] The current version of XSD&#039;s is available  at: [https://github.com/openminted/omtd-share_metadata_schema](https://github.com/openminted/omtd-share_metadata_schema) and the documentation of v1.0.0 at: https://openminted.github.io/releases/omtd-share/1.0.0/
