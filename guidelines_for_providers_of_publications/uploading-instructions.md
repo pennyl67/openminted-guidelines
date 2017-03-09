@@ -8,5 +8,5 @@ OR
 
 * by registering through CORE, following procedures at: [https://core.ac.uk/join](https://core.ac.uk/join)
 
-For each publication to be valid for import into OpenMinTeD, a metadata record conformant with the OMTD-SHARE schema, and a file with the contents must be delivered.
+For each publication to be valid for import into OpenMinTeD, a metadata record conformant with the [OMTD-SHARE minimal schema](/guidelines_for_providers_of_publications/recommended_schema_for_publications.md), and a file with the contents must be delivered.
 
