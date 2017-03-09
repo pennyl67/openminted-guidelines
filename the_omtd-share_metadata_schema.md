@@ -2,8 +2,7 @@
 
 The **OMTD-SHARE metadata schema**[^1] is the recommended schema for the description of the resources. It has been conceived and designed in order to serve as a facilitator, providing the interoperability bridge between the various resource types involved in TDM processes, and as an intermediary with the target audience, including TDM developers and end-users. 
 
-![](/assets/OMTD_SchemaOverviewNewcolors.jpg)
-
+![](/assets/OMTD_SchemaOverviewNewcolors2.jpg)
 
 Its design takes into consideration the fact that both resources and users come from different scientific communities and tries to achieve interoperability through a **_common core vocabulary_ **for the description of resources and their properties, establishing links to the vocabularies already used by the various sources for this purpose. Standards and best practices of the source communities are taken aboard to the best extent possible. The main principles and strategies employed in the design of the OMTD-SHARE schema consist of the following:
 
