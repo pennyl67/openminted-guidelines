@@ -45,10 +45,10 @@ Work is ongoing for producing also an RDF/OWL version, which will be documented 
 
 [^1]: The full OMTD-SHARE schema is documented at: https://openminted.github.io/releases/omtd-share/.
 
-[^2] Models could be considered as a subtype of language descriptions, but we decided to keep it distinct because it had a lot of properties that differentiated it from grammars; at this point it was also considered better to keep them apart as it would enhance their discoverability.
+[^2]: Models could be considered as a subtype of language descriptions, but we decided to keep it distinct because it had a lot of properties that differentiated it from grammars; at this point it was also considered better to keep them apart as it would enhance their discoverability.
 
-[^3] Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://elrc-share.ilsp.gr/documentation/ELRC-SHARE_schema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
+[^3]: Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://elrc-share.ilsp.gr/documentation/ELRC-SHARE_schema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
 
-[^4] To avoid confusion with the term &quot;component&quot; also used for software components, we will from now on refer to this concept as &quot;modules&quot;.
+[^4]: To avoid confusion with the term &quot;component&quot; also used for software components, we will from now on refer to this concept as &quot;modules&quot;.
 
-[^5] The current version of XSD&#039;s is available  at: [https://github.com/openminted/omtd-share_metadata_schema](https://github.com/openminted/omtd-share_metadata_schema) and the documentation of v1.0.0 at: https://openminted.github.io/releases/omtd-share/1.0.0/
+[^5]: The current version of XSD&#039;s is available  at: [https://github.com/openminted/omtd-share_metadata_schema](https://github.com/openminted/omtd-share_metadata_schema) and the documentation of v1.0.0 at: https://openminted.github.io/releases/omtd-share/1.0.0/
