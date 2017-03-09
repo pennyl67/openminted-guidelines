@@ -78,9 +78,13 @@ th {
     color: white;
 }
 
-markdown-section a {
-	color:rgb(0, 185, 180);
+.markdown-section a {
+	color: rgb(5, 255, 249);
 	text-decoration:none;
 	background:0 0
 }
 
+.markdown-section .glossary-term {
+	cursor:help;
+	font-style: italic
+}
