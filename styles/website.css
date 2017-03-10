@@ -78,3 +78,11 @@ th {
     color: white;
 }
 
+markdown-section glossary-term {
+    color: rgb(0, 191, 195);
+    text-decoration: none
+}
+    
+
+
+
