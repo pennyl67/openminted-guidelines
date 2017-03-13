@@ -22,7 +22,7 @@ An algorithm wrapped in a standard way so that it can be integrated as a reusabl
 
 ## corpus
 
-A structured collection of pieces of data \(textual, audio, video, multimodal/multimedia, etc.\) typically of considerable size and selected according to criteria external to the texts \(e.g. size, type of language, type of text producers or expected audience,  etc.\) to represent as comprehensively as possible the object of study.
+A structured collection of pieces of data \(textual, audio, video, multimodal/multimedia, etc.\) typically of considerable size and selected according to criteria external to these data \(e.g. size, type of language, type of producers or expected audience,  etc.\) to represent as comprehensively as possible the object of study.
 
 ## data model
 
@@ -46,11 +46,11 @@ A permission or a written evidence of a permission that confers the licensee the
 
 ## licence compatibility/interoperability
 
-The condition or state in which two or more licences can co-exist or be combined without conflicting with each other; in OMTD, licence compatibility and licence interoperability are used as synonyms.
+The condition or state in which two or more licences can co-exist or be combined without conflicting with each other; in OpenMinTeD, licence compatibility and licence interoperability are used as synonyms.
 
 ## knowledge resource
 
-A resource \(data and/or tool\) containing, producing or representing knowledge; knowledge is specific information that is relevant for the linguistic and conceptual interpretation of data; for OMTD purposes, this information is exploited or produced by TDM modules and tools, or exchanged between them.
+A resource \(data and/or tool\) containing, producing or representing knowledge; knowledge is specific information that is relevant for the linguistic and conceptual interpretation of data; for OpenMinTeD purposes, this information is exploited or produced by TDM modules and tools, or exchanged between them.
 
 ## language description
 
@@ -62,7 +62,7 @@ Language Resources \(LRs\) encompass \(a\) data sets \(textual, multimodal/multi
 
 ## lexical/conceptual resource
 
-A resource organised on the basis of lexical or conceptual entries \(lexical items, terms, concepts, etc.\) with their supplementary information \(e.g. grammatical, semantic, statistical information, etc.\); for OMTD purposes, they can be used for annotation.
+A resource organised on the basis of lexical or conceptual entries \(lexical items, terms, concepts, etc.\) with their supplementary information \(e.g. grammatical, semantic, statistical information, etc.\); in OpenMinTeD, they can be used for annotation purposes.
 
 ## machine learning \(ML\) model
 
@@ -82,11 +82,11 @@ An infrastructure refers to the basic structures and facilities required for the
 
 ## OpenMinTeD platform
 
-The OpenMinTeD platform brings together all the services that facilitate the interoperability aspects of the underlying infrastructure \(e.g. registration, search and browsing, creation of workflows, processing, annotation etc.\) and, thus, becomes an infrastructural service of the wider research ecosystem.
+The OpenMinTeD platform brings together all the services that facilitate the interoperability aspects of the underlying infrastructure \(e.g. registration, search and browsing, creation of workflows, processing, annotation, etc.\) and, thus, becomes an infrastructural service of the wider research ecosystem.
 
 ## publication
 
-A book, article, etc., that has been made available to the public either via a formal publication service or over the internet and is stored at an archive or repository; for OMTD purposes, this mainly covers scholarly publications.
+A book, article, etc., that has been made available to the public either via a formal publication service or over the internet and is stored at an archive or repository; for OpenMinTeD purposes, this mainly covers scholarly publications.
 
 ## resource
 
@@ -106,7 +106,7 @@ Piece of software accessible through remote invocation typically using some REST
 
 ## tool
 
-Piece of \(standalone\) software typically for a very limited technical purpose, such as a particular implementation of a part-of-speech tagger \(e.g. TreeTagger\), a tree parsing program \(e.g. mstparser\), etc. Preferred terms in OMTD include 'component' and 'workflow'.
+Piece of \(standalone\) software typically for a very limited technical purpose, such as a particular implementation of a part-of-speech tagger \(e.g. TreeTagger\), a tree parsing program \(e.g. mstparser\), etc. Preferred terms in OpenMinTeD include 'component' and 'workflow'.
 
 ## workflow
 
