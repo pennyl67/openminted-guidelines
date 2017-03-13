@@ -2,7 +2,7 @@
 
 ## annotation \(text/corpus annotation\)
 
-A note by way of explanation or comment added to a text or diagram \[Oxford English Dictionary, [https://en.oxforddictionaries.com/definition/annotation](https://en.oxforddictionaries.com/definition/annotation)\]. Text or corpus annotation is the practice of adding interpretative linguistic information grounded in a knowledge resource to a text or corpus respectively. For example, one common type of annotation is the addition of tags, or labels, indicating the word class to which words in a text belong; these tags come from a predefined set \(e.g. Noun, Verb, Preposition, etc.\). Semantic labeling with terms and concepts from an ontology is another common example of annotation. Relationships such as syntactic dependencies or semantic relations that link entities of the text are also annotations.
+A note by way of explanation or comment added to a text or diagram \[Oxford English Dictionary, [https://en.oxforddictionaries.com/definition/annotation](https://en.oxforddictionaries.com/definition/annotation)\]. Text or corpus annotation is the practice of adding interpretative linguistic information grounded in a knowledge resource to a text or corpus respectively. For example, one common type of annotation is the addition of tags, or labels, indicating the word class to which lexical units in a text belong; these tags come from a predefined set \(e.g. Noun, Verb, Preposition, etc.\). Semantic labeling with terms and concepts from an ontology is another common example of annotation. Relationships such as syntactic dependencies or semantic relations that link entities of the text are also annotations.
 
 ## annotation resource
 
@@ -22,7 +22,7 @@ An algorithm wrapped in a standard way so that it can be integrated as a reusabl
 
 ## corpus
 
-A structured collection of pieces of data \(textual, audio, video, multimodal/multimedia, etc.\) typically of considerable size and selected according to criteria external to the texts \(e.g. size, type of language, type of text producers or expected audience etc.\) to represent as comprehensively as possible the object of study.
+A structured collection of pieces of data \(textual, audio, video, multimodal/multimedia, etc.\) typically of considerable size and selected according to criteria external to the texts \(e.g. size, type of language, type of text producers or expected audience,  etc.\) to represent as comprehensively as possible the object of study.
 
 ## data model
 
@@ -58,11 +58,11 @@ The resource describes a language or some aspect\(s\) of a language via a system
 
 ## language resource
 
-Language Resources \(LRs\) encompass \(a\) data sets \(textual, multimodal/multimedia and lexical data, grammars, language models etc.\) in machine readable form, used to assist and augment language processing applications, but also, in a broader sense, in language and language-mediated research studies and applications, and \(b\) tools/technologies/services used for their processing.
+Language Resources \(LRs\) encompass \(a\) data sets \(textual, multimodal/multimedia and lexical data, grammars, language models,  etc.\) in machine readable form, used to assist and augment language processing applications, but also, in a broader sense, in language and language-mediated research studies and applications, and \(b\) tools/technologies/services used for their processing.
 
 ## lexical/conceptual resource
 
-A resource organised on the basis of lexical or conceptual entries \(lexical items, terms, concepts etc.\) with their supplementary information \(e.g. grammatical, semantic, statistical information, etc.\); for OMTD purposes, they can be used for annotation.
+A resource organised on the basis of lexical or conceptual entries \(lexical items, terms, concepts, etc.\) with their supplementary information \(e.g. grammatical, semantic, statistical information, etc.\); for OMTD purposes, they can be used for annotation.
 
 ## machine learning \(ML\) model
 
