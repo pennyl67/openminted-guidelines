@@ -2,7 +2,7 @@
 
 To be fully compatible with OpenMinTeD, you must
 
-* provide a metadata record for each publication with at least bibliographic information about it, in preference following the OpenAIRE or CORE guidelines
+* provide a metadata record for each publication with at least bibliographic information about it, in preference following the OpenAIRE guidelines
 * ensure that the publications are distributed under Open Access conditions
 * include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication
 * if you already have a PID for your publication \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information on identifier schemes\).
