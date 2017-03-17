@@ -214,7 +214,7 @@
     * [mimeType inside inputContentResourceInfo or outputResourceInfo](components_mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [typesystem inside inputContentResourceInfo or outputResourceInfo](components_typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md)
-    * \[tagset inside inputContentResourceInfo or outputResourceInfo\]\(components\_tagset\_inside inputContentResourceInfo\_or\_outputResourceInfo.md\)
+    * [\[tagset inside inputContentResourceInfo or outputResourceInfo\]\(components\_tagset\_inside inputContentResourceInfo\_or\_outputResourceInfo.md\)](tagset-inside-inputcontentresourceinfo-or-outputresourceinfocomponentstagset-inside-inputcontentresourceinfo-or-outputresourceinfo-md.md)
     * [annotationLevel inside inputContentResourceInfo or outputResourceInfo](components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [typesystem inside componentDependencies](components_typesystem_inside_componentDependencies.md)
     * [tagset inside componentDependencies](components_tagset_inside_componentDependencies.md)
