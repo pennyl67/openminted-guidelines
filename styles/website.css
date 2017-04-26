@@ -1,15 +1,15 @@
 /* CSS for website */
 
 .book.font-family-1 {
-    font-family: 'Open Sans' !important;
+    font-family: 'Open Sans', sans-serif !important;
 }
 
 nav{
-    font-family: 'Open Sans' !important;
+    font-family: 'Open Sans', sans-serif !important;
 }
 
 body{
-    font-family: Sans !important;
+    font-family: 'Open Sans', sans-serif !important;
     text-align: justify !important;
     text-justify: inter-word;    
 }
@@ -23,7 +23,7 @@ text-align: left !important;
 }
 
 h2 {
-font-family: "Open Sans";
+font-family: 'Open Sans', sans-serif;
 color: rgb(0, 191, 195);
 font-size: 30pt !important;
 font-weight: normal;
