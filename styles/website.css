@@ -1,15 +1,15 @@
 /* CSS for website */
 
 .book.font-family-1 {
-    font-family: "Open Sans" !important;
+    font-family: 'Open Sans' !important;
 }
 
 nav{
-    font-family: "Open Sans" !important;
+    font-family: 'Open Sans' !important;
 }
 
 body{
-    font-family: "Open Sans" !important;
+    font-family: Sans !important;
     text-align: justify !important;
     text-justify: inter-word;    
 }
