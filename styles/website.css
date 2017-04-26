@@ -1,21 +1,21 @@
 /* CSS for website */
 
 .book.font-family-1 {
-    font-family: Open Sans !important;
+    font-family: "Open Sans" !important;
 }
 
 nav{
-    font-family: Open Sans !important;
+    font-family: "Open Sans" !important;
 }
 
 body{
-    font-family: Open Sans !important;
+    font-family: "Open Sans" !important;
     text-align: justify !important;
     text-justify: inter-word;    
 }
 
 h1 {
-font-family: Open Sans;
+font-family: "Open Sans";
 color: rgb(1, 75, 179);
 font-size: 36pt !important;
 font-weight: normal;
@@ -23,7 +23,7 @@ text-align: left !important;
 }
 
 h2 {
-font-family: Open Sans;
+font-family: "Open Sans";
 color: rgb(0, 191, 195);
 font-size: 30pt !important;
 font-weight: normal;
@@ -31,7 +31,7 @@ text-align: left !important;
 }
 
 h3 {
-font-family: Open Sans;
+font-family: "Open Sans";
 color: rgb(0, 191, 195);
 font-size: 24pt !important;
 font-weight: normal;
@@ -39,7 +39,7 @@ text-align: left !important;
 }
 
 h4 {
-font-family: Open Sans;
+font-family: "Open Sans";
 color: rgb(1, 75, 179);
 font-size: 24pt;
 font-weight: normal;
@@ -47,7 +47,7 @@ text-align: left !important;
 }
 
 h5 {
-font-family: Open Sans;
+font-family: "Open Sans";
 font-size: 24pt;
 color: rgb(0, 191, 195);
 font-style: italic;
@@ -56,7 +56,7 @@ text-align: left !important;
 }
 
 h6 {
-font-family: Open Sans;
+font-family: "Open Sans";
 font-size: 18pt;
 font-weight: bold;
 }
