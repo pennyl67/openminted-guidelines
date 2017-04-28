@@ -25,9 +25,10 @@ TDM tools and services should use resources from the following initial list wher
 * **Typesystems**
 
   * used by the software components integrated in the OpenMinTeD platform \(GATE, DKPRO, ALVIS, ARGO and ILSP\)
-    ---
 
   [^1] ISOcat has recently moved to the Clarin Concept Registry \(CCR\) and is currently under curation.
+
+
 
 
 
