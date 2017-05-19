@@ -192,7 +192,7 @@
     * [version](components_version.md)
     * [contactPerson](components_contactPerson.md)
     * [contactEmail](components_contactEmail.md)
-    * [versionDate](versiondate.md)
+    * [landingPage](/components_landingPage.md)
     * [componentType](components_componentType.md)
     * [licence](components_licence.md)
     * [rightsStmtName](components_rightsStmtName.md)
@@ -224,4 +224,6 @@
     * [relatedResource2](components_relatedResource2.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+
+
 
