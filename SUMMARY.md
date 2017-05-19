@@ -176,6 +176,7 @@
       * [relatedResource1](models_relatedResource1.md)
       * [relatedResource2](models_relatedResource2.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
+
   * [Introduction](guidelines_for_providers_of_sw_resources/introduction.md)
   * [Instructions for providers of software components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
     * [How to register your components](guidelines_for_providers_of_sw_resources/how-to-share-your-components.md)
@@ -184,6 +185,7 @@
     * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
   * [Recommended schema for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
+
     * [resourceType](components_resourceType.md)
     * [resourceName](components_resourceName.md)
     * [description](components_description.md)
@@ -195,6 +197,7 @@
     * [rightsStmtName](components_rightsStmtName.md)
 
     * [nonStandardLicenceTermsURL](components_nonStandardLicenceTermsURL.md)
+
     * [version of licence](components_version_of_licence.md)
     * [componentDistributionMedium](components_componentDistributionMedium.md)
     * [accessURL](components_accessURL.md)
@@ -224,6 +227,7 @@
     * [relationType](components_relationType.md)
     * [relatedResource1](components_relatedResource1.md)
     * [relatedResource2](components_relatedResource2.md)
+
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
 
