@@ -2,7 +2,11 @@
 
 ##### Usage
 
-Recommended
+Mandatory under conditions
+
+##### Conditions for usage
+
+For contact information, the data of a contactPerson or an email or a landingPage must be provided
 
 ##### Type
 
