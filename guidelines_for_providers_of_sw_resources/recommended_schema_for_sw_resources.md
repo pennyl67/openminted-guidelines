@@ -8,6 +8,7 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [resourceName](/components_resourceName.md) | M |
 | [description](/components_description.md) | M |
 | [identifier](/components_identifier.md) | M |
+| public\` | M |
 | [version](/components_version.md) | M |
 | [componentDistributionMedium](/components_componentDistributionMedium.md) | M |
 | [componentType](/components_componentType.md) | M |

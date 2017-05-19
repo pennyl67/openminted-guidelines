@@ -188,11 +188,12 @@
     * [resourceName](components_resourceName.md)
     * [description](components_description.md)
     * [identifier](components_identifier.md)
+    * [public](public.md)
     * [version](components_version.md)
     * [componentType](components_componentType.md)
     * [licence](components_licence.md)
     * [rightsStmtName](components_rightsStmtName.md)
-    * [rightsStmtURL](components_rightsStmtURL.md)
+
     * [nonStandardLicenceTermsURL](components_nonStandardLicenceTermsURL.md)
     * [version of licence](components_version_of_licence.md)
     * [componentDistributionMedium](components_componentDistributionMedium.md)
