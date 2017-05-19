@@ -4,12 +4,15 @@ This section includes a synopsis of the recommended schema for sofware resources
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [resourceType](/components_resourceType.md) | M |
-| [resourceName](/components_resourceName.md) | M |
-| [description](/components_description.md) | M |
-| [identifier](/components_identifier.md) | M |
-| public\` | M |
-| [version](/components_version.md) | M |
+| [resourceType](/components_resourceType.md) | Mandatory |
+| [resourceName](/components_resourceName.md) | Mandatory |
+| [description](/components_description.md) | Mandatory |
+| [identifier](/components_identifier.md) | Mandatory |
+| [public](/public)\` | Mandatory |
+| [version](/components_version.md) or [versionDate](/versiondate.md) | Mandatory \(choice: one element must be encoded\) |
+| [contactEmail](/components_contactEmail.md) or [landingPage ](/components_landingPage.md)or [contactPerson](/components_contactPerson.md) | Mandatory \(choice: one element must be encoded\) |
+| [contactGroup](/components_contactGroup.md) | Recommended |
+|  |  |
 | [componentDistributionMedium](/components_componentDistributionMedium.md) | M |
 | [componentType](/components_componentType.md) | M |
 | [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) & [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M |
