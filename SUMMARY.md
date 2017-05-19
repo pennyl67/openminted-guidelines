@@ -193,6 +193,7 @@
     * [contactPerson](components_contactPerson.md)
     * [contactEmail](components_contactEmail.md)
     * [landingPage](/components_landingPage.md)
+    * [contactGroup](components_contactGroup.md)
     * [componentType](components_componentType.md)
     * [licence](components_licence.md)
     * [rightsStmtName](components_rightsStmtName.md)
@@ -200,7 +201,6 @@
     * [accessURL](components_accessURL.md)
     * [contactEmail](components_contactEmail.md)
     * [contactPerson](components_contactPerson.md)
-    * [contactGroup](components_contactGroup.md)
     * [mailingListInfo](components_mailingListInfo.md)
     * [onlineHelpURL](components_onlineHelpURL.md)
     * [issueTracker](components_issueTracker.md)
@@ -224,6 +224,4 @@
     * [relatedResource2](components_relatedResource2.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
-
-
 

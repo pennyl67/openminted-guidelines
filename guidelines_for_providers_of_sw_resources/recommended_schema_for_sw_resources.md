@@ -1,4 +1,4 @@
-## Recommended schema for software resources {#recommended-schema-for-s-w-resources}
+* [ ] ## Recommended schema for software resources {#recommended-schema-for-s-w-resources}
 
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of M\(andatory\) and strongly R\(ecommended\) metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
@@ -17,13 +17,9 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [componentType](/components_componentType.md) | M |
 | [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) & [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M |
 | [version of licence](/components_version_of_licence.md) | M |
-| [contactEmail](/components_contactEmail.md) or [landingPage](/components_landingPage.md) \(one of the two must be provided\) | M |
-| [contactPerson](/components_contactPerson.md) \(identifier or personName\) | R |
-| [contactGroup](/components_contactGroup.md) \(identifier or organizationName\) | R |
-| [mailingList](/components_mailingList.md) \(mailingListName, subscribe, unsubscribe, post, archive, otherArchive\) | R |
-| [issueTracker](/components_issueTracker.md) | R |
-| [onlineHelpURL](/components_onlineHelpURL.md) | R |
-| [mustBeCitedWith](/components_mustBeCitedWith.md) | R |
+| [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
+| [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
+|  |  |
 | [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) \(one of the two should be provided\) | M when applicable |
 | [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | R |
 | [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](/components_mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable |
