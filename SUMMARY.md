@@ -195,6 +195,8 @@
     * [landingPage](/components_landingPage.md)
     * [contactGroup](components_contactGroup.md)
     * [componentType](components_componentType.md)
+    * [application](application.md)
+    * [applicationFunction](applicationfunction.md)
     * [licence](components_licence.md)
     * [rightsStmtName](components_rightsStmtName.md)
     * [nonStandardLicenceTermsURL](components_nonStandardLicenceTermsURL.md)

@@ -9,6 +9,6 @@ ms-omtd:componentType: _access_, _reader_, _writer_, _supportComponent_, _visual
 Specifies the type of the component in terms of the function/task it performs
 ##### Recommended usage
 Please, select one of the predefined values. It should be noted that the values are hierarchically organised, so it's recommended to select the more specific value applicable (e.g. "visualizer" rather than the broader "supportComponent").  
-The current list of values is intended for use mainly by simple components rather than workflows or full applications. The list will be further enriched with values that target the end-users also.
+The current list of values is intended for use mainly by simple components rather than full end-user applications. For these, please use the "applicationFunction" element.
 ##### Relation to other metadata schemas
 * **DCMI:** skos:narrowMatch dct:type
