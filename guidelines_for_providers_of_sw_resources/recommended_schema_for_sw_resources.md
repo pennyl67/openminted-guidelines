@@ -20,6 +20,7 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) | Mandatory \(choice: one element should be encoded\)  |
 | [command](/components_command.md) | Mandatory upon conditions |
 | [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory (choice: one element must be encoded\)  |
+| [nonStandardLicenceName](/components_nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/components_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
 | [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
 |  |  |
