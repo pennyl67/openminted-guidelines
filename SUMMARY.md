@@ -198,6 +198,7 @@
     * [application](components_application.md)
     * [applicationFunction](components_applicationFunction.md)
     * [componentDistributionForm](components_componentDistributionForm.md)
+    * [downloadURL](components_downloadURL.md)
     * [accessURL](components_accessURL.md)
     * [licence](components_licence.md)
     * [rightsStatement](components_rightsStmtName.md)
