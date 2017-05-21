@@ -28,15 +28,17 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [processingResourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Mandatory when applicable |
 | [dataFormat inside inputContentResourceInfo or outputResourceInfo](/components_dataFormat_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Recommended when applicable |
 | [language inside inputContentResourceInfo or outputResourceInfo](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Recommended when applicable |
-| [typesystem inside inputContentResourceInfo or outputResourceInfo](/components_typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [tagset inside inputContentResourceInfo or outputResourceInfo](/components_tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [annotationLevel inside inputContentResourceInfo or outputResourceInfo](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
+| [annotationLevel inside inputContentResourceInfo or outputResourceInfo](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Recommended when applicable |
 | [typesystem](/components_typesystem_inside_componentDependencies.md) | Recommended |
 | [annotationSchema](/components_anotationSchema_inside_componentDependencies.md) | Recommended |
 | [annotationResource](/components_annotationResource_inside_componentDependencies.md) | Recommended |
-| [framework](/components_framework.md) | R |
-| for parameters: parameterName, description, parameterType, mandatory, multiValue | M when applicable |
-| [relationType](/compoments_relationType.md) =isCompatibleWith \(external relation; link to models, annotation resources etc. that can be used with the component\) | R |
+| [framework](/components_framework.md) | Mandatory |
+| for parameters: parameterName, description, parameterType, mandatory, multiValue | Mandatory when applicable |
+| [relationType](/compoments_relationType.md) | Recommended |
+| [relatedResource](/compoments_relatedResource.md) | Mandatory upon conditions |
+
+
+
 
 
 

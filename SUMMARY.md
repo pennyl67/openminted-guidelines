@@ -218,9 +218,10 @@
     * [annotationSchema inside componentDependencies](components_annotationSchema_inside_componentDependencies.md)
     * [annotationResource inside componentDependencies](components_annotationResource_inside_componentDependencies.md)
     * [framework](components_framework.md)
+    * [TDMmethod](components_TDMmethod.md)
     * [relationType](components_relationType.md)
-    * [relatedResource1](components_relatedResource1.md)
-    * [relatedResource2](components_relatedResource2.md)
+    * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+* TDMMethod
 
