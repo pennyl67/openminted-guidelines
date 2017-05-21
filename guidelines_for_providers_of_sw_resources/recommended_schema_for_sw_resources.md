@@ -12,9 +12,9 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [version](/components_version.md) | Mandatory |
 | [contactEmail](/components_contactEmail.md) or [landingPage ](/components_landingPage.md)or [contactPerson](/components_contactPerson.md) | Mandatory \(choice: one element must be encoded\) |
 | [contactGroup](/components_contactGroup.md) | Recommended |
-|  |  |
+|
+| [componentType](/components_componentType.md) | Mandatory |
 | [componentDistributionMedium](/components_componentDistributionMedium.md) | M |
-| [componentType](/components_componentType.md) | M |
 | [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) & [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M |
 | [version of licence](/components_version_of_licence.md) | M |
 | [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
