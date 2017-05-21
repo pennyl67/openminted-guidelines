@@ -215,7 +215,7 @@
     * [tagset inside inputContentResourceInfo or outputResourceInfo](/components_tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [annotationLevel inside inputContentResourceInfo or outputResourceInfo](components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [typesystem inside componentDependencies](/components_typesystem_inside_componentDependencies.md)
-    * [tagset inside componentDependencies](components_tagset_inside_componentDependencies.md)
+    * [annotationSchema inside componentDependencies](components_annotationSchema_inside_componentDependencies.md)
     * [annotationResource inside componentDependencies](components_annotationResource_inside_componentDependencies.md)
     * [framework](components_framework.md)
     * [relationType](components_relationType.md)

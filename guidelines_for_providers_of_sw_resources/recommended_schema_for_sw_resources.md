@@ -31,9 +31,9 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [typesystem inside inputContentResourceInfo or outputResourceInfo](/components_typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
 | [tagset inside inputContentResourceInfo or outputResourceInfo](/components_tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
 | [annotationLevel inside inputContentResourceInfo or outputResourceInfo](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [typesystem](/components_typesystem_inside_componentDependencies.md) | R |
-| [tagset](/components_tagset_inside_componentDependencies.md) | R |
-| [annotationResource](/components_annotationResource_inside_componentDependencies.md) | R |
+| [typesystem](/components_typesystem_inside_componentDependencies.md) | Recommended |
+| [annotationSchema](/components_anotationSchema_inside_componentDependencies.md) | Recommended |
+| [annotationResource](/components_annotationResource_inside_componentDependencies.md) | Recommended |
 | [framework](/components_framework.md) | R |
 | for parameters: parameterName, description, parameterType, mandatory, multiValue | M when applicable |
 | [relationType](/compoments_relationType.md) =isCompatibleWith \(external relation; link to models, annotation resources etc. that can be used with the component\) | R |
