@@ -16,7 +16,7 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [componentType](/components_componentType.md) | Mandatory |
 | [application](/components_application.md) | Mandatory |
 | [applicationFunction](/components_applicationFunction.md) | Mandatory upon conditions |
-| [componentDistributionMedium](/components_componentDistributionMedium.md) | M |
+| [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
 | [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) & [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M |
 | [version of licence](/components_version_of_licence.md) | M |
 | [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
