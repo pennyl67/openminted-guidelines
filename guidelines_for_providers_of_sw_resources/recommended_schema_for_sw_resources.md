@@ -13,6 +13,10 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [contactEmail](/components_contactEmail.md) or [landingPage ](/components_landingPage.md)or [contactPerson](/components_contactPerson.md) | Mandatory \(choice: one element must be encoded\) |
 | [contactGroup](/components_contactGroup.md) | Recommended |
 |
+| [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
+| [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
+|
+| [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | Recommended |
 | [componentType](/components_componentType.md) | Mandatory |
 | [application](/components_application.md) | Mandatory |
 | [applicationFunction](/components_applicationFunction.md) | Mandatory upon conditions |
@@ -21,10 +25,6 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [command](/components_command.md) | Mandatory upon conditions |
 | [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory (choice: one element must be encoded\)  |
 | [nonStandardLicenceName](/components_nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/components_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-| [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
-| [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
-|  |  |
-| [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | R |
 | [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](/components_mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable |
 | [resourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
 | [language inside inputContentResourceInfo or outputResourceInfo](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
