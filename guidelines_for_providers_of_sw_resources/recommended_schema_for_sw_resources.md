@@ -17,12 +17,11 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [application](/components_application.md) | Mandatory |
 | [applicationFunction](/components_applicationFunction.md) | Mandatory upon conditions |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
-| [licence](/components_licence.md) or [rightsStmtName](/components_rightsStmtName.md) & [rightsStmtURL](/components_rightsStmtURL.md) \(one of the two must be provided\) | M |
-| [version of licence](/components_version_of_licence.md) | M |
+| [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) \(one of the two should be provided\) | M when applicable |
+| [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory (choice: one element must be encoded\)  |
 | [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
 | [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
 |  |  |
-| [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) \(one of the two should be provided\) | M when applicable |
 | [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | R |
 | [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](/components_mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable |
 | [resourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
