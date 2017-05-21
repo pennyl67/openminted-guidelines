@@ -1,4 +1,4 @@
-#### resourceType inside inputContentResourceInfo or outputResourceInfo
+#### processingResourceType inside inputContentResourceInfo or outputResourceInfo
 ##### Usage
 Mandatory when applicable
 ##### Conditions for usage

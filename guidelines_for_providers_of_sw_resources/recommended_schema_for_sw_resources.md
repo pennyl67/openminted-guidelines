@@ -25,12 +25,9 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [command](/components_command.md) | Mandatory upon conditions |
 | [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory (choice: one element must be encoded\)  |
 | [nonStandardLicenceName](/components_nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/components_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-| [mediaType inside inputContentResourceInfo or outputResourceInfo \(i.e. mediaType of input and output resource\)](/components_mediaType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | M when applicable |
-| [resourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [language inside inputContentResourceInfo or outputResourceInfo](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [characterEncoding inside inputContentResourceInfo or outputResourceInfo](/components_characterEncoding_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [mimeType inside inputContentResourceInfo or outputResourceInfo](/components_mimeType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
-| [dataFormatSpecific inside inputContentResourceInfo or outputResourceInfo](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
+| [processingResourceType inside inputContentResourceInfo or outputResourceInfo](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Mandatory when applicable |
+| [dataFormat inside inputContentResourceInfo or outputResourceInfo](/components_dataFormat_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Recommended when applicable |
+| [language inside inputContentResourceInfo or outputResourceInfo](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) | Recommended when applicable |
 | [typesystem inside inputContentResourceInfo or outputResourceInfo](/components_typesystem_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
 | [tagset inside inputContentResourceInfo or outputResourceInfo](/components_tagset_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
 | [annotationLevel inside inputContentResourceInfo or outputResourceInfo](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) | R when applicable |
