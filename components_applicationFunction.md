@@ -1,6 +1,8 @@
-#### componentType
+#### applicationFunction
 ##### Usage
 Mandatory upon conditions
+##### Usage conditions
+If application = yes
 ##### Type
 open controlled vocabulary
 ##### Controlled vocabulary reference and/or values

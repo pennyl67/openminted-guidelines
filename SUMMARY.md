@@ -200,6 +200,7 @@
     * [componentDistributionForm](components_componentDistributionForm.md)
     * [downloadURL](components_downloadURL.md)
     * [accessURL](components_accessURL.md)
+    * [command](components_command.md)
     * [licence](components_licence.md)
     * [rightsStatement](components_rightsStmtName.md)
     * [nonStandardLicenceTermsURL](components_nonStandardLicenceTermsURL.md)
