@@ -212,7 +212,13 @@
     * [dataFormat inside inputContentResourceInfo or outputResourceInfo](components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [language inside inputContentResourceInfo or outputResourceInfo](components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [annotationLevel inside inputContentResourceInfo or outputResourceInfo](components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md)
-    * parameterName
+    * [parameterName](components_parameterName.md)
+    * [parameterLabel](components_parameterLabel.md)
+    * [parameterDescription](components_parameterDescription.md)
+    * [parameterType](components_parameterType.md)
+    * [optional](components_optional.md)
+    * [multiValue](components_multiValue.md)
+    * [defaultValue](components_defaultValue.md)
     * [typesystem inside componentDependencies](/components_typesystem_inside_componentDependencies.md)
     * [annotationSchema inside componentDependencies](components_annotationSchema_inside_componentDependencies.md)
     * [annotationResource inside componentDependencies](components_annotationResource_inside_componentDependencies.md)
@@ -222,5 +228,4 @@
     * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
-* TDMMethod
 

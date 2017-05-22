@@ -1,6 +1,6 @@
 * [ ] ## Recommended schema for software resources {#recommended-schema-for-s-w-resources}
 
-This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of M\(andatory\) and strongly R\(ecommended\) metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
+This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
@@ -27,12 +27,11 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [dataFormat](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Recommended when applicable |
 | [language](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Recommended when applicable |
 | [annotationLevel](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Recommended when applicable |
+| for parameters: [parameterName](/components_parameterName), [parameterLabel](/components_parameterLabel), [parameterDescription](/components_parameterDescription), [parameterType](/components_parameterType), [optional](/components_optional), [multiValue](/components_multiValue), [defaultValue](/components_defaultValue) | Mandatory when applicable |
 | [typesystem](/components_typesystem_inside_componentDependencies.md) inside componentDependencies | Recommended |
-|  |  |
 | [annotationSchema](/components_anotationSchema_inside_componentDependencies.md) inside componentDependencies | Recommended |
 | [annotationResource](/components_annotationResource_inside_componentDependencies.md) inside componentDependencies | Recommended |
 | [framework](/components_framework.md) | Mandatory |
-| for parameters: parameterName, parameterLabel, parameterDescription, parameterType, optional, multiValue, defaultValue | Mandatory when applicable |
 | [relationType](/compoments_relationType.md) | Recommended |
 | [relatedResource](/compoments_relatedResource.md) | Mandatory upon conditions |
 
