@@ -1,4 +1,4 @@
-* [ ] ## Recommended schema for software resources {#recommended-schema-for-s-w-resources}
+### Recommended schema for software resources {#recommended-schema-for-s-w-resources}
 
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
