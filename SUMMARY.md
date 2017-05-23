@@ -18,7 +18,7 @@
     * [identifier](publications_identifier.md)
     * [title](publications_title.md)
     * [licence](publications_licence.md)
-    * [rightsStatement](rightsstatemet.md)
+    * [rightsStatement](/publications_rightsStatement.md)
     * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](publications_nonStandardLicenceTermsURL.md)
     * [distributionMedium](publications_distributionMedium.md)
@@ -203,7 +203,7 @@
     * [accessURL](components_accessURL.md)
     * [command](components_command.md)
     * [licence](components_licence.md)
-    * [rightsStatement](components_rightsStmtName.md)
+    * [rightsStatement](/components_rightsStatement.md)
     * [nonStandardLicenceName](components_nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](components_nonStandardLicenceTermsURL.md)
     * [resourceType inside inputContentResourceInfo or outputResourceInfo](components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md)
@@ -226,4 +226,6 @@
     * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+
+
 
