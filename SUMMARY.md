@@ -18,8 +18,7 @@
     * [identifier](publications_identifier.md)
     * [title](publications_title.md)
     * [licence](publications_licence.md)
-    * [rightsStmtName](publications_rightsStmtName.md)
-    * [rightsStmtURL](publications_rightsStmtURL.md)
+    * [rightsStatement](rightsstatemet.md)
     * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](publications_nonStandardLicenceTermsURL.md)
     * [version of licence](publications_version_of_licence.md)
@@ -228,4 +227,6 @@
     * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+
+
 

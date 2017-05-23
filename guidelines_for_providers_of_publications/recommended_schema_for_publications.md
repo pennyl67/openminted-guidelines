@@ -1,17 +1,17 @@
 ## ​Recommended schema for publications {#recommended-schema-for-publications}
 
-This section includes the overview of the recommended OMTD-SHARE schema for publications, i.e. the subset of M\(andatory\) and strongly R\(ecommended\) metadata elements. 
+This section includes the overview of the recommended OMTD-SHARE schema for publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.  
 Only elements related to the description of the resource are presented here; additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are handled internally by the OpenMinTeD platform.
 
 For annotated publications, see [here](/guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md).
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [documentType](/publications_documentType.md) | M |
-| [publicationType](/publications_publicationType.md) | M |
-| [identifier](/publications_identifier.md) | M |
-| [title](/publications_title.md) | M |
-| [licence](/publications_licence.md) or [rightsStmtName](/publications_rightsStmtName.md) & [rightsStmtURL](/publications_rightsStmtURL.md) \(one of the two must be provided\) | M |
+| [documentType](/publications_documentType.md) | Mandatory |
+| [publicationType](/publications_publicationType.md) | Mandatory |
+| [identifier](/publications_identifier.md) | Mandatory |
+| [title](/publications_title.md) | Mandatory |
+| [licence](/publications_licence.md) or [rightsStatement](//publications_rightsStatement) | Mandatory \(choice: one element must be encoded\) |
 | [nonStandardLicenceName](/publications_nonStandardLicenceName.md) | R when applicable |
 | [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | M when applicable |
 | [version of licence](/publications_version_of_licence.md) | Μ |
@@ -37,4 +37,6 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [relationType ](/publications_relationType.md) | R |
 | [relatedResource1 ](/publications_relatedResource1.md) | M when applicable |
 | [relatedResource2 ](/publications_relatedResource2.md) | M when applicable |
+
+
 
