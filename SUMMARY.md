@@ -21,7 +21,6 @@
     * [rightsStatement](rightsstatemet.md)
     * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](publications_nonStandardLicenceTermsURL.md)
-    * [version of licence](publications_version_of_licence.md)
     * [distributionMedium](publications_distributionMedium.md)
     * [downloadURL](publications_downloadURL.md)
     * [documentLanguage](publications_documentLanguage.md)
@@ -227,6 +226,4 @@
     * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
-
-
 

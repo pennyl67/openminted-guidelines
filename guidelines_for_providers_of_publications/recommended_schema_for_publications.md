@@ -12,9 +12,7 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [identifier](/publications_identifier.md) | Mandatory |
 | [title](/publications_title.md) | Mandatory |
 | [licence](/publications_licence.md) or [rightsStatement](//publications_rightsStatement) | Mandatory \(choice: one element must be encoded\) |
-| [nonStandardLicenceName](/publications_nonStandardLicenceName.md) | R when applicable |
-| [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | M when applicable |
-| [version of licence](/publications_version_of_licence.md) | Μ |
+| [nonStandardLicenceName](/publications_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/publications_distributionMedium.md) | M |
 | [downloadURL ](/publications_downloadURL.md) | Μ when applicable |
 | [documentLanguage](/publications_documentLanguage.md) | M |
