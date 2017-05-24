@@ -10,6 +10,13 @@ To provide your resources in OpenMinTeD for TDM purposes, you can:
 * deposit them through one of the aggregators, following their respective guidelines and procedures - for more information, see ~~link~~,
 * provide them through your API, using the content connector that has been built in the OpenMinTeD framework that allows harvesting of open access publications through the APIs of publishers that allow this. ~~further info or requirements for this??~~
 
+For each publication you must provide:
+* the **full text** of the publication in a format that can be processed (see ~~link~~)
+* a **metadata description** with the elements that are used as criteria for the end-user queries (see ~~link~~ for more information). The metadata must be compatible with the OMTD-SHARE schema;   mappings from the OpenAIRE and CORE schemas are also provided.
+
+
+
+
 ### Deployment of publications in OpenMinTeD {#Deployment of publications in OpenMinTeD}
 Scholarly publications are imported into OpenMinTeD for TDM processing via _**the creation of corpora upon queries submitted by the end-users**_. 
 Researchers can build a corpus by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", in order to run TDM services on them. 
@@ -20,9 +27,6 @@ As one of the first steps of building a corpus of scholarly publications, end-us
 
 Thus, a corpus included in the OpenMinTeD Registry essentially consists of a list of publications. Each publication is identified (equivalent to a primary key) by its content (full text pdf) hash vialue and a set of metadata files (compatible with the OMTD-SHARE schema) that describe the resource. In most cases, this set consists of just one item; still, it cannot be ruled out that the same resource is described by multiple metadata files (for example, different metadata files from CORE or OpenAIRE, updates in metadata fields, richer metadata from a content provider, etc.) 
 
-T**he ingredients, therefore, that are essential for providing publications into OpenMinTeD are**:
-* the **full text** of the publication in a format that can be processed (see link)
-* a **metadata description** of the publication with the elements that are used as criteria for the user queries; the metadata must be compatible with the OMTD-SHARE schema;   mappings from the OpenAIRE and CORE schemas are also provided.
 
 
 
