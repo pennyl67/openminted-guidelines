@@ -10,11 +10,6 @@ To provide your resources in OpenMinTeD for TDM purposes, you can:
 * deposit them through one of the aggregators, following their respective guidelines and procedures - for more information, see ~~link~~,
 * provide them through your API, using the content connector that has been built in the OpenMinTeD framework that allows harvesting of open access publications through the APIs of publishers that allow this. ~~further info or requirements for this??~~
 
-For each publication you must provide:
-* the **full text** of the publication in a format that can be processed (see ~~link~~)
-* a **metadata description** with the elements that are used as criteria for the end-user queries (see ~~link~~ for more information). The metadata must be compatible with the OMTD-SHARE schema;   mappings from the OpenAIRE and CORE schemas are also provided.
-
-
 
 
 ### Deployment of publications in OpenMinTeD {#Deployment of publications in OpenMinTeD}
