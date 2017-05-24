@@ -9,16 +9,14 @@ If you wish to register publications that can be harvested for TDM purposes thro
 OR
 
 * by registering through [CORE](http://core.ac.uk), following procedures at: [https://core.ac.uk/join](https://core.ac.uk/join)
-~~
-Add here procedure for content connector:
-the content connector that has been built in the OpenMinTeD framework that allows harvesting of open access publications through the APIs of publishers that allow this. further info or requirements for this?~~
+
 
 
 ### Minimal requirements
 
 For each publication, you must deliver:
 * a file with the **full text** 
-* a **metadata description** with at least bibliographic information about it, in preference following the ~~OpenAIRE guidelines~~; these metadata elements are mapped into the ~~OMTD-SHARE metadata schema~~ and used for creating uniform facets for accessing the entire set of publications imported in OpenMinTeD from different sources (see ~~link~~ for more information on the deployment of publications in OpenMinTeD).
+* a **metadata description** with at least bibliographic information about it, in preference following the OpenAIRE guidelines; these metadata elements are mapped into the OMTD-SHARE metadata schema and used for creating uniform facets for accessing the entire set of publications imported in OpenMinTeD from different sources (see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD).
 
 To be fully compatible with OpenMinTeD, you must
 * ensure that the publications are distributed under Open Access conditions
@@ -31,7 +29,7 @@ If you wish your material to be easily processable and interoperable with TDM to
 
 * The preferred **formats** for delivering textual material are plain text, XML, PDF \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers.
 
-* If appropriate for your material, use one of the **more specific data formats** that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormatSpecific](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md%29\)\).
+* If appropriate for your material, use one of the **more specific data formats** that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormat](/publications_dataFormat.md)\).
 
 * The preferred **character encoding** is UTF-8.
 
