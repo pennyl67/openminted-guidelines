@@ -9,7 +9,7 @@ In addition, the following recommendations contribute to interoperability and ma
 
 * The preferred **formats **for delivering textual material are plain text, XML, PDF \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers.
 
-* If appropriate for your material, use one of the more specific **data formats **that are already covered by readers and converters \(cf. [dataFormatSpecific](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md%29%29%29\)\).
+* If appropriate for your material, use one of the more specific **data formats **that are already covered by readers and converters \(cf. [dataFormat](/publications_dataFormat)\).
 
 * The preferred **character encoding** is UTF-8.
 

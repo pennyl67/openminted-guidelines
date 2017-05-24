@@ -52,7 +52,6 @@
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
   * [​Introduction](guidelines_for_providers_of_corpora/introduction.md)
   * [Instructions for providers of corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
-    * [How to register your resources](guidelines_for_providers_of_corpora/how-to-share-your-resources.md)
     * [How to make your resources interoperable](guidelines_for_providers_of_corpora/how-to-make-your-resources-interoperable.md)
     * [How to document your resources](guidelines_for_providers_of_corpora/how-to-document-your-resources.md)
     * [Further requirements for annotated corpora](guidelines_for_providers_of_corpora/further-requirements-for-annotated-corpora.md)
