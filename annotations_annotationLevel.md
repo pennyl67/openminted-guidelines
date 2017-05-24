@@ -1,6 +1,6 @@
 #### annotationLevel
 ##### Usage
-M when applicable
+Mandatory when applicable
 ##### Conditions for usage
 for all annotated resources
 ##### Type
