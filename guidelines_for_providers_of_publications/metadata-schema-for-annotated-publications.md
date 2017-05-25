@@ -1,4 +1,4 @@
-### Recommended metadata schema for annotated publications {#metadata-schema-for-annotated-publications}
+### Recommended metadata for annotated publications {#metadata-schema-for-annotated-publications}
 
 Annotated publications are documented as separate resources with a link to the raw publication and their own set of metadata elements providing information on the annotation process, tool etc.
 

@@ -1,8 +1,6 @@
-## ​Recommended schema for corpora {#recommended-schema-for-corpora}
+## ​Recommended metadata for corpora {#recommended-schema-for-corpora}
 
-### Overview {#overview}
-
-This section includes a synopsis of the minimal schema for corpora, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements. Additional elements required for the management of the metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
+This section includes a synopsis of the minimal schema for corpora, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements. Additional elements required for the management of metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OMTD platform.
 
 For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 

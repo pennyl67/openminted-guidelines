@@ -1,4 +1,4 @@
-### Metadata schema for annotated corpora {#metadata-schema-for-annotated-corpora}
+### Recommended metadata for annotated corpora {#metadata-schema-for-annotated-corpora}
 
 Annotated corpora are documented as separate resources
 
