@@ -1,4 +1,4 @@
-## ​Recommended schema for publications {#recommended-schema-for-publications}
+## ​Recommended metadata schema for publications {#recommended-schema-for-publications}
 
 This section includes the overview of the recommended OMTD-SHARE schema for publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.  
 The first table includes elements related to the description of the resource.
@@ -29,6 +29,7 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [keyword ](/publications_keyword.md) | Recommended |
 | [relationType ](/publications_relationType.md) | Recommended |
 | [relatedResource ](/publications_relatedResource.md) | Mandatory when applicable |
+
 
 
 This table includes elements relevant to the source of the original metadata and the document which are required mainly for the management of the OMTD-SHARE metadata record.

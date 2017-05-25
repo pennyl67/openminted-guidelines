@@ -6,7 +6,7 @@ For the first phase of the project, OpenAIRE and CORE will bring content resourc
 * Provide search capabilities on the metadata
 * Provide the actual content \(e.g. fulltext in the case of publications\)
 
-### How to register your resources {#how-to-share-your-resources}
+### How to connect to OpenMinTeD
 
 Interested content providers must implement a Java interface, called **ContentConnector**, which can be found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). The implementation is then included in the code of the ContentService of the OpenMinTeD platform. This interface specifies three methods:
 
@@ -28,10 +28,7 @@ For each publication, you must deliver:
 
 It should be noted that the original resource providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
 
-To be fully compatible with OpenMinTeD, you must
-* ensure that the publications are distributed under Open Access conditions
-* include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication
-* if you already have a PID for your publication \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information on identifier schemes\).
+For further requirements and recommendations that ensure compatibility of publications with OpenMinTeD tools and services, please see here.
 
 
 ---
