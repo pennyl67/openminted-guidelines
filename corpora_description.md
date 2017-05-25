@@ -6,7 +6,7 @@ Multilingual free text
 ##### Attributes
 xs:lang
 ##### Definition/Explanations
-Provides the description of the resource in prose
+A short free-text account that provides information about the resource (e.g. function, contents, technical information etc.)
 ##### Recommended usage
 Give a brief yet informative description of the corpus contents, mentioning at least language(s), subject(s)/domain(s) and, if possible, size and provenance. 
 Please, provide the text in English; if you want to add texts in other languages, you can add them using the “lang” attribute to specify the language.

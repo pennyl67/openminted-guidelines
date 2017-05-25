@@ -57,7 +57,7 @@
     * [resourceType](corpora_resourceType.md)
     * [description](corpora_description.md)
     * [identifier](corpora_identifier.md)
-    * public
+    * [public](corpora_public.md)
     * [version](corpora_version.md)
     * [licence](corpora_licence.md)
     * [rightsStmtName](corpora_rightsStmtName.md)
@@ -174,7 +174,7 @@
     * [resourceName](components_resourceName.md)
     * [description](components_description.md)
     * [identifier](components_identifier.md)
-    * [public](public.md)
+    * [public](components_public.md)
     * [version](components_version.md)
     * [contactPerson](components_contactPerson.md)
     * [contactEmail](components_contactEmail.md)
