@@ -168,9 +168,8 @@
       * [relatedResource2](models_relatedResource2.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
   * [Instructions for providers of software components](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
-  * [How to make your components interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
-  * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
-  * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
+    * [How to make your components interoperable](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
+    * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
   * [Recommended metadata for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [resourceType](components_resourceType.md)
     * [resourceName](components_resourceName.md)
@@ -214,6 +213,8 @@
     * [TDMmethod](components_TDMmethod.md)
     * [relationType](components_relationType.md)
     * [relatedResource](components_relatedResource.md)
+  * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
+
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
 
