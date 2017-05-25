@@ -13,14 +13,15 @@ For annotated publications, see [here](/guidelines_for_providers_of_publications
 | [title](/publications_title.md) | Mandatory |
 | [licence](/publications_licence.md) or [rightsStatement](//publications_rightsStatement) | Mandatory \(choice: one element must be encoded\) |
 | [nonStandardLicenceName](/publications_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-| [distributionMedium](/publications_distributionMedium.md) | M |
-| [downloadURL ](/publications_downloadURL.md) | Μ when applicable |
+| [distributionMedium](/publications_distributionMedium.md) | Mandatory |
+| hashkey | Mandatory |
+| [downloadURL ](/publications_downloadURL.md) | Μandatory when applicable |
 | [documentLanguage](/publications_documentLanguage.md) | M |
 | [fullText](/publications_fullText.md) | R |
 | [abstract](/publications_abstract.md) | R |
-| [author](/publications_author.md) | R |
-| [publisher](/publications_publisher.md) | R |
-| [journal](/publications_journal.md) | R |
+| [author](/publications_author.md) | Recommended |
+| [publisher](/publications_publisher.md) | Recommended |
+| [journal](/publications_journal.md) | Mandatory when applicable |
 | [mimeType](/publications_mimeType.md) | R |
 | [characterEncoding](/publications_characterEncoding.md) | R |
 | [publicationDate](/publications_publicationDate.md) | R |

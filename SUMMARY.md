@@ -22,6 +22,7 @@
     * [nonStandardLicenceName](publications_nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](publications_nonStandardLicenceTermsURL.md)
     * [distributionMedium](publications_distributionMedium.md)
+    * [hashkey](/publications_hashkey.md)
     * [downloadURL](publications_downloadURL.md)
     * [documentLanguage](publications_documentLanguage.md)
     * [fullText](publications_fullText.md)
