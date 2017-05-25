@@ -6,10 +6,11 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [resourceType](/corpora_resourceType.md) | Μ |
-| [resourceName](/corpora_resourceName.md) | Μ |
-| [description](/corpora_description.md) | Μ |
-| [identifier](/corpora_identifier.md) | Μ |
+| [resourceType](/corpora_resourceType.md) | Μandatory |
+| [resourceName](/corpora_resourceName.md) | Μandatory |
+| [description](/corpora_description.md) | Μandatory |
+| [identifier](/corpora_identifier.md) | Μandatory |
+| [public](/corpora_public)\` | Mandatory |
 | [version](/corpora_version.md) | M |
 | [licence](/corpora_licence.md) or [rightsStmtName](/corpora_rightsStmtName.md) & [rightsStmtURL](/corpora_rightsStmtURL.md) \(one of the two must be provided\) | Μ |
 | [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) | R when applicable |

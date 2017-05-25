@@ -8,7 +8,7 @@ This section includes a synopsis of the recommended schema for sofware resources
 | [resourceName](/components_resourceName.md) | Mandatory |
 | [description](/components_description.md) | Mandatory |
 | [identifier](/components_identifier.md) | Mandatory |
-| [public](/public)\` | Mandatory |
+| [public](/components_public)\` | Mandatory |
 | [version](/components_version.md) | Mandatory |
 | [contactEmail](/components_contactEmail.md) or [landingPage ](/components_landingPage.md)or [contactPerson](/components_contactPerson.md) | Mandatory \(choice: one element must be encoded\) |
 | [contactGroup](/components_contactGroup.md) | Recommended |

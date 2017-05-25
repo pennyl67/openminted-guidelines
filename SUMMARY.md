@@ -57,6 +57,7 @@
     * [resourceType](corpora_resourceType.md)
     * [description](corpora_description.md)
     * [identifier](corpora_identifier.md)
+    * public
     * [version](corpora_version.md)
     * [licence](corpora_licence.md)
     * [rightsStmtName](corpora_rightsStmtName.md)
@@ -81,7 +82,7 @@
     * [sizePerLanguage](corpora_sizePerLanguage.md)
     * [size](corpora_size.md)
     * [mimeType](corpora_mimeType.md)
-    * [characterEncoding](corpora_characterEncoding.md)
+    * public
     * [domain](corpora_domain.md)
     * [subject](corpora_subject.md)
     * [keyword](corpora_keyword.md)
