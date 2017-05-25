@@ -52,7 +52,7 @@
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
   * [How to register corpora in OpenMinTeD](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
   * [How to make your resources compatible with OpenMinTeD and further recommendations](guidelines_for_providers_of_corpora/how-to-make-your-resources-interoperable.md)
-  * [​Recommended schema for corpora](guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md)
+  * [​Recommended metadata for corpora](guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md)
     * [resourceName](corpora_resourceName.md)
     * [resourceType](corpora_resourceType.md)
     * [description](corpora_description.md)
