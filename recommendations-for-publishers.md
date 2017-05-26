@@ -1,4 +1,4 @@
-## Making publications processable for TDM: requirements and recommendations 
+## Achieving compatibility with OpenMinTeD and interoperability across TDM resources 
 
 To be **fully compatible with OpenMinTeD**, you must
 * ensure that the publications are distributed under Open Access conditions

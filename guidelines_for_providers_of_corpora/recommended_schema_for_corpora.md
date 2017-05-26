@@ -11,7 +11,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [description](/corpora_description.md) | Μandatory |
 | [resourceIdentifier](/corpora_identifier.md) | Μandatory |
 | [public](/corpora_public.md) | Mandatory |
-| [version](/corpora_version.md) | M |
+| [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory |
 | [licence](/corpora_licence.md) or [rightsStmtName](/corpora_rightsStmtName.md) & [rightsStmtURL](/corpora_rightsStmtURL.md) \(one of the two must be provided\) | Μ |
 | [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) | R when applicable |
 | [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Μ when applicable |
