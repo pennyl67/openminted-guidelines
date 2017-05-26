@@ -74,7 +74,7 @@
     * [mustBeCitedWith](corpora_mustBeCitedWith.md)
     * [resourceCreator](corpora_resourceCreator.md)
     * [creationDate](corpora_creationDate.md)
-    * [corpusType](corpora_corpusType.md)
+    * [corpusSubtype](corpora_corpusType.md)
     * [mediaType](corpora_mediaType.md)
     * [lingualityType](corpora_lingualityType.md)
     * [multilingualityType](corpora_multilingualityType.md)

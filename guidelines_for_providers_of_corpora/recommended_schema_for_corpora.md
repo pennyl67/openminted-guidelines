@@ -15,13 +15,13 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [contactGroup](/corpora_contactGroup.md) | Recommended |
 | [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory |
 | [licence](/corpora_licence.md) or [rightsStatement](/corpora_rightsStatement.md) | Mandatory (choice: one element must be encoded) |
-| [nonStandardLicenceName](/corpora_nonStandardLicenceName.md)and [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
 | [distributionURL](/corpora_distributionURL.md) | Μandatory when applicable |
-| [mustBeCitedWith](/corpora_mustBeCitedWith.md) | R |
-| [resourceCreator](/corpora_resourceCreator.md) | R |
-| [creationDate](/corpora_creationDate.md) | R \(M for query-built corpora\) |
-| [corpusType](/corpora_corpusType.md) | Μ |
+| [mustBeCitedWith](/corpora_mustBeCitedWith.md) | Recommended |
+| [resourceCreator](/corpora_resourceCreator.md) | Recommended |
+| [creationDate](/corpora_creationDate.md) | Recommended \(Mandatory for query- built corpora\) |
+| [corpusSubtype](/corpora_corpusSubtype.md) | Μ |
 | [mediaType](/corpora_mediaType.md) | Μ |
 | [lingualityType](/corpora_lingualityType.md) | Μ |
 | [multilingualityType](/corpora_multilingualityType.md) | Μ when applicable |
