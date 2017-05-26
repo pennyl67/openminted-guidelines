@@ -1,13 +1,12 @@
-## Requirements and recommendations for interoperability
+## Making publications processable for TDM: requirements and recommendations 
 
-To be fully compatible with OpenMinTeD, you must
+To be **fully compatible with OpenMinTeD**, you must
 * ensure that the publications are distributed under Open Access conditions
-* include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication
+* include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication; using a standard licence, such as Creative Commons the most recent version, is recommended
 * if you already have a PID for your publication \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information on identifier schemes\).
 
-### Further recommendations for publications
 
-If you wish your material to be easily processable and interoperable with TDM tools and services, you should adopt the following recommendations:
+If you wish your material to be **easily processable and interoperable with TDM tools and services**, you should adopt the following **recommendations**:
 
 * The preferred **formats** for delivering textual material are plain text, XML, PDF \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers.
 

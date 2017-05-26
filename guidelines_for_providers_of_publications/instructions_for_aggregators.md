@@ -1,10 +1,10 @@
-## ​Instructions for providing publications directly into OpenMinTeD {#instructions-for-openaire-and-core}
+## Uploading publications directly into OpenMinTeD (for aggregators) {#instructions-for-openaire-and-core}
 
-For the first phase of the project, OpenAIRE and CORE will bring content resources into OpenMinTeD through user queries. For next versions, interested content providers will be able to contribute directly to OpenMinTeD if they implement the following:
+For the first phase of the project, **OpenAIRE **and **CORE **will bring content resources into OpenMinTeD through user queries. For next versions, interested content providers will be able to contribute directly to OpenMinTeD if they implement the following:
 
 * Map the metadata of their contents to the OMTD-SHARE schema
 * Provide search capabilities on the metadata
-* Provide the actual content \(e.g. fulltext in the case of publications\)
+* Provide the actual content \(e.g. full text in the case of publications\)
 
 ### How to connect to OpenMinTeD
 
@@ -22,13 +22,11 @@ Additional technical information is provided in the Java code of the interface.
 
 For each publication, you must deliver:
 * a file with the **full text** 
-* a **metadata description** with a minimal set of metadata elements in compliance with the OMTD-SHARE schema for publications and in XML format.
-
-(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD).
+* a **metadata description** with a minimal set of metadata elements in compliance with the **OMTD-SHARE schema** for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD (see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD).
 
 It should be noted that the original resource providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
 
-For further requirements and recommendations that ensure compatibility of publications with OpenMinTeD tools and services, please see here.
+For further requirements and recommendations that ensure compatibility of publications with OpenMinTeD tools and services, please see [here](/recommendations-for-publishers.md).
 
 
 ---

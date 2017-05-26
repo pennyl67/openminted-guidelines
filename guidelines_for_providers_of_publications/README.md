@@ -6,6 +6,6 @@ OpenMinTeD relies on existing infrastructures and standards/best practices for i
 
 If you are a publisher or a repository of scholarly publications and wish to provide your resources in OpenMinTeD for TDM purposes, you can:
 * deposit them through one of the aggregators, following their respective guidelines and procedures - for more information, see [here](/guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md),
-* provide them directly into OpenMinTeD through your API, using the content connector that has been built in the project framework that allows harvesting of open access publications through the APIs of publishers that allow this - for more information, see [here](/guidelines_for_providers_of_publications/instructions_for_aggregators.md).
+* provide them directly into OpenMinTeD by implementing a content connector as described [here](/guidelines_for_providers_of_publications/instructions_for_aggregators.md).
 
 
