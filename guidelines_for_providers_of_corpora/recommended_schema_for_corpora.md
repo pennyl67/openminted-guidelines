@@ -11,16 +11,13 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [description](/corpora_description.md) | Μandatory |
 | [resourceIdentifier](/corpora_identifier.md) | Μandatory |
 | [public](/corpora_public.md) | Mandatory |
+| [contactEmail](/corpora_contactEmail.md) or [landingPage](/corpora_landingPage.md) or [contactPerson](/corpora_contactPerson.md)  | Μandatory  \(choice:one element must be encoded) |
+| [contactGroup](/corpora_contactGroup.md) | Recommended |
 | [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory |
-| [licence](/corpora_licence.md) or [rightsStmtName](/corpora_rightsStmtName.md) & [rightsStmtURL](/corpora_rightsStmtURL.md) \(one of the two must be provided\) | Μ |
-| [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) | R when applicable |
-| [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Μ when applicable |
-| [version of licence](/corpora_version_of_licence.md) | Μ |
-| [distributionMedium](/corpora_distributionMedium.md) | Μ |
-| [downloadURL](/corpora_downloadURL.md) | Μ when applicable |
-| [contactEmail](/corpora_contactEmail.md) or [landingPage](/corpora_landingPage.md) \(one of the two must be provided\) | Μ |
-| [contactPerson (identifier or personName)](/corpora_contactPerson.md) | R |
-| [contactGroup (identifier or organizationName](/corpora_contactGroup.md) | R |
+| [licence](/corpora_licence.md) or [rightsStatement](/corpora_rightsStatement.md) | Mandatory (choice: one element must be encoded) |
+| [nonStandardLicenceName](/corpora_nonStandardLicenceName.md)and [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
+| [distributionURL](/corpora_distributionURL.md) | Μandatory when applicable |
 | [mustBeCitedWith](/corpora_mustBeCitedWith.md) | R |
 | [resourceCreator](/corpora_resourceCreator.md) | R |
 | [creationDate](/corpora_creationDate.md) | R \(M for query-built corpora\) |
