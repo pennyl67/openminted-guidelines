@@ -7,7 +7,7 @@ These elements have been selected so as to help
 * classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research: documentType, publicationType, subject, keyword
 * describe the legal terms for using the publication: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
 * encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, documentLanguage, characterEncoding, relationType, relatedResource
-* give access to the contents: distributionMedium, hashkey, downloadURL, abstract, fullText.
+* give access to the contents: distributionMedium, hashkey, distributionURL, abstract, fullText.
 
 This set of elements is described below in the first table and in the next sections in more detail.
 For publications, an additional set of metadata elements relevant to the source of the original metadata and the document itself are required mainly for the management of the OMTD-SHARE metadata record and are presented in the second table.
@@ -23,7 +23,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [nonStandardLicenceName](/publications_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/publications_distributionMedium.md) | Mandatory |
 | [hashkey](/publications_hashkey.md) | Mandatory |
-| [downloadURL ](/publications_downloadURL.md) | Μandatory when applicable |
+| [distributionURL ](/publications_distributionURL.md) | Μandatory when applicable |
 | [author](/publications_author.md) | Recommended |
 | [publisher](/publications_publisher.md) | Recommended |
 | [journal](/publications_journal.md) | Mandatory when applicable |
