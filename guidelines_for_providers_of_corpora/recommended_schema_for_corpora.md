@@ -3,13 +3,12 @@
 This section includes a synopsis of the minimal schema for corpora, i.e. the subset of Mandatory and strongly Recommended metadata elements. Additional elements required for the management of metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OpenMinTeD platform.
 
 These elements have been selected so as to help 
-* identify the corpus: resourceIdentifier, resourceName, description 
-* classify the publication along a variety of criteria that end-users can apply for locating corpora of interest for their research: domain, keyword
-* describe the legal terms for using the publication: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
-* encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, language, characterEncoding, relationType, relatedResource
+* identify the corpus and provide information about it: resourceIdentifier, resourceName, version, description, contactPerson, contactEmail, contactGroup, landingPage
+* describe the legal terms for using the corpus: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
+* encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, language, characterEncoding, corpusSubtype, mediaType, relationType, relatedResource
 * give access to the contents: distributionMedium, distributionURL
+* classify the corpus along a variety of criteria that end-users can apply for locating corpora of interest for their research: domain, keyword
 * contribute to attribution, citation and reproducibility of experiments: resourceCreator, creationDate, userQuery, mustBeCitedWith.
-
 
 For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
