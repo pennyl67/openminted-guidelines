@@ -2,7 +2,7 @@
 
 To be **fully compatible with OpenMinTeD**, you must
 * ensure that the publications are distributed under Open Access conditions
-* include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication; using a standard licence, such as Creative Commons the most recent version, is recommended
+* include in the metadata record of each publication a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the publication; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 * if you already have a PID for your publication \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information on identifier schemes\).
 
 
