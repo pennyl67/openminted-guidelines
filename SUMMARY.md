@@ -57,7 +57,7 @@
     * [resourceName](corpora_resourceName.md)
     * [resourceType](corpora_resourceType.md)
     * [description](corpora_description.md)
-    * [identifier](corpora_identifier.md)
+    * [resourceIdentifier](corpora_identifier.md)
     * [public](corpora_public.md)
     * [version](corpora_version.md)
     * [versionDate](corpora_versionDate.md)

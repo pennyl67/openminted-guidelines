@@ -5,15 +5,15 @@ Annotated publications are documented as separate resources with a link to the r
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [publicationIdentifier](\publications_identifier.md) | Mandatory |
-| [annotationLevel](\annotations_annotationLevel.md) | Mandatory |
-| [annotationStandoff](\annotations_annotationStandoff.md) | Recommended |
-| [dataFormat](\annotations_dataFormat.md) | Recommended |
-| [typesystem](\annotations_typesystem.md) | Recommended |
-| [annotationSchema](\annotations_annotationSchema.md) | Recommended |
-| [annotationResource](\annotations_annotationResource.md) | Recommended |
-| [annotationMode](\annotations_annotationMode.md) | Recommended |
-| [isAnnotatedBy](\annotations_isAnnotatedBy.md) | Recommended |
-| [annotationDate](\annotations_annotationDate.md) | Recommended |
+| [publicationIdentifier](/publications_identifier.md) | Mandatory |
+| [annotationLevel](/annotations_annotationLevel.md) | Mandatory |
+| [annotationStandoff](/annotations_annotationStandoff.md) | Recommended |
+| [dataFormat](/annotations_dataFormat.md) | Recommended |
+| [typesystem](/annotations_typesystem.md) | Recommended |
+| [annotationSchema](/annotations_annotationSchema.md) | Recommended |
+| [annotationResource](/annotations_annotationResource.md) | Recommended |
+| [annotationMode](/annotations_annotationMode.md) | Recommended |
+| [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
+| [annotationDate](/annotations_annotationDate.md) | Recommended |
 
 

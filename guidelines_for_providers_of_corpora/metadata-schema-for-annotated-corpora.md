@@ -7,18 +7,16 @@ Annotated corpora are documented as separate resources
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [resourceIdentifier](\corpora_identifier.md) | M |
-| [annotationLevel](\annotations_annotationLevel.md) | M |
-| [annotationStandoff](\annotations_annotationStandoff.md) | R |
-| [mimeType](\annotations_mimeType.md) | R |
-| [dataFormatSpecific](\annotations_dataFormatSpecific.md) | R |
-| [documentationURL](\annotations_documentationURL.md) | R |
-| [characterEncoding](\annotations_characterEncoding.md) | R |
-| [typesystem](\annotations_typesystem.md) | R |
-| [tagset](\annotations_tagset.md) | R |
-| [annotationMode](\annotations_annotationMode.md) | R |
-| [isAnnotatedBy](\annotations_isAnnotatedBy.md) | R |
-| [annotationDate](\annotations_annotationDate.md) | R |
+| [resourceIdentifier](/corpora_identifier.md) | Mandatory |
+| [annotationLevel](/annotations_annotationLevel.md) | Mandatory |
+| [annotationStandoff](/annotations_annotationStandoff.md) | Recommended |
+| [dataFormat](/annotations_dataFormat.md) | Recommended |
+| [typesystem](/annotations_typesystem.md) | Recommended |
+| [annotationSchema](/annotations_annotationSchema.md) | Recommended |
+| [annotationResource](/annotations_annotationResource.md) | Recommended |
+| [annotationMode](/annotations_annotationMode.md) | Recommended |
+| [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
+| [annotationDate](/annotations_annotationDate.md) | Recommended |
 
 
 
