@@ -2,6 +2,15 @@
 
 This section includes a synopsis of the minimal schema for corpora, i.e. the subset of Mandatory and strongly Recommended metadata elements. Additional elements required for the management of metadata record (e.g. _metadataCreationDate, metadataCreator_ etc.) are not presented here, as they are to be handled by the OpenMinTeD platform.
 
+These elements have been selected so as to help 
+* identify the corpus: resourceIdentifier, resourceName, description 
+* classify the publication along a variety of criteria that end-users can apply for locating corpora of interest for their research: domain, keyword
+* describe the legal terms for using the publication: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
+* encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, language, characterEncoding, relationType, relatedResource
+* give access to the contents: distributionMedium, distributionURL
+* contribute to attribution, citation and reproducibility of experiments: resourceCreator, creationDate, userQuery, mustBeCitedWith.
+
+
 For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
 | OMTD-SHARE element | Usage |
@@ -13,27 +22,24 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [public](/corpora_public.md) | Mandatory |
 | [contactEmail](/corpora_contactEmail.md) or [landingPage](/corpora_landingPage.md) or [contactPerson](/corpora_contactPerson.md)  | Μandatory  \(choice:one element must be encoded) |
 | [contactGroup](/corpora_contactGroup.md) | Recommended |
-| [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory |
+| [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory \(choice:one element must be encoded) |
 | [licence](/corpora_licence.md) or [rightsStatement](/corpora_rightsStatement.md) | Mandatory (choice: one element must be encoded) |
 | [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
 | [distributionURL](/corpora_distributionURL.md) | Μandatory when applicable |
-| [mustBeCitedWith](/corpora_mustBeCitedWith.md) | Recommended |
+| [mustBeCitedWith](/corpora_mustBeCitedWith.md) | atoryRecommended |
 | [resourceCreator](/corpora_resourceCreator.md) | Recommended |
 | [creationDate](/corpora_creationDate.md) | Recommended \(Mandatory for query- built corpora\) |
-| [corpusSubtype](/corpora_corpusSubtype.md) | Μ |
-| [mediaType](/corpora_mediaType.md) | Μ |
-| [lingualityType](/corpora_lingualityType.md) | Μ |
-| [multilingualityType](/corpora_multilingualityType.md) | Μ when applicable |
-| [language](/corpora_language.md) | Μ |
-| [sizePerLanguage](/corpora_sizePerLanguage.md) | Μ |
-| [size](/corpora_size.md) | Μ |
-| [mimeType](/corpora_mimeType.md) | R |
-| [characterEncoding](/corpora_characterEncoding.md) | R |
-| [domain](/corpora_domain.md) | R |
-| [subject](/corpora_subject.md) | R |
-| [keyword](/corpora_keyword.md) | R |
-| [userQuery](/corpora_userQuery.md) | Μ when applicable |
-| [relationType](/corpora_relationType.md) | R |
-| [relatedResource1](/corpora_relatedResource1.md) | R |
-| [relatedResource2](/corpora_relatedResource2.md) | R |
+| [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |
+| [mediaType](/corpora_mediaType.md) | Μandatory |
+| [lingualityType](/corpora_lingualityType.md) | Μandatory |
+| [multilingualityType](/corpora_multilingualityType.md) | Μandatory when applicable |
+| [language](/corpora_language.md) | Μandatory |
+| [size](/corpora_size.md) | Μandatory |
+| [dataFormat](/corpora_dataFormat.md) | Recommended |
+| [characterEncoding](/corpora_characterEncoding.md) | Recommended |
+| [domain](/corpora_domain.md) | Recommended |
+| [keyword](/corpora_keyword.md) | Recommended |
+| [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
+| [relationType](/corpora_relationType.md) | Recommended |
+| [relatedResource](/corpora_relatedResource.md) | Recommended |
