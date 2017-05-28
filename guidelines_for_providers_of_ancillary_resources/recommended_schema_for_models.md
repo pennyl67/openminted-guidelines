@@ -21,7 +21,7 @@
 | [typesystem](/annotations_typesystem.md) | Recommended |
 | [annotationSchema](/annotations_annotationSchema.md) | Recommended |
 | [annotationResource](/annotations_annotationResource.md) | Recommended |
-| [TDMmethod](/TDMmethod.md) | Recommended |
+| [TDMMethod](/TDMmethod.md) | Recommended |
 | [algorithm](/models_algorithm.md) | Recommended |
 | [trainingCorpusDetails](/models_trainingCorpusDetails.md) | Recommended |
 | [mediaType](/models_mediaType.md) | Mandatory |
