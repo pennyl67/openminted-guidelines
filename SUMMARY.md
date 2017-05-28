@@ -216,5 +216,6 @@
     * [relationType](components_relationType.md)
     * [relatedResource](components_relatedResource.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
+* [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
 
