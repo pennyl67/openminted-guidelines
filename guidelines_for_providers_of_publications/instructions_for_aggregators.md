@@ -1,4 +1,4 @@
-## Uploading publications directly into OpenMinTeD (for aggregators) {#instructions-for-openaire-and-core}
+## Sharing publications directly into OpenMinTeD (for aggregators) {#instructions-for-openaire-and-core}
 
 For the first phase of the project, **OpenAIRE **and **CORE **will bring content resources into OpenMinTeD through user queries. For next versions, interested content providers will be able to contribute directly to OpenMinTeD if they implement the following:
 

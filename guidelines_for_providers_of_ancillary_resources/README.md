@@ -6,6 +6,8 @@ As OpenMinTeD is about applying TDM to end-user domains, the _**resources used i
 
 OpenMinTeD tools and services may make use of these resources in order to annotate text. For example, a service may make use of a dictionary of archaeological terms when processing object descriptions. Or, a service may make use of parts of speech to find the adjectives in a document, and use this information to help determine the sentiment of the document. To indicate this, the term **_annotation resource _** is introduced as a cover term.
 
+Another type of knowledge resources that are used by tools and services during processing are _**grammars**_ and _**Machine Learning models**_ that help analyse the linguistic structures. The choice depends upon the approach of the component.
+
 In order to make it easier to share the results of TDM, and in order to allow TDM tools and services to work together, OpenMinTeD makes a number of _**recommendations**_** **about how knowledge resources are represented. Knowledge resources that do not follow these recommendations can of course be used; however, interoperability will be reduced.
 
 The OpenMinTeD recommendations on knowledge resources are based on the [**Linked Data**](https://www.w3.org/standards/semanticweb/data) paradigm. By "Linked Data", we mean data that is created and made available with the use of semantic web technologies and formats \(e.g. RDF, OWL, SPARQL\) and, most importantly, that is interrelated with other data.

@@ -1,4 +1,4 @@
-## Uploading publications (instructions for repositories, journals, publishers) {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
+## Sharing publications for TDM through OpenMinTeD (instructions for repositories, journals, publishers) {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
 
 If you wish to register publications that can be harvested for TDM purposes through OpenMinTeD, you can do so
 
