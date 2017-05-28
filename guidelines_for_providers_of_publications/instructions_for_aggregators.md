@@ -7,7 +7,6 @@ For the first phase of the project, **OpenAIRE **and **CORE **will bring content
 * Provide the actual content \(e.g. full text in the case of publications\)
 
 ### How to connect to OpenMinTeD
-
 Interested content providers must implement a Java interface, called **ContentConnector**, which can be found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). The implementation is then included in the code of the ContentService of the OpenMinTeD platform. This interface specifies three methods:
 
 * _**search**_, which accepts a Query object describing a query and returns a page of metadata. This method is used for browsing the metadata of the provider and supports keyword search, advanced search in a number of fields and also faceted search. The result of the method is \(a\) a page \(of user specified size\) of metadata, \(b\) the statistics of the results \(total number of hits, etc\), and \(c\) the facets \(if requested\).

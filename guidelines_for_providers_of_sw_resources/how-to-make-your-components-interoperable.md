@@ -1,4 +1,4 @@
-### How to make your components interoperable {#how-to-make-your-components-interoperable}
+### Achieving compatibility with OpenMinTeD and interoperability across TDM resources {#how-to-make-your-components-interoperable}
 
 In addition, if you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 

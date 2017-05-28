@@ -1,13 +1,13 @@
-## Instructions for providers of software components {#instructions-for-providers-of-s-w-components}
+## Sharing software components {#instructions-for-providers-of-s-w-components}
 
-The recommended way of providing _**software components**_** **is through the Maven Central repository according to the following instructions:
+The recommended way of providing _**software components**_ is through the Maven Central repository according to the following instructions:
 
 * Please, put together in a single folder \(in the form that is required from the used technologies/frameworks\)
   * all files that implement the component \(e.g. Java classes etc.\)
   * licence text\(s\), preferably in a text file entitled "LICENCE.TXT" in order to be unambiguously recognised; in the case of multiple licences, they should be all aggregated in the same file
   * a readme notice, that describes the contents of the folder as well as any important notice for the compilation and execution of the component
   * all descriptors \(UIMA/uimaFIT, GATE CREOLE[^1], OMTD-SHARE etc.\) available for the component according to the implementation framework,
-  * a Maven POM XML file.
+  * a Maven POM XML file, taking into account the recommendations described here.
 * Pack them as a JAR using the respective Maven plugin.
 * Upload them to the Maven repository according to the Maven guidelines.
 
