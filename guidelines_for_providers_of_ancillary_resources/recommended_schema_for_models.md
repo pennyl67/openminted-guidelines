@@ -1,13 +1,13 @@
-## ​Recommended metadata for models {#recommended-schema-for-models}
+## ​Recommended metadata for ML models {#recommended-schema-for-models}
 
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
-| [resourceType](/models_resourceType.md) | Mandatory  |
-| [resourceName](/models_resourceName.md) | M  |
-| [description](/models_description.md) | M  |
-| [identifier](/models_identifier.md) | M  |
-| [version](/version.md) | M  |
+| [resourceType](/models_resourceType.md) | Mandatory |
+| [resourceName](/models_resourceName.md) | Mandatory |
+| [description](/models_description.md) | Mandatory  |
+| [identifier](/models_identifier.md) | Mandatory |
+| [version](/version.md) | Mandatory |
 | [distributionMedium](/models_distributionMedium.md) | M  |
 | [licence](/licence.md) or [rightsStatement](/rightsStatement.md)  | M  |
 | [distributionMedium](/models_distributionMedium.md) | M  |
@@ -16,6 +16,7 @@
 | [contactGroup](/models_contactGroup.md) \(identifier or organizationName\) | R  |
 | [mustBeCitedWith](/mustBeCitedWith.md) | R  |
 | [resourceCreator](/resourceCreator.md) | R  |
+| [languageDescriptionType](/models_languageDescriptionType) | Mandatory |
 | [variantName](/models_variantName.md) | M  |
 | [tagset](/models_tagset.md) | R  |
 | [typesystem](/models_typesystem.md) | R  |

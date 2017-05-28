@@ -21,7 +21,6 @@
 | [metalanguage](/lcr_metalanguage.md) | Recommended |
 | [size](/lcr_size.md) & sizeUnit | Mandatory |
 | [dataFormat](/lcr_dataFormat.md) | Recommended |
-| [characterEncoding](/lcr_characterEncoding.md) | Recommended |
 | [domain](/lcr_domain.md) | Recommended |
 | [relationType](/lcr_relationType.md) | Recommended |
 | [relatedResource](/lcr_relatedResource.md) | Mandatory when applicable |
