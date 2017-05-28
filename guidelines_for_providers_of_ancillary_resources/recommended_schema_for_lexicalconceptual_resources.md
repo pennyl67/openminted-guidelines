@@ -7,7 +7,6 @@
 | [description](/lcr_description.md) | Mandatory  |
 | [resourceIdentifier](/lcr_identifier.md) | Mandatory  |
 | [public](/lcr_public.md) | Mandatory |
-| [version](/lcr_version.md) | Mandatory  |
 | [version](/lcr_version.md) or [versionDate](/lcr_versionDate.md) | Mandatory \(choice: one element must be encoded) |
 | [licence](/lcr_licence.md) or [rightsStatement](\lcr_rightsStatement.md) | Mandatory (choice: one of the two must be encoded) |
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |

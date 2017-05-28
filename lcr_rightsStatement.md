@@ -1,12 +1,12 @@
-#### rightsStmtName
+#### rightsStatement
 ##### Usage
 Mandatory under conditions
 ##### Conditions for usage
-either licence or rightsStmt must be filled in
+either licence or rightsStatement must be filled in
 ##### Type
 open controlled vocabulary
 ##### Controlled vocabulary reference and/or values
-ms-omtd:rightsStmtName: _openAccess_, _closedAccess_, _embargoedAccess_, _restrictedAccess_
+ms-omtd:rightsStmtName: _openAccess_, _restrictedAccess_
 ##### Definition/Explanations
 The name of an official statement indicative of licensing terms for the use of a resource (e.g. open access, free to read etc.); its semantics should be clear, preferrably formally expressed and stored at a url.
 
