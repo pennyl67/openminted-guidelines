@@ -17,15 +17,17 @@
 | [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
-| [variantName](/models_variantName.md) | M  |
-| [tagset](/models_tagset.md) | R  |
-| [typesystem](/models_typesystem.md) | R  |
-| [algorithm](/models_algorithm.md) | R  |
-| [trainingCorpusDetails](/models_trainingCorpusDetails.md) | R  |
-| [mediaType](/models_mediaType.md) | M  |
-| [lingualityType](/models_lingualityType.md) | M  |
-| [multilingualityType](/models_multilingualityType.md) | M when applicable  |
-| [language](/models_language.md) | M  |
-| [size](/models_size.md) | M  |
-| [relationType](/models_relationType.md)  | R  |
-| [relatedResource](/models_relatedResource.md)  | Mandatory when applicable  |
+| [variant](/models_variantName.md) | Mandatory |
+| [typesystem](/annotations_typesystem.md) | Recommended |
+| [annotationSchema](/annotations_annotationSchema.md) | Recommended |
+| [annotationResource](/annotations_annotationResource.md) | Recommended |
+| [TDMmethod](/TDMmethod.md) | Recommended |
+| [algorithm](/models_algorithm.md) | Recommended |
+| [trainingCorpusDetails](/models_trainingCorpusDetails.md) | Recommended |
+| [mediaType](/models_mediaType.md) | Mandatory |
+| [lingualityType](/models_lingualityType.md) | Mandatory |
+| [multilingualityType](/models_multilingualityType.md) | Mandatory when applicable  |
+| [language](/models_language.md) | Mandatory |
+| [size](/models_size.md) | Mandatory |
+| [relationType](/models_relationType.md)  | Recommended |
+| [relatedResource](/models_relatedResource.md)  | Mandatory when applicable |

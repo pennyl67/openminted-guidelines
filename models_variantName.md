@@ -1,4 +1,4 @@
-#### variantName
+#### variant
 ##### Usage
 Mandatory
 ##### Type
