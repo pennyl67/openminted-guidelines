@@ -2,9 +2,9 @@
 The following table presents mandatory and recommended elements for Machine Learning models; these have been selected so as to help 
 * identify the resource and provide information about it: resourceIdentifier, resourceName, version, description, contactPerson, contactEmail, contactGroup, landingPage
 * describe the legal terms for using the resource: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
-* encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources: input and output specifications and dependencies (dataFormat, language,  typesystem, annotationSchema, annotationResource), relationType, relatedResource
-* give access to the component and execute it: distributionMedium, distributionURL, command
-* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research: contentTypes, domain
+* encode  technical features that are useful for achieving interoperability with TDM tools and services: variant, dataFormat, language,  typesystem, annotationSchema, annotationResource, relationType, relatedResource
+* give access to the resource: distributionMedium, distributionURL, command
+* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research: domain, TDMMethod, algorithm
 * contribute to attribution, citation and reproducibility of experiments: resourceCreator, mustBeCitedWith.
 
 | OMTD-SHARE element | Usage |
@@ -34,6 +34,6 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [lingualityType](/models_lingualityType.md) | Mandatory |
 | [multilingualityType](/models_multilingualityType.md) | Mandatory when applicable  |
 | [language](/models_language.md) | Mandatory |
-| [size](/models_size.md) | Mandatory |
+| [size](/models_size.md) | Recommended |
 | [relationType](/models_relationType.md)  | Recommended |
 | [relatedResource](/models_relatedResource.md)  | Mandatory when applicable |
