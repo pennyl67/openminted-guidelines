@@ -1,7 +1,5 @@
 # ​Guidelines for providers of software resources {#guidelines-for-providers-of-s-w-resources}
 
-## Introduction {#introduction}
-
 OpenMinTeD targets scholarly researchers who are agnostic to software details and peculiarities as well as TDM developers. It allows, therefore, the registration of
 
 * end-user applications, that can be used as-is to perform TDM operations on content resources, and
