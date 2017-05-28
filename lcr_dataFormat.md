@@ -11,3 +11,6 @@ Specifies the format that is used since often the mime type will not be sufficie
 ##### Recommended usage
 Please, use to specify the format of the resource. 
 For interoperability reasons, it is important to standardise as far as possible this element; this is why a list of values including the formats currently supported by components in the OpenMinTeD registry is provided. Where possible, it is also recommended to use the "documentationURL" element with information and examples about the specific data format.
+The recommended dataFormat for lexical/conceptual resources is XML or JSON-based syntax, or any other RDF serialisation format \(e.g. Turtle or N3\).
+
+
