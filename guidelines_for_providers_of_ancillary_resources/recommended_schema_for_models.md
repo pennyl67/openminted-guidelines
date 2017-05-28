@@ -16,7 +16,7 @@
 | [contactGroup](/models_contactGroup.md) | Recommended |
 | [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
-| [languageDescriptionType](/models_languageDescriptionType) | Mandatory |
+| [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
 | [variantName](/models_variantName.md) | M  |
 | [tagset](/models_tagset.md) | R  |
 | [typesystem](/models_typesystem.md) | R  |
