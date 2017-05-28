@@ -20,10 +20,10 @@ For publications, an additional set of metadata elements relevant to the source 
 | [identifier](/publications_identifier.md) | Mandatory |
 | [title](/publications_title.md) | Mandatory |
 | [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
-| [nonStandardLicenceName](/publications_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/publications_distributionMedium.md) | Mandatory |
 | [hashkey](/publications_hashkey.md) | Mandatory |
-| [distributionURL ](/publications_distributionURL.md) | Μandatory when applicable |
+| [distributionURL ](/distributionURL.md) | Μandatory when applicable |
 | [author](/publications_author.md) | Recommended |
 | [publisher](/publications_publisher.md) | Recommended |
 | [journal](/publications_journal.md) | Mandatory when applicable |
