@@ -1,5 +1,11 @@
 ## ​Recommended metadata for ML models {#recommended-schema-for-models}
-
+The following table presents mandatory and recommended elements for Machine Learning models; these have been selected so as to help 
+* identify the resource and provide information about it: resourceIdentifier, resourceName, version, description, contactPerson, contactEmail, contactGroup, landingPage
+* describe the legal terms for using the resource: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
+* encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, language,  metalanguage, lexicalConceptualResourcetype, mediaType, relationType, relatedResource
+* give access to the contents: distributionMedium, distributionURL
+* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research: contentTypes, domain
+* contribute to attribution, citation and reproducibility of experiments: resourceCreator, mustBeCitedWith.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |

@@ -1,11 +1,11 @@
 ### Achieving compatibility with OpenMinTeD and interoperability across TDM resources {#how-to-make-your-components-interoperable}
 
-In addition, if you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
+If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
 To be fully compatible with OpenMinTeD, you must
 
 * ensure that the software is distributed under a perpetual, world-wide, no-charge, royalty-free copyright/patent licence that permits unrestricted use and allows unlimited redistribution
-* include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource
+* include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource; FOSS licences are recommended for software resources
 * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
 * ensure that you version all your software resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org)
 * ensure that you provide with your software resource appropriate machine-readable metadata embedded in the source code \(where possible\) and according to the relevant framework \(e.g. uimaFIT Java annotations etc.\); make sure that the metadata descriptors are properly identified in an unambiguous way that makes them easy to distinguish and extract

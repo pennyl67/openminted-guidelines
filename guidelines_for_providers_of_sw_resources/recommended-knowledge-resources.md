@@ -23,10 +23,10 @@ TDM tools and services should use resources from the following initial list wher
   * [ISOcat/CCR](https://www.clarin.eu/ccr) \(linguistic and metadata terminology\)[^1]
   * [GOLD](http://linguistics-ontology.org/version) \(linguistic ontology\)
 * **Typesystems**
-
   * used by the software components integrated in the OpenMinTeD platform \(GATE, DKPRO, ALVIS, ARGO and ILSP\)
 
-  [^1] ISOcat has recently moved to the Clarin Concept Registry \(CCR\) and is currently under curation.
+---
+[^1] ISOcat has recently moved to the Clarin Concept Registry \(CCR\) and is currently under curation.
 
 
 
