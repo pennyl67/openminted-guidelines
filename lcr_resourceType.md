@@ -3,8 +3,6 @@
 Mandatory
 ##### Type
 Closed controlled vocabulary
-##### Attributes
- 
 ##### Controlled vocabulary reference and/or values
 ms:resourceType: _corpus_, _lexicalConceptualResource_, _languageDescription_, _model_, _component_
 ##### Definition/Explanations

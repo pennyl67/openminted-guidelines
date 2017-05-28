@@ -1,6 +1,6 @@
 ### Recommended metadata for knowledge resources
 
-The following sections include a synopsis of the minimal schemas  for ancillary knowledge resources, i.e. the subset of M(andatory) and strongly R(ecommended) metadata elements per resource type, given that knowledge resources may take one of the following resource types:
+The following sections include a synopsis of the minimal schemas  for ancillary knowledge resources, i.e. the subset of Mandatory and strongly Recommended metadata elements per resource type, given that knowledge resources belong to the following resource types:
 
 *   **lexical/conceptual resource**: reserved not only for lexica, ontologies, term lists, glossaries etc. but also for any resource that can be used for annotation purposes, i.e. linguistic tagsets, typesystems etc.
 *   **language description**: reserved mainly for computational grammars and for ML models.
