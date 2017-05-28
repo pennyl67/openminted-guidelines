@@ -9,5 +9,5 @@ _aclAnthology_, _aimedCorpus_, _ alvisEnrichedDocument_, _bioNLP_, _ bioNLP; for
 ##### Definition/Explanations
 Specifies the format that is used since often the mime type will not be sufficient for machine processing; NOTE: normally the format should be represented as a combination of the mimetype (e.g. application/xml) and some name and link to the documentation about the supplementary conventions used (e.g xces, alvisED etc.)
 ##### Recommended usage
-Please, use to specify the format of the resource supported by the component (as input or output). 
+Please, use to specify the format of the resource. 
 For interoperability reasons, it is important to standardise as far as possible this element; this is why a list of values including the formats currently supported by components in the OpenMinTeD registry is provided. Where possible, it is also recommended to use the "documentationURL" element with information and examples about the specific data format.

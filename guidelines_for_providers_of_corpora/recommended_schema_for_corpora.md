@@ -18,16 +18,16 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [resourceName](/corpora_resourceName.md) | Μandatory |
 | [description](/corpora_description.md) | Μandatory |
 | [resourceIdentifier](/corpora_identifier.md) | Μandatory |
-| [public](/corpora_public.md) | Mandatory |
-| [contactEmail](/corpora_contactEmail.md) or [landingPage](/corpora_landingPage.md) or [contactPerson](/corpora_contactPerson.md)  | Μandatory  \(choice:one element must be encoded) |
-| [contactGroup](/corpora_contactGroup.md) | Recommended |
-| [version](/corpora_version.md) or [versionDate](/corpora_versionDate.md) | Mandatory \(choice:one element must be encoded) |
-| [licence](/corpora_licence.md) or [rightsStatement](/corpora_rightsStatement.md) | Mandatory (choice: one element must be encoded) |
-| [nonStandardLicenceName](/corpora_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/corpora_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [public](/public.md) | Mandatory |
+| [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) or [contactPerson](/contactPerson.md)  | Μandatory  \(choice:one element must be encoded) |
+| [contactGroup](/contactGroup.md) | Recommended |
+| [version](/version.md) or [versionDate](/versionDate.md) | Mandatory \(choice: one element must be encoded) |
+| [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory (choice: one element must be encoded) |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
-| [distributionURL](/corpora_distributionURL.md) | Μandatory when applicable |
-| [mustBeCitedWith](/corpora_mustBeCitedWith.md) | atoryRecommended |
-| [resourceCreator](/corpora_resourceCreator.md) | Recommended |
+| [distributionURL](/distributionURL.md) | Μandatory when applicable |
+| [mustBeCitedWith](/mustBeCitedWith.md) | atoryRecommended |
+| [resourceCreator](/resourceCreator.md) | Recommended |
 | [creationDate](/corpora_creationDate.md) | Recommended \(Mandatory for query- built corpora\) |
 | [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |
 | [mediaType](/corpora_mediaType.md) | Μandatory |
