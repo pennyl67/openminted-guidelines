@@ -1,4 +1,4 @@
-## Sharing software components {#instructions-for-providers-of-s-w-components}
+## Sharing software components through OpenMinTeD {#instructions-for-providers-of-s-w-components}
 
 The recommended way of providing _**software components**_ is through the Maven Central repository according to the following instructions:
 

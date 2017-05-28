@@ -2,6 +2,15 @@
 
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
+The following table presents mandatory and recommended elements for Machine Learning models; these have been selected so as to help 
+* identify the resource and provide information about it: resourceIdentifier, resourceName, version, description, contactPerson, contactEmail, contactGroup, landingPage
+* describe the legal terms for using the resource: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
+* encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources: componentType, application, input and output specifications and dependencies (dataFormat, language,  typesystem, annotationSchema, annotationResource, annotationLevel, parameters), relationType, relatedResource
+* give access to the component and execute it: distributionMedium, distributionURL, command
+* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research: componentType, applicationFunction, TDMMethod, framework
+* contribute to attribution, citation and reproducibility of experiments: resourceCreator, mustBeCitedWith.
+
+
 | OMTD-SHARE element | Usage |
 | --- | --- |
 | [resourceType](/components_resourceType.md) | Mandatory |
