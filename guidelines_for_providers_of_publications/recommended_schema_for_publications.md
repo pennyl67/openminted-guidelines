@@ -19,7 +19,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [publicationType](/publications_publicationType.md) | Mandatory |
 | [identifier](/publications_identifier.md) | Mandatory |
 | [title](/publications_title.md) | Mandatory |
-| [licence](/publications_licence.md) or [rightsStatement](//publications_rightsStatement) | Mandatory \(choice: one element must be encoded\) |
+| [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
 | [nonStandardLicenceName](/publications_nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/publications_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/publications_distributionMedium.md) | Mandatory |
 | [hashkey](/publications_hashkey.md) | Mandatory |
