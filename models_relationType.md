@@ -8,6 +8,6 @@ ms:relationType: _isPartOf_, _isPartWith_, _hasPart_, _hasOutcome_, _isCombinedW
 ##### Definition/Explanations
 Specifies the type of relation holding between two entities (e.g. two resources that comprise one new resource together, a corpus and the s/w component that has been used for its creation or a corpus and the publication that describes it
 ##### Recommended usage
-For models, the recommended relation is isCompatibleWith holding with software components, but any relationType can be used as appropriate.
+For models, the recommended relation is "isCompatibleWith" holding with software components, but any relationType can be used as appropriate.
 ##### Relation to other metadata schemas
 * **DataCite 4.0:** skos:closeMatch datacite:relationType
