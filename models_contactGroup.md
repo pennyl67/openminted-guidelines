@@ -1,4 +1,4 @@
-#### contactGroup (identifier or organizationName)
+#### contactGroup
 ##### Usage
 Recommended
 ##### Type

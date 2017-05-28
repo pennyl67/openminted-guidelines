@@ -1,4 +1,4 @@
-#### resourceCreator (person or organization, described with identifier or name)
+#### resourceCreator
 ##### Usage
 Recommended
 ##### Type

@@ -6,16 +6,16 @@
 | [resourceType](/models_resourceType.md) | Mandatory |
 | [resourceName](/models_resourceName.md) | Mandatory |
 | [description](/models_description.md) | Mandatory  |
-| [identifier](/models_identifier.md) | Mandatory |
+| [resourceIdentifier](/models_identifier.md) | Mandatory |
+| [public](/public.md) | Mandatory |
 | [version](/version.md) | Mandatory |
-| [distributionMedium](/models_distributionMedium.md) | M  |
-| [licence](/licence.md) or [rightsStatement](/rightsStatement.md)  | M  |
-| [distributionMedium](/models_distributionMedium.md) | M  |
-| [distributionURL](/distributionURL.md) | M |
-| [contactPerson](/contactPerson.md) or [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) | M  |
-| [contactGroup](/models_contactGroup.md) \(identifier or organizationName\) | R  |
-| [mustBeCitedWith](/mustBeCitedWith.md) | R  |
-| [resourceCreator](/resourceCreator.md) | R  |
+| [licence](/licence.md) or [rightsStatement](/rightsStatement.md)  | Mandatory (choice: one element must be encoded) |
+| [distributionMedium](/models_distributionMedium.md) | Mandatory |
+| [distributionURL](/distributionURL.md) | Mandatory when applicable |
+| [contactPerson](/contactPerson.md) or [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) | Mandatory (choice: one element must be encoded) |
+| [contactGroup](/models_contactGroup.md) | Recommended |
+| [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
+| [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType) | Mandatory |
 | [variantName](/models_variantName.md) | M  |
 | [tagset](/models_tagset.md) | R  |

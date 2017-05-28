@@ -1,4 +1,4 @@
-#### contactPerson (identifier or personName)
+#### contactPerson
 ##### Usage
 Recommended
 ##### Type
