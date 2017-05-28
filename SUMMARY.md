@@ -97,6 +97,7 @@
       * [resourceName](lcr_resourceName.md)
       * [description](lcr_description.md)
       * [identifier](lcr_identifier.md)
+      * [public].(lcr_public.md)
       * [licence](lcr_licence.md)
       * [rightsStmtName](lcr_rightsStmtName.md)
       * [rightsStmtURL](lcr_rightsStmtURL.md)
@@ -139,7 +140,7 @@
       * [contactPerson \(identifier or personName\)](models_contactPerson.md)
       * [contactGroup \(identifier or organizationName\)](models_contactGroup.md)
       * [mustBeCitedWith](models_mustBeCitedWith.md)
-      * [resourceCreator](models_resourceCreator.md)  \(person or organization\)
+      * [resourceCreator](models_resourceCreator.md)
       * [variantName](models_variantName.md)
       * [tagset](models_tagset.md)
       * [typesystem](models_typesystem.md)
@@ -202,3 +203,4 @@
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+
