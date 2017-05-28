@@ -97,10 +97,11 @@
       * [resourceName](lcr_resourceName.md)
       * [description](lcr_description.md)
       * [identifier](lcr_identifier.md)
-      * [public].(lcr_public.md)
+      * [public](lcr_public.md)
+      * [version](lcr_version.md)
+      * [versionDate](lcr_versionDate.md)
       * [licence](lcr_licence.md)
-      * [rightsStmtName](lcr_rightsStmtName.md)
-      * [rightsStmtURL](lcr_rightsStmtURL.md)
+      * [rightsStatement](lcr_rightsStatement.md)
       * [nonStandardLicenceName](lcr_nonStandardLicenceName.md)
       * [nonStandardLicenceTermsURL](lcr_nonStandardLicenceTermsURL.md)
       * [distributionMedium](lcr_distributionMedium.md)
@@ -203,4 +204,5 @@
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Glossary](GLOSSARY.md)
+
 

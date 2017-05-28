@@ -8,9 +8,10 @@
 | [resourceIdentifier](/lcr_identifier.md) | Mandatory  |
 | [public](/lcr_public.md) | Mandatory |
 | [version](/lcr_version.md) | Mandatory  |
-| [licence](/lcr_licence.md) or [rightsStatement](\lcr_rightsStatement.md) | Mandatory (choice:one of the two must be encoded) |
+| [version](/lcr_version.md) or [versionDate](/lcr_versionDate.md) | Mandatory \(choice: one element must be encoded) |
+| [licence](/lcr_licence.md) or [rightsStatement](\lcr_rightsStatement.md) | Mandatory (choice: one of the two must be encoded) |
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |
-| [distributionURL](/lcr_distributionURL.md) | M when applicable |
+| [distributionURL](/lcr_distributionURL.md) | Mandatory when applicable |
 | [contactPerson](\lcr_contactPerson.md) or [contactEmail](/lcr_contactEmail.md) or [landingPage](/lcr_landingPage.md) | Mandatory (choice: one element must be encoded) |
 | [contactGroup](\lcr_contactGroup.md) | Recommended |
 | [mustBeCitedWith](\lcr_mustBeCitedWith.md) | Recommended |
