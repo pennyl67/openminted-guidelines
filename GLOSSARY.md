@@ -16,7 +16,7 @@ A set of elements and values designed to annotate data. An annotation scheme usu
 
 Any software program \(or group of programs seen as a whole\) intended for the end-user and addressing one or multiple related user needs.
 
-## component \(software component\) 
+## component \(software component\)
 
 An algorithm wrapped in a standard way so that it can be integrated as a reusable tool or service within a particular component-oriented framework such as UIMA, GATE, etc.
 
@@ -99,6 +99,10 @@ Formal or official statement asserting the copyright status and/or the licensing
 ## Text and Data Mining
 
 Text and Data Mining \(TDM\) was initially defined as “the discovery by computer of new, previously unknown information, by automatically extracting and relating information from different \(…\) resources, to reveal otherwise hidden meanings” \(Hearst, 1999\), in other words, “an exploratory data analysis that leads to the discovery of heretofore unknown information, or to answers for questions for which the answer is not currently known” \(Hearst, 1999\). \[FutureTDM, [http://www.futuretdm.eu/news/tdm-definition/](http://www.futuretdm.eu/news/tdm-definition/)\]
+
+## TDM
+
+Text and Data Mining
 
 ## service / web service
 
