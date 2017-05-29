@@ -170,7 +170,7 @@
   * [Sharing web services through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
-  * [Recommendations for particular frameworks](guidelines_for_providers_of_sw_resources/recommendations-for-particular-frameworks.md)
+  * [Recommendations for s/w developers of particular frameworks](guidelines_for_providers_of_sw_resources/recommendations-for-particular-frameworks.md)
     * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
   * [Recommended metadata for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [resourceType](components_resourceType.md)
