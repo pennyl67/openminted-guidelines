@@ -2,7 +2,7 @@
 
 == Prerequisites
 
-This document assumes that you are using Eclipse Neon or newer.footnote:[For an updated version of this document, please visit https://github.com/openminted/omtd-uimafit-example ].  A basic familiarity with Java, Maven, and git/GitHub are also expected.
+This document assumes that you are using Eclipse Neon or newer.footnote:[For a continuously updated version of this document, please visit https://github.com/openminted/omtd-uimafit-example ].  A basic familiarity with Java, Maven, and git/GitHub are also expected.
 
 == Developer Environment Setup
 
