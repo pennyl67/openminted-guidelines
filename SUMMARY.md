@@ -173,6 +173,7 @@
   * [Recommendations for s/w developers of particular frameworks](guidelines_for_providers_of_sw_resources/recommendations-for-particular-frameworks.md)
     * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
     * [Guide for UIMA components using Maven and uimaFIT](guidelines_for_providers_of_sw_resources/guide-for-uimafit.adoc)
+    * [Guide for GATE components](guidelines_for_providers_of_sw_resources/guide-for-gate-components.md)
   * [Recommended metadata for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [resourceType](components_resourceType.md)
     * [resourceName](components_resourceName.md)
