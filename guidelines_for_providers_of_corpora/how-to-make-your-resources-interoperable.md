@@ -11,12 +11,12 @@ To be **fully compliant with OpenMinTeD**, you must
 * include in the metadata record a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 * if you already have a PID for your publication \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/corpora_identifier.md) for more information on identifier schemes\).
 
-
 In addition, the following **recommendations contribute to interoperability and make your corpora easier to process**. If you fail to abide to them, it might still be possible to process your corpora via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
 * The preferred **formats **for delivering textual material are plain text, XML, PDF \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers.
 
 * If appropriate for your material, use one of the more specific **data formats **that are already covered by readers and converters \(cf. [dataFormat](/corpora_dataFormat)\).
+
 * The preferred **character encoding** is UTF-8.
 * Further adoption of standards such as the [JATS article tag suite](https://jats.nlm.nih.gov/index.html) or [TEI P5 guidelines](http://www.tei-c.org/Guidelines/P5/) for annotating the inner structure of texts is recommended.
 * Please, ensure that you version all your resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org/).
@@ -25,9 +25,9 @@ In addition, the following **recommendations contribute to interoperability and 
 * Make sure that you fill in the metadata record all the elements required for citing your resource[^1], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor.
 * Use standard classification vocabularies \(e.g. [MeSH](https://www.nlm.nih.gov/mesh/), [DDC](https://www.oclc.org/dewey.en.html), [LCSH](http://id.loc.gov/authorities/subjects.html) etc.\) for adding classification tags to your material and specify the vocabulary you use in the metadata record; provide at least one broad category for your material \(e.g. life sciences, computing etc.\).
 * In all cases, where linking to other resources or entities \(e.g. persons, projects etc.\) in the metadata records is added, please try to do this through unique and persistent identifiers of authority lists and sources, to the extent possible, documenting also the authority and/or scheme it adheres to.
+* If you want to** **provide **annotated corpora**, please note that OpenMinTeD has endorsed the use of the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a workflow; the RDF-based [WebAnnotation](https://www.w3.org/annotation/) standard will be used to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on document/collection level.
 
 Please, note that there are no general requirements yet for corpora to be used for ancillary purposes \(e.g. for training a tool\), as these are dependent on the requirements of the software that will use them and on the purpose of use.
-
 
 ---
 
