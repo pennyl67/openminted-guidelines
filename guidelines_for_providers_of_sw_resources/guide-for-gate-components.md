@@ -1,4 +1,4 @@
-\#\#Guide for GATE components
+##Guide for GATE components
 
 
 
