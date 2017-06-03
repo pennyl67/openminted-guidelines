@@ -7,12 +7,12 @@ We list here below the groups of
 
 
 **Editors**
-* Penny Labropoulou (Athena Research Center, Greece)
-* Dimitris Galanis  (Athena Research Center, Greece)
+* Penny Labropoulou (Athena RC, Greece)
+* Dimitris Galanis  (Athena RC, Greece)
 * Angus Roberts (University of Sheffield, UK)
 * Matt Shardlow (University of Manchester, UK)
 * Lucas Anastasiou (Open University, UK)
-* Antonis Lempessis (Athena Research Center, Greece)
+* Antonis Lempessis (Athena RC, Greece)
 * Giulia Dore (University of Glasgow, UK)
 * Thomas Margoni (University of Glasgow, UK)
 * Richard Eckart de Castilho (Ubiquitous Knowledge Processing (UKP) Lab, Technische Universität Darmstadt, Germany)
@@ -50,7 +50,7 @@ We list here below the groups of
 * John McNaught \(University of Manchester, UK\)
 * Claire Nedellec \(INRA, France\)
 * Wim Peters \(University of Sheffield, UK\)
-* Stelios Piperidis \(Athena RIC, Greece\)
+* Stelios Piperidis \(Athena RC, Greece\)
 * Prokopis Prokopidis \(Athena RC, Greece\)
 * ​Piotr Przybyla \(University of Manchester, UK\)
 * ​Angus Roberts \(University of Sheffield, UK\)

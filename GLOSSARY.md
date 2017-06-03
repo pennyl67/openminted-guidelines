@@ -72,7 +72,10 @@ The process of training an ML model involves providing an ML algorithm \(that is
 
 Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. Metadata is often called data about data or information about information. \[National Information Standards Organization, Understanding metadata, [http://www.niso.org/publications/press/UnderstandingMetadata.pdf](http://www.niso.org/publications/press/UnderstandingMetadata.pdf)\]
 
-## open access \(OA\)
+## OA
+Open Access
+
+## Open Access
 
 The free and online availability of literature, which allows to read, download, copy, distribute, print, search, or link to the full text, crawl articles for indexing, pass them as data to software, or use them for any other useful purpose. An availability that is granted without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself, and those related to giving authors control over the integrity of their work and the right to be properly acknowledged and cited \[Budapest OA Initiative 2002; Bethesda Statement on OA Publishing 2003; Berlin Declaration on OA Knowledge in Science and Humanities 2003\]
 
