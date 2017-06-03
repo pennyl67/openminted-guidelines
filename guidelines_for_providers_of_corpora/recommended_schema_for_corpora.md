@@ -36,7 +36,6 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [language](/corpora_language.md) | Μandatory |
 | [size](/corpora_size.md) | Μandatory |
 | [dataFormat](/corpora_dataFormat.md) | Recommended |
-| [characterEncoding](/corpora_characterEncoding.md) | Recommended |
 | [domain](/corpora_domain.md) | Recommended |
 | [keyword](/corpora_keyword.md) | Recommended |
 | [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
