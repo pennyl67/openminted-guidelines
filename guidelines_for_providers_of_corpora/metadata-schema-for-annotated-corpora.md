@@ -12,8 +12,8 @@ Annotated corpora are documented as separate resources
 | [annotationStandoff](/annotations_annotationStandoff.md) | Recommended |
 | [dataFormat](/annotations_dataFormat.md) | Recommended |
 | [typesystem](/annotations_typesystem.md) | Recommended |
-| [annotationSchema](/annotations_annotationSchema.md) | Recommended |
-| [annotationResource](/annotations_annotationResource.md) | Recommended |
+| [annotationSchema](/annotations_annotationSchema.md) | Recommended when applicable |
+| [annotationResource](/annotations_annotationResource.md) | Recommended when applicable |
 | [annotationMode](/annotations_annotationMode.md) | Recommended |
 | [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
 | [annotationDate](/annotations_annotationDate.md) | Recommended |

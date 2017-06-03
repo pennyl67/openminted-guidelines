@@ -26,7 +26,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
 | [distributionURL](/distributionURL.md) | Μandatory when applicable |
-| [mustBeCitedWith](/mustBeCitedWith.md) | atoryRecommended |
+| [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [creationDate](/corpora_creationDate.md) | Recommended \(Mandatory for query- built corpora\) |
 | [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |

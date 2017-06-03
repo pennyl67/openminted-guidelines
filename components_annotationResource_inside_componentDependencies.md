@@ -1,6 +1,6 @@
 #### annotationResource inside componentDependencies
 ##### Usage
-Mandatory when applicable
+Recommended when applicable
 ##### Conditions for usage
 when the s/w component uses a specific annotation resource for its operation
 ##### Type

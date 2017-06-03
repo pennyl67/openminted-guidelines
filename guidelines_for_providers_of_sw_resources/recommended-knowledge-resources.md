@@ -5,7 +5,7 @@ In order to further encourage interoperability, OpenMinTeD makes specific recomm
 TDM tools and services should use resources from the following initial list where possible. Where this is not possible, knowledge resource authors are encouraged to provide linkages between their own resource and those given here, or to any other widely used or standard Linked Data knowledge resource. This list of recommended resources should be seen as a first version, and will be extended.
 
 * **Social sciences resources**
-  * [TheSoz](http://www.gesis.org/en/services/research/thesauri-und-klassifikationen/social-science-thesaurus/)
+  * [TheSoz](http://www.gesis.org/en/services/research/tools/social-science-thesaurus/)
 * **Agriculture and agronomy resources**
   * [Agrovoc](http://aims.fao.org/agrovoc)
   * Ontologies from [AgroPortal](http://agroportal.lirmm.fr/)

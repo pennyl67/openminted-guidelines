@@ -1,7 +1,7 @@
 #### annotationSchema inside inputContentResourceInfo or outputResourceInfo
 
 #### Usage
-Mandatory when applicable
+Recommended when applicable
 ##### Conditions for usage
 when the s/w component uses a specific annotation schema for its operation
 ##### Type

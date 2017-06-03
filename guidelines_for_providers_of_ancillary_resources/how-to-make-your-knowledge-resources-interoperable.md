@@ -5,7 +5,7 @@ In addition, if you want to be fully compliant with the OpenMinTeD interoperabil
 *   include in the metadata record a link to the licence document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 *   if you already have a PID for your resource (e.g. a URI or a HANDLE), make sure it is included in the metadata record (cf. [identifier](/models_identifier.md) for more information)
 *   provide linkage between your resource and other resources (domain-specific or generic resources); for links between knowledge resources in the Linked Data paradigm, mapping should be expressed through RDF statements, using relations from [SKOS](https://www.w3.org/2004/02/skos/), together with the following OWL and RDF object properties: _owl:sameAs_, _owl:equivalentClass_, _owl:equivalentProperty_, _rdfs:subClassOf_, _rdfs:subPropertyOf_
-*   version all your resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](/semver.org).
+*   version all your resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org).
 
 The following recommendations contribute to interoperability but are not yet enforced:
 * for annotation resources:

@@ -15,7 +15,7 @@ In addition, the following **recommendations contribute to interoperability and 
 
 * The preferred **formats **for delivering textual material are plain text, XML, PDF \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers.
 
-* If appropriate for your material, use one of the more specific **data formats **that are already covered by readers and converters \(cf. [dataFormat](/corpora_dataFormat)\).
+* If appropriate for your material, use one of the more specific **data formats **that are already covered by readers and converters \(cf. [dataFormat](/corpora_dataFormat.md)\).
 
 * The preferred **character encoding** is UTF-8.
 * Further adoption of standards such as the [JATS article tag suite](https://jats.nlm.nih.gov/index.html) or [TEI P5 guidelines](http://www.tei-c.org/Guidelines/P5/) for annotating the inner structure of texts is recommended.

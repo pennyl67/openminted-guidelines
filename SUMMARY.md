@@ -96,7 +96,6 @@
     * [annotationMode](annotations_annotationMode.md)
     * [isAnnotatedBy](annotations_isAnnotatedBy.md)
     * [annotationDate](annotations_annotationDate.md)
-  * Recommendations for particular frameworks
 * [Guidelines for providers of knowledge resources](guidelines_for_providers_of_ancillary_resources/README.md)
   * [Sharing ancillary knowledge resources for TDM through OpenMinTeD](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_ancillary_resources/how-to-make-your-knowledge-resources-interoperable.md)
