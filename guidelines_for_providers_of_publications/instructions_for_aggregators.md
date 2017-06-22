@@ -8,9 +8,11 @@ For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and
 
 ### How to connect to OpenMinTeD
 
-Interested content providers must implement a Java interface, called **ContentConnector**, which can be found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). The implementation is then included in the code of the ContentService of the OpenMinTeD platform. This interface specifies three methods:
+Interested content providers must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, their contents will be integrated in the OpenMinTeD platform. 
 
-* _**search**_, which accepts a Query object describing a query and returns a page of metadata. This method is used for browsing the metadata of the provider and supports keyword search, advanced search in a number of fields and also faceted search. The result of the method is \(a\) a page \(of user specified size\) of metadata, \(b\) the statistics of the results \(total number of hits, etc\), and \(c\) the facets \(if requested\).
+The interface supports the operations required for the corpus generation process (cf. [deployment of publications in OpenMinTeD](/deployment-scenario-of-publications-in-openminted.md)):
+* search and retrieval of specific metadata  elements with statistical information (e.g. number of records satisfying the query criteria), 
+* storage of the metadata records of selected  
 
 * _**fetchMetadata**_, which accepts a Query, but, unlike the previous method, returns all the metadata of the result, without any statistics or facets. The result is a stream containing a single xml element \(called “publications”\), which in turn contains all the metadata of the content. This method is called when a corpus is being built.
 
