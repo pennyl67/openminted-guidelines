@@ -1,26 +1,25 @@
 # Acknowledgements & Contributors {#acknowledgements-contributors}
 
-The guidelines have been the product of work carried out mainly in the OpenMinTeD WP5 Interoperability Framework. 
-We list here below the groups of 
+The guidelines have been the product of work carried out mainly in the OpenMinTeD WP5 Interoperability Framework.   
+We list here below the groups of
+
 * internal and external experts that have exchanged ideas and participated in discussions that have formulated the interoperability requirements on which the guidelines have been based,
 * the editors that compiled the guidelines.
 
-
 **Editors**
-* Penny Labropoulou (Athena RC, Greece)
-* Dimitris Galanis  (Athena RC, Greece)
-* Angus Roberts (University of Sheffield, UK)
-* Matt Shardlow (University of Manchester, UK)
-* Lucas Anastasiou (Open University, UK)
-* Antonis Lempessis (Athena RC, Greece)
-* Giulia Dore (University of Glasgow, UK)
-* Thomas Margoni (University of Glasgow, UK)
-* Richard Eckart de Castilho (Ubiquitous Knowledge Processing (UKP) Lab, Technische Universität Darmstadt, Germany)
-* Byron Georgantopoulos (GrNET, Greece)
-* Panagiotis Zervas (AgroKnow, Greece)
-* Pythagoras Karampiperis  (AgroKnow, Greece)
 
-
+* Penny Labropoulou \(Athena RC, Greece\)
+* Dimitris Galanis  \(Athena RC, Greece\)
+* Angus Roberts \(University of Sheffield, UK\)
+* Matt Shardlow \(University of Manchester, UK\)
+* Lucas Anastasiou \(Open University, UK\)
+* Antonis Lempessis \(Athena RC, Greece\)
+* Giulia Dore \(University of Glasgow, UK\)
+* Thomas Margoni \(University of Glasgow, UK\)
+* Richard Eckart de Castilho \(Ubiquitous Knowledge Processing \(UKP\) Lab, Technische Universität Darmstadt, Germany\)
+* Byron Georgantopoulos \(GrNET, Greece\)
+* Panagiotis Zervas \(AgroKnow, Greece\)
+* Pythagoras Karampiperis  \(AgroKnow, Greece\)
 
 **Internal experts**
 
