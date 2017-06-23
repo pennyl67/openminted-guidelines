@@ -5,7 +5,7 @@
 * [Guidelines for providers of scientific literature](guidelines_for_providers_of_publications/README.md)
   * [Sharing scientific literature through OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
   * [Sharing scientific literature directly into OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
-  * [Deployment of publications in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
+  * [Deployment of scientific literature in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](recommendations-for-publishers.md)
   * [​Recommended metadata for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
     * [documentType](publications_documentType.md)

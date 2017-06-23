@@ -1,17 +1,17 @@
 ## ​Recommended metadata for publications {#recommended-schema-for-publications}
 
-This section includes the overview of the recommended [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md) for publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.
+This section includes the overview of the recommended [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md) for scholarly publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.
 
-These elements have been selected so as to help 
-* identify the publication (e.g. identifier, title)
-* classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research (e.g. documentType, publicationType, subject)
-* describe the legal terms for using the publication (e.g.licence or rightsStatement)
-* encode  technical features that are useful for achieving interoperability by tools and services (e.g.dataFormat, documentLanguage, characterEncoding)
-* give access to the contents (e.g.distributionMedium, hashkey, distributionURL).
+These elements have been selected so as to help
 
-This set of elements is described below in the first table and in the next sections in more detail.
+* identify the publication \(e.g. identifier, title\)
+* classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research \(e.g. documentType, publicationType, subject\)
+* describe the legal terms for using the publication \(e.g.licence or rightsStatement\)
+* encode  technical features that are useful for achieving discoverability by tools and services \(e.g.dataFormat, documentLanguage, characterEncoding\)
+* give access to the contents \(e.g.distributionMedium, hashkey, distributionURL\).
+
+This set of elements is described below in the first table and in the next sections in more detail.  
 For publications, an additional set of metadata elements relevant to the source of the original metadata and the document itself are required mainly for the management of the OMTD-SHARE metadata record and are presented in the second table.
-
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
@@ -38,10 +38,6 @@ For publications, an additional set of metadata elements relevant to the source 
 | [relationType ](/publications_relationType.md) | Recommended |
 | [relatedResource ](/publications_relatedResource.md) | Mandatory when applicable |
 
-
-
-
-
 | OMTD-SHARE element | Usage |
 | --- | --- |
 | [collectedFrom repositoryName or repositoryIdentifier](/publications_collectedFrom.md) | Recommended |
@@ -50,5 +46,6 @@ For publications, an additional set of metadata elements relevant to the source 
 | [originalDataProviderRepository ](/publications_originalDataProviderRepository.md) | Recommended when applicable |
 | [originalDataProviderJournal ](/publications_originalDataProviderJournal.md) | Recommended when applicable |
 | [originalDataProviderPublisher ](/publications_originalDataProviderPublisher.md) | Recommended when applicable |
+
 
 
