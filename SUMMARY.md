@@ -18,7 +18,7 @@
     * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
     * [distributionMedium](publications_distributionMedium.md)
     * [hashkey](publications_hashkey.md)
-    * [distributionURL](distributionURL.md)
+    * [distributionLocation](distributionURL.md)
     * [author](publications_author.md)
     * [publisher](publications_publisher.md)
     * [journal](publications_journal.md)

@@ -10,7 +10,7 @@ Open controlled vocabulary
 
 ##### Controlled vocabulary reference and/or values
 
-ms-omtd:publicationType: \_journalArticle\_, \_bachelorThesis\_, \_masterThesis\_, \_doctoralThesis\_, \_book\_, \_bookPart\_, \_review\_, \_conferenceObject\_, \_lecture\_, \_workingPaper\_, \_prePrint\_, \_report\_, \_annotation\_, \_contributionToJournal\_, \_patent\_, \_conferencePaper\_, \_conferencePoster\_, \_technicalDocumentation\_, \_technicalReport\_, \_bibliography\_, \_conferenceProceedings\_, \_conferencePaperNotInProceedings\_, \_conferencePosterNotInProceedings\_, \_periodical\_, \_journal\_, \_reviewArticle\_, \_researchArticle\_, \_editorial\_, \_dataPaper\_, \_letterToTheEditor\_, \_reportPart\_, \_researchProposal\_, \_internalReport\_, \_memorandum\_, \_otherTypeOfReport\_, \_policyReport\_, \_projectDeliverable\_, \_reportToFundingAgency\_, \_bookReview\_, \_workingPaper\_, \_thesis\_, \_other\_ 
+ms-omtd:publicationType: \_journalArticle\_, \_bachelorThesis\_, \_masterThesis\_, \_doctoralThesis\_, \_book\_, \_bookPart\_, \_review\_, \_conferenceObject\_, \_lecture\_, \_workingPaper\_, \_prePrint\_, \_report\_, \_annotation\_, \_contributionToJournal\_, \_patent\_, \_conferencePaper\_, \_conferencePoster\_, \_technicalDocumentation\_, \_technicalReport\_, \_bibliography\_, \_conferenceProceedings\_, \_conferencePaperNotInProceedings\_, \_conferencePosterNotInProceedings\_, \_periodical\_, \_journal\_, \_reviewArticle\_, \_researchArticle\_, \_editorial\_, \_dataPaper\_, \_letterToTheEditor\_, \_reportPart\_, \_researchProposal\_, \_internalReport\_, \_memorandum\_, \_otherTypeOfReport\_, \_policyReport\_, \_projectDeliverable\_, \_reportToFundingAgency\_, \_bookReview\_, \_workingPaper\_, \_thesis\_, \_other\_
 
 ##### Definition/Explanations
 
@@ -18,7 +18,7 @@ Specifies the type of the publication \(e.g. whether it's a journal article, ora
 
 ##### Recommended usage
 
-Please, select one of the values from the list \(subset of the COAR vocabulary for resource types, http://vocabularies.coar-repositories.org/pubby/resource\_type.html\); if none of the values fits, please use "other"
+Please, select one of the values from the list \(subset of the COAR vocabulary for resource types, [http://vocabularies.coar-repositories.org/pubby/resource\_type.html\](http://vocabularies.coar-repositories.org/pubby/resource_type.html\)\); if none of the values fits, please use "other"
 
 ##### Relation to other metadata schemas
 
