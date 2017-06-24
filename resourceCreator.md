@@ -18,8 +18,9 @@ Groups information on the person\(s\) or organization\(s\) that has/have created
 
 ##### Recommended usage
 
-The recommended way for referring to a person is by giving their surnames and given names and supplying also their unique identifiers, preferably the ORCID; if you provide the identifier, please select also the relevant value from the list of values in the attribute "personIdentifierSchemeName"; if none is appropriate, please select "other" and use the "schemeURI" attribute to provide a link to a URL with more information about the identifier scheme.  
-If you provide the name as a single element \(personName\), please use the format "Surname, First name".
+The recommended way for referring to a person is by giving their surname(s) and given name\(s\) as well as their identifier(s), preferably the ORCID.
+If you provide the identifier, please select also the relevant value from the list of values in the attribute "personIdentifierSchemeName"; if none is appropriate, please select "other" and use the "schemeURI" attribute to provide a link to a URL with more information about the identifier scheme.  
+You must provide surnames and given names (as separate elements or as a single element, preferably in the format "Surname, Given name") at least in English. If you want to add names in other languages, you can use the “lang” attribute.  
 
 The recommended way for referring to an organization is by giving their name and unique identifier \(e.g. ISNI\); if you provide the identifier, please select also the relevant value from the list of values in the attribute "organizationIdentifierSchemeName"; if none is appropriate, please select "other" and use the "schemeURI" attribute to provide a link to a URL with more information about the identifier scheme.
 

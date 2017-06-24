@@ -9,7 +9,7 @@ OpenMinTeD enables the creation of an infrastructure that fosters and facilitate
 This is where you'll find information on the following:
 
 * how to make your resources interoperable with other resources for TDM purposes
-* how to share your resources through the OpenMinTeD platform \(link to be provided soon)
+* how to share your resources through the OpenMinTeD platform
 * [how to give us feedback and contribute to the guidelines](/contributing-to-the-guidelines.md).
 
 It must be noted that the OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-infrastructures and repositories, collecting, transforming and making available **only resources needed for running TDM operations**. In other words, it is not one more registry of content and services, and it doesn't seek to collect and provide information about resources that might be of interest to TDM stakeholders.

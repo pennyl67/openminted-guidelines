@@ -8,7 +8,7 @@ These elements have been selected so as to help
 * encode  technical features that are useful for achieving interoperability by tools and services: dataFormat, language, characterEncoding, corpusSubtype, mediaType, relationType, relatedResource
 * give access to the contents: distributionMedium, distributionURL
 * classify the corpus along a variety of criteria that end-users can apply for locating corpora of interest for their research: domain, keyword
-* contribute to attribution, citation and reproducibility of experiments: resourceCreator, creationDate, userQuery, mustBeCitedWith.
+* contribute to attribution, citation and reproducibility of research processes and outputs: resourceCreator, creationDate, userQuery, mustBeCitedWith.
 
 For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
