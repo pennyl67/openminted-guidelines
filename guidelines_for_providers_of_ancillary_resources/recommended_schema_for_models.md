@@ -3,9 +3,9 @@ The following table presents mandatory and recommended elements for Machine Lear
 * identify the resource and provide information about it: resourceIdentifier, resourceName, version, description, contactPerson, contactEmail, contactGroup, landingPage
 * describe the legal terms for using the resource: licence or rightsStatement, nonStandardLicenceName and nonStandardLicenceTermsURL 
 * encode  technical features that are useful for achieving interoperability with TDM tools and services: variant, dataFormat, language,  typesystem, annotationSchema, annotationResource, relationType, relatedResource
-* give access to the resource: distributionMedium, distributionURL, command
+* give access to the resource: distributionMedium, distributionLocation, command
 * classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research: domain, TDMMethod, algorithm
-* contribute to attribution, citation and reproducibility of experiments: resourceCreator, mustBeCitedWith.
+* contribute to attribution, citation and reproducibility of research processes and outputs: resourceCreator, mustBeCitedWith.
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
@@ -17,7 +17,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [version](/version.md) | Mandatory |
 | [licence](/licence.md) or [rightsStatement](/rightsStatement.md)  | Mandatory (choice: one element must be encoded) |
 | [distributionMedium](/models_distributionMedium.md) | Mandatory |
-| [distributionURL](/distributionURL.md) | Mandatory when applicable |
+| [distributionLocation](/distributionURL.md) | Mandatory when applicable |
 | [contactPerson](/contactPerson.md) or [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) | Mandatory (choice: one element must be encoded) |
 | [contactGroup](/models_contactGroup.md) | Recommended |
 | [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
