@@ -5,13 +5,13 @@ In order to ensure that your corpora can be mined in the OpenMinTeD platform, yo
 * provide direct access to the contents of each corpus
 * describe each corpus with a metadata record compatible with the [OTMD-SHARE minimal schema](/guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md).
 
-To be **fully compliant with OpenMinTeD**, you must
+To be **fully compliant with OpenMinTeD**, you must implement the following conditions:
 
 * **Licensing**:
- * ensure that the corpus is distributed under **_Open Access conditions_**
- * include in the metadata record a _**link to the licence**_ document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
+ * You must ensure that the corpus is distributed under **_Open Access conditions_**
+ * Please, include in the metadata record a _**link to the licence**_ document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 * **Unique and persistent identifiers**:
- * if you already have a **_PID _**for your publication \(preferably DOI\), make sure it is _**included in the metadata record**_ \(cf. [identifier](/corpora_identifier.md) for more information on identifier schemes\).
+ * If you already have a **_PID _**for your publication \(preferably DOI\), make sure it is _**included in the metadata record**_ \(cf. [identifier](/corpora_identifier.md) for more information on identifier schemes\).
 
 In addition, the following **recommendations contribute to interoperability and make your corpora easier to process**. If you fail to abide to them, it might still be possible to process your corpora via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
@@ -24,7 +24,7 @@ In addition, the following **recommendations contribute to interoperability and 
 * **Documentation**: It is important that you provide the appropriate documentation for your resource \(e.g. publications about the design and construction of the corpus etc.\), which you should also version along with the corpus and add as reference to your metadata record.
 * **Citation**: 
  * Make sure that you fill in the metadata record all the elements required for **_citing your resource**_[^1], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version**** and the publisher or distributor.
- * You can also _**recommend one of the publications **_about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
+ * You can also _**recommend one of the publications**_ about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
 * **Domain classification**: Use _**standard classification vocabularies **_\(e.g. [MeSH](https://www.nlm.nih.gov/mesh/), [DDC](https://www.oclc.org/dewey.en.html), [LCSH](http://id.loc.gov/authorities/subjects.html) etc.\) for adding classification tags to your material and specify the vocabulary you use in the metadata record; provide at least one broad category for your material \(e.g. life sciences, computing etc.\).
 * **Linking to othe entities**: In all cases, where linking to other resources or entities \(e.g. persons, projects Letc.\) in the metadata records is added, please try to do this _**through unique and persistent identifiers of authority lists and sources**_, to the extent possible, documenting also the authority and/or scheme it adheres to.
 
