@@ -32,7 +32,6 @@ TDM tools and services should use resources from the following initial list wher
   * used by the software components integrated in the OpenMinTeD platform \(GATE, DKPRO, ALVIS, ARGO and ILSP\)
 * **General resources**
   * [Schema.org](http://schema.org/)
-  * [SKOS](https://www.w3.org/2004/02/skos/)
 
 ---
 

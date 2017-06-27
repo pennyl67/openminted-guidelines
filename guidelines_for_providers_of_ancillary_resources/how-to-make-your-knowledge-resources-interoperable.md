@@ -21,8 +21,8 @@ The following recommendations contribute to interoperability but are not yet enf
 * **for all resources**
   * **Documentation**: It is important that you provide the appropriate documentation for your resource (e.g. publications about the design and construction of the corpus etc.), which you should also version along with the knowledge resource and add as reference to your metadata record.
   * **Citation**: 
-    * Make sure that you fill in the metadata record _**all the elements required for citing your resource**_[^1], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor
-    * You may _**recommend one of the publications **_about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
+    * Make sure that you fill in the metadata record_** all the elements required for citing your resource**_[^1], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor
+    * You may _**recommend one of the publications**_ about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
   * **Domain classification**: Use _**standard classification vocabularies **_(e.g. [MeSH](https://www.nlm.nih.gov/mesh/), [DDC](https://www.oclc.org/dewey.en.html), [LCSH](http://id.loc.gov/authorities/subjects.html) etc.) for adding classification tags to your material and specify the vocabulary you use in the metadata record; provide at least one broad category for your material (e.g. life sciences, computing etc.).
   * **Linking to other entities**: In all cases, where linking to other resources or entities (e.g. persons, projects etc.) in the metadata records is added, please try to do this _**through unique and persistent identifiers of authority lists and sources**_, to the extent possible, documenting also the authority and/or scheme it adheres to.
 
