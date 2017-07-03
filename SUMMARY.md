@@ -142,7 +142,7 @@
       * [nonStandardLicenceName](nonStandardLicenceName.md)
       * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
       * [distributionMedium](models_distributionMedium.md)
-      * [distributionURL](/models_downloadURL.md)
+      * [distributionLocation](/models_downloadURL.md)
       * [contactPerson](contactPerson.md)
       * [contactEmail](contactEmail.md)
       * [landingPage](landingPage.md)
@@ -187,8 +187,7 @@
     * [application](components_application.md)
     * [applicationFunction](components_applicationFunction.md)
     * [componentDistributionForm](components_componentDistributionForm.md)
-    * [downloadURL](components_downloadURL.md)
-    * [accessURL](components_accessURL.md)
+    * [distributionLocation](/components_downloadURL.md)
     * [command](components_command.md)
     * [licence](licence.md)
     * [rightsStatement](rightsStatement.md)
@@ -220,4 +219,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 

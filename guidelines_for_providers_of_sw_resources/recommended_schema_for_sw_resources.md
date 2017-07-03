@@ -2,15 +2,15 @@
 
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
-The following table presents mandatory and recommended elements for Machine Learning models; these have been selected so as to help 
-* identify the resource and provide information about it (e.g. resourceIdentifier, resourceName, version)
-* describe the legal terms for using the resource (e.g. licence or rightsStatement) 
-* encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources (e.g. componentType, application, input and output specifications and dependencies)
-* give access to the component and execute it (e.g. distributionURL, command)
-* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research 
-(e.g. componentType, applicationFunction, TDMMethod)
-* contribute to attribution, citation and reproducibility of experiments (e.g. resourceCreator, mustBeCitedWith).
+The following table presents mandatory and recommended elements for Machine Learning models; these have been selected so as to help
 
+* identify the resource and provide information about it \(e.g. resourceIdentifier, resourceName, version\)
+* describe the legal terms for using the resource \(e.g. licence or rightsStatement\) 
+* encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources \(e.g. componentType, application, input and output specifications and dependencies\)
+* give access to the component and execute it \(e.g. distributionLocation, command\)
+* classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research 
+  \(e.g. componentType, applicationFunction, TDMMethod\)
+* contribute to attribution, citation and reproducibility of experiments \(e.g. resourceCreator, mustBeCitedWith\).
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
@@ -29,7 +29,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [application](/components_application.md) | Mandatory |
 | [applicationFunction](/components_applicationFunction.md) | Mandatory upon conditions |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
-| [downloadURL](/components_downloadURL.md) or [accessURL](/components_accessURL.md) | Mandatory \(choice: one element should be encoded\) |
+| [distributionLocation](/components_downloadURL) | Mandatory |
 | [command](/components_command.md) | Mandatory upon conditions |
 | [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
 | [nonStandardLicenceName](/components_nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/components_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
