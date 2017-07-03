@@ -113,7 +113,7 @@
       * [nonStandardLicenceName](nonStandardLicenceName.md)
       * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
       * [distributionMedium](lcr_distributionMedium.md)
-      * [distributionURL](distributionURL.md)
+      * [distributionLocation](/lcr_distributionURL.md)
       * [contactEmail](contactEmail.md)
       * [landingPage](landingPage.md)
       * [contactPerson](contactPerson.md)
@@ -220,4 +220,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 
