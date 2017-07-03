@@ -130,7 +130,7 @@
       * [dataFormat](lcr_dataFormat.md)
       * [relationType](lcr_relationType.md)
       * [relatedResource](lcr_relatedResource.md)
-    * [​Recommended metadata for ML models](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_models.md)
+    * [​Recommended metadata for language descriptions, incl. ML models and grammars](guidelines_for_providers_of_ancillary_resources/recommended_schema_for_models.md)
       * [resourceType](models_resourceType.md)
       * [resourceName](models_resourceName.md)
       * [resourceIdentifier](models_identifier.md)
@@ -142,7 +142,7 @@
       * [nonStandardLicenceName](nonStandardLicenceName.md)
       * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
       * [distributionMedium](models_distributionMedium.md)
-      * [distributionURL](distributionURL.md)
+      * [distributionURL](/models_downloadURL.md)
       * [contactPerson](contactPerson.md)
       * [contactEmail](contactEmail.md)
       * [landingPage](landingPage.md)
@@ -220,6 +220,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
-
-
 
