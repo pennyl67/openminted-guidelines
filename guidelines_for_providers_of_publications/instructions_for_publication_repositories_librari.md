@@ -1,4 +1,4 @@
-## Sharing scientific literature in OpenMinTeD through aggregators \(instructions for repositories, journals, publishers\) {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
+## Sharing scholarly content in OpenMinTeD through aggregators {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
 
 If you wish to register scholarly publications that can be harvested for TDM purposes through OpenMinTeD, you can do so
 

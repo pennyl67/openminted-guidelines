@@ -2,9 +2,9 @@
 
 * [OpenMinTeD guidelines](README.md)
 * [Acknowledgements & Contributors](acknowledgements--contributors.md)
-* [Guidelines for providers of scientific literature](guidelines_for_providers_of_publications/README.md)
-  * [Sharing scientific literature through OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
-  * [Sharing scientific literature directly into OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
+* [Guidelines for providers of scholarly content](guidelines_for_providers_of_publications/README.md)
+  * [Sharing scholarly content through OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
+  * [Sharing scholarly content directly into OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
   * [Federated content search and corpus building in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](recommendations-for-publishers.md)
   * [​Recommended metadata for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
@@ -219,6 +219,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
-
-
 

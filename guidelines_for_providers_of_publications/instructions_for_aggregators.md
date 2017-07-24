@@ -1,4 +1,4 @@
-## Sharing scientific literature directly into OpenMinTeD \(Instructions for aggregators\) {#instructions-for-openaire-and-core}
+## Sharing scholarly content directly into OpenMinTeD
 
 For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. In the upcoming versions, interested content providers will be able to contribute directly to OpenMinTeD if they implement the following:
 
@@ -14,7 +14,7 @@ For further requirements and recommendations that ensure compatibility of public
 
 Interested content providers must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, their contents will be integrated in the OpenMinTeD platform.
 
-The interface implements the operations of the corpus generation process \(cf. [Federated content search and corpus building](/deployment-scenario-of-publications-in-openminted.md)\):
+The interface implements the operations of the corpus building process \(cf. [Federated content search and corpus building](/deployment-scenario-of-publications-in-openminted.md)\):
 
 * querying for specific metadata  elements and retrieving their values with statistical information \(e.g. number of records satisfying the query criteria\), 
 * retrieval of the metadata themselves in XML format 

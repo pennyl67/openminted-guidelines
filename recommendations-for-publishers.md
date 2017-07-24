@@ -10,7 +10,7 @@ To be **fully compatible with OpenMinTeD**, you must endorse the following rules
 
 If you wish your material to be **easily processable and interoperable with TDM tools and services**, you should adopt the following **recommendations**:
 
-* **Data formats**: The preferred formats for delivering textual material are **plain text, XML, PDF** \(not proprietary and certainly not of scanned images\), which can be read by one of the existing readers. If appropriate for your material, use one of the more specific data formats that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormat](/publications_dataFormat.md)\).
+* **Data formats**: The preferred formats for delivering textual material are **plain text, PDF** \(not proprietary and certainly not of scanned images\), **XML**, which can be read by one of the existing readers. If appropriate for your material, use one of the more specific data formats that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormat](/publications_dataFormat.md)\).
 
 * **Character encoding**: The preferred character encoding is UTF-8.
 
