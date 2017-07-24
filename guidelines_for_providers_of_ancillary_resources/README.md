@@ -8,7 +8,7 @@ OpenMinTeD tools and services may make use of these resources in order to annota
 
 Another type of knowledge resource used by tools and services during processing are _**grammars**_ and _**Machine Learning models**_ that help analyse the text. The choice depends upon the approach of the component.
 
-![](/assets/5.png)
+![](/assets/5a.png)
 
 In order to make it easier to share the results of TDM, and in order to allow TDM tools and services to work together, OpenMinTeD makes a number of _**recommendations**_** **about how knowledge resources are represented. Knowledge resources that do not follow these recommendations can of course be used; however, interoperability will be reduced.
 

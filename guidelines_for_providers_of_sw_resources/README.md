@@ -5,7 +5,7 @@ OpenMinTeD targets scholarly researchers who are agnostic to software details an
 * end-user applications, that can be used as-is to perform TDM operations on content resources, and
 * software components, i.e. pieces of software that can, by means of the OpenMinTeD Workflow Editor, be put together and tuned with various ancillary resources in order to create workflows that will be delivered to the end-users and/or further integrated into other workflows.
 
-![](/assets/4.png)
+![](/assets/4a.png)
 
 All of these will be made available to the researchers in a way that will not require any kind of expertise from them, both as locally downloadable and executable tools or as web services.
 
