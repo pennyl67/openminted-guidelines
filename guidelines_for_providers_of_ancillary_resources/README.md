@@ -8,6 +8,8 @@ OpenMinTeD tools and services may make use of these resources in order to annota
 
 Another type of knowledge resource used by tools and services during processing are _**grammars**_ and _**Machine Learning models**_ that help analyse the text. The choice depends upon the approach of the component.
 
+![](/assets/5.png)
+
 In order to make it easier to share the results of TDM, and in order to allow TDM tools and services to work together, OpenMinTeD makes a number of _**recommendations**_** **about how knowledge resources are represented. Knowledge resources that do not follow these recommendations can of course be used; however, interoperability will be reduced.
 
 The OpenMinTeD recommendations on knowledge resources are based on the [**Linked Data**](https://www.w3.org/standards/semanticweb/data) paradigm. By "Linked Data", we mean data that is created and made available with the use of semantic web technologies and formats \(e.g. RDF, OWL, SPARQL\) and, most importantly, that is interrelated with other data.
