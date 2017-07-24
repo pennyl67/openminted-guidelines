@@ -164,6 +164,7 @@
       * [dataFormat](models_dataFormat.md)
       * [relationType](models_relationType.md)
       * [relatedResource](models_relatedResource.md)
+    * [Examples for knowledge resources](guidelines_for_providers_of_ancillary_resources/examples-for-knowledge-resources.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
   * [Sharing software components through OpenMinTeD](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
   * [Sharing web services through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
