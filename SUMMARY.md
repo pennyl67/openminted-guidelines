@@ -211,6 +211,7 @@
     * [TDMmethod](TDMmethod.md)
     * [relationType](components_relationType.md)
     * [relatedResource](components_relatedResource.md)
+  * [Examples for software resources](guidelines_for_providers_of_sw_resources/examples-for-software-resources.md)
   * [Recommendations for s/w developers of particular frameworks](guidelines_for_providers_of_sw_resources/recommendations-for-particular-frameworks.md)
     * [Guide for deploying UIMA components in the Argo platform](guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
     * [Guide for UIMA components using Maven and uimaFIT](guidelines_for_providers_of_sw_resources/guide-for-uimafit.adoc)
