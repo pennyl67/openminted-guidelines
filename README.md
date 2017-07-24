@@ -4,18 +4,21 @@
 
 Welcome to the OpenMinTeD Guidelines!
 
-OpenMinTeD enables the creation of an infrastructure that fosters and facilitates the use of Text and Data Mining (TDM) technologies in the scientific literature world, builds on existing TDM tools and platforms, and renders them discoverable and interoperable through a dedicated registry and a standards-based interoperability layer.
-
 This is where you'll find information on the following:
 
-* how to make your resources interoperable with other resources for TDM purposes
+* how to make your resources interoperable with other resources for Text and Data Mining (TDM) purposes
 * how to share your resources through the OpenMinTeD platform
 * [how to give us feedback and contribute to the guidelines](/contributing-to-the-guidelines.md).
 
-It must be noted that the OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-infrastructures and repositories, collecting, transforming and making available **only resources needed for running TDM operations**. In other words, it is not one more registry of content and services, and it doesn't seek to collect and provide information about resources that might be of interest to TDM stakeholders.
+OpenMinTeD enables the creation of an infrastructure that fosters and facilitates the use of Text and Data Mining (TDM) technologies in the scientific literature world, builds on existing TDM tools and platforms, and renders them discoverable and interoperable through a dedicated registry and a standards-based interoperability layer.
+
+![](/assets/1.png)
+
+
+The OpenMinTeD platform serves as a **facilitator** of TDM in an ecosystem of e-infrastructures and repositories, collecting, transforming and making available **only resources needed for running TDM operations**. In other words, it is not one more registry of content and services, and it doesn't seek to collect and provide information about resources that might be of interest to TDM stakeholders.
 
 {% blurb style='tip', title='Important notice' %}
-Resources are to be registered into OpenMinTeD **only if they can be accessed and deployed in the context of a TDM processing operation**.
+Resources are registered into OpenMinTeD **only if they can be accessed and deployed in the context of a TDM processing operation**.
 {% endblurb %}
 
 TDM involves a wide range of resource types:
