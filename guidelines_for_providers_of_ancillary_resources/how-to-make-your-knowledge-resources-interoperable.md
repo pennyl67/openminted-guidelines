@@ -3,7 +3,7 @@
 In addition, if you want to be fully compliant with the OpenMinTeD interoperability requirements, you must endorse the following rules:
 * **Licensing**
   * Please, ensure that the resource is distributed under _**Open Access conditions**_
-  * You must include in the metadata record a _**link to the licence **_document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
+  * You must include in the metadata record a _**link to the licence**_ document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 * **Persistent and Unique identifiers:**
   * if you already have a PID for your resource (e.g. a URI or a HANDLE), make sure it is _**included in the metadata record**_ (cf. [identifier](/models_identifier.md) for more information)
 * **Linked Data principles**: You must provide linkage between your resource and other resources (domain-specific or generic resources); for links between knowledge resources in the Linked Data paradigm, mapping should be expressed through RDF statements, using relations from [SKOS](https://www.w3.org/2004/02/skos/), together with the following OWL and RDF object properties: _owl:sameAs_, _owl:equivalentClass_, _owl:equivalentProperty_, _rdfs:subClassOf_, _rdfs:subPropertyOf_
