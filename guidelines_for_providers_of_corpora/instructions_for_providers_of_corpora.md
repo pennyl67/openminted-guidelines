@@ -4,7 +4,7 @@ Corpora can be registered only by authorised users at the OpenMinTeD registry.
 
 If you wish to register a corpus, you must:
 
-* provide a zipped file with the contents of the corpus or a link to a URL where the corpus is directly accessible \(i.e. not a landing page\); where possible, the zipped file should follow the folder structure recommended for OpenMinTeD publications, i.e. separate folders for contents \(entitled "fulltext"\), metadata records \(entitled "metadata"\) and licence documents \(entitled "licence"\)
+* provide a zipped file with the contents of the corpus; where possible, the zipped file should follow the folder structure recommended for OpenMinTeD publications, i.e. separate folders for contents \(entitled "fulltext"\), metadata records \(entitled "metadata"\) and licence documents \(entitled "licence"\)
 
 * provide a metadata record compliant with the [OMTD-SHARE schema for corpora, at least at the minimal level](/guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md) which you can upload to the Registry as an XML file and/or edit with the OpenMinTeD metadata editor.
 
