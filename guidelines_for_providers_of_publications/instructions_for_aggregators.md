@@ -1,6 +1,6 @@
 ## Sharing scholarly content directly into OpenMinTeD
 
-For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. In the upcoming versions, interested content providers will be able to contribute directly to OpenMinTeD if they implement the following:
+For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. Interested content providers are also able to contribute directly to the [OpenMinTeD platform ](https://services.openminted.eu)if they implement the following:
 
 * Map the metadata of their contents to the [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md)
 * Provide search capabilities on the metadata, according to the specifications of the **ContentConnector **\(cf. below\)
@@ -12,7 +12,7 @@ For further requirements and recommendations that ensure compatibility of public
 
 ### How to connect to OpenMinTeD
 
-Interested content providers must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, their contents will be integrated in the OpenMinTeD platform.
+Interested content providers must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, their contents will be integrated in the [OpenMinTeD platform](https://services.openminted.eu).
 
 The interface implements the operations of the corpus building process \(cf. [Federated content search and corpus building](/deployment-scenario-of-publications-in-openminted.md)\):
 
