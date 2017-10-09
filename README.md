@@ -7,7 +7,8 @@ Welcome to the OpenMinTeD Guidelines!
 This is where you'll find information on the following:
 
 * how to make your resources interoperable with other resources for Text and Data Mining (TDM) purposes
-* how to share your resources through the OpenMinTeD platform
+* how to share your resources through the [OpenMinTeD platform
+](https:\\services.openminted.eu)
 * [how to give us feedback and contribute to the guidelines](/contributing-to-the-guidelines.md).
 
 OpenMinTeD enables the creation of an infrastructure that fosters and facilitates the use of Text and Data Mining (TDM) technologies in the world of scholarly content, builds on existing TDM tools and platforms, and renders them discoverable and interoperable through a dedicated registry and a standards-based interoperability layer.
