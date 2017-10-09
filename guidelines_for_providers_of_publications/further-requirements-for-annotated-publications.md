@@ -1,6 +1,6 @@
 ### Further requirements for annotated publications {#further-requirements-for-annotated-publications}
 
-Scholarly publications will normally be imported into the OpenMinTeD platform in an unprocessed format and will be annotated by the operation of TDM software also registered in the platform.
+Scholarly publications will normally be imported into the [OpenMinTeD platform](https:\\services.openminted.eu) in an unprocessed format and will be annotated by the operation of TDM software also registered in the platform.
 
 However, certain providers may decide to run the TDM or annotation software at their own premises and upload the results of the processing directly into OpenMinTeD \(e.g. annotating the publications with structural markup, extracting acknowledgements or citations sections etc.\).
 
