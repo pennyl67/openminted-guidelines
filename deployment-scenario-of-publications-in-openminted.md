@@ -1,11 +1,11 @@
 ## Federated content search and corpus building in OpenMinTeD {#Deployment of publications in OpenMinTeD}
 
-Scholarly publications are imported into OpenMinTeD for TDM processing via _**the creation of corpora upon queries submitted by the end-users**_.   
-Researchers can build a corpus by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", in order to run TDM services on them.
+Scholarly publications that have been imported into the [OpenMinTeD platform](https://services.openminted.eu) can be used by researchers for TDM processing via _**a query-based creation of corpora **_.
+Researchers can [build a corpus](https://services.openminted.eu/resourceRegistration/corpus/searchForPublications) by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", in order to run TDM services on them.
 
 OpenMinTed has investigated several architectural options on how to integrate existing content providers \(such as [OpenAIRE](https://www.openaire.eu/) and [CORE](https://core.ac.uk/) but not limited to\) and chose an approach whereby content is managed in the external services of the providers but is accessible in the OpenMinTeD platform through a **federated search strategy**. Content is made available to the OpenMinTed platform through a simple API, defining simple operations to search and retrieve content.
 
-To build a corpus of scholarly publications, end-users are expected to issue a query in the OpenMinTed registry: they are presented with a faceted view of the OpenMinTeD contents \(i.e. of all registered content providers\) and, by selecting from a range of criteria, a query is gradually built. Results from all registered content providers are presented to the end-user and, after refinement and careful elicitation of the final query, the associated content is transferred to OpenMinTeD’s registry and becomes available for the subsequent steps of a TDM workflow. 
+End-users can issue a query in the OpenMinTed registry in a simple way: they are presented with a faceted view of the OpenMinTeD contents \(i.e. of all registered content providers\) and, by selecting from a range of criteria, a query is gradually built. Results from all registered content providers are presented to the end-user and, after refinement and careful elicitation of the final query, the associated content is transferred to OpenMinTeD’s registry and becomes available for the subsequent steps of a TDM workflow. 
 
 A lazy deposit/caching strategy has been employed to avoid redundant queries \(in simple terms, a record is fetched only the first time it is requested and remains persistent locally for further requests\). Extra care is taken to ensure reproducibility of the created corpus by storing an exact version of the content used in it.
 
