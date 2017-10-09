@@ -85,7 +85,7 @@ An infrastructure refers to the basic structures and facilities required for the
 
 ## OpenMinTeD platform
 
-The OpenMinTeD platform brings together all the services that facilitate the interoperability aspects of the underlying infrastructure \(e.g. registration, search and browsing, creation of workflows, processing, annotation, etc.\) and, thus, becomes an infrastructural service of the wider research ecosystem.
+The [OpenMinTeD platform](https://services.openminted.eu) brings together all the services that facilitate the interoperability aspects of the underlying infrastructure \(e.g. registration, search and browsing, creation of workflows, processing, annotation, etc.\) and, thus, becomes an infrastructural service of the wider research ecosystem.
 
 ## publication
 
