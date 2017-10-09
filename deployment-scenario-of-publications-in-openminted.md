@@ -1,7 +1,7 @@
 ## Federated content search and corpus building in OpenMinTeD {#Deployment of publications in OpenMinTeD}
 
-Scholarly publications that have been imported into the  OpenMinTeD platform[OpenMinTeD platform](https://services.openminted.eu) can be used by researchers for TDM processing via _**a query-based creation of corpora **_.
-Researchers can [build a corpus] by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", and use them to run TDM services on them.
+Scholarly publications that have been imported into the  [OpenMinTeD platform](https://services.openminted.eu) can be used by researchers for TDM processing via _**a query-based creation of corpora**_.
+Researchers can [build a corpus](https://services.openminted.eu/resourceRegistration/corpus/searchForPublications) by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", and then apply TDM services on them.
 
 OpenMinTed has investigated several architectural options on how to integrate existing content providers \(such as [OpenAIRE](https://www.openaire.eu/) and [CORE](https://core.ac.uk/) but not limited to\) and chose an approach whereby content is managed in the external services of the providers but is accessible in the OpenMinTeD platform through a **federated search strategy**. Content is made available to the OpenMinTed platform through a simple API, defining simple operations to search and retrieve content.
 
