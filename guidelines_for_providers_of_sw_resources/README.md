@@ -1,5 +1,10 @@
 # ​Guidelines for providers of software resources {#guidelines-for-providers-of-s-w-resources}
 
+OpenMinTeD targets  scholarly researchers who are agnostic to software details and peculiarities as well as expert TDM developers. It allows, therefore, the registration of
+
+* end-user applications that can be used as-is to perform TDM operations on content resources, and
+* components, i.e. pieces of software that can be combined together and tuned with ancillary resources, by means of the OpenMinTeD Workflow Editor, to form workflows that will eventually be delivered to the end-users as ready-to-run applications.
+
 OpenMinTeD targets scholarly researchers who are agnostic to software details and peculiarities as well as TDM developers. It allows, therefore, the registration of
 
 * end-user applications, that can be used as-is to perform TDM operations on content resources, and
@@ -7,14 +12,17 @@ OpenMinTeD targets scholarly researchers who are agnostic to software details an
 
 ![](/assets/4a.png)
 
-All of these will be made available to the researchers in a way that will not require any kind of expertise from them, both as locally downloadable and executable tools or as web services.
 
-The OpenMinTeD platform, at the current stage, supports the integration of software components wrapped for the GATE or UIMA/uimaFIT frameworks.
 
-To be fully compatible with OpenMinTeD, you must provide
+If you wish to share TDM software through the OpenMinTeD platform, you must 
 
-* a metadata record compliant with the [OMTD-SHARE schema](/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md), at least at the minimal level,
-* the software in an executable form, by uploading it in a compressed file or providing a link to a URL location from which it can be directly accessed \(i.e. not a landing page\).
+* provide access to an executable of the software in one of the ways specified in the next sections, and
+
+* register the software in the OpenMinTeD registry with a metadata record compliant with the  [OMTD-SHARE schema](/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md), at least at the minimal level.
+
+
+
+Furthermore, to ensure that your components are interoperable with components implemented with other frameworks or technologies and can thus can be used in “mixed” workflows, they must either support \(i.e. produce & consume\) data in [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format or you should provide appropriate readers and writers for converting XMI messages from and to the components’ format. 
 
 
 
