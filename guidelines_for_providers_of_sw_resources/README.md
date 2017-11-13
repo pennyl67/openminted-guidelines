@@ -12,17 +12,15 @@ OpenMinTeD targets scholarly researchers who are agnostic to software details an
 
 ![](/assets/4a.png)
 
-
-
-If you wish to share TDM software through the OpenMinTeD platform, you must 
+If you wish to share TDM software through the OpenMinTeD platform, you must
 
 * provide access to an executable of the software in one of the ways specified in the next sections, and
 
 * register the software in the OpenMinTeD registry with a metadata record compliant with the  [OMTD-SHARE schema](/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md), at least at the minimal level.
 
+Furthermore, to ensure that your components are interoperable with components implemented with other frameworks or technologies and can thus can be used in “mixed” workflows, they must either support \(i.e. produce & consume\) data in [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format\[^1\] or you should provide appropriate readers and writers for converting XMI messages from and to the components’ format.
 
 
-Furthermore, to ensure that your components are interoperable with components implemented with other frameworks or technologies and can thus can be used in “mixed” workflows, they must either support \(i.e. produce & consume\) data in [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format or you should provide appropriate readers and writers for converting XMI messages from and to the components’ format. 
 
-
+\[^1\]: As also happens in the UIMA framework.
 
