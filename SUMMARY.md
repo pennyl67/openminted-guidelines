@@ -98,7 +98,9 @@
     * [annotationDate](annotations_annotationDate.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
   * [Sharing software through OpenMinTeD](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
-  * [Sharing web services through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
+    * [Sharing UIMA and GATE  components](sharing-uima-and-gate-components.md)
+    * [Sharing components as dockerised images](sharing-components-as-dockerised-images.md)
+    * [Sharing web services](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
   * [Recommended metadata for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
@@ -221,4 +223,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 
