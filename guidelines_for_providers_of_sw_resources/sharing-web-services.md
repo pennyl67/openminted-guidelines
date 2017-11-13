@@ -6,10 +6,12 @@ If you intend to share your TDM software as a web service through OpenMinTeD, pl
 
 
 
-Step 2: You can then visit the OpenMinTeD registry where you can register your web service in one of the following ways:
+**Step 2**
 
-* edit from scratch the OMTD-SHARE metadata record using the OpenMinTeD editor or
-* upload an XML file with the OMTD-SHARE metadata record 
+You can then visit the OpenMinTeD registry where you can register your web service in one of the following ways:
+
+* edit from scratch the [OMTD-SHARE](/the_omtd-share_metadata_schema.md)using the OpenMinTeD editor or
+* upload an XML file with the [OMTD-SHARE](/the_omtd-share_metadata_schema.md). 
 
 You must provide the the URL where the web service can be executed in the metadata element _&lt;distributionLocation&gt;_, e.g.
 
