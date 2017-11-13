@@ -98,6 +98,7 @@
     * [annotationDate](annotations_annotationDate.md)
 * [​Guidelines for providers of software resources](guidelines_for_providers_of_sw_resources/README.md)
   * [Sharing software components through OpenMinTeD](guidelines_for_providers_of_sw_resources/instructions_for_providers_of_sw_components.md)
+  * [Sharing UIMA and GATE components through Maven](guidelines_for_providers_of_sw_resources/sharing-uima-and-gate-components-through-maven.md)
   * [Sharing web services through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
