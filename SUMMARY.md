@@ -101,6 +101,7 @@
     * [Sharing UIMA and GATE components](sharing-uima-and-gate-components.md)
     * [Sharing components as Docker images](sharing-components-as-dockerised-images.md)
     * [Sharing web services](guidelines_for_providers_of_sw_resources/sharing-web-services.md)
+  * [Sharing software through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-software-through-openminted.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
   * [Recommended metadata for software resources](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
@@ -223,6 +224,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
-
-
 
