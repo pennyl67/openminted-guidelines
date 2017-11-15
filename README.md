@@ -45,4 +45,4 @@ Each set of guidelines contains the following information:
 * further instructions per type of contributors or resource type/subtype where required.
 
 
-[^1]The OpenMinTeD platform is currently under development and more features and functionalities are constantly added.
+[^1] The OpenMinTeD platform is currently under development and more features and functionalities are constantly added.
