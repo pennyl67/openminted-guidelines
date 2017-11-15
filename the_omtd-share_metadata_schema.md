@@ -40,13 +40,19 @@ The OMTD-SHARE schema classifies elements into 3 levels of optionality:
 
 The schema is currently implemented as an XSD[^5]. An important difference from META-SHARE lies in the organisation vis-a-vis the different resource types covered: while META-SHARE describes all resources types in one common XSD, in OMTD-SHARE, the resource types are described in a more modular way as separate sets of XSDs.
 
-Work is ongoing for producing also an RDF/OWL version, which will be documented in the next release of the guidelines.
+The current version of the schema makes use of the OMTD-SHARE ontology, which caters for:
+
+* annotation types
+* data formats
+* component and application types.
+
+The OMTD-SHARE ontology will continue to evolve in order to take into account the emerging needs for registering new TDM components and applications.
 
 [^1]: The full OMTD-SHARE schema is documented at: [https://openminted.github.io/releases/omtd-share/](https://openminted.github.io/releases/omtd-share/).
 
 [^2]: In the first version of the schema, ML models were added as a distinct resource type, but in v2.0.0 they have been added as a subtype of language descriptions.
 
-[^3]: Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://elrc-share.ilsp.gr/documentation/ELRC-SHARE_schema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
+[^3]: Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://elrc-share.ilsp.gr/documentation/ELRC-SHARE_schema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), [retele-share](http://ontoology.linkeddata.es/publish/retele-share/index-en.html) and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
 
 [^4]: To avoid confusion with the term "component" also used for software components, we will from now on refer to this concept as "modules".
 
