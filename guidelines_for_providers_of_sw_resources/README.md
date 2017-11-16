@@ -1,4 +1,4 @@
-# ​Guidelines for providers of software {#guidelines-for-providers-of-s-w-resources}
+# ​Guidelines for providers of software (apps and components) {#guidelines-for-providers-of-s-w-resources}
 
 OpenMinTeD targets  scholarly researchers who are agnostic to software details and peculiarities as well as expert TDM developers. It allows, therefore, the registration of
 
