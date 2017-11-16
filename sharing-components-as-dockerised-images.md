@@ -24,5 +24,5 @@ The Docker image location and identifier must be provided in the elements _&lt;d
 
 In all of these cases, the metadata record can be viewed and edited at the end of the process.
 
-Further requirements and recommendations for achieving interoperability across components and with the content resources are presented here.
+Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 

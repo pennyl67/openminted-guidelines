@@ -21,3 +21,5 @@ You must provide the the URL where the web service can be executed in the metada
 
 In all of these cases, the metadata record can be viewed and edited at the end of the process.
 
+Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+

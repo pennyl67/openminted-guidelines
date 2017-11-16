@@ -15,7 +15,7 @@ If you wish to share TDM software through the OpenMinTeD platform, you must
 
 Furthermore, to ensure that your components are interoperable with components implemented with other frameworks or technologies and can thus can be used in “mixed” workflows, they must either support \(i.e. produce & consume\) data in [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format[^1] or you should provide appropriate readers and writers for converting XMI messages from and to the components’ format.
 
-
+---
 
 [^1]: As also happens in the UIMA framework.
 
