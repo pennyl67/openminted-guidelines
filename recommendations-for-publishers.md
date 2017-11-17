@@ -10,7 +10,7 @@ To be **fully compatible with OpenMinTeD**, you must endorse the following rules
 
 If you wish your material to be **easily processable and interoperable with TDM tools and services**, you should adopt the following **recommendations**:
 
-* **Data formats**: The preferred formats for delivering textual material are **plain text, PDF** \(not proprietary and certainly not of scanned images\), **XML**, which can be read by one of the existing readers. If appropriate for your material, use one of the more specific data formats that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormat](/publications_dataFormat.md)\).
+* **Data formats**: The preferred formats for delivering textual material are **plain text, PDF** \(not proprietary and certainly not of scanned images\), and **XML**, which can be read by one of the readers offered in OpenMinTeD. If appropriate for your material, use one of the more specific data formats that are already supported by readers and converters included in the OpenMinTeD registry \(cf. [dataFormat](/publications_dataFormat.md)\).
 
 * **Character encoding**: The preferred character encoding is UTF-8.
 
@@ -23,4 +23,6 @@ If you wish your material to be **easily processable and interoperable with TDM 
 * **Annotation formats**: If you want to** **provide **annotated publications**, please note that OpenMinTeD has endorsed the use of the [_**XML Metadata Interchange**_](http://www.omg.org/spec/XMI/)_** \(XMI\) format**_, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a workflow; the [_**WebAnnotation**_](https://www.w3.org/annotation/) standard will be used to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on document/collection level.
 
 Please, note that not all of the above requirements are absolute: if your material is not compliant with them, it may still be processable, but their adoption makes it better equipped for TDM and NLP processing.
+
+
 
