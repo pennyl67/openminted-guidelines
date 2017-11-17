@@ -20,7 +20,7 @@ As in META-SHARE, the schema sets out to document the full lifecycle of a resour
 
 * the _**resources**_, further classified into:
   * _**corpora**_, i.e. datasets of text documents - mainly scholarly publications in OMTD-SHARE
-  * _**lexical/conceptual resources**_, including lexica, ontologies, term lists, gazetteers etc., but also tagsets and annotation schemas, which are used for annotating corpora
+  * _**lexical/conceptual resources**_, including lexica, ontologies, term lists, gazetteers etc., but also tagsets and annotation schemas, which are used for annotating corpora - hence also called _**annotation resources **_in the OpenMinTeD context
   * _**language descriptions**_, which mainly refer to computational grammars and machine learning and statistical _**models**_[^2],
   * software _**components**_, pieces of software, tools offered as locally executable codes or as web services, wrapped in a workflow or as standalone end-to-end applications, and, finally,
   * _**publications**_, which constitute a peculiar resource type, as they are viewed in OpenMinTeD only in a collective form, as a "corpus",
@@ -32,9 +32,9 @@ The schema is composed of metadata elements that are used to describe properties
 
 One of the characteristic features of the SHARE family of schemas[^3] is the adoption of the component-based mechanism \(Component MetaData Infrastructure, CMDI\), according to which semantically coherent elements are grouped together to form components[^4] \[Broeder et al., 2008\]. For instance, the licensing module includes elements such as the name and URL of a licence, attribution text, copyright holders, etc. For the sake of simplification, the container elements used for this grouping will not be presented in the guidelines unless required.
 
-The OMTD-SHARE schema classifies elements into 3 levels of optionality:
+The OMTD-SHARE schema classifies elements into three levels of optionality:
 
-* _**mandatory**_: elements that are necessary for intended purposes, i.e. for discovering resources and for triggering operations between content and s/w components
+* _**mandatory**_: elements that are necessary for intended purposes, i.e. for discovering resources and for triggering operations between content and software
 * _**recommended**_: elements that can help the current or future use of the resource, or useful information that providers have not yet standardized
 * _**optional**_: all remaining information related to the lifecycle of a resource.
 

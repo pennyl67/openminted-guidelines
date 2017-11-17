@@ -214,7 +214,7 @@
       * [dataFormat](models_dataFormat.md)
       * [relationType](models_relationType.md)
       * [relatedResource](models_relatedResource.md)
-  * [Examples for knowledge resources](guidelines_for_providers_of_ancillary_resources/examples-for-knowledge-resources.md)
+  * [Example metadata records for knowledge resources](guidelines_for_providers_of_ancillary_resources/examples-for-knowledge-resources.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
