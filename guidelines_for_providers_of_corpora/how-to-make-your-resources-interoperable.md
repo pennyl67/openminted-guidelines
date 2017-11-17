@@ -11,7 +11,7 @@ To be **fully compliant with OpenMinTeD**, you must implement the following cond
   * You must ensure that the corpus is distributed under _**Open Access conditions**_
   * Please, include in the metadata record a _**link to the licence**_ document that describes the terms and conditions under which it is provided, and attach the licence document together with the resource; using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended
 * **Unique and persistent identifiers**:
-  * If you already have a _**PID **_for your publication \(preferably DOI\), make sure it is _**included in the metadata record**_ \(cf. [identifier](/corpora_identifier.md) for more information on identifier schemes\).
+  * If you already have a _**PID **_for your corpus \(preferably DOI\), make sure it is _**included in the metadata record**_ \(cf. [identifier](/corpora_identifier.md) for more information on identifier schemes\).
 
 In addition, the following **recommendations contribute to interoperability and make your corpora easier to process**. If you fail to abide to them, it might still be possible to process your corpora via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 

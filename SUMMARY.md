@@ -50,7 +50,7 @@
     * [isAnnotatedBy](annotations_isAnnotatedBy.md)
     * [annotationDate](annotations_annotationDate.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
-  * [Sharing corpora for TDM through OpenMinTeD](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
+  * [Sharing corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_corpora/how-to-make-your-resources-interoperable.md)
   * [​Recommended metadata for corpora](guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md)
     * [resourceName](corpora_resourceName.md)
