@@ -1,4 +1,4 @@
-### Sharing corpora for TDM through OpenMinTeD {#How-to-share-your-resources}
+### Sharing corpora for TDM {#How-to-share-your-resources}
 
 Corpora can be registered only by authorised users at the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/corpus/upload).
 
