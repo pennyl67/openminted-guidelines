@@ -4,12 +4,12 @@ Scholarly publications will normally be imported into the [OpenMinTeD platform](
 
 However, certain providers may decide to run the TDM or annotation software at their own premises and upload the results of the processing directly into OpenMinTeD \(e.g. annotating the publications with structural markup, recognizing acknowledgements or citations sections etc.\).
 
-In these cases, the annotated output is considered a new resource and, therefore, should be registered
+In these cases, the annotated output is considered a new resource and, therefore, should be registered following the procedure for [sharing corpora](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
 
 * as a separate resource from the raw publication in a folder called "annotated files"
-* with its own metadata record, following the [instructions for annotated publications](/guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md).
+* with its own metadata record, using [metadata for annotated publications](/guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md).
 
 It should be noted that publications annotated by means of the OpenMinTeD platform will be automatically assigned the appropriate values for these elements.
 
-In addition, all annotated publications must be encoded with the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a workflow; the  [WebAnnotation](https://www.w3.org/annotation/) standard will be used to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on document/collection level.
+In addition, all annotated publications must be encoded with the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, and most specifically with a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi).
 
