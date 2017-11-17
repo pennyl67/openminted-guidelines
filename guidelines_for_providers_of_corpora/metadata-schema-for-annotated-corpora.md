@@ -1,9 +1,8 @@
 ### Recommended metadata for annotated corpora {#metadata-schema-for-annotated-corpora}
 
-Annotated corpora are documented as separate resources
+Annotated corpora are documented with metadata elements relevant to the raw corpus \(e.g. domain, language etc.\) and metadata specific to annotations \(e.g. providing information on the annotation process, tool, etc.\).
 
-*   including only the annotated data, with a link to the raw corpus and its own set of metadata elements providing information on the annotation process, tool etc. or
-*   as a set of raw and annotated files together, with a metadata record that includes all the appropriate elements for raw corpora (cf. above) with the additional set of metadata elements for annotations, i.e. all the following elements except for &quot;resourceIdentifier&quot;.
+
 
 | OMTD-SHARE element | Usage |
 | --- | --- |
@@ -17,7 +16,6 @@ Annotated corpora are documented as separate resources
 | [annotationMode](/annotations_annotationMode.md) | Recommended |
 | [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
 | [annotationDate](/annotations_annotationDate.md) | Recommended |
-
 
 
 
