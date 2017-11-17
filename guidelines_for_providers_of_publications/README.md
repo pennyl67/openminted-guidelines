@@ -1,6 +1,8 @@
 # Guidelines for providers of scholarly content {#guidelines-for-providers-of-publications}
 
-OpenMinTeD focuses on the use of TDM technologies in the scientific literature world, ranging from generic scholarly communication to publications related to specific disciplines. Scholarly publications come from a wide bulk of stakeholders, e.g. institutional and discipline repositories, academic journals, scientific publishers, etc. For the first phase, the focus is on **literature repositories and publishers**, as regards sources, and on **Open Access content**, as regards access conditions.
+OpenMinTeD focuses on the use of TDM technologies in the **scientific literature** world, ranging from generic scholarly communication to publications related to specific disciplines. 
+
+Scholarly publications come from a wide bulk of stakeholders, e.g. institutional and discipline repositories, academic journals, scientific publishers, etc. For the first phase, the focus is on **literature repositories and publishers**, as regards sources, and on **Open Access content**, as regards access conditions.
 
 OpenMinTeD relies on existing infrastructures and standards/best practices for its operation. Thus, to access scholarly publications, it relies on the two main aggregators of such content, [OpenAIRE](http://www.openaire.eu) and [CORE](http://core.ac.uk).
 

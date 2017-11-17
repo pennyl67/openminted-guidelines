@@ -1,6 +1,6 @@
-## Sharing scholarly content in OpenMinTeD through aggregators {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
+## Sharing scholarly content through aggregators {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
 
-If you are a publisher, repository, archive etc., and wish to register scholarly publications that can be harvested for TDM purposes through the [OpenMinTeD platform](https://services.openminted.eu), you can do so
+If you are a publisher, literature repository, archive etc., and wish to register scholarly publications that can be harvested for TDM purposes through the [OpenMinTeD platform](https://services.openminted.eu), you can do so
 
 * by registering through [OpenAIRE](http://www.openaire.eu), following procedures and guidelines at: [https://www.openaire.eu/validator/welcome.action](https://www.openaire.eu/validator/welcome.action)
 

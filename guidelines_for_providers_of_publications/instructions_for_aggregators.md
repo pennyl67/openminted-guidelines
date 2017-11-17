@@ -3,8 +3,8 @@
 For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. Interested content providers are also able to contribute directly to the [OpenMinTeD platform ](https://services.openminted.eu)if they implement the following:
 
 * Map the metadata of their contents to the [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md)
-* Provide search capabilities on the metadata, according to the specifications of the **ContentConnector **\(cf. below\)
-* Provide the actual content \(i.e. at least abstract or, preferably, full text\)
+* Provide search capabilities on the metadata, according to the specifications of the **ContentConnector** described below
+* Provide the actual content \(i.e. the full text\)
 
 It should be noted that the providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
 
@@ -28,8 +28,6 @@ For each publication, you must deliver:
 
 * a file with the **full text** 
 * a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
-
-
 
 ---
 
