@@ -96,7 +96,7 @@
     * [annotationMode](annotations_annotationMode.md)
     * [isAnnotatedBy](annotations_isAnnotatedBy.md)
     * [annotationDate](annotations_annotationDate.md)
-* [​Guidelines for providers of software](guidelines_for_providers_of_sw_resources/README.md)
+* [​Guidelines for providers of software \(applications and components\)](guidelines_for_providers_of_sw_resources/README.md)
   * [Sharing software through OpenMinTeD](guidelines_for_providers_of_sw_resources/sharing-software-through-openminted.md)
     * [Sharing UIMA and GATE components](/sharing-uima-and-gate-components.md)
     * [Sharing components as Docker images](/sharing-components-as-dockerised-images.md)
