@@ -9,7 +9,9 @@ To be fully compatible with OpenMinTeD, you must
   * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource; FOSS licences are recommended for software resources
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
-  * in the case of components delivered via Maven, please provide the Maven identifier in the record
+  * in the case of components delivered 
+    * via Maven, please provide the Maven identifier in the record
+    * as Docker images, provide the component name used in the image.
 * **Versioning**: ensure that you version all your software resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org)
 * **Formal description and documentation**:
   * ensure that you provide with your software resource appropriate machine-readable metadata embedded in the source code \(where possible\) and according to the relevant framework \(e.g. uimaFIT Java annotations etc.\); make sure that the metadata descriptors are properly identified in an unambiguous way that makes them easy to distinguish and extract
@@ -23,11 +25,9 @@ To be fully compatible with OpenMinTeD, you must
   * support at least the following data formats, given that OpenMinTeD has endorsed the use of 
     * the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a [workflow](https://guidelines.openminted.eu/GLOSSARY.html#workflow) and
     * the [WebAnnotation](https://www.w3.org/annotation/) standard to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on [document](https://guidelines.openminted.eu/GLOSSARY.html#document)/collection level.
-* **Scalability**: To ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component. E.g. a component that counts all tokens in a corpus cannot be trivially scaled.
+* **Scalability**: To ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component. For instance, a component that counts all tokens in a corpus cannot be trivially scaled.
 * **Re-usability of ancillary resources**:
-  * Please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please use the resource identifier for the linking.
-
-
+  * Please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier for the linking.
 
 Further recommendations that contribute to interoperability include the following:
 

@@ -1,4 +1,4 @@
-### Recommended schema for software {#recommended-schema-for-s-w-resources}
+### Recommended metadata for software {#recommended-schema-for-s-w-resources}
 
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
@@ -9,7 +9,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 * encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources \(e.g. componentType, application, input and output specifications and dependencies\)
 * give access to the component and execute it \(e.g. distributionLocation, command\)
 * classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research 
-  \(e.g. componentType, applicationFunction, TDMMethod\)
+  \(e.g. function, TDMMethod\)
 * contribute to attribution, citation and reproducibility of experiments \(e.g. resourceCreator, mustBeCitedWith\).
 
 | OMTD-SHARE element | Usage |

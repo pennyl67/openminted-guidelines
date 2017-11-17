@@ -1,15 +1,11 @@
 ### Example metadata records for software
 
-
-
 #### Examples of components
 
 * Example of UIMA component \(DK-Pro Core\)
 * Example of GATE component
 * Example of component registered as Docker image \(Alvis component\)
 * Example of component registered as web service
-
-
 
 #### Examples of applications \(created with the workflow editor\)
 

@@ -16,13 +16,11 @@ You can then visit the OpenMinTeD registry where you can register your component
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The Docker image location and identifier must be provided in the elements _&lt;distributionLocation&gt; _and _&lt;resourceIdentifier&gt;_, e.g.
+The Docker image location and identifier must be provided in the elements &lt;distributionLocation&gt; and &lt;resourceIdentifier&gt;, e.g.
 
 `<distributionLocation>bibliome/alvisengine</distributionLocation>`
 
 `<resourceIdentifier resourceIdentifierShemeName="omtd-docker">org.bibliome.alvisnlp.modules.ccg.CCGParser</resourceIdentifier>`
 
 Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
-
-
 
