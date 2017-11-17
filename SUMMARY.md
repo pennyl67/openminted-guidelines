@@ -6,7 +6,7 @@
   * [Sharing scholarly content through aggregators](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
   * [Sharing scholarly content by connecting to OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](recommendations-for-publishers.md)
-  * [Federated content search and corpus building in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
+  * [Building corpora of scholarly content offered in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
   * [​Recommended metadata for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
     * [documentType](publications_documentType.md)
     * [publicationType](publications_publicationType.md)
