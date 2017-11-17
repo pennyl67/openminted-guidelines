@@ -1,4 +1,4 @@
-# Guidelines for providers of knowledge resources {#guidelines-for-providers-of-ancillary-knowledge-resources}
+# Guidelines for providers of knowledge resources \(ML models, grammars and annotation resources\) {#guidelines-for-providers-of-ancillary-knowledge-resources}
 
 Many TDM tools and services make use of _**ancillary knowledge resources**_. By knowledge resources, we mean information from some domain or area of human endeavor \(e.g. linguistics, agriculture, or the social sciences\), represented in a form that can be used to solve problems computationally in that domain or area[^1]. Creation of such knowledge resources is widespread in both linguistics, and in many domains where informatics is applied. These knowledge resources typically include controlled vocabularies, terminologies, lexica, ontologies, and so on.
 
