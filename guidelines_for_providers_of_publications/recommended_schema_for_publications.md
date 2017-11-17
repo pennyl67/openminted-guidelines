@@ -5,10 +5,10 @@ This section includes the overview of the recommended [OMTD-SHARE schema](/the_o
 These elements have been selected so as to help
 
 * identify the publication \(e.g. identifier, title\)
-* classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research \(e.g. documentType, publicationType, subject\)
-* describe the legal terms for using the publication \(e.g.licence or rightsStatement\)
+* classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research \(e.g. documentType, publicationType, keywords\)
+* describe the legal terms for using the publication \(e.g.licence, rightsStatement\)
 * encode  technical features that are useful for achieving discoverability by tools and services \(e.g.dataFormat, documentLanguage, characterEncoding\)
-* give access to the contents \(e.g.distributionMedium, hashkey, distributionURL\).
+* give access to the contents \(e.g. hashkey, distributionLocation\).
 
 This set of elements is described below in the first table and in the next sections in more detail.  
 For publications, an additional set of metadata elements relevant to the source of the original metadata and the document itself are required mainly for the management of the OMTD-SHARE metadata record and are presented in the second table.
