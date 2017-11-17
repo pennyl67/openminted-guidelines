@@ -44,7 +44,7 @@ Four guidelines are released addressing providers of the target resources:
 
 Each set of guidelines contains the following information:
 * a brief introduction, specifying the resources expected, potential sources, minimal requirements for the contributions
-* packaging and registering instructions for the OpenMinTeD platform
+* preparing, packaging and registering instructions for the OpenMinTeD platform
 * technical and metadata requirements that empower interoperability
 * for each resource type, an overview of the [OMTD-SHARE metadata schema](/the_omtd-share_metadata_schema.md) \(minimal level\) with definitions, explanations, recommended usage and mappings to other popular  metadata schemas
 * further instructions per type of contributors or resource type/subtype where required.
