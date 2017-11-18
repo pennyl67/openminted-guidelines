@@ -1,22 +1,25 @@
 #### version
 
 ##### Usage
-Mandatory upon conditions
 
-##### Usage conditions
-either version or versionDate must be filled in
+Mandatory
 
-##### Type
-numerical pattern
+**Type**
 
-##### Definition/Explanations
-Associates a resource with a numeric pattern of the form major_version.minor_version.patch (in accordance to the semantic versioning guidelines, cf. http://semver.org\) that identifies its version
+Free text
+
+**Definition/Explanations**
+
+Associates a resource with a free text, preferably a numeric pattern of the form major\_version.minor\_version.patch \(in accordance to the semantic versioning guidelines, cf. [http://semver.org\](http://semver.org%29\) that identifies its version
 
 ##### Recommended usage
-Please, keep this only for versions of the same resource (e.g. corrected, enlarged etc.) and not for variants or for versions with additional or different information (e.g. annotated versions). 
-The recommended practice for versioning should follow semantic versioning guidelines (http://semver.org/)
-The alternative element versionDate should be used only for corpora whose version is unknown.
 
-##### Relation to other metadata schemas
+The recommended practice for versioning should follow semantic versioning guidelines \([http://semver.org/](http://semver.org/)\)
+
+**Relation to other metadata schemas**
+
 * **DCMI:** skos:exactMatch dct:hasVersion
 * **DataCite 4.0:** skos:exactMatch datacite:Version
+
+
+
