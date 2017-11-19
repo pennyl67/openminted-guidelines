@@ -22,7 +22,7 @@ Depending on the value of "application", you should choose one of the most appro
 
 Please, select one of the predefined values. It should be noted that the values are hierarchically organised, so it's recommended to select the more specific value applicable \(e.g. "visualizer" rather than the broader "supportComponent"\).
 
-If you none of the proposed values describes appropriately the function performed by your resource, please select the one you consider closest and add a value \(preferably the id from another ontology\) in the element functionOther.
+If none of the proposed values describes appropriately the function performed by your resource, please select the one you consider closest and add a value \(preferably the id from another ontology\) in the element functionOther.
 
 ##### Relation to other metadata schemas
 
