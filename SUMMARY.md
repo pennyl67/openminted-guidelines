@@ -39,9 +39,8 @@
     * [originalDataProviderPublisher](publications_originalDataProviderPublisher.md)
   * [Further requirements for annotated publications](guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md)
   * [Recommended metadata for annotated publications](guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md)
-    * [annotationLevel](annotations_annotationLevel.md)
+    * [dataFormat \(& dataFormatOther\)](/lcr_dataFormat.md)
     * [annotationType \(& annotationTypeOther\)](guidelines_for_providers_of_publications/annotationtype.md)
-    * [annotationStandoff](annotations_annotationStandoff.md)
     * [typesystem](annotations_typesystem.md)
     * [annotationSchema](annotations_annotationSchema.md)
     * [annotationResource](annotations_annotationResource.md)
@@ -206,4 +205,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 
