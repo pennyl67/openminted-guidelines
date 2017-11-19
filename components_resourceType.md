@@ -14,7 +14,7 @@ Closed controlled vocabulary
 
 ##### Controlled vocabulary reference and/or values
 
-ms:resourceType: _corpus_, _lexicalConceptualResource_, _languageDescription_, _model_, _component_
+ms:resourceType: _corpus_, _lexicalConceptualResource_, _languageDescription_, _component_
 
 ##### Definition/Explanations
 

@@ -110,6 +110,8 @@
     * [resourceIdentifier](components_identifier.md)
     * [public](public.md)
     * [version](version.md)
+    * [contactPoint](contactpoint.md)
+    * [contactType](contacttype.md)
     * [contactPerson](contactPerson.md)
     * [contactEmail](contactEmail.md)
     * [landingPage](landingPage.md)
