@@ -2,15 +2,11 @@
 
 ##### Usage
 
-Mandatory upon conditions
-
-##### Conditions for usage
-
-either licence or rightsStatement must be filled in
+Mandatory
 
 ##### Type
 
-open controlled vocabulary
+closed controlled vocabulary
 
 ##### Controlled vocabulary reference and/or values
 
@@ -19,10 +15,6 @@ _openAccess_, _restrictedAccess_
 ##### Definition/Explanations
 
 The name of an official statement indicative of licensing terms for the use of a resource \(e.g. open access, free to read etc.\); its semantics should be clear, preferrably formally expressed and stored at a url.
-
-The current list of predefined values comes from OpenAIRE, but it's under revision.
-
-##### Recommended usage
 
 ##### Relation to other metadata schemas
 
