@@ -13,7 +13,7 @@ These elements have been selected so as to help
 
 For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 
-| OMTD-SHARE element | Usage |
+| **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [resourceType](/corpora_resourceType.md) | Μandatory |
 | [resourceName](/corpora_resourceName.md) | Μandatory |
