@@ -128,11 +128,8 @@
     * [parameterInfo](parameterinfo.md)
     * [inputContentResourceInfo](inputcontentresourceinfo.md)
     * [outputResourceInfo](outputresourceinfo.md)
-    * [typesystem inside componentDependencies](/components_typesystem_inside_componentDependencies.md)
     * [previousAnnotationTypesPolicy](previousannotationtypespolicy.md)
     * [componentDependencies](componentdependencies.md)
-    * [annotationSchema inside componentDependencies](components_annotationSchema_inside_componentDependencies.md)
-    * [annotationResource inside componentDependencies](components_annotationResource_inside_componentDependencies.md)
     * [framework](components_framework.md)
     * [TDMmethod](TDMmethod.md)
     * [relationType](components_relationType.md)
@@ -210,4 +207,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 
