@@ -10,12 +10,14 @@ free text
 
 ##### Definition/Explanations
 
-Any location where the resource can be downloaded or accessed
+Any location \(e.g. URL, repository, etc.\) where the resource can be accessed from, either in a downloadable form or as a web executable command etc.
 
-##### Recommended usage
+**Recommended usage**
 
-Please, use if the component is distributed as source and/or executable code, and has to be downloaded in order to be executed; this element is of particular importance if you have not uploaded the resource in the repository.  
-Please, use the Maven coordinates for components stored in Maven central repository.
+* For components registered through Maven, use the Maven coordinates preceded by "mvn:", e.g. `<distributionLocation>mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</distributionLocation>`
+* For components registered as Docker images, use the name under which they are registered in the Docker Central hub, e.g. `<distributionLocation>bibliome/alvisengine</distributionLocation>`
+* For web services, use the URL endpoint where it can be invoked from
+* Worfklows created in the OpenMinTeD platform, are automatically assigned the relevant value.
 
 ##### Relation to other metadata schemas
 
