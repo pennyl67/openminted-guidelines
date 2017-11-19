@@ -69,7 +69,6 @@
     * [distributionMedium](corpora_distributionMedium.md)
     * [distributionLocation](distributionURL.md)
     * [corpusSubtype](corpora_corpusSubtype.md)
-    * [mediaType](corpora_mediaType.md)
     * [lingualityType](corpora_lingualityType.md)
     * [multilingualityType](corpora_multilingualityType.md)
     * [language](corpora_language.md)
@@ -84,7 +83,6 @@
   * [Recommended metadata for annotated corpora](guidelines_for_providers_of_corpora/metadata-schema-for-annotated-corpora.md)
     * [dataFormat \(& dataFormatOther\)](annotations_dataFormat.md)
     * [annotationType \(& annotationTypeOther\)](/guidelines_for_providers_of_publications/annotationtype.md)
-
     * [typesystem](annotations_typesystem.md)
     * [annotationSchema](annotations_annotationSchema.md)
     * [annotationResource](annotations_annotationResource.md)
@@ -202,6 +200,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
-
-
 
