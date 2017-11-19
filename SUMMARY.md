@@ -125,6 +125,7 @@
     * [rightsStatement](rightsStatement.md)
     * [nonStandardLicenceName](nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
+    * [parameterInfo](parameterinfo.md)
     * [inputContentResourceInfo](inputcontentresourceinfo.md)
     * [outputResourceInfo](outputresourceinfo.md)
     * [parameterName](components_parameterName.md)
@@ -214,6 +215,4 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
-
-
 

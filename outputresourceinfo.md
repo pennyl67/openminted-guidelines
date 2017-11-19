@@ -19,7 +19,7 @@ set of elements
 
 ##### Definition/Explanations
 
-Groups together information on the requirements set on the input resource of an application or component.
+Groups together information on the features set on the output resource of an application or component.
 
 * **processingResourceType**: the  type of the resource used as input or produced by ouptut; values are _corpus, document, userInputText, lexicalConceptualResource, language Description_; e.g. readers that take as input a corpus, trainers that take as input a corpus and produce a ML model \(_languageDescription_\), etc.
 * **dataFormat **\(& **dataFormatOther**\): the data format supported by the app/component for the input or output resource; the values are taken from the respective class of the OMTD-SHARE ontology; if none of the suggested values fits the data format, use the broader value and add relevant information in the "dataFormatOther" element
