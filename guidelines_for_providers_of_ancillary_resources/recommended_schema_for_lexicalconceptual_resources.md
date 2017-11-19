@@ -1,4 +1,4 @@
-## ​Recommended metadata for annotation resources {#recommended-schema-for-lexical-conceptual-resources}
+## ​Recommended metadata for annotation resources \(lexical/conceptual resources\) {#recommended-schema-for-lexical-conceptual-resources}
 
 The following table presents mandatory and recommended elements for annotation resources; these have been selected so as to help
 

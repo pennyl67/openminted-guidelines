@@ -1,4 +1,4 @@
-#### annotationType
+#### annotationType \(& annotationTypeOther\)
 
 ##### Usage
 
