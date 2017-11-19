@@ -125,6 +125,7 @@
     * [rightsStatement](rightsStatement.md)
     * [nonStandardLicenceName](nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
+    * [inputContentResourceInfo](inputcontentresourceinfo.md)
     * [resourceType inside inputContentResourceInfo or outputResourceInfo](components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [dataFormat inside inputContentResourceInfo or outputResourceInfo](components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [language inside inputContentResourceInfo or outputResourceInfo](components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md)
