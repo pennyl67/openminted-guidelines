@@ -1,18 +1,14 @@
-#### function
+#### functionOther
 
 ##### Usage
 
-Mandatory
+Recommended
 
 ##### Type
 
-open controlled vocabulary
+free text
 
-##### Controlled vocabulary reference and/or values
-
-OMTD-SHARE ontology for function
-
-##### Definition/Explanations
+**Definition/Explanations**
 
 Specifies the function/task the resource performs
 

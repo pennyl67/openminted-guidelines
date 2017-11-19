@@ -1,11 +1,22 @@
 #### application
+
 ##### Usage
-Mandatory upon conditions
+
+Mandatory
+
 ##### Type
+
 boolean
+
 ##### Definition/Explanations
-Indicates whether the component can be used as an integrated end-user application
+
+Indicates whether the resource is an end-user application or can be re-used with other components to build workflows.
+
 ##### Recommended usage
 
 ##### Relation to other metadata schemas
+
 * **DCMI:** skos:narrowMatch dct:type
+
+
+
