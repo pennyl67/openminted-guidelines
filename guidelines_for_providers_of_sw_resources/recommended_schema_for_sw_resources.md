@@ -17,31 +17,30 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [resourceType](/components_resourceType.md) | Mandatory |
 | [resourceName](/components_resourceName.md) | Mandatory |
 | [description](/components_description.md) | Mandatory |
-| [identifier](/components_identifier.md) | Mandatory |
+| [resourceIdentifier](/components_identifier.md) | Mandatory |
 | [public](/components_public.md) | Mandatory |
 | [version](/components_version.md) | Mandatory |
-| [contactEmail](/components_contactEmail.md) or [landingPage ](/components_landingPage.md)or [contactPerson](/components_contactPerson.md) | Mandatory \(choice: one element must be encoded\) |
+| [contactPoint](/contactpoint.md) | Mandatory |
+| [contactType](/contacttype.md) | Mandatory |
+| [contactPerson](/components_contactPerson.md) | Recommended |
 | [contactGroup](/components_contactGroup.md) | Recommended |
-| [mustBeCitedWith](/components_mustBeCitedWith.md) | Recommended |
-| [onlineHelpURL](/components_onlineHelpURL.md) | Recommended |
-| [resourceCreator](/components_resourceCreator.md) \(person or organization, described with identifier or name\) | Recommended |
-| [componentType](/components_componentType.md) | Mandatory |
+| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [application](/components_application.md) | Mandatory |
-| [applicationFunction](/components_applicationFunction.md) | Mandatory upon conditions |
+| [function](/components_componentType.md) | Mandatory |
+| [functionOther](/functionother.md) | Mandatory when applicable |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
 | [distributionLocation](/components_downloadURL) | Mandatory |
 | [command](/components_command.md) | Mandatory upon conditions |
-| [licence](/components_licence.md) or [rightsStatement](/components_rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
+| [licence](/components_licence.md) | Mandatory |
+| [rightsStatement](//rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/components_nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/components_nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-| [processingResourceType](/components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Mandatory when applicable |
-| [dataFormat](/components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Recommended when applicable |
-| [language](/components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Mandatory when applicable |
-| [annotationLevel](/components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md) inside inputContentResourceInfo or outputResourceInfo | Mandatory when applicable |
-| for parameters: [parameterName](/components_parameterName), [parameterLabel](/components_parameterLabel), [parameterDescription](/components_parameterDescription), [parameterType](/components_parameterType), [optional](/components_optional), [multiValue](/components_multiValue), [defaultValue](/components_defaultValue) | Mandatory when applicable |
-| [typesystem](/components_typesystem_inside_componentDependencies.md) inside componentDependencies | Mandatory when applicable |
-| [annotationSchema](/components_anotationSchema_inside_componentDependencies.md) inside componentDependencies | Recommended when applicable |
-| [annotationResource](/components_annotationResource_inside_componentDependencies.md) inside componentDependencies | Recommended when applicable |
+| [parameterInfo](/parameterinfo.md) | Mandatory when applicable |
+| [inputContentResourceInfo](/inputcontentresourceinfo.md) | Mandatory when applicable |
+| [outputResourceInfo](/outputresourceinfo.md) | Mandatory when applicable |
+| [previousAnnotationTypesPolicy](/previousannotationtypespolicy.md) | Mandatory when applicable |
+| [componentDependencies](/componentdependencies.md) | Mandatory when applicable |
 | [framework](/components_framework.md) | Mandatory |
+| [TDMMethod](/TDMmethod.md) | Recommended |
 | [relationType](/components_relationType.md) | Recommended |
 | [relatedResource](/components_relatedResource.md) | Mandatory upon conditions |
 
