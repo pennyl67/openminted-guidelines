@@ -13,7 +13,7 @@ These elements have been selected so as to help
 This set of elements is described below in the first table and in the next sections in more detail.  
 For publications, an additional set of metadata elements relevant to the source of the original metadata and the document itself are required mainly for the management of the OMTD-SHARE metadata record and are presented in the second table.
 
-| OMTD-SHARE element | Usage |
+| **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [documentType](/publications_documentType.md) | Mandatory |
 | [publicationType](/publications_publicationType.md) | Mandatory |
@@ -38,7 +38,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [relationType ](/publications_relationType.md) | Recommended |
 | [relatedResource ](/publications_relatedResource.md) | Mandatory when applicable |
 
-| OMTD-SHARE element | Usage |
+| **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [collectedFrom repositoryName or repositoryIdentifier](/publications_collectedFrom.md) | Recommended |
 | [sourceMetadataLink ](/publications_sourceMetadataLink.md) | Recommended |

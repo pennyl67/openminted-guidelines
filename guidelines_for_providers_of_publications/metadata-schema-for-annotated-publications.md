@@ -2,8 +2,7 @@
 
 Annotated publications are documented as separate resources with a link to the raw publication and their own set of metadata elements providing information on the annotation process, tool etc.
 
-
-| OMTD-SHARE element | Usage |
+| **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [publicationIdentifier](/publications_identifier.md) | Mandatory |
 | [annotationLevel](/annotations_annotationLevel.md) | Mandatory |
@@ -15,5 +14,6 @@ Annotated publications are documented as separate resources with a link to the r
 | [annotationMode](/annotations_annotationMode.md) | Recommended when applicable |
 | [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
 | [annotationDate](/annotations_annotationDate.md) | Recommended |
+
 
 
