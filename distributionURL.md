@@ -2,11 +2,7 @@
 
 ##### Usage
 
-Mandatory when applicable
-
-##### Conditions for usage
-
-When the resource is available over the internet
+Mandatory
 
 ##### Definition/Explanations
 
