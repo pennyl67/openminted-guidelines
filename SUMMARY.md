@@ -113,8 +113,6 @@
     * [contactPoint](contactpoint.md)
     * [contactType](contacttype.md)
     * [contactPerson](contactPerson.md)
-    * [contactEmail](contactEmail.md)
-    * [landingPage](landingPage.md)
     * [contactGroup](contactGroup.md)
     * [mustBeCitedWith](mustBeCitedWith.md)
     * [onlineHelpURL](components_onlineHelpURL.md)
