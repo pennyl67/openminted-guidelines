@@ -1,4 +1,4 @@
-#### inputContentResourceInfo
+#### outputContentResourceInfo
 
 ##### Usage
 
@@ -38,8 +38,6 @@ Groups together information on the requirements set on the input resource of an 
 * annotationType
 
   * **UIMA/UIMA-fit:** @TypeCapability
-
-
 
 
 
