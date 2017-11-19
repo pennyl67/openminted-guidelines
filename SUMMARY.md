@@ -127,10 +127,6 @@
     * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
     * [inputContentResourceInfo](inputcontentresourceinfo.md)
     * [outputResourceInfo](outputresourceinfo.md)
-    * [dataFormat inside inputContentResourceInfo or outputResourceInfo](components_dataFormatSpecific_inside_inputContentResourceInfo_or_outputResourceInfo.md)
-    * [resourceType inside inputContentResourceInfo or outputResourceInfo](components_resourceType_inside_inputContentResourceInfo_or_outputResourceInfo.md)
-    * [language inside inputContentResourceInfo or outputResourceInfo](components_language_inside_inputContentResourceInfo_or_outputResourceInfo.md)
-    * [annotationLevel inside inputContentResourceInfo or outputResourceInfo](components_annotationLevel_inside_inputContentResourceInfo_or_outputResourceInfo.md)
     * [parameterName](components_parameterName.md)
     * [parameterLabel](components_parameterLabel.md)
     * [parameterDescription](components_parameterDescription.md)
@@ -218,4 +214,6 @@
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
+
+
 
