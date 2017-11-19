@@ -114,6 +114,9 @@
     * [contactType](contacttype.md)
     * [contactPerson](contactPerson.md)
     * [contactGroup](contactGroup.md)
+    * [documentationDescription](documentationdescription.md)
+    * [resourceDocumentationInfo](resourcedocumentationinfo.md)
+    * documentationType
     * [mustBeCitedWith](mustBeCitedWith.md)
     * [onlineHelpURL](components_onlineHelpURL.md)
     * [resourceCreator](resourceCreator.md)
