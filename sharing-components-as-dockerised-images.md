@@ -16,7 +16,7 @@ You can then visit the OpenMinTeD registry where you can register your component
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The Docker image location and identifier must be provided in the elements &lt;distributionLocation&gt; and &lt;resourceIdentifier&gt;, e.g.
+The location and identifier of the component must be provided in the elements &lt;distributionLocation&gt; and &lt;resourceIdentifier&gt;, e.g.
 
 `<distributionLocation>bibliome/alvisengine</distributionLocation>`
 
