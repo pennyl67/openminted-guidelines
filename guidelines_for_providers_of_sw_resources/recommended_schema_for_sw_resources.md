@@ -12,7 +12,7 @@ The following table presents mandatory and recommended elements for Machine Lear
   \(e.g. function, TDMMethod\)
 * contribute to attribution, citation and reproducibility of experiments \(e.g. resourceCreator, mustBeCitedWith\).
 
-| OMTD-SHARE element | Usage |
+| **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [resourceType](/components_resourceType.md) | Mandatory |
 | [resourceName](/components_resourceName.md) | Mandatory |
