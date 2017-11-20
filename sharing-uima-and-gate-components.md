@@ -16,7 +16,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 
 #### **Step 2 - Registering in OpenMinTeD**
 
-You can then visit the OpenMinTeD registry where you can register your component in one of the following ways:
+You can then visit the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) where you can register your component in one of the following ways:
 
 * create from scratch the OMTD-SHARE metadata record \(minimal schema\) using the OpenMinTeD editor; in this case, you must provide the Maven coordinates through the element _&lt;distributionLocation&gt;_, e.g. `<distributionLocation>mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</distributionLocation>`
 * upload the OMTD-SHARE metadata record[^1] as an XML file with the Maven coordinates filled in the relevant metadata element as in the above example, or

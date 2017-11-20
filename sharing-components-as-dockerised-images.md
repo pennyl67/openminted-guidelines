@@ -8,7 +8,7 @@ To build an OpenMinTeD-compatible Docker image of apps/components, you must foll
 
 #### **Step 2 - Registering in OpenMinTeD**
 
-You can then visit the OpenMinTeD registry where you can register your app/component in one of the following ways:
+You can then visit the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) where you can register your app/component in one of the following ways:
 
 * edit from scratch the OMTD-SHARE metadata record[^1] using the OpenMinTeD editor or
 
