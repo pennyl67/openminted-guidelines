@@ -1,6 +1,6 @@
-### Sharing components as Docker images
+### Sharing apps/components as Docker images
 
-Components from frameworks and technologies other than UIMA and GATE must be registered in OpenMinTeD as Docker images.
+Software \(apps/components\) from frameworks and technologies other than UIMA and GATE must be registered in OpenMinTeD as Docker images.
 
 #### **Step 1 - Preparing and packaging**
 

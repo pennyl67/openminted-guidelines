@@ -19,12 +19,12 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 You can then visit the OpenMinTeD registry where you can register your component in one of the following ways:
 
 * create from scratch the OMTD-SHARE metadata record \(minimal schema\) using the OpenMinTeD editor; in this case, you must provide the Maven coordinates through the element _&lt;distributionLocation&gt;_, e.g. `<distributionLocation>mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</distributionLocation>`
-* upload the OMTD-SHARE metadata record as an XML file with the Maven coordinates filled in the relevant metadata element as in the above example, or
+* upload the OMTD-SHARE metadata record[^1] as an XML file with the Maven coordinates filled in the relevant metadata element as in the above example, or
 * submit the Maven coordinates directly in the interface; in this case, 
   * if the package includes one or more  OMTD-SHARE files corresponding to the components contained in the package, the available components will be displayed to the user, the user will select the component to register, the metadata will be validated and, if valid, uploaded to the registry; 
   * if there are no OMTD-SHARE files in the package, an OMTD-SHARE record can be partially converted from the Maven POM file and other descriptors and the user will be prompted to fill in the missing information.
 
-In all of these cases, the metadata record[^1] can be viewed and edited at the end of the process.
+In all of these cases, the metadata record can be viewed and edited at the end of the process.
 
 Components provided in this mode are dockerized by OpenMinTeD.
 
