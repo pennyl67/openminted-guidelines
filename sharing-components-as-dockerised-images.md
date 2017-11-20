@@ -22,7 +22,7 @@ The location of the docker image must be provided in the element &lt;distributio
 
 `<resourceIdentifier resourceIdentifierShemeName="omtd-docker">org.bibliome.alvisnlp.modules.ccg.CCGParser</resourceIdentifier>`
 
-Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+Further requirements and recommendations for achieving interoperability across software and content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 
 [^1]: You can find example metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
 
