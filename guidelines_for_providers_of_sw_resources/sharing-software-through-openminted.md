@@ -15,7 +15,7 @@ There are, therefore, three ways you can provide TDM software in OpenMinTeD:
 
 * [**components compatible with UIMA**[^2]** or GATE**[^3]** frameworks**](//sharing-uima-and-gate-components.md)** **can be uploaded in the [Maven Central repository](http://maven.apache.org) and registered by declaring the respective Maven coordinates which uniquely specify their  location; dockerization for these components is undertaken by OpenMinTeD;
 * [**components or applications created with other technologies or other TDM-related frameworks**](//sharing-components-as-dockerised-images.md)** **must be packaged  and registered directly as Docker images;
-* [**web services**](//guidelines_for_providers_of_sw_resources/sharing-web-services.md) \(applications/components\) which are installed and maintained outside the OpenMinTeD platform are accessed via an appropriate client following the relevant OpenMinTeD specification and registered with the URL that specifies their location.
+* [**web services**](//guidelines_for_providers_of_sw_resources/sharing-web-services.md) \(applications/components\) which are installed and maintained outside the OpenMinTeD platform must be registered with the URL that specifies their location. The client that communicates with the web service is implemented by OpenMinTeD.
 
 ---
 
