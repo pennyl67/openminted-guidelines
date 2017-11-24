@@ -1,6 +1,6 @@
 # OpenMinTeD guidelines
 
-Welcome to the OpenMinTeD Guidelines!!!!
+Welcome to the OpenMinTeD Guidelines!
 
 This is where you'll find information on the following:
 
