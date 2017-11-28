@@ -17,6 +17,20 @@ The following table presents mandatory and recommended elements for annotation r
 | [resourceIdentifier](/lcr_identifier.md) | Mandatory |
 | [public](/public.md) | Mandatory |
 | [version](/version.md) or [versionDate](/versionDate.md) | Mandatory \(choice: one element must be encoded\) |
+| [contactPoint](/contactpoint.md) | Mandatory |
+| [contactType](/contacttype.md) | Mandatory |
+| [contactPerson](/contactPerson.md) | Recommended |
+| [contactGroup](/contactGroup.md) | Recommended |
+| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
+
+
+| [licence](/components_licence.md) | Mandatory |
+| [rightsStatement](//rightsStatement.md) | Mandatory |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+
+
+
+
 | [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one of the two must be encoded\) |
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |
 | [distributionLocation](/lcr_distributionURL.md) | Mandatory when applicable |
