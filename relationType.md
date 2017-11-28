@@ -16,8 +16,10 @@ ms:relationType: _isPartOf_, _isPartWith_, _hasPart_, _hasOutcome_, _isCombinedW
 
 Specifies the type of relation holding between two entities \(e.g. two resources that comprise one new resource together, a corpus and the s/w component that has been used for its creation or a corpus and the publication that describes it\)
 
-##### Relation to other metadata schemas
+##### Recommended usage
+Annotated corpora must be linked to the raw corpus (as relatedResource) through the relationType with value isAnnotatedVersion.
 
+##### Relation to other metadata schemasc
 * **DataCite 4.0:** skos:closeMatch datacite:relationType
 
 
