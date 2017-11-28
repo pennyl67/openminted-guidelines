@@ -10,7 +10,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 * give access to the component and execute it \(e.g. distributionLocation, command\)
 * classify the resource along a variety of criteria that end-users can apply for locating resources of interest for their research 
   \(e.g. function, TDMMethod\)
-* contribute to attribution, citation and reproducibility of experiments \(e.g. resourceCreator, mustBeCitedWith\).
+* contribute to attribution, citation and reproducibility of experiments (e.g. resourceCreator).
 
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |
@@ -26,8 +26,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [contactGroup](/components_contactGroup.md) | Recommended |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [application](/components_application.md) | Mandatory |
-| [function](/components_componentType.md) | Mandatory |
-| [functionOther](/functionother.md) | Mandatory when applicable |
+| [function (& functionOther)](/components_function.md) | Mandatory |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
 | [distributionLocation](/components_downloadURL) | Mandatory |
 | [command](/components_command.md) | Mandatory upon conditions |
