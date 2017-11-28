@@ -109,6 +109,7 @@
       * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
       * [distributionMedium](distributionMedium.md)
       * [resourceDocumentationInfo](resourcedocumentationinfo.md)
+      * [resourceCreator](resourceCreator.md)
       * [lexicalConceptualResourceType](lcr_lexicalConceptualResourceType.md)
       * [contentTypes](lcr_contentTypes.md)
       * [lingualityType](lcr_lingualityType.md)
