@@ -16,7 +16,7 @@ The following table presents mandatory and recommended elements for annotation r
 | [description](/lcr_description.md) | Mandatory |
 | [resourceIdentifier](/lcr_identifier.md) | Mandatory |
 | [public](/public.md) | Mandatory |
-| [version](/version.md) or [versionDate](/versionDate.md) | Mandatory \(choice: one element must be encoded\) |
+| [version](/version.md) | Mandatory |
 | [contactPoint](/contactpoint.md) | Mandatory |
 | [contactType](/contacttype.md) | Mandatory |
 | [contactPerson](/contactPerson.md) | Recommended |

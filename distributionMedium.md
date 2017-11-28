@@ -14,10 +14,11 @@ ms:distributionMedium: _webExecutable_, _downloadable_, _accessibleThroughInterf
 
 ##### Definition/Explanations
 
-Specifies the medium \(channel\) used for delivery or providing access to the resource
+Specifies the medium \(channel\) used for delivering or providing access to the resource
 
 ##### Recommended usage
 
 Please, use one of the provided values to indicate the medium of distribution.   
-For corpora created through the OMTD corpus building process, the default value is "downloadable". 
+For lexical/conceptual resources that can be downloaded in a specific form (e.g. excel spreadsheet, ontologies in rdf/xml format etc.) use the "downloadable" value; for SPARQL endpoints of ontologies, please use the value "webExecutable".
+
 
