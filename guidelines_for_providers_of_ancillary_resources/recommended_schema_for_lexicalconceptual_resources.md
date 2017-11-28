@@ -27,17 +27,17 @@ The following table presents mandatory and recommended elements for annotation r
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |
 | [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
+| [resourceCreator](/resourceCreator.md) | Recommended |
 | [lexicalConceptualResourceType](/lcr_lexicalConceptualResourceType.md) | Mandatory |
-
 | [contentTypes](/lcr_contentTypes.md) | Recommended |
 | [lingualityType](/lcr_lingualityType.md) | Mandatory |
 | [language](/lcr_language.md) | Mandatory |
 | [metalanguage](/lcr_metalanguage.md) | Recommended |
 | [size & sizeUnit](/lcr_size.md) | Mandatory |
 | [dataFormat](/lcr_dataFormat.md) | Recommended |
-| [domain](/lcr_domain.md) | Recommended |
-| [relationType](/lcr_relationType.md) | Recommended |
-| [relatedResource](/lcr_relatedResource.md) | Mandatory when applicable |
+| [domain](/domain.md) | Recommended |
+| [relationType](/relationType.md) | Recommended |
+| [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
 
 
