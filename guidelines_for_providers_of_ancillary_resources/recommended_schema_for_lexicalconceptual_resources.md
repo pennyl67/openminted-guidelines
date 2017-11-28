@@ -25,12 +25,10 @@ The following table presents mandatory and recommended elements for annotation r
 | [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |
-| [distributionLocation](/lcr_distributionURL.md) | Mandatory when applicable |
-
-
-
+| [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [lexicalConceptualResourceType](/lcr_lexicalConceptualResourceType.md) | Mandatory |
+
 | [contentTypes](/lcr_contentTypes.md) | Recommended |
 | [lingualityType](/lcr_lingualityType.md) | Mandatory |
 | [language](/lcr_language.md) | Mandatory |
