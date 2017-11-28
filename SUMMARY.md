@@ -177,6 +177,7 @@
     * [contactPerson](contactPerson.md)
     * [contactGroup](contactGroup.md)
     * [resourceDocumentationInfo](resourcedocumentationinfo.md)
+    * [resourceCreator](resourceCreator.md)
     * [application](components_application.md)
     * [function \(& functionOther\)](components_function.md)
     * [componentDistributionForm](components_componentDistributionForm.md)
