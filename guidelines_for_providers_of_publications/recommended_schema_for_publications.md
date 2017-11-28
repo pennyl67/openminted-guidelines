@@ -23,11 +23,11 @@ For publications, an additional set of metadata elements relevant to the source 
 | [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [hashkey](/publications_hashkey.md) | Mandatory |
-| [distributionLocation](/distributionURL.md) | Μandatory when applicable |
+| [distributionLocation](/distributionLocation.md) | Μandatory when applicable |
 | [author](/publications_author.md) | Recommended |
 | [publisher](/publications_publisher.md) | Recommended |
 | [journal](/publications_journal.md) | Mandatory when applicable |
-| [dataFormat](/publications_dataFormat.md) \(& dataFormatOther\) | Recommended |
+| [dataFormat](/dataFormat.md) \(& dataFormatOther\) | Recommended |
 | [documentLanguage](/publications_documentLanguage.md) | Recommended |
 | [characterEncoding](/publications_characterEncoding.md) | Recommended |
 | [abstract](/publications_abstract.md) | Recommended |
@@ -35,8 +35,8 @@ For publications, an additional set of metadata elements relevant to the source 
 | [publicationDate](/publications_publicationDate.md) | Recommended |
 | [subject ](/publications_subject.md) | Recommended |
 | [keyword ](/publications_keyword.md) | Recommended |
-| [relationType ](/publications_relationType.md) | Recommended |
-| [relatedResource ](/publications_relatedResource.md) | Mandatory when applicable |
+| [relationType ](/relationType.md) | Recommended |
+| [relatedResource ](/relatedResource.md) | Mandatory when applicable |
 
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |
