@@ -40,9 +40,10 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [dataFormat](/dataFormat.md) | Mandatory |
 | [keyword](/keyword.md) | Recommended |
 | [domain](/domain.md) | Recommended |
+| [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
-| [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
+
 
 
 
