@@ -7,15 +7,14 @@ Annotated corpora are documented with metadata elements relevant to the raw corp
 | OMTD-SHARE element | Usage |
 | --- | --- |
 | [resourceIdentifier](/corpora_identifier.md) | Mandatory |
-| [annotationLevel](/annotations_annotationLevel.md) | Mandatory |
-| [annotationStandoff](/annotations_annotationStandoff.md) | Recommended |
-| [dataFormat](/annotations_dataFormat.md) | Recommended |
-| [typesystem](/annotations_typesystem.md) | Recommended |
-| [annotationSchema](/annotations_annotationSchema.md) | Recommended when applicable |
-| [annotationResource](/annotations_annotationResource.md) | Recommended when applicable |
-| [annotationMode](/annotations_annotationMode.md) | Recommended |
-| [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
-| [annotationDate](/annotations_annotationDate.md) | Recommended |
+| [annotationType](/annotationType.md) | Mandatory |
+| [dataFormat](/dataFormat.md) | Recommended |
+| [typesystem](/typesystem.md) | Recommended |
+| [annotationSchema](/annotationSchema.md) | Recommended when applicable |
+| [annotationResource](/annotationResource.md) | Recommended when applicable |
+| [annotationMode](/annotationMode.md) | Recommended |
+| [isAnnotatedBy](/isAnnotatedBy.md) | Recommended |
+| [annotationDate](/annotationDate.md) | Recommended |
 
 
 
