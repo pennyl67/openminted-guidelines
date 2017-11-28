@@ -24,6 +24,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [contactPerson](/contactPerson.md) | Recommended |
 | [contactGroup](/contactGroup.md) | Recommended |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
+| [resourceCreator](/resourceCreator.md) | Recommended |
 | [application](/components_application.md) | Mandatory |
 | [function (& functionOther)](/components_function.md) | Mandatory |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
@@ -40,7 +41,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [framework](/components_framework.md) | Mandatory |
 | [TDMMethod](/TDMmethod.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
-| [relatedResource](/relatedResource.md) | Mandatory upon conditions |
+| [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
 
 

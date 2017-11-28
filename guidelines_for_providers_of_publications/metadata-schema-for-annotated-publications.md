@@ -4,15 +4,20 @@ Annotated publications are documented as separate resources with a link to the r
 
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |
-| [publicationIdentifier](/publications_identifier.md) | Mandatory |
-| [dataFormat](/annotations_dataFormat.md) \(& dataFormatOther\) | Mandatory |
-| [annotationType ](/guidelines_for_providers_of_publications/annotationtype.md)\(& annotationTypeOther\) | Mandatory |
-| [typesystem](/annotations_typesystem.md) | Recommended |
-| [annotationSchema](/annotations_annotationSchema.md) | Recommended when applicable |
-| [annotationResource](/annotations_annotationResource.md) | Recommended when applicable |
-| [annotationMode](/annotations_annotationMode.md) | Recommended when applicable |
-| [isAnnotatedBy](/annotations_isAnnotatedBy.md) | Recommended |
-| [annotationDate](/annotations_annotationDate.md) | Recommended |
+| [annotationType](/annotationType.md) | Mandatory |
+| [typesystem](/typesystem.md) | Recommended |
+| [annotationSchema](/annotationSchema.md) | Recommended when applicable |
+| [annotationResource](/annotationResource.md) | Recommended when applicable |
+| [annotationMode](/annotationMode.md) | Recommended |
+| [isAnnotatedBy](/isAnnotatedBy.md) | Recommended |
+| [annotationDate](/annotationDate.md) | Recommended |
+| [relationType](/relationType.md) | Mandatory when applicable |
+| [relatedResource](/relatedResource.md) | Mandatory when applicable |
+
+
+
+
+
 
 
 
