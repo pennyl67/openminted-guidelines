@@ -33,8 +33,8 @@ The following table presents mandatory and recommended elements for annotation r
 | [lingualityType](/lcr_lingualityType.md) | Mandatory |
 | [language](/lcr_language.md) | Mandatory |
 | [metalanguage](/lcr_metalanguage.md) | Recommended |
-| [size & sizeUnit](/lcr_size.md) | Mandatory |
-| [dataFormat](/lcr_dataFormat.md) | Recommended |
+| [size & sizeUnit](/lcr_size.md) | Recommended |
+| [dataFormat](/lcr_dataFormat.md) | Mandatory |
 | [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
