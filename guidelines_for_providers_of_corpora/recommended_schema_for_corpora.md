@@ -32,46 +32,17 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
-
-
-| [lingualityType](/lcr_lingualityType.md) | Mandatory |
-| [language](/lcr_language.md) | Mandatory |
-| [metalanguage](/lcr_metalanguage.md) | Recommended |
-| [size & sizeUnit](/lcr_size.md) | Recommended |
-| [dataFormat](/lcr_dataFormat.md) | Mandatory |
+| [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |
+| [mediaType](/corpora_mediaType.md) | Μandatory |
+| [lingualityType](/corpora_lingualityType.md) | Mandatory |
+| [language](/corpora_language.md) | Mandatory |
+| [size & sizeUnit](/corpora_size.md) | Recommended |
+| [dataFormat](/dataFormat.md) | Mandatory |
+| [keyword](/keyword.md) | Recommended |
 | [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
-
-
-
-
-
-
-
-
-| [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) or [contactPerson](/contactPerson.md) | Μandatory  \(choice:one element must be encoded\) |
-| [contactGroup](/contactGroup.md) | Recommended |
-| [version](/version.md) or [versionDate](/versionDate.md) | Mandatory \(choice: one element must be encoded\) |
-| [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
-| [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-| [distributionMedium](/corpora_distributionMedium.md) | Μandatory |
-| [distributionURL](/distributionURL.md) | Μandatory when applicable |
-| [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
-| [resourceCreator](/resourceCreator.md) | Recommended |
-| [creationDate](/corpora_creationDate.md) | Recommended \(Mandatory for query- built corpora\) |
-| [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |
-| [mediaType](/corpora_mediaType.md) | Μandatory |
-| [lingualityType](/corpora_lingualityType.md) | Μandatory |
-| [multilingualityType](/corpora_multilingualityType.md) | Μandatory when applicable |
-| [language](/corpora_language.md) | Μandatory |
-| [size](/corpora_size.md) | Μandatory |
-| [dataFormat](/corpora_dataFormat.md) | Recommended |
-| [domain](/corpora_domain.md) | Recommended |
-| [keyword](/corpora_keyword.md) | Recommended |
 | [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
-| [relationType](/corpora_relationType.md) | Recommended |
-| [relatedResource](/corpora_relatedResource.md) | Recommended |
 
 
 
