@@ -20,6 +20,36 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [description](/corpora_description.md) | Μandatory |
 | [resourceIdentifier](/corpora_identifier.md) | Μandatory |
 | [public](/public.md) | Mandatory |
+| [version](/version.md) | Mandatory |
+| [contactPoint](/contactpoint.md) | Mandatory |
+| [contactType](/contacttype.md) | Mandatory |
+| [contactPerson](/contactPerson.md) | Recommended |
+| [contactGroup](/contactGroup.md) | Recommended |
+| [licence](/licence.md) | Mandatory |
+| [rightsStatement](/rightsStatement.md) | Mandatory |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [distributionMedium](/corpora_distributionMedium.md) | Mandatory |
+| [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
+| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
+| [resourceCreator](/resourceCreator.md) | Recommended |
+
+
+| [lingualityType](/lcr_lingualityType.md) | Mandatory |
+| [language](/lcr_language.md) | Mandatory |
+| [metalanguage](/lcr_metalanguage.md) | Recommended |
+| [size & sizeUnit](/lcr_size.md) | Recommended |
+| [dataFormat](/lcr_dataFormat.md) | Mandatory |
+| [domain](/domain.md) | Recommended |
+| [relationType](/relationType.md) | Recommended |
+| [relatedResource](/relatedResource.md) | Mandatory when applicable |
+
+
+
+
+
+
+
+
 | [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) or [contactPerson](/contactPerson.md) | Μandatory  \(choice:one element must be encoded\) |
 | [contactGroup](/contactGroup.md) | Recommended |
 | [version](/version.md) or [versionDate](/versionDate.md) | Mandatory \(choice: one element must be encoded\) |
