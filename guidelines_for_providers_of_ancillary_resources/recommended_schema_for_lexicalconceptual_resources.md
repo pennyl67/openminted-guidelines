@@ -23,7 +23,7 @@ The following table presents mandatory and recommended elements for annotation r
 | [contactGroup](/contactGroup.md) | Recommended |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [licence](/licence.md) | Mandatory |
-| [rightsStatement](//rightsStatement.md) | Mandatory |
+| [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 
 
