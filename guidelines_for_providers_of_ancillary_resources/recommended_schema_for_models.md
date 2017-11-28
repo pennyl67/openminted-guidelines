@@ -17,12 +17,16 @@ The following table presents mandatory and recommended elements for Language des
 | [resourceIdentifier](/models_identifier.md) | Mandatory |
 | [public](/public.md) | Mandatory |
 | [version](/version.md) | Mandatory |
-| [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one element must be encoded\) |
+| [contactPoint](/contactpoint.md) | Mandatory |
+| [contactType](/contacttype.md) | Mandatory |
+| [contactPerson](/contactPerson.md) | Recommended |
+| [contactGroup](/contactGroup.md) | Recommended |
+| [licence](/licence.md) | Mandatory |
+| [rightsStatement](/rightsStatement.md) | Mandatory |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
 | [distributionMedium](/models_distributionMedium.md) | Mandatory |
-| [distributionLocation](/models_downloadURL.md) | Mandatory when applicable |
-| [contactPerson](/contactPerson.md) or [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) | Mandatory \(choice: one element must be encoded\) |
-| [contactGroup](/models_contactGroup.md) | Recommended |
-| [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
+| [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
+| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
 | [variant](/models_variantName.md) | Mandatory |
@@ -32,12 +36,12 @@ The following table presents mandatory and recommended elements for Language des
 | [TDMMethod](/TDMmethod.md) | Recommended |
 | [algorithm](/models_algorithm.md) | Recommended |
 | [trainingCorpusDetails](/models_trainingCorpusDetails.md) | Recommended |
-| [mediaType](/models_mediaType.md) | Mandatory |
 | [lingualityType](/models_lingualityType.md) | Mandatory |
 | [language](/models_language.md) | Mandatory |
+| [metalanguage](/models_metalanguage.md) | Recommended |
 | [size & sizeUnit](/models_size.md) | Recommended |
-| [relationType](/models_relationType.md) | Recommended |
-| [relatedResource](/models_relatedResource.md) | Mandatory when applicable |
-
-
+| [dataFormat](/dataFormat.md) | Mandatory |
+| [domain](/domain.md) | Recommended |
+| [relationType](/relationType.md) | Recommended |
+| [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
