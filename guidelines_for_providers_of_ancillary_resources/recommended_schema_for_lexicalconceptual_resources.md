@@ -21,20 +21,15 @@ The following table presents mandatory and recommended elements for annotation r
 | [contactType](/contacttype.md) | Mandatory |
 | [contactPerson](/contactPerson.md) | Recommended |
 | [contactGroup](/contactGroup.md) | Recommended |
-| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [licence](/licence.md) | Mandatory |
 | [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
-
-
-
-
-| [licence](/licence.md) or [rightsStatement](/rightsStatement.md) | Mandatory \(choice: one of the two must be encoded\) |
 | [distributionMedium](/lcr_distributionMedium.md) | Mandatory |
 | [distributionLocation](/lcr_distributionURL.md) | Mandatory when applicable |
-| [contactPerson](/contactPerson.md) or [contactEmail](/contactEmail.md) or [landingPage](/landingPage.md) | Mandatory \(choice: one element must be encoded\) |
-| [contactGroup](/contactGroup.md) | Recommended |
-| [mustBeCitedWith](/mustBeCitedWith.md) | Recommended |
+
+
+
+| [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [lexicalConceptualResourceType](/lcr_lexicalConceptualResourceType.md) | Mandatory |
 | [contentTypes](/lcr_contentTypes.md) | Recommended |
 | [lingualityType](/lcr_lingualityType.md) | Mandatory |
