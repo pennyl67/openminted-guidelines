@@ -18,7 +18,7 @@ Specifies the type of the publication \(e.g. whether it's a journal article, ora
 
 ##### Recommended usage
 
-Please, select one of the values from the list \(subset of the COAR vocabulary for resource types, [http://vocabularies.coar-repositories.org/pubby/resource\_type.html](http://vocabularies.coar-repositories.org/pubby/resource_type.html%29\)\); if none of the values fits, please use "other"
+Please, select one of the values from the list \(subset of the [COAR vocabulary for resource types](https://www.coar-repositories.org/activities/repository-interoperability/coar-vocabularies/deliverables/)\); if none of the values fits, please use "other"
 
 ##### Relation to other metadata schemas
 
