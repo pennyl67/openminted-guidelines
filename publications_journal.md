@@ -2,7 +2,7 @@
 
 ##### Usage
 
-Mandatory if applicable
+Mandatory when applicable
 
 ##### Conditions for usage
 
