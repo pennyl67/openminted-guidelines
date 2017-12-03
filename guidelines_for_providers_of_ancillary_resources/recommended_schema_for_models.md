@@ -25,7 +25,7 @@ The following table presents mandatory and recommended elements for Language des
 | [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory when applicable |
 | [distributionMedium](/models_distributionMedium.md) | Mandatory |
-| [distributionLocation](/distributionLocation.md) | Mandatory when applicable |
+| [distributionLocation](/distributionLocation.md) | Mandatory |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
