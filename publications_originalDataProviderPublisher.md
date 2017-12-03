@@ -1,6 +1,6 @@
 #### originalDataProviderPublisher
 ##### Usage
-Recommended under conditions
+Recommended when applicable
 ##### Conditions for usage
 if originalDataProviderType=publisher
 ##### Type

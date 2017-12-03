@@ -14,7 +14,7 @@ ms:resourceIdentifierSchemeName or ms:schemeURI \(for identifiers\) and xs:lang 
 
 ##### Definition/Explanations
 
-A name or an identifier \(e.g. url reference\) to the typesystem used in the annotation of the resource or used by the component
+A name or an identifier \(e.g. url reference\) to the typesystem used in the annotation of the resource or used by the application/component
 
 ##### Recommended usage
 

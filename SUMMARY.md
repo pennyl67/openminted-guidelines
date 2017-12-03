@@ -38,6 +38,7 @@
     * [originalDataProviderPublisher](publications_originalDataProviderPublisher.md)
   * [Further requirements for annotated publications](guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md)
   * [Recommended metadata for annotated publications](guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md)
+    * [dataFormat \(& dataFormatOther\)](dataFormat.md)
     * [annotationType \(& annotationTypeOther\)](annotationType.md)
     * [typesystem](typesystem.md)
     * [annotationSchema](annotationSchema.md)

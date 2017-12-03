@@ -2,7 +2,7 @@
 
 ##### Usage
 
-Recommended under conditions
+Recommended when applicable
 
 ##### Conditions for usage
 
