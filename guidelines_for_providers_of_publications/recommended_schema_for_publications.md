@@ -27,7 +27,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [author](/publications_author.md) | Recommended |
 | [publisher](/publications_publisher.md) | Recommended |
 | [journal](/publications_journal.md) | Mandatory when applicable |
-| [dataFormat](/dataFormat.md) \(& dataFormatOther\) | Recommended |
+| [dataFormat](/publications_dataFormat.md) \(& dataFormatOther\) | Recommended |
 | [documentLanguage](/publications_documentLanguage.md) | Recommended |
 | [characterEncoding](/publications_characterEncoding.md) | Recommended |
 | [abstract](/publications_abstract.md) | Recommended |
