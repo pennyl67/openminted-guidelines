@@ -2,7 +2,7 @@
 
 ##### Usage
 
-Recommended when applicable
+Recommended
 
 ##### Controlled vocabulary reference and/or values
 

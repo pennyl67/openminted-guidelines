@@ -1,4 +1,4 @@
-#### size
+#### size & sizeUnit
 ##### Usage
 Recommended
 ##### Type

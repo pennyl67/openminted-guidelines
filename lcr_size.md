@@ -1,6 +1,6 @@
-#### size
+#### size & sizeUnit
 ##### Usage
-Mandatory
+Recommended
 ##### Type
 size pattern (size and sizeUnit)
 ##### Definition/Explanations

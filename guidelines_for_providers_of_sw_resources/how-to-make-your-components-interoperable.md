@@ -9,15 +9,15 @@ To be fully compatible with OpenMinTeD, you must
   * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource; FOSS licences are recommended for software resources
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
-  * in the case of components delivered 
+  * in the case of applications/components delivered 
     * via Maven, please provide the Maven identifier in the record
-    * as Docker images, provide the component name used in the image.
+    * as Docker images, provide the name for the application/component used in the image.
 * **Versioning**: ensure that you version all your software resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org)
 * **Formal description and documentation**:
   * ensure that you provide with your software resource appropriate machine-readable metadata embedded in the source code \(where possible\) and according to the relevant framework \(e.g. uimaFIT Java annotations etc.\); make sure that the metadata descriptors are properly identified in an unambiguous way that makes them easy to distinguish and extract
   * for Java-based components, ensure that you use the Java fully qualified class naming conventions for naming your components; together with the Maven practices for registering packaging and version, this contributes to unique identifiers of the components
-  * In addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors; further instructions for deploying UIMA components in Argo are found [here](/guidelines_for_providers_of_sw_resources/guide_for_deploying_uima_components_in_.md)
-  * ensure that you describe appropriately the functionalities of the software, both through the OMTD-SHARE [component type ](/components_componentType.md) or [applicationFunction](/components_applicationFunction.md) vocabulary as well as in a free text description, supplying more information for the use
+  * In addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors
+  * ensure that you describe appropriately the functionalities of the software, both through the OMTD-SHARE ontology class [function](/function.md) as well as in a free text description, supplying more information for the use
 * **Operation and access**:
   * declare whether the software is downloadable or can only be accessed as a web service in the metadata
   * describe all the executional requirements for the proper operation of the software, i.e. required software libraries, ancillary resources, annotation schema dependencies, etc.

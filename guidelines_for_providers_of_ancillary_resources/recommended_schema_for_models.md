@@ -24,21 +24,20 @@ The following table presents mandatory and recommended elements for Language des
 | [licence](/licence.md) | Mandatory |
 | [rightsStatement](/rightsStatement.md) | Mandatory |
 | [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory when applicable |
-| [distributionMedium](/models_distributionMedium.md) | Mandatory |
+| [distributionMedium](/distributionMedium.md) | Mandatory |
 | [distributionLocation](/distributionLocation.md) | Mandatory |
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
 | [variant](/models_variantName.md) | Mandatory |
-| [typesystem](/annotations_typesystem.md) | Recommended |
-| [annotationSchema](/annotations_annotationSchema.md) | Recommended when applicable |
-| [annotationResource](/annotations_annotationResource.md) | Recommended |
+| [typesystem](/typesystem.md) | Recommended |
+| [annotationSchema](/annotationSchema.md) | Recommended when applicable |
+| [annotationResource](/annotationResource.md) | Recommended |
 | [TDMMethod](/TDMmethod.md) | Recommended |
 | [algorithm](/models_algorithm.md) | Recommended |
 | [trainingCorpusDetails](/models_trainingCorpusDetails.md) | Recommended |
 | [lingualityType](/models_lingualityType.md) | Mandatory |
 | [language](/models_language.md) | Mandatory |
-| [metalanguage](/models_metalanguage.md) | Recommended |
 | [size & sizeUnit](/models_size.md) | Recommended |
 | [dataFormat](/dataFormat.md) | Mandatory |
 | [domain](/domain.md) | Recommended |
