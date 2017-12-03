@@ -21,7 +21,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [title](/publications_title.md) | Mandatory |
 | [licence](/licence.md) | Mandatory |
 | [rightsStatement](/rightsStatement.md) | Mandatory |
-| [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory when applicable |
 | [hashkey](/publications_hashkey.md) | Mandatory |
 | [distributionLocation](/distributionLocation.md) | Μandatory |
 | [author](/publications_author.md) | Recommended |
