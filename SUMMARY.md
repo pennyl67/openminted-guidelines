@@ -21,8 +21,8 @@
     * [nonStandardLicenceName](nonStandardLicenceName.md)
     * [nonStandardLicenceTermsURL](nonStandardLicenceTermsURL.md)
     * [distributionLocation](distributionLocation.md)
-    * [hashkey](publications_hashkey.md)
-    * [dataFormat \(& dataFormatOther\)](dataFormat.md)
+    * [hashkey](publications_hashkey.md)pu
+    * [dataFormat \(& dataFormatOther\)](publications_dataFormat.md)
     * [documentLanguage](publications_documentLanguage.md)
     * [keyword](publications_keyword.md)
     * [subject](publications_subject.md)
@@ -75,6 +75,7 @@
     * [language](corpora_language.md)
     * [size](corpora_size.md)
     * [dataFormat \(& dataFormatOther\)](dataFormat.md)
+    * [dataFormat](dataformat.md)
     * [keyword](corpora_keyword.md)
     * [domain](domain.md)
     * [userQuery](corpora_userQuery.md)

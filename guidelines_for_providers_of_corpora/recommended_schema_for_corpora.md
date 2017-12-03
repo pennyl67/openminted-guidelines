@@ -37,7 +37,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [lingualityType](/corpora_lingualityType.md) | Mandatory |
 | [language](/corpora_language.md) | Mandatory |
 | [size & sizeUnit](/corpora_size.md) | Recommended |
-| [dataFormat](/dataFormat.md) | Mandatory |
+| [dataFormat](/publications_dataFormat.md) | Mandatory |
 | [keyword](/keyword.md) | Recommended |
 | [domain](/domain.md) | Recommended |
 | [userQuery](/corpora_userQuery.md) | Μandatory when applicable |
