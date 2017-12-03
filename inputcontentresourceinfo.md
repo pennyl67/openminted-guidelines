@@ -2,13 +2,13 @@
 
 ##### Usage
 
-Recommended
+Mandatory when applicable
 
-**Type**
+##### Type
 
 set of elements
 
-**Mandatory and recommended elements**
+##### Mandatory and recommended elements
 
 | **Element** | **Usage** | **Type** |
 | :--- | :--- | :--- |

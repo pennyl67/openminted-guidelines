@@ -4,8 +4,8 @@ Annotated publications are documented as separate resources with a link to the r
 
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |
-| [dataFormat (& dataFormatOther)](/dataFormat.md) | Mandatory |
-| [annotationType (& annotationTypeOther)](/annotationType.md) | Mandatory |
+| [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |
+| [annotationType](/annotationType.md) (& annotationTypeOther) | Mandatory |
 | [typesystem](/typesystem.md) | Recommended |
 | [annotationSchema](/annotationSchema.md) | Recommended when applicable |
 | [annotationResource](/annotationResource.md) | Recommended when applicable |

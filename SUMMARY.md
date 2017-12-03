@@ -75,7 +75,7 @@
     * [lingualityType](corpora_lingualityType.md)
     * [multilingualityType](corpora_multilingualityType.md)
     * [language](corpora_language.md)
-    * [size](corpora_size.md)
+    * [size & sizeUnit](corpora_size.md)
     * [dataFormat \(& dataFormatOther\)](dataFormat.md)
     * [keyword](keyword.md)
     * [domain](domain.md)

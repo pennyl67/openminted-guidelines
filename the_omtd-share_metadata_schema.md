@@ -52,7 +52,7 @@ The OMTD-SHARE ontology will continue to evolve in order to take into account th
 
 [^2]: In the first version of the schema, ML models were added as a distinct resource type, but in v2.0.0 they have been added as a subtype of language descriptions.
 
-[^3]: Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://elrc-share.ilsp.gr/documentation/ELRC-SHARE_schema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), [retele-share](http://ontoology.linkeddata.es/publish/retele-share/index-en.html) and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
+[^3]: Based on the META-SHARE schema, four more adaptations are now available:  [ELRC-SHARE](https://www.elrc-share.eu/documentation/elrcShareSchema.html), [clarin:el](http://www.clarin.gr/en/content/preparing-documenting-lrs), [retele-share](http://ontoology.linkeddata.es/publish/retele-share/index-en.html) and OMTD-SHARE. The META-SHARE schema has also been implemented as an [RDF/OWL ontology](http://purl.org/net/def/metashare) with the collaboration of the [ld4lt](https://www.w3.org/community/ld4lt) W3C group.
 
 [^4]: To avoid confusion with the term "component" also used for software components, we will from now on refer to this concept as "modules".
 

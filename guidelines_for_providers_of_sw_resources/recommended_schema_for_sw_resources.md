@@ -18,7 +18,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [description](/components_description.md) | Mandatory |
 | [resourceIdentifier](/components_resourceIdentifier.md) | Mandatory |
 | [public](/public.md) | Mandatory |
-| [version](/components_version.md) | Mandatory |
+| [version](/version.md) | Mandatory |
 | [contactPoint](/contactpoint.md) | Mandatory |
 | [contactType](/contacttype.md) | Mandatory |
 | [contactPerson](/contactPerson.md) | Recommended |
@@ -26,13 +26,13 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [application](/components_application.md) | Mandatory |
-| [function (& functionOther)](/components_function.md) | Mandatory |
+| [function](/components_function.md) (& functionOther) | Mandatory |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
 | [distributionLocation](/components_distributionLocation) | Mandatory |
-| [command](/components_command.md) | Mandatory upon conditions |
+| [command](/components_command.md) | Mandatory when applicable |
 | [licence](/licence.md) | Mandatory |
 | [rightsStatement](/rightsStatement.md) | Mandatory |
-| [nonStandardLicenceName](nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory upon conditions |
+| [nonStandardLicenceName](/nonStandardLicenceName.md) and  [nonStandardLicenceTermsURL](/nonStandardLicenceTermsURL.md) | Mandatory when applicable |
 | [parameterInfo](/parameterinfo.md) | Mandatory when applicable |
 | [inputContentResourceInfo](/inputcontentresourceinfo.md) | Mandatory when applicable |
 | [outputResourceInfo](/outputresourceinfo.md) | Mandatory when applicable |

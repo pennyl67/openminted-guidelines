@@ -34,7 +34,7 @@ The following table presents mandatory and recommended elements for annotation r
 | [language](/lcr_language.md) | Mandatory |
 | [metalanguage](/lcr_metalanguage.md) | Recommended |
 | [size & sizeUnit](/lcr_size.md) | Recommended |
-| [dataFormat](/dataFormat.md) | Mandatory |
+| [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |
 | [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |

@@ -4,7 +4,7 @@
 
 Mandatory when applicable
 
-**Type**
+##### Type
 
 closed controlled vocabulary
 

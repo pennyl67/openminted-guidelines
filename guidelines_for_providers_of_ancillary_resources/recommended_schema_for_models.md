@@ -39,7 +39,7 @@ The following table presents mandatory and recommended elements for Language des
 | [lingualityType](/models_lingualityType.md) | Mandatory |
 | [language](/models_language.md) | Mandatory |
 | [size & sizeUnit](/models_size.md) | Recommended |
-| [dataFormat](/dataFormat.md) | Mandatory |
+| [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |
 | [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
