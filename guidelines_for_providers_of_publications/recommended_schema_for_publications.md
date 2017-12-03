@@ -33,7 +33,7 @@ For publications, an additional set of metadata elements relevant to the source 
 | [fullText](/publications_fullText.md) | Recommended |
 | [publicationDate](/publications_publicationDate.md) | Recommended |
 | [subject ](/publications_subject.md) | Recommended |
-| [keyword ](/publications_keyword.md) | Recommended |
+| [keyword ](/keyword.md) | Recommended |
 | [relationType ](/relationType.md) | Recommended |
 | [relatedResource ](/relatedResource.md) | Mandatory when applicable |
 
