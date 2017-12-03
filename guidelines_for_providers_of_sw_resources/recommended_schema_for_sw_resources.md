@@ -16,8 +16,8 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [resourceType](/components_resourceType.md) | Mandatory |
 | [resourceName](/components_resourceName.md) | Mandatory |
 | [description](/components_description.md) | Mandatory |
-| [resourceIdentifier](/components_identifier.md) | Mandatory |
-| [public](/components_public.md) | Mandatory |
+| [resourceIdentifier](/components_resourceIdentifier.md) | Mandatory |
+| [public](/public.md) | Mandatory |
 | [version](/components_version.md) | Mandatory |
 | [contactPoint](/contactpoint.md) | Mandatory |
 | [contactType](/contacttype.md) | Mandatory |
