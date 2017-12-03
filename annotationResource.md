@@ -2,7 +2,7 @@
 
 ##### Usage
 
-Recommended
+Recommended when applicable
 
 ##### Type
 

@@ -13,7 +13,7 @@ Annotated corpora are documented with metadata elements relevant to the raw corp
 | [annotationMode](/annotationMode.md) | Recommended |
 | [isAnnotatedBy](/isAnnotatedBy.md) | Recommended |
 | [annotationDate](/annotationDate.md) | Recommended |
-| [relationType](/relationType.md) | Mandatory when applicable |
+| [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
 

@@ -12,7 +12,7 @@ Annotated publications are documented as separate resources with a link to the r
 | [annotationMode](/annotationMode.md) | Recommended |
 | [isAnnotatedBy](/isAnnotatedBy.md) | Recommended |
 | [annotationDate](/annotationDate.md) | Recommended |
-| [relationType](/relationType.md) | Mandatory when applicable |
+| [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
 
