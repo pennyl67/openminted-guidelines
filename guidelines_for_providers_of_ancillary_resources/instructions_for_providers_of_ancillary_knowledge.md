@@ -8,7 +8,7 @@ If you wish to register such a resource, you must provide
 
 You can register a knowledge resource in one of the following two ways:
 * upload the resource as a zipped file (preserving the original folder structure)
-* specify in the OMTD-SHARE metadata record a hyperlink (e.g. URL or FTP point) from where the resource can be downloaded from.
+* add in the _[distributionLocation](/distributionLocation.md)_ element of the OMTD-SHARE record a hyperlink (e.g. URL or FTP point) from where the resource can be downloaded from.
 
 As regards the metadata record, you can 
 * use the OpenMinTeD editor to describe the resource at the minimal level or
