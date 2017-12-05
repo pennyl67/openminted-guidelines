@@ -196,6 +196,7 @@
     * [componentDependencies](componentdependencies.md)
     * [framework](components_framework.md)
     * [TDMmethod](TDMmethod.md)
+    * [domain](/domain.md)
     * [relationType](relationType.md)
     * [relatedResource](relatedResource.md)
   * [Example metadata records for software](guidelines_for_providers_of_sw_resources/examples-for-software-resources.md)

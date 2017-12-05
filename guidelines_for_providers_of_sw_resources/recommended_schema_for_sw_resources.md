@@ -28,7 +28,7 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [application](/components_application.md) | Mandatory |
 | [function](/components_function.md) (& functionOther) | Mandatory |
 | [componentDistributionForm](/components_componentDistributionForm.md) | Mandatory |
-| [distributionLocation](/components_distributionLocation) | Mandatory |
+| [distributionLocation](/components_distributionLocation.md) | Mandatory |
 | [command](/components_command.md) | Mandatory when applicable |
 | [licence](/licence.md) | Mandatory |
 | [rightsStatement](/rightsStatement.md) | Mandatory |

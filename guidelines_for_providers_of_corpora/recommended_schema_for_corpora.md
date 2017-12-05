@@ -35,6 +35,7 @@ For annotated corpora, see [here](metadata-schema-for-annotated-corpora.md).
 | [corpusSubtype](/corpora_corpusSubtype.md) | Μandatory |
 | [mediaType](/corpora_mediaType.md) | Μandatory |
 | [lingualityType](/corpora_lingualityType.md) | Mandatory |
+| [multilingualityType](/corpora_multilingualityType.md) | Mandatory when applicable |
 | [language](/corpora_language.md) | Mandatory |
 | [size & sizeUnit](/corpora_size.md) | Mandatory |
 | [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |

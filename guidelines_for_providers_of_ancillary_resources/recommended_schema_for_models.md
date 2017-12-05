@@ -29,17 +29,17 @@ The following table presents mandatory and recommended elements for Language des
 | [resourceDocumentationInfo](/resourcedocumentationinfo.md) | Recommended |
 | [resourceCreator](/resourceCreator.md) | Recommended |
 | [languageDescriptionType](/models_languageDescriptionType.md) | Mandatory |
+| [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |
 | [variant](/models_variantName.md) | Mandatory |
 | [typesystem](/typesystem.md) | Recommended |
 | [annotationSchema](/annotationSchema.md) | Recommended when applicable |
-| [annotationResource](/annotationResource.md) | Recommended |
+| [annotationResource](/annotationResource.md) | Recommended when applicable |
 | [TDMMethod](/TDMmethod.md) | Recommended |
 | [algorithm](/models_algorithm.md) | Recommended |
 | [trainingCorpusDetails](/models_trainingCorpusDetails.md) | Recommended |
 | [lingualityType](/models_lingualityType.md) | Mandatory |
 | [language](/models_language.md) | Mandatory |
 | [size & sizeUnit](/models_size.md) | Recommended |
-| [dataFormat](/dataFormat.md) (& dataFormatOther) | Mandatory |
 | [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |

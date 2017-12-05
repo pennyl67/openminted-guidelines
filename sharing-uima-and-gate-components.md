@@ -12,7 +12,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
   * a "DESCRIPTORS.TXT" file in the folder META-INF/eu.openminted/share with a list of the descriptors
   * a Maven POM XML file.
 * Pack them as a JAR using the respective Maven plugin.
-* Upload them to the Maven repository according to the Maven guidelines \([http://maven.apache.org/guides/mini/guide-central-repository-upload.html](http://maven.apache.org/guides/mini/guide-central-repository-upload.html\).
+* Upload them to the Maven repository according to the Maven guidelines \([http://maven.apache.org/guides/mini/guide-central-repository-upload.html](http://maven.apache.org/guides/mini/guide-central-repository-upload.html)).
 
 #### **Step 2 - Registering in OpenMinTeD**
 

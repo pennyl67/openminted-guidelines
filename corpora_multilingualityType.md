@@ -1,6 +1,6 @@
 #### multilingualityType
 ##### Usage
-Mandatory under conditions
+Mandatory when applicable
 ##### Conditions for usage
 if lingualityType=bilingual or multilingual
 ##### Type
