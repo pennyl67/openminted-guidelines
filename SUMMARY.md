@@ -94,6 +94,7 @@
     * [annotationDate](annotationDate.md)
     * [relationType](corpora_relationType.md)
     * [relatedResource](corpora_relatedResource.md)
+  * [Example metadata records for corpora](guidelines_for_providers_of_corpora/example-metadata-records-for-corpora.md)
 * [Guidelines for providers of knowledge resources \(ML models, grammars and annotation resources\)](guidelines_for_providers_of_ancillary_resources/README.md)
   * [Sharing knowledge resources \(ML models, grammars and annotation resources\)](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_ancillary_resources/how-to-make-your-knowledge-resources-interoperable.md)
