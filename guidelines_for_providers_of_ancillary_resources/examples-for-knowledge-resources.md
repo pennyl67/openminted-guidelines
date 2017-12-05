@@ -1,8 +1,5 @@
 ### Example metadata records for knowledge resources
 
-* [ML model 1](/assets/mlModel-StanfordParser-factored.xml)
-* [ML model 2](/assets/mlModel-NEMGP-Stanford.xml)
-* [Typesystem](/assets/DKProCoreTypesystem.xml)
-
+The following metadata records (schema v3.0.1) are meant only as examples for clarification purposes; some of the metadata contained may be fictional used for illustration.
 
 
