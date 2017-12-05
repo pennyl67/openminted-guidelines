@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>OpenAIRE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">1</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+			</ms:collectedFrom>
+			<ms:sourceMetadataLink>https://www.openaire.eu/en/search/publication?articleId=od_______908::01ecf3a771db0c643214a007523bff2a</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>Europe PubMed Central</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">43</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>journalArticle</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="PMCID">pmc:PMC241787</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>Influence of diluents, media, and membrane filters on detection fo injured waterborne coliform bacteria</ms:title>
+			</ms:titles>
+			<ms:authors>
+			<ms:author>
+					<ms:surname>McFeters</ms:surname>
+					<ms:givenName>G A</ms:givenName>
+			</ms:author>
+			<ms:author>
+					<ms:surname>Cameron, S C</ms:surname>
+			</ms:author>
+			<ms:author>
+					<ms:surname>Lechevallier, M W</ms:surname>
+			</ms:author>
+			</ms:authors>
+			<ms:publicationDate>
+				<ms:year>1982</ms:year>
+			</ms:publicationDate>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+				<ms:distributionLocation>http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC241787&amp;blobtype=pdf</ms:distributionLocation>
+				<ms:hashkey>test</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+			<ms:rightsInfo>
+				<ms:licenceInfos>
+					<ms:licenceInfo>
+						<ms:licence>openAccessUnspecified</ms:licence>
+					</ms:licenceInfo>
+				</ms:licenceInfos>
+				<ms:rightsStatement>openAccess</ms:rightsStatement>
+			</ms:rightsInfo>
+			<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage>
+			</ms:documentLanguages>
+			<ms:abstracts>
+				<ms:abstract>Pure cultures of Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, and Citrobacter freundii were injured ( greater than 90%) in water from a dead-end section of the Bozeman, Montana, distribution system. The effects of the following laboratory variables on the enumeration efficiency of injured and undamaged control cells were examined: (i) diluent composition, temperature, and time of exposure; (ii) media, using various formulations employed in enumerating gram-negative bacteria; and (iii) surface pore morphology of membrane filters. The addition of peptone or milk solids to diluents and low temperature (4 degrees C) maximized the recovery of injured cells, but had little effect on undamaged cells. Control cells were recovered with high efficiencies on most media tested, but recoveries of injured cells ranged from 0 to near 100%. Most of the media commonly used in water analysis recovered less than 30% of injured cells. This was explained in part by the sensitivity of injured bacteria to deoxycholate concentrations greater than 0.01%, whereas control cells were unaffected by 0.1%. Membrane filter surface pore morphology (at 35 degrees C) had a negligible effect on total coliform recoveries. Recommendations are made regarding procedures to improve the recovery of injured coliforms by routine laboratory practices.</ms:abstract></ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>

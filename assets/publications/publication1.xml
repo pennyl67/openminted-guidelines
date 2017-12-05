@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>CORE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">2</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+			</ms:collectedFrom>
+			<ms:sourceMetadataLink>www</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>Wintec Research Archive</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">132</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>conferencePaper</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="DOI">10.4314/jlt.v39i1.6051</ms:publicationIdentifier>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="OAI">oai:researcharchive.wintec.ac.nz:1940</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>Developing language learners' applied competence: Language as a strategic resource</ms:title>
+			</ms:titles>
+			<ms:authors>
+			<ms:author>
+					<ms:surname>Wilfred Greyling</ms:surname>
+			</ms:author>
+			</ms:authors>
+			<ms:publicationDate>
+				<ms:year>2006</ms:year>
+			</ms:publicationDate>
+			<ms:conference>FIPLV World Congress: LMS Språkdagar 2006: Diversity in language learning and teaching</ms:conference>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+				<ms:distributionLocation>http://researcharchive.wintec.ac.nz/1940/3/2005_Applied_Competence_Disc_Org.pdf</ms:distributionLocation>
+				<ms:hashkey>xxxx</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+					<ms:rightsInfo>
+					<ms:licenceInfos>
+						<ms:licenceInfo>
+							<ms:licence>openAccessUnspecified</ms:licence>
+						</ms:licenceInfo>
+					</ms:licenceInfos>
+					<ms:rightsStatement>openAccess</ms:rightsStatement>
+					</ms:rightsInfo>
+						<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage></ms:documentLanguages>
+			<ms:keywords>
+				<ms:keyword>L'education</ms:keyword>
+			</ms:keywords>
+			<ms:abstracts>
+				<ms:abstract>Based on a peer-reviewed paper published in 2005, this paper shows how a discourse-based management model was used to develop language learners' ability to reflect on the discursive evidence on the website of the HIV/AIDS awareness organisation, loveLife.</ms:abstract></ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>

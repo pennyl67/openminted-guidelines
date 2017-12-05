@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>CORE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">2</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+				</ms:collectedFrom>
+			<ms:sourceMetadataLink>www</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>Directory of Open Access Journals (new)</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">xxxxx</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>journalArticle</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="OAI">oai:doaj.org/article:f11cf04711c14baf8c9c2701256e24b5</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>Causal Effects between the Biological Pollution of the Environment and Sickness Rate of the Population with Infectious Pathology</ms:title>
+			</ms:titles>
+			<ms:authors>
+			<ms:author>
+					<ms:surname>Idelbay Shuratov</ms:surname>
+			</ms:author>
+			<ms:author>
+					<ms:surname>Lyazat Orakbay</ms:surname>
+			</ms:author>
+			<ms:author>
+					<ms:surname>Aizhan Dzhumagalieva</ms:surname>
+			</ms:author>
+			<ms:author>
+					<ms:surname>Almas Umbetpaev</ms:surname>
+			</ms:author>
+		</ms:authors>
+			<ms:publicationDate>
+				<ms:year>2014</ms:year>
+			</ms:publicationDate>
+			<ms:publisher>
+					<ms:organizationNames>
+						<ms:organizationName>International Medical Research and Development Corporation</ms:organizationName>
+					</ms:organizationNames>
+			</ms:publisher>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+					<ms:distributionLocation>https://doaj.org/toc/2158-0529</ms:distributionLocation>
+					<ms:hashkey>tttt</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+			<ms:rightsInfo>
+				<ms:licenceInfos>
+					<ms:licenceInfo>
+						<ms:licence>openAccessUnspecified</ms:licence>
+					</ms:licenceInfo>
+				</ms:licenceInfos>
+				<ms:rightsStatement>openAccess</ms:rightsStatement>
+			</ms:rightsInfo>
+						<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage></ms:documentLanguages>
+			<ms:keywords>
+				<ms:keyword>urbanization</ms:keyword>
+				<ms:keyword>pollution</ms:keyword>
+				<ms:keyword>biological factors</ms:keyword>
+				<ms:keyword>environment</ms:keyword>
+				<ms:keyword>population morbidity</ms:keyword>
+				<ms:keyword>enteric infection</ms:keyword>
+				<ms:keyword>causal effects</ms:keyword>
+			</ms:keywords>
+			<ms:subjects>
+				<ms:subject classificationSchemeName="other">Medicine (General), R5-920</ms:subject>
+				<ms:subject classificationSchemeName="other">Medicine, R</ms:subject>
+				<ms:subject classificationSchemeName="other">DOAJ:Medicine (General)</ms:subject>
+				<ms:subject classificationSchemeName="other">DOAJ:Health Sciences</ms:subject>
+			</ms:subjects>
+			<ms:abstracts>
+				<ms:abstract>The presence of the causal effects between the pollution of the environment of the urbanized territories and the population morbidity with enteric infections was confirmed from the evidence collected by calculating the positive meanings of the Odds Ratio (OR) and Relative Risk (RR) with trusted confidential borders, Identified Density Ratio (IDR) and associated risks, as well as the participating degree (X%) of bacterial pollution of the territories with respect to the sickness rate compared with the control territories</ms:abstract></ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>
