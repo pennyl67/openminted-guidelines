@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>CORE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">2</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+			</ms:collectedFrom>
+			<ms:sourceMetadataLink>https://core.ac.uk/display/18408334</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>MAnnheim DOCument Server</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">xxxx</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>journalArticle</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="OAI"> oai:ub-madoc.bib.uni-mannheim.de:35191</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>Developing Ontological Background Knowledge for Biomedicine</ms:title>
+			</ms:titles>
+			<ms:authors>
+				<ms:author>
+					<ms:surname>Beißwanger</ms:surname>
+					<ms:givenName>Anna Elena</ms:givenName>
+				</ms:author>
+			</ms:authors>
+			<ms:publicationDate>
+				<ms:year>2013</ms:year>
+			</ms:publicationDate>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+					<ms:distributionLocation>https://ub-madoc.bib.uni-mannheim.de/35191</ms:distributionLocation>
+					<ms:hashkey>hhhhh</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+			<ms:rightsInfo>
+				<ms:licenceInfos>
+					<ms:licenceInfo>
+						<ms:licence>openAccessUnspecified</ms:licence>
+					</ms:licenceInfo>
+				</ms:licenceInfos>
+				<ms:rightsStatement>openAccess</ms:rightsStatement>
+			</ms:rightsInfo>
+			<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage>
+			</ms:documentLanguages>
+			<ms:subjects>
+				<ms:subject classificationSchemeName="other">004 Informatik</ms:subject>
+			</ms:subjects>
+			<ms:abstracts>
+				<ms:abstract>Biomedicine is an impressively fast developing, interdisciplinary field of\ud research. To control the growing volumes of biomedical data, ontologies are\ud increasingly used as common organization structures. Biomedical ontologies\ud describe domain knowledge in a formal, computationally accessible way. They\ud serve as controlled vocabularies and background knowledge in applications\ud dealing with the integration, analysis and retrieval of heterogeneous types\ud of data. The development of biomedical ontologies, however, is hampered by\ud specific challenges. They include the lack of quality standards, resulting\ud in very heterogeneous resources, and the decentralized development of\ud biomedical ontologies, causing the increasing fragmentation of domain\ud knowledge across them.\ud \ud In the first part of this thesis, a life cycle model for biomedical\ud ontologies is developed, which is intended to cope with these challenges.\ud It comprises the stages "requirements analysis", "design and\ud implementation", "evaluation", "documentation and release" and\ud "maintenance". For each stage, associated subtasks and activities are\ud specified. To promote quality standards for biomedical ontology\ud development, an emphasis is set on the evaluation stage. As part of it,\ud comprehensive evaluation procedures are specified, which allow to assess\ud the quality of ontologies on various levels. To tackle the issue of\ud knowledge fragmentation, the life cycle model is extended to also cover\ud ontology alignments. Ontology alignments specify mappings between related\ud elements of different ontologies. By making potential overlaps and\ud similarities between ontologies explicit, they support the integration of\ud ontologies and help reduce the fragmentation of knowledge.\ud \ud In the second part of this thesis, the life cycle model for biomedical\ud ontologies and alignments is validated by means of five case studies. As a\ud result, they confirm that the model is effective. Four of the case studies\ud demonstrate that it is able to support the development of useful new\ud ontologies and alignments. The latter facilitate novel natural language\ud processing and bioinformatics applications, and in one case constitute the\ud basis of a task of the "BioNLP shared task 2013", an international\ud challenge on biomedical information extraction. The fifth case study shows\ud that the presented evaluation procedures are an effective means to check\ud and improve the quality of ontology alignments. Hence, they support the\ud crucial task of quality assurance of alignments, which are themselves\ud increasingly used as reference standards in evaluations of automatic\ud ontology alignment systems. Both, the presented life cycle model and the\ud ontologies and alignments that have resulted from its validation improve\ud information and knowledge management in biomedicine and thus promote\ud biomedical research</ms:abstract>
+			</ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>

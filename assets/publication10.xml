@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>OpenAIRE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">1</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+			</ms:collectedFrom>
+			<ms:sourceMetadataLink>https://www.openaire.eu/en/search/publication?articleId=od_______908::0050b66a6748df1274c2332eb9a70fca</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>Europe PubMed Central</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">42</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>conferencePaper</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="DOI">doi:10.1186/s13620-015-0036-3</ms:publicationIdentifier>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="PMCID">pmc:PMC4431038</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>Seroprevalence of Hepatitis E virus infection in the Irish pig population</ms:title>
+			</ms:titles>
+			<ms:authors>
+				<ms:author>
+					<ms:surname>O’Connor</ms:surname>
+					<ms:givenName>Michael</ms:givenName>
+				</ms:author>
+				<ms:author>
+					<ms:surname>Roche</ms:surname>
+					<ms:givenName>Sarah-Jayne</ms:givenName>
+				</ms:author>
+				<ms:author>
+					<ms:surname>Sammin</ms:surname>
+					<ms:givenName>Dónal</ms:givenName>
+				</ms:author>
+			</ms:authors>
+			<ms:publicationDate>
+				<ms:month>04</ms:month>
+				<ms:year>2015</ms:year>
+			</ms:publicationDate>
+			<ms:publisher>
+				<ms:organizationNames>
+					<ms:organizationName>BioMed Central</ms:organizationName>
+				</ms:organizationNames>
+			</ms:publisher>
+			<ms:journal>
+				<ms:journalTitles>
+					<ms:journalTitle>Irish Veterinary Journal</ms:journalTitle>
+				</ms:journalTitles>
+			</ms:journal>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+					<ms:distributionLocation>http://download.springer.com/static/pdf/979/art%253A10.1186%252Fs13620-015-0036-3.pdf?originUrl=http%3A%2F%2Firishvetjournal.biomedcentral.com%2Farticle%2F10.1186%2Fs13620-015-0036-3_token2=exp=1488188196~acl=%2Fstatic%2Fpdf%2F979%2Fart%25253A10.1186%25252Fs13620-015-0036-3.pdf*~hmac=c1751047ebffaf9915f0de43b5767f76e6110917c038cd13769625d31501aac6</ms:distributionLocation>
+					<ms:hashkey>hhhhhh</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+			<ms:rightsInfo>
+				<ms:licenceInfos>
+					<ms:licenceInfo>
+						<ms:licence>openAccessUnspecified</ms:licence>
+					</ms:licenceInfo>
+				</ms:licenceInfos>
+				<ms:rightsStatement>openAccess</ms:rightsStatement>
+			</ms:rightsInfo>
+			<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage>
+			</ms:documentLanguages>
+			<ms:keywords>
+				<ms:keyword>Pigs</ms:keyword>
+				<ms:keyword>Hepatitis</ms:keyword>
+				<ms:keyword>Hepatitis E</ms:keyword>
+				<ms:keyword>Short Report</ms:keyword>
+				<ms:keyword>Zoonosis</ms:keyword>
+				<ms:keyword>Hepatitis E Virus</ms:keyword>
+				<ms:keyword>Epidemiology</ms:keyword>
+			</ms:keywords>
+			<ms:abstracts>
+				<ms:abstract>Hepatitis E is an acute viral disease of humans, occurring in explosive outbreaks in the developing world and as sporadic cases in returning travellers. Increasing recognition of indigenous transmission in Western countries suggests a zoonotic source of infection, most likely pigs. To determine if hepatitis E virus is present in Irish pigs, sera from 330 animals were examined for antibodies using a commercially available ELISA.</ms:abstract>
+			</ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>

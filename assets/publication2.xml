@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms:documentMetadataRecord xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema http://www.meta-share.org/OMTD-SHARE_XMLSchema/v301/OMTD-SHARE-Publications.xsd" xmlns:ms="http://www.meta-share.org/OMTD-SHARE_XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ms:metadataHeaderInfo>
+		<ms:metadataRecordIdentifier metadataIdentifierSchemeName="OMTD">automatially assigned id</ms:metadataRecordIdentifier>
+		<ms:metadataCreationDate>2017-01-31</ms:metadataCreationDate>
+		<ms:sourceOfMetadataRecord>
+			<ms:collectedFrom>
+				<ms:repositoryNames>
+					<ms:repositoryName>OpenAIRE</ms:repositoryName>
+				</ms:repositoryNames>
+				<ms:repositoryIdentifiers>
+					<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">1</ms:repositoryIdentifier>
+				</ms:repositoryIdentifiers>
+			</ms:collectedFrom>
+			<ms:sourceMetadataLink>https://www.openaire.eu/en/search/publication?articleId=od________18::23a435b7effb8b27e83cc4f8217cfc15</ms:sourceMetadataLink>
+			<ms:originalDataProviderInfo>
+				<ms:originalDataProviderType>repository</ms:originalDataProviderType>
+				<ms:originalDataProviderRepository>
+					<ms:repositoryNames>
+						<ms:repositoryName>arXiv.org e-Print Archive</ms:repositoryName>
+					</ms:repositoryNames>
+					<ms:repositoryIdentifiers>
+						<ms:repositoryIdentifier repositoryIdentifierSchemeName="other">14</ms:repositoryIdentifier>
+					</ms:repositoryIdentifiers>
+				</ms:originalDataProviderRepository>
+			</ms:originalDataProviderInfo>
+		</ms:sourceOfMetadataRecord>
+		<ms:metadataLastDateUpdated>2017-01-31</ms:metadataLastDateUpdated>
+	</ms:metadataHeaderInfo>
+	<ms:document>
+		<ms:publication>
+			<ms:documentType>withFullText</ms:documentType>
+			<ms:publicationType>journalArticle</ms:publicationType>
+			<ms:identifiers>
+				<ms:publicationIdentifier publicationIdentifierSchemeName="arXiv">https://arxiv.org/abs/1110.1564</ms:publicationIdentifier>
+			</ms:identifiers>
+			<ms:titles>
+				<ms:title>A Linear-Quadratic Optimal Control Problem for Mean-Field Stochastic Differential Equations</ms:title>
+			</ms:titles>
+			<ms:authors>
+				<ms:author>
+					<ms:surname>Yong</ms:surname>
+					<ms:givenName>Jiongmin</ms:givenName>
+				</ms:author>
+			</ms:authors>
+			<ms:publicationDate>
+				<ms:month>09</ms:month>
+				<ms:year>2011</ms:year>
+			</ms:publicationDate>
+			<ms:distributions>
+				<ms:documentDistributionInfo>
+					<ms:distributionLocation>https://arxiv.org/pdf/1110.1564.pdf</ms:distributionLocation>
+					<ms:hashkey>xx</ms:hashkey>
+				</ms:documentDistributionInfo>
+			</ms:distributions>
+			<ms:rightsInfo>
+				<ms:licenceInfos>
+					<ms:licenceInfo>
+						<ms:licence>openAccessUnspecified</ms:licence>
+					</ms:licenceInfo>
+				</ms:licenceInfos>
+				<ms:rightsStatement>openAccess</ms:rightsStatement>
+			</ms:rightsInfo>
+			<ms:documentLanguages>
+				<ms:documentLanguage>en</ms:documentLanguage>
+			</ms:documentLanguages>
+			<ms:subjects>
+				<ms:subject classificationSchemeName="other">49N10</ms:subject>
+				<ms:subject classificationSchemeName="other">49N35</ms:subject>
+				<ms:subject classificationSchemeName="other">93E20</ms:subject>
+				<ms:subject classificationSchemeName="other">Mathematics - Probability</ms:subject>
+				<ms:subject classificationSchemeName="other">Mathematics - Optimization and Control</ms:subject>
+			</ms:subjects>
+			<ms:abstracts>
+				<ms:abstract>A Linear-quadratic optimal control problem is considered for mean-field stochastic differential equations with deterministic coefficients. By a variational method, the optimality system is derived, which turns out to be a linear mean-field forward-backward stochastic differential equation. Using a decoupling technique, two Riccati differential equations are obtained, which are uniquely solvable under certain conditions. Then a feedback representation is obtained for the optimal control.</ms:abstract>
+			</ms:abstracts>
+		</ms:publication>
+	</ms:document>
+</ms:documentMetadataRecord>

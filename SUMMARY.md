@@ -48,6 +48,7 @@
     * [annotationDate](annotationDate.md)
     * [relationType](relationType.md)
     * [relatedResource](relatedResource.md)
+  * [Example metadata records for publications](guidelines_for_providers_of_publications/example-metadata-records-for-publications.md)
 * [Guidelines for providers of corpora](guidelines_for_providers_of_corpora/README.md)
   * [Sharing corpora](guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_corpora/how-to-make-your-resources-interoperable.md)
