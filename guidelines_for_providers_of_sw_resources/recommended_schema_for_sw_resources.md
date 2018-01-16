@@ -40,6 +40,8 @@ The following table presents mandatory and recommended elements for Machine Lear
 | [componentDependencies](/componentdependencies.md) | Mandatory when applicable |
 | [framework](/components_framework.md) | Mandatory |
 | [TDMMethod](/TDMmethod.md) | Recommended |
+| [keyword](/keyword.md) | Recommended |
+| [domain](/domain.md) | Recommended |
 | [relationType](/relationType.md) | Recommended |
 | [relatedResource](/relatedResource.md) | Mandatory when applicable |
 
