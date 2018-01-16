@@ -14,7 +14,7 @@ set of elements
 | :--- | :--- | :--- |
 | typesystem | Mandatory when applicable | resourceName & optional resourceIdentifier |
 | annotationSchema | Mandatory when applicable | resourceName & optional resourceIdentifier |
-| annotationResoure | Mandatory when applicable | resourceName & optional resourceIdentifier |
+| annotationResource | Mandatory when applicable | resourceName & optional resourceIdentifier |
 | mlModel | Mandatory when applicable | resourceName & optional resourceIdentifier |
 
 ##### Definition/Explanations
