@@ -7,6 +7,13 @@ To be fully compatible with OpenMinTeD, you must
 * **Licensing**:
   * ensure that the software is distributed under a perpetual, world-wide, no-charge, royalty-free copyright/patent licence that permits unrestricted use and allows unlimited redistribution
   * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource; FOSS licences are recommended for software resources
+* **Operation and access**:
+  * declare whether the software is downloadable or can only be accessed as a web service in the metadata
+  * describe all the executional requirements for the proper operation of the software, i.e. required software libraries, ancillary resources, annotation schema dependencies, etc.
+  * describe the input and output requirements for your software, at least as regards the type of resource, the language \(if required\), data format and character encoding, and annotation types of the input/output resource; 
+  * support at least the following data formats, given that OpenMinTeD has endorsed the use of 
+    * the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a [workflow](https://guidelines.openminted.eu/GLOSSARY.html#workflow) and
+    * the [WebAnnotation](https://www.w3.org/annotation/) standard to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on [document](https://guidelines.openminted.eu/GLOSSARY.html#document)/collection level.
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
   * in the case of applications/components delivered 
@@ -18,13 +25,6 @@ To be fully compatible with OpenMinTeD, you must
   * for Java-based components, ensure that you use the Java fully qualified class naming conventions for naming your components; together with the Maven practices for registering packaging and version, this contributes to unique identifiers of the components
   * In addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors
   * ensure that you describe appropriately the functionalities of the software, both through the OMTD-SHARE ontology class [function](/components_function.md) as well as in a free text description, supplying more information for the use
-* **Operation and access**:
-  * declare whether the software is downloadable or can only be accessed as a web service in the metadata
-  * describe all the executional requirements for the proper operation of the software, i.e. required software libraries, ancillary resources, annotation schema dependencies, etc.
-  * describe the input and output requirements for your software, at least as regards the type of resource, the language \(if required\), data format and character encoding, and annotation types of the input/output resource; 
-  * support at least the following data formats, given that OpenMinTeD has endorsed the use of 
-    * the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a [workflow](https://guidelines.openminted.eu/GLOSSARY.html#workflow) and
-    * the [WebAnnotation](https://www.w3.org/annotation/) standard to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on [document](https://guidelines.openminted.eu/GLOSSARY.html#document)/collection level.
 * **Scalability**: To ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component. For instance, a component that counts all tokens in a corpus cannot be trivially scaled.
 * **Re-usability of ancillary resources**:
   * Please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier for the linking.
