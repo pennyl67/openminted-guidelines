@@ -30,7 +30,6 @@ For publications, an additional set of metadata elements relevant to the source 
 | [dataFormat](/publications_dataFormat.md) \(& dataFormatOther\) | Recommended |
 | [documentLanguage](/publications_documentLanguage.md) | Recommended |
 | [abstract](/publications_abstract.md) | Recommended |
-| [fullText](/publications_fullText.md) | Recommended |
 | [publicationDate](/publications_publicationDate.md) | Recommended |
 | [subject ](/publications_subject.md) | Recommended |
 | [keyword ](/keyword.md) | Recommended |

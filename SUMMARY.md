@@ -26,7 +26,6 @@
     * [documentLanguage](publications_documentLanguage.md)
     * [keyword](keyword.md)
     * [subject](publications_subject.md)
-    * [fullText](publications_fullText.md)
     * [abstract](publications_abstract.md)
     * [relationType](relationType.md)
     * [relatedResource](relatedResource.md)
