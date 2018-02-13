@@ -16,7 +16,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The location of the docker image must be provided in the element &lt;distributionLocation&gt; and the command for invoking the app/component (toghether with the id of the app/component) in the element &lt;distributionLocation&gt;, e.g.
+The location of the docker image must be provided in the element &lt;distributionLocation&gt; and the command for invoking the app/component (toghether with the id of the app/component) in the element &lt;command&gt;, e.g.
 
     `<distributionLocation>bibliome/alvisengine</distributionLocation>`
 `<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
