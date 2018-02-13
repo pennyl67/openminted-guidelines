@@ -16,11 +16,11 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The location of the docker image must be provided in the element &lt;distributionLocation&gt; while the identifier of the app/component that is inside the docker image must be encoded in the element &lt;resourceIdentifier&gt;, e.g.
+The location of the docker image must be provided in the element &lt;distributionLocation&gt; and the command for invoking the app/component (toghether with the id of the app/component) in the element &lt;distributionLocation&gt;, e.g.
 
-`<distributionLocation>bibliome/alvisengine</distributionLocation>`
+    `<distributionLocation>bibliome/alvisengine</distributionLocation>`
+`<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
 
-`<resourceIdentifier resourceIdentifierShemeName="omtd-docker">org.bibliome.alvisnlp.modules.ccg.CCGParser</resourceIdentifier>`
 
 Further requirements and recommendations for achieving interoperability across software and content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 
