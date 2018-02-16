@@ -10,16 +10,15 @@ It's the place where
 * researchers can 
  * search for TDM applications ready-to-use,
  * build corpora from the scholarly publications that OpenMinTeD offers or upload their own corpora, and
- * process these corpora with the TDM applications of their choice;
+ * process these corpora with the TDM applications of their choice in a trusted cloud computing environment;
 * TDM experts can 
  * add their software components or end-user applications,
  * add ancillary knowledge resources,
  * mix and match their components and ancillary knowledge resources though the OpenMinTeD workflow editor in order to create new end-user applications.
 
-To implement this vision, OpenMinTeD takes advantage of the existing ecosystem of e-infrastructures and repositories. It thus relies on the addition by registered users of **resources only if they can be used for running TDM operations** It also collects from other trusted sources, transforms all resources to the desired format and makes them available to the end users. 
-
 ![](/assets/1.png)
 
+To implement this vision, OpenMinTeD takes advantage of the existing ecosystem of e-infrastructures and repositories. It thus relies on the addition by registered users of **resources only if they can be used for running TDM operations** It also collects from other trusted sources, transforms all resources to the desired format and makes them available to the end users. 
 
 
 {% blurb style='tip'%}
