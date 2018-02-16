@@ -81,7 +81,11 @@ th {
 .markdown-section .glossary-term {
         text-decoration-style: dashed
 }
-    
+
+.image-wrapper.about-openminted {
+    text-align: center;
+    padding: 15px 0px;
+}
 
 
 

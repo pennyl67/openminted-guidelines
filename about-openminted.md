@@ -16,7 +16,7 @@ It's the place where
  * add ancillary knowledge resources,
  * mix and match their components and ancillary knowledge resources though the OpenMinTeD workflow editor in order to create new end-user applications.
 
-![](/assets/1.png)
+![The OpenMinTeD platform](/assets/1.png)
 
 To implement this vision, OpenMinTeD takes advantage of the existing ecosystem of e-infrastructures and repositories. It thus relies on the addition by registered users of **resources only if they can be used for running TDM operations** It also collects from other trusted sources, transforms all resources to the desired format and makes them available to the end users. 
 
