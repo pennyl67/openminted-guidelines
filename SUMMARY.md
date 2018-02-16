@@ -1,7 +1,6 @@
 # Summary
 
 * [OpenMinTeD guidelines](README.md)
-* [Acknowledgements & Contributors](acknowledgements--contributors.md)
 * [Guidelines for providers of scholarly content](guidelines_for_providers_of_publications/README.md)
   * [Sharing scholarly content through aggregators](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
   * [Sharing scholarly content by connecting to OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
@@ -203,6 +202,8 @@
     * [relatedResource](relatedResource.md)
   * [Example metadata records for software](guidelines_for_providers_of_sw_resources/examples-for-software-resources.md)
 * [The OMTD-SHARE metadata schema](the_omtd-share_metadata_schema.md)
+* [About OpenMinTeD](about-openminted.md)
+* [Acknowledgements & Contributors](acknowledgements--contributors.md)
 * [Contributing to the guidelines](contributing-to-the-guidelines.md)
 * [Glossary](GLOSSARY.md)
 
