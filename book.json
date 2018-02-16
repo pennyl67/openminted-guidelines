@@ -3,7 +3,8 @@
         "-fontsettings",
         "blurbs",
         "-highlight",
-        "toggle-chapters"
+        "toggle-chapters",
+        "image-class"
     ],
     "pluginsConfig": {
         "fontsettings": {
