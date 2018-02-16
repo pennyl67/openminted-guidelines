@@ -10,7 +10,7 @@ It's the place where
 * researchers can 
  * search for TDM applications ready-to-use,
  * build corpora from the scholarly publications that OpenMinTeD offers or upload their own corpora, and
- * process these corpora with the TDM applications of their choice in a trusted cloud computing environment;
+ * process these corpora with the TDM applications of their choice in a powerful cloud computing environment;
 * TDM experts can 
  * add their software components or end-user applications,
  * add ancillary knowledge resources,
