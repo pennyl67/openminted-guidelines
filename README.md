@@ -12,7 +12,7 @@ This is where you'll find information on the following:
 If you want to know more about OpenMinTeD, see [here](/about-openminted.md) or visit our [website](http://openminted.eu/)!
 
 
-## Structure of the guidelines
+### Structure of the guidelines
 Four guidelines are released addressing **providers of the [resources that OpenMinTeD targets](/about-openminted.md)**:
 
 * [Guidelines for providers of scholarly content](/guidelines_for_providers_of_publications/README.md)
