@@ -9,6 +9,8 @@ This is where you'll find information on the following:
 [^1]
 * [how to give us feedback and contribute to the guidelines](/contributing-to-the-guidelines.md).
 
+If you want to know more about OpenMinTeD, see [here](/about-openminted.md) or visit our [website](http://openminted.eu/)!
+
 
 ## Structure of the guidelines
 Four guidelines are released addressing **providers of the [resources that OpenMinTeD targets](/about-openminted.md)**:
