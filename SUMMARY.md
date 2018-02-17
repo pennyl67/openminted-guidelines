@@ -95,7 +95,7 @@
     * [relatedResource](corpora_relatedResource.md)
   * [Example metadata records for corpora](guidelines_for_providers_of_corpora/example-metadata-records-for-corpora.md)
 * [For providers of software \(applications and components\)](guidelines_for_providers_of_sw_resources/README.md)
-  * [Sharing software \(applications and components\)](guidelines_for_providers_of_sw_resources/sharing-software-through-openminted.md)
+  * [How to share software \(applications and components\)](guidelines_for_providers_of_sw_resources/sharing-software-through-openminted.md)
     * [Sharing UIMA and GATE components](/sharing-uima-and-gate-components.md)
     * [Sharing apps/components as Docker images](/sharing-components-as-dockerised-images.md)
     * [Sharing apps/components as web services](/guidelines_for_providers_of_sw_resources/sharing-web-services.md)
