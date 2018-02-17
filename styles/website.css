@@ -88,8 +88,9 @@ th {
 }
 
 img {
-        max-width: 600px;
-        max-height: 300px;
+        max-width: 900px;
+        max-height: 400px;
+    text-align: center;
 }
 
 
