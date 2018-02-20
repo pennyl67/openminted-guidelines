@@ -1,6 +1,6 @@
 ## How to share software \(applications and components\)
 
-We welcome software in the [OpenMinTeD platform](https://services.openminted.eu/resourceRegistration/component)
+You can share your TDM software in the [OpenMinTeD platform](https://services.openminted.eu/resourceRegistration/component)
 
 * fully packaged as an end-user application or 
 * as separate components, offering the advantage that it can be re-used in the creation of new applications.
