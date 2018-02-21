@@ -9,8 +9,8 @@ This is where you'll find information on the following:
 [^1]
 * [how to give us feedback and contribute to the guidelines](/contributing-to-the-guidelines.md).
 
-If you want to find out more about OpenMinTeD, see [here](/about-openminted.md) or visit our [website](http://openminted.eu/)!
-
+_**Note: **If you want to find out more about OpenMinTeD, see [here](/about-openminted.md) or visit our website: [http://openminted.eu](http://openminted.eu)
+_
 
 ### Structure of the guidelines
 Four guidelines are released addressing **providers of the [resources that OpenMinTeD targets](/about-openminted.md)**:
@@ -20,6 +20,8 @@ Four guidelines are released addressing **providers of the [resources that OpenM
 * [Guidelines for providers of software (applications & components)](/guidelines_for_providers_of_sw_resources/README.md)
 * [Guidelines for providers of ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md)
 
+![The OpenMinTeD platform](/assets/1.png)
+
 Each set of guidelines contains the following information:
 * a brief introduction, specifying the resources expected, potential sources, minimal requirements for the contributions
 * preparing, packaging and registering instructions for the OpenMinTeD platform
@@ -28,4 +30,4 @@ Each set of guidelines contains the following information:
 * further instructions per type of contributors or resource type/subtype where required.
 
 ---
-[^1] The OpenMinTeD platform is currently under development and more features and functionalities are constantly added.
+[^1] The OpenMinTeD platform is currently under development and more features and functionalities are constantly added; keep visiting to find more!

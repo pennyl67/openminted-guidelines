@@ -34,6 +34,6 @@ TDM involves a wide range of resource types:
 
 * the _content resources to be mined_, i.e. _scholarly publications_ in the current phase,
 * the _TDM software_ and
-* _ancillary knowledge resources_ used for the operation of the software \(e.g. machine learning models, lexical or ontological resources used for annotating the resources to be mined, typesystems, annotation schemas, linguistic tagsets, annotated textual corpora used for training and evaluation\).
+* _ancillary knowledge resources_ used for the operation of the software \(e.g. machine learning models, lexical or ontological resources used for annotating the resources to be mined, typesystems, annotation schemas, linguistic tagsets, etc.\).
 
 

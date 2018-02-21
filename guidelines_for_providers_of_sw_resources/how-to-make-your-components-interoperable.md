@@ -2,6 +2,7 @@
 
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
+, ensuring at least that your software supports \(i.e. produces & consumes\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format
 To be fully compatible with OpenMinTeD, you must
 
 * **Licensing**:
