@@ -2,6 +2,11 @@
 
 Software \(apps/components\) from frameworks and technologies other than UIMA and GATE must be registered in OpenMinTeD as [Docker](https://docs.docker.com) images.
 
+{% blurb style='warning'%}
+**Don't forget!** Check that your software complies with **at least the minimal level** of the [OpenMinTeD interoperability requirements and recommendations](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+{% endblurb %}
+
+
 #### **Step 1 - Preparing and packaging**
 
 To build an OpenMinTeD-compatible Docker image of apps/components, you must follow the specifications described at [https://openminted.github.io/releases/docker-spec/0.1.0/specification](https://openminted.github.io/releases/docker-spec/0.1.0/specification) and upload it to the [Docker hub](https://hub.docker.com/).
