@@ -12,7 +12,7 @@ For both of these and in order to overcome hurdles associated with platform depe
 There are three ways you can add TDM software in the [OpenMinTeD platform](https://services.openminted.eu/home):
 * **components compatible with UIMA[^2] or GATE[^3] frameworks**: prepare, upload in the [Maven Central repository](http://maven.apache.org) and register them according to the [instructions](//sharing-uima-and-gate-components.md); dockerization for these components is undertaken by OpenMinTeD;
 * **components or applications created with other technologies or other TDM-related frameworks**: prepare, package and register directly as Docker images according to the instructions described [here](//sharing-components-as-dockerised-images.md);
-* [**web services**](//guidelines_for_providers_of_sw_resources/sharing-web-services.md) \(applications/components\): if you want to maintain your software outside the OpenMinTeD platform, you must expose it through the **Processing Web Service API layer** that has been specified by OpenMinTeD and register it according to the instructions described [here](//guidelines_for_providers_of_sw_resources/sharing-web-services.md); the client that communicates with the web service is implemented by OpenMinTeD.
+* **web services**: if you want to maintain your software outside the OpenMinTeD platform, you must expose it through the **Processing Web Service API layer** that has been specified by OpenMinTeD and register it according to the instructions described [here](//guidelines_for_providers_of_sw_resources/sharing-web-services.md); the client that communicates with the web service is implemented by OpenMinTeD.
 
 
 ---

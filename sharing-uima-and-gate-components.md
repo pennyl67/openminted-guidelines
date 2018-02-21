@@ -6,10 +6,6 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 **Don't forget!** Check that your software complies with **at least the minimal level** of the [OpenMinTeD interoperability requirements and recommendations](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 {% endblurb %}
 
-
-
-
-
 #### **Step 1 - Preparing and packaging**
 
 * Please, put together in a single folder \(in the form that is required from the used technologies/frameworks\)
