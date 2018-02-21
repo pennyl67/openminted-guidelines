@@ -1,4 +1,4 @@
-### Sharing apps/components as Docker images
+### How to share apps/components as Docker images
 
 Software \(apps/components\) from frameworks and technologies other than UIMA and GATE must be registered in OpenMinTeD as [Docker](https://docs.docker.com) images.
 
@@ -6,7 +6,7 @@ Software \(apps/components\) from frameworks and technologies other than UIMA an
 
 To build an OpenMinTeD-compatible Docker image of apps/components, you must follow the specifications described at [https://openminted.github.io/releases/docker-spec/0.1.0/specification](https://openminted.github.io/releases/docker-spec/0.1.0/specification) and upload it to the [Docker hub](https://hub.docker.com/).
 
-#### **Step 2 - Registering in OpenMinTeD**
+#### **Step 2 - Adding in the OpenMinTeD platform**
 
 You can then visit the [OpenMinTeD registry](https://services.openminted.eu) where you can register your app/component in one of the following ways:
 

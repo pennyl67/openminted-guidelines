@@ -2,10 +2,9 @@
 
 We welcome 
 * end-user **applications **that can be used as-is to perform TDM operations on content resources, as well as
-* **components**, i.e. pieces of software that perform basic tasks; using the OpenMinTeD Workflow Editor, TDM developers can combine together components and tune them with ancillary knowledge resources in order to build applications that will be offered to end-users.
+* **components**, i.e. pieces of software that perform basic tasks and which TDM developers, using the OpenMinTeD Workflow Editor, can combine together and tune with ancillary knowledge resources in order to build applications that will be offered to end-users.
 
-![](/assets/4a.png)
-
+This is in line with the OpenMinTeD vision of helping technology agnostic researchers to easily find and run TDM applications. To this end, TDM developers are invited to share their software in any of the above forms and more expert users to develop new applications with the offered resources.
 
 ### Conditions for sharing TDM software
 If you wish to share TDM software through the [OpenMinTeD platform](https://services.openminted.eu/home), you must

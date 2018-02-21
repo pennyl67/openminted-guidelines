@@ -1,12 +1,10 @@
-### Sharing apps/components as web services
-
-#### 
+### How to share apps/components as web services
 
 #### **Step 1 - Preparing and packaging**
 
 If you intend to share your TDM software \(application or component\) as a web service through OpenMinTeD, please ensure that it uses UIMA CAS XMI messaging system as specified at [https://openminted.github.io/releases/processing-web-services/1.0.0/specification](https://openminted.github.io/releases/processing-web-services/1.0.0/specification).
 
-#### **Step 2 - Registering in OpenMinTeD**
+#### **Step 2 - Adding in the OpenMinTeD platform**
 
 You can then visit the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) where you can register your web service in one of the following ways:
 
