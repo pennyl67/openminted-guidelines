@@ -99,7 +99,7 @@
     * [UIMA and GATE components](/sharing-uima-and-gate-components.md)
     * [Apps/components as Docker images](/sharing-components-as-dockerised-images.md)
     * [Apps/components as web services](/guidelines_for_providers_of_sw_resources/sharing-web-services.md)
-  * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
+  * [How to comply with OpenMinTeD interoperability specs](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [Recommended ancillary knowledge resources](guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md)
   * [Recommended metadata for software](guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md)
     * [resourceType](components_resourceType.md)

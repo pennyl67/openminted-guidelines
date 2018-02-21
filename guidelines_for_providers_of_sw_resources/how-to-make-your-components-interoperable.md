@@ -1,8 +1,12 @@
-### Achieving compatibility with OpenMinTeD and interoperability across TDM resources {#how-to-make-your-components-interoperable}
+### How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
 
+####Minimum requirements
+To ensure interoperability between TDM components, we accept only **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format.
+
+####Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
-, ensuring at least that your software supports \(i.e. produces & consumes\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format
+
 To be fully compatible with OpenMinTeD, you must
 
 * **Licensing**:
@@ -18,17 +22,17 @@ To be fully compatible with OpenMinTeD, you must
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
   * in the case of applications/components delivered 
-    * via Maven, please provide the Maven identifier in the record
+    * via Maven, please provide the Maven coordinates in this element
     * as Docker images, provide the name for the application/component used in the image.
 * **Versioning**: ensure that you version all your software resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org)
 * **Formal description and documentation**:
   * ensure that you provide with your software resource appropriate machine-readable metadata embedded in the source code \(where possible\) and according to the relevant framework \(e.g. uimaFIT Java annotations etc.\); make sure that the metadata descriptors are properly identified in an unambiguous way that makes them easy to distinguish and extract
   * for Java-based components, ensure that you use the Java fully qualified class naming conventions for naming your components; together with the Maven practices for registering packaging and version, this contributes to unique identifiers of the components
-  * In addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors
+  * in addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors
   * ensure that you describe appropriately the functionalities of the software, both through the OMTD-SHARE ontology class [function](/components_function.md) as well as in a free text description, supplying more information for the use
-* **Scalability**: To ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component. For instance, a component that counts all tokens in a corpus cannot be trivially scaled.
+* **Scalability**: to ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component
 * **Re-usability of ancillary resources**:
-  * Please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier for the linking.
+  * please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier in the relevant metadata element.
 
 Further recommendations that contribute to interoperability include the following:
 
