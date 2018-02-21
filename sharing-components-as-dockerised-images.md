@@ -23,7 +23,9 @@ In both cases, the metadata record can be viewed and edited at the end of the pr
 
 The location of the docker image must be provided in the element **_distributionLocation_**; the command for invoking the app/component as well as the id of the app/component itself in the element _**command**_, e.g.
     `<distributionLocation>bibliome/alvisengine</distributionLocation>`
-`<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
+    
+    
+    `<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
 
 
 
