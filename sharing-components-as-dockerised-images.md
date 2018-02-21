@@ -9,7 +9,7 @@ Software \(apps/components\) from frameworks and technologies other than UIMA an
 
 #### **Step 1 - Preparing and packaging**
 
-To build an OpenMinTeD-compatible Docker image of apps/components, you must follow the relevant [OpenMinTeD specifications](https://openminted.github.io/releases/docker-spec) and upload it to the [Docker hub](https://hub.docker.com/).
+To build an OpenMinTeD-compatible Docker image of apps/components, in addition to the Docker guidelines, you must follow the relevant [OpenMinTeD specifications for dockerized components](https://openminted.github.io/releases/docker-spec) and upload it to the [Docker hub](https://hub.docker.com/).
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
 
