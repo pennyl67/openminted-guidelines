@@ -21,12 +21,12 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The location of the docker image must be provided in the element **_distributionLocation_**; and the command for invoking the app/component (toghether with the id of the app/component) in the element _**command**_, e.g.
+The location of the docker image must be provided in the element **_distributionLocation_**; the command for invoking the app/component as well as the id of the app/component itself in the element _**command**_, e.g.
     `<distributionLocation>bibliome/alvisengine</distributionLocation>`
 `<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
 
 
 
 
-[^1]: You can find example metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
+[^1]: You can find example OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
 
