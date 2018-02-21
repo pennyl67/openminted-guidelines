@@ -2,7 +2,14 @@
 
 You can provide components compatible with the [UIMA](https://uima.apache.org/) and [GATE](https://gate.ac.uk/) frameworks through the [Maven Central repository](https://mvnrepository.com/) according to the following instructions. Components provided in this mode are dockerized by OpenMinTeD.
 
-**Don't forget!** Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+{% blurb style='warning'%}
+**Don't forget!** Check that your software complies with **at least the minimal level** of the [OpenMinTeD interoperability requirements and recommendations](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+{% endblurb %}
+
+
+
+
+
 #### **Step 1 - Preparing and packaging**
 
 * Please, put together in a single folder \(in the form that is required from the used technologies/frameworks\)
@@ -14,6 +21,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
   * a Maven POM XML file.
 * Pack them as a JAR using the respective Maven plugin.
 * Upload them to the Maven repository according to the Maven guidelines \([http://maven.apache.org/guides/mini/guide-central-repository-upload.html](http://maven.apache.org/guides/mini/guide-central-repository-upload.html)).
+
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
 
