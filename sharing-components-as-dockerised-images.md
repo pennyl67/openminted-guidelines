@@ -30,5 +30,5 @@ The location of the docker image must be provided in the element **_distribution
 
 
 
-[^1]: You can find example OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
+[^1]: You can find examples of OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
 
