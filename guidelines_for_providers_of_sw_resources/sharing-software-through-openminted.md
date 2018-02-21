@@ -14,7 +14,6 @@ There are three ways you can add TDM software in the [OpenMinTeD platform](https
 * **components or applications created with other technologies or other TDM-related frameworks**: prepare, package and register directly as Docker images according to the instructions described [here](//sharing-components-as-dockerised-images.md);
 * **web services**: if you want to maintain your software outside the OpenMinTeD platform, you must expose it through the **Processing Web Service API layer** that has been specified by OpenMinTeD and register it according to the instructions described [here](//guidelines_for_providers_of_sw_resources/sharing-web-services.md); the client that communicates with the web service is implemented by OpenMinTeD.
 
-
 ---
 
 [^1]: Docker is a middleware technology that packages software along with their dependencies in order to run independently of operating systems or local setup - see more at [https://docs.docker.com](https://docs.docker.com).

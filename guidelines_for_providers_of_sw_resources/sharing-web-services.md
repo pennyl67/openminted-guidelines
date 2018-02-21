@@ -23,7 +23,7 @@ You must provide the the URL where the web service can be executed in the metada
 
 `<distributionLocation>http://nactem.ac.uk/api/openminted/chebi</distributionLocation>`
 
-Further requirements and recommendations for achieving interoperability across components and with the content resources are presented [here](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 
+--- 
 [^1]: You can find examples of OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
 

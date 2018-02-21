@@ -31,7 +31,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
 
 In all of these cases, the metadata record can be viewed and edited at the end of the process.
 
-
+---
 
 [^1]: You will find more information on how to embed the OMTD-SHARE metadata records in the package and how to use related tooling [here](https://builds.openminted.eu/view/WP%205.2/job/OpenMinTeD%20SHARE%20Annotations/eu.openminted.share.annotations%24omtd-share-annotations-doc/doclinks/1/#sect_introduction).
 [^2]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
