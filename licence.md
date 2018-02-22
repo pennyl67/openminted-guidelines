@@ -18,11 +18,11 @@ The licence of use for the resource
 
 ##### Recommended usage
 
-Select one of the recommended licences \(the values correspond to the SPDX codes\); please, note that the list contains licences intended for data resources & components mixed together; for components the recommended licences are the FOSS  licences; for data resources, please use a standard licence.
+Select one of the recommended licences \(the values correspond to the SPDX codes\); please, note that the list contains licences intended for data resources & components/applications mixed together; for software, the recommended licences are the FOSS  licences; for data resources, please use a standard licence such as one of the CC family of licences version 4.0.
 
 if the licence you use is not included in the list, you can use the "nonStandardLicenceTerms" or the "proprietary" values and give further information on your licence in the elements: "nonStandardLicenceName", "nonStandardLicenceTermsURL" and "nonStandardLicenceTermsText".
 
-For publications that are harvested from Open Access repositories but without a clear specification of the licence, the values "openAccessUnspecified" and  "restrictedAccessUnspecified" can be used. However, this practice is strongly discouraged and will be revoked.
+For publications that are harvested from Open Access repositories but without a clear specification of the licence, the values "openAccessUnspecified" and  "restrictedAccessUnspecified" can be used. However, this practice is strongly discouraged and will be revoked in due time.
 
 ##### Relation to other metadata schemas
 

@@ -2,7 +2,7 @@
 
 In order to further encourage interoperability, OpenMinTeD makes specific recommendations about particular knowledge resources that TDM applications and components should use. These recommendations are in the areas of linguistics and of the initial domains of use targeted by OpenMinTeD. The current recommendations should not be seen as a final and static set. They will evolve with experience, and as OpenMinTeD is used for TDM of new domains. Users are therefore encouraged to use the existing recommendations, but to make use of others where these are not suitable.
 
-TDM tools and services should use resources from the following initial list where possible. Where this is not possible, knowledge resource authors are encouraged to provide linkages between their own resource and those given here, or to any other widely used or standard Linked Data knowledge resource. This list of recommended resources is continuously being updated with feedback from user communities.
+TDM components and applications should use resources from the following initial list where possible. Where this is not possible, knowledge resource authors are encouraged to provide links between their own resource and those given here, or to any other widely used or standard Linked Data knowledge resource. This list of recommended resources is continuously being updated with feedback from user communities.
 
 * **Social sciences resources**
   * [TheSoz](http://www.gesis.org/en/services/research/tools/social-science-thesaurus/)

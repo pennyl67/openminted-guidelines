@@ -133,7 +133,6 @@
     * [domain](/domain.md)
     * [relationType](relationType.md)
     * [relatedResource](relatedResource.md)
-  * [Example metadata records for software](guidelines_for_providers_of_sw_resources/examples-for-software-resources.md)
 * [For providers of knowledge resources \(ML models, grammars and annotation resources\)](guidelines_for_providers_of_ancillary_resources/README.md)
   * [Sharing knowledge resources \(ML models, grammars and annotation resources\)](guidelines_for_providers_of_ancillary_resources/instructions_for_providers_of_ancillary_knowledge.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](guidelines_for_providers_of_ancillary_resources/how-to-make-your-knowledge-resources-interoperable.md)

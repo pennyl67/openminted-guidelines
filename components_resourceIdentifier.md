@@ -18,7 +18,7 @@ Associates a resource to an identifier \(e.g. PID, DOI, id internal to an organi
 
 ##### Recommended usage
 
-* For **components shared through Maven**, the Maven id must be used; this is combined with the Java fully qualified class naming conventions to give the following coordinates: groupId:artifactId:version:\(packaging\):\(classifier\)\#class; e.g.
+* For **components shared through Maven**, the Maven coordinatemust be used; this is combined with the Java fully qualified class naming conventions to give the following coordinates: groupId:artifactId:version:\(packaging\):\(classifier\)\#class; e.g.
 
 `<resourceIdentifier resourceIdentifierSchemeName="maven">mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</resourceIdentifier>`
 
