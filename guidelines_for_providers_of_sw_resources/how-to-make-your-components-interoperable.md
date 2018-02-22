@@ -1,7 +1,9 @@
 ### How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
 
 ####Minimum requirements
-To ensure interoperability between TDM components, we accept only **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format.
+To ensure interoperability between TDM components and robust processing of the input content (scholarly and scientific publications, which are usually distributed as PDF, XML files etc.), we accept 
+* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format
+* **applications** that take as input files in the PDF or XMI format; if the supported input is XMI, OpenMinTeD has a PDF-to-XMI component that can be used as the first component to build a workflow that handles PDF files.
 
 ####Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
