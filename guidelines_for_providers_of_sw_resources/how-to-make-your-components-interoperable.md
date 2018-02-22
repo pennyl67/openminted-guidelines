@@ -1,15 +1,13 @@
 ### How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
 
+OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content. These specifications aim to support TDM experts by offering them a plethora of interoperable components that can interact seamlessly without complex manipulations; by selecting and combining appropriate components, they can build **end-to-end solutions** for the technology agnostic researchers; moreover, the specifications take into account the resources (content to be mined and ancillary knowledge resources) that interact with them. 
 
-
-OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and interoperable deployment of TDM applications running on scholarly content. The ultimate goal is to support TDM experts in building trusted **end-to-end solutions** by putting together components that can interact seamlessly without complex manipulations and to guarantee that these solutions can be used by technology agnostic researchers to 
-
-
-  
 ####Minimum requirements
-To ensure interoperability between TDM components and robust processing of the input content (currently focusing on scholarly and scientific publications, which are usually distributed as PDF, XML files, etc.), the OpenMinTeD platform can execute
-* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, specifically the representation of a UIMA CAS; if not, you should provide appropriate readers and writers for converting XMI messages from and to the components’ format
-* **applications** that take as input files in the PDF or XMI format; if the supported input is XMI, OpenMinTeD has a PDF-to-XMI component that can be used as the first component to build a workflow that handles PDF files.
+At the present phase, the OpenMinTeD platform can deploy
+* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, and more specifically the representation of a UIMA CAS; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^1];
+* **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI, again as UIMA CAS[^2].
+
+Moreover, for the **final output of the applications**, OpenMinTeD recommends the use of the XMI format; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard can also be used but only XMI-formatted annotated corpora can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors.
 
 ####Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
@@ -32,9 +30,6 @@ Please note that
   * describe all the executional requirements for the proper operation of the software, i.e. required software libraries, ancillary resources, annotation schema dependencies, etc.
   * declare the mode of distribution/execution in the metadata (e.g. whether it's a web service)
   * describe the input and output requirements for your software, at least as regards the type of resource, the language \(if required\), data format, and annotation types of the input/output resource; 
-  * support at least the following data formats, given that OpenMinTeD has endorsed the use of 
-    * the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a [workflow](https://guidelines.openminted.eu/GLOSSARY.html#workflow) and
-    * the [WebAnnotation](https://www.w3.org/annotation/) standard to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on [document](https://guidelines.openminted.eu/GLOSSARY.html#document)/collection level.
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/components_resourceIdentifier.html) for more information\)
   * in the case of applications/components delivered 
@@ -55,10 +50,11 @@ Further recommendations that contribute to interoperability include the followin
 * **Documentation and citation**
   * It is important that you provide the appropriate documentation for your resource \(e.g. manuals, help files etc.\), which you should also version along with the software and add as reference to your metadata record. 
   * Recommend one of the publications about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
-  * Make sure that you fill in the metadata record all the elements required for citing your resource[^1], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor.
+  * Make sure that you fill in the metadata record all the elements required for citing your resource[^3], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor.
 * **Linking to other entities**: In all cases, where linking to other resources or entities \(e.g. persons, projects etc.\), please try to do this through unique and persistent identifiers of authority lists and sources, to the extent possible, documenting also the authority and/or scheme it adheres to.
 
 ---
-
-[^1]: For citation, OpenMinTeD endorses the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final), as well as the more specialised [RDA recommendations for data citation of evolving data](https://www.rd-alliance.org/system/files/RDA-DC-Recommendations_151020.pdf) and [DataCite guidelines](https://www.datacite.org/cite-your-data.html).
+[^1]: For applications built with the OpenMinTeD workflow editor, converters from PDF and other popular formats for publications into XMI are provided by OpenMinTeD. 
+[^2]: For applications uploaded in OpenMinTeD that consume XMI, the appropriate converters for handling scholarly content input will be provided by OpenMinTeD.
+[^3]: For citation, OpenMinTeD endorses the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final), as well as the more specialised [RDA recommendations for data citation of evolving data](https://www.rd-alliance.org/system/files/RDA-DC-Recommendations_151020.pdf) and [DataCite guidelines](https://www.datacite.org/cite-your-data.html).
 
