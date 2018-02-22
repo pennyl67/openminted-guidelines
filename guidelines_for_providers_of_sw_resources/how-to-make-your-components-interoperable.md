@@ -13,10 +13,11 @@ To be fully compatible with OpenMinTeD, you must
   * ensure that the software is distributed under a perpetual, world-wide, no-charge, royalty-free copyright/patent licence that permits unrestricted use and allows unlimited redistribution
   * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with 
 the resource
+
 {% blurb style='tip'%}
-  Please note that 
-  * FOSS licences are recommended for software resources
-  * You can use the licence compatibility matrix to check whether your components can be combined with other components on the basis of their licencing terms
+Please note that 
+* FOSS licences are recommended for software resources
+* You can use the [licence compatibility matrix](https://openminted.github.io/releases/license-matrix/) to check whether your components can be combined with other components on the basis of their licencing terms
 {% endblurb %}
   
 * **Operation and access**:
