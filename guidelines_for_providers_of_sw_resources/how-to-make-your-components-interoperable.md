@@ -11,16 +11,23 @@ To be fully compatible with OpenMinTeD, you must
 
 * **Licensing**:
   * ensure that the software is distributed under a perpetual, world-wide, no-charge, royalty-free copyright/patent licence that permits unrestricted use and allows unlimited redistribution
-  * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with the resource; FOSS licences are recommended for software resources
+  * include in the metadata record a link to the licence document\(s\) with the terms and conditions under which it is provided, and attach the licence document\(s\) together with 
+the resource
+{% blurb style='tip'%}
+  Please note that 
+  * FOSS licences are recommended for software resources
+  * You can use the licence compatibility matrix to check whether your components can be combined with other components on the basis of their licencing terms
+{% endblurb %}
+  
 * **Operation and access**:
-  * declare whether the software is downloadable or can only be accessed as a web service in the metadata
   * describe all the executional requirements for the proper operation of the software, i.e. required software libraries, ancillary resources, annotation schema dependencies, etc.
-  * describe the input and output requirements for your software, at least as regards the type of resource, the language \(if required\), data format and character encoding, and annotation types of the input/output resource; 
+  * declare the mode of distribution/execution in the metadata (e.g. whether it's a web service)
+  * describe the input and output requirements for your software, at least as regards the type of resource, the language \(if required\), data format, and annotation types of the input/output resource; 
   * support at least the following data formats, given that OpenMinTeD has endorsed the use of 
     * the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a [workflow](https://guidelines.openminted.eu/GLOSSARY.html#workflow) and
     * the [WebAnnotation](https://www.w3.org/annotation/) standard to make annotations produced by OpenMinTeD workflows accessible to third parties and to encode annotations above the text level, e.g. on [document](https://guidelines.openminted.eu/GLOSSARY.html#document)/collection level.
 * **Persistent and Unique identifiers**:
-  * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information\)
+  * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [identifier](/components_resourceIdentifier.html) for more information\)
   * in the case of applications/components delivered 
     * via Maven, please provide the Maven coordinates in this element
     * as Docker images, provide the name for the application/component used in the image.
