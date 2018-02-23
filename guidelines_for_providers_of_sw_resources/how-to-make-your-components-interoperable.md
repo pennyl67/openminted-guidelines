@@ -3,15 +3,16 @@
 OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content. These specifications aim to support TDM experts by offering them a plethora of interoperable components that can interact seamlessly without complex manipulations; by selecting and combining appropriate components, they can build **end-to-end solutions** for the technology agnostic researchers; moreover, the specifications take into account the resources (content to be mined and ancillary knowledge resources) that interact with them. 
 
 ####Minimum requirements
+{% blurb style='warning'%}
 At the present phase, the OpenMinTeD platform deploys
 * **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, and more specifically the representation of a UIMA CAS; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^1];
 * **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI (again as a UIMA CAS)[^2].
+{% endblurb %}
 
-Moreover, for the **final output of the applications**, OpenMinTeD recommends the use of the XMI format; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but only XMI-formatted annotated corpora can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors.
+Moreover, for the **final output of the applications**, OpenMinTeD recommends the use of the XMI format; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but  _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.
 
 ####Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
-
 
 To be fully compatible with OpenMinTeD, you must
 

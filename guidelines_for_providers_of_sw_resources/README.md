@@ -13,5 +13,5 @@ If you wish to share TDM software through the [OpenMinTeD platform](https://serv
 
 * add the software in the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) with a **metadata record **compliant with the  [OMTD-SHARE schema](/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.md), at least at the minimal level
 
-* adhere to at least the minimal level of the [OpenMinTeD interoperability specifications](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+* adhere to **at least the minimal level of the [OpenMinTeD interoperability specifications](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)**.
 

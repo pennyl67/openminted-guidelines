@@ -5,13 +5,10 @@
 This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
 
 {% blurb style='tip'%}
-
-The full schema and examples of metadata records are found [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
+You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for all cases of software  resources [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
 {% endblurb %}
 
-
 The following table presents mandatory and recommended elements for software; these have been selected so as to help
-
 * identify the resource and provide information about it \(e.g. resourceIdentifier, resourceName, version\)
 * describe the legal terms for using the resource \(e.g. licence and rightsStatement\) 
 * encode  technical features that are useful for achieving interoperability with content and ancillary knowledge resources \(e.g. input and output specifications and dependencies\)

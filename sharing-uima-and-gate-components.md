@@ -28,6 +28,10 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
 * submit the Maven coordinates directly in the interface; in this case, 
   * if the package includes one or more  OMTD-SHARE files corresponding to the components contained in the package, the available components will be displayed to the user, the user will select the component to register, the metadata will be validated and, if valid, uploaded to the registry; 
   * if there are no OMTD-SHARE files in the package, an OMTD-SHARE record can be partially converted from the Maven POM file and other descriptors and the user will be prompted to fill in the missing information.
+  
+{% blurb style='tip'%}
+Please, make sure that you add the following elements in the POM: name, description, version, organization URL (for developers) and license name. These are needed for creating a valid OMTD-SHARE metadata record.
+{% endblurb %}
 
 In all of these cases, the metadata record can be viewed and edited at the end of the process.
 
