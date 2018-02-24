@@ -8,6 +8,7 @@ $color-border: $color-gray-dark;
  
 $color-primary: #0055b9;
 $color-text: black;
+$color-glossary: red;
 $font-family-lato: 'Lato', open-sans;
 $font-family-base: 'Lato', open-sans;
  
@@ -16,6 +17,12 @@ $heading-map : (
                 border-bottom: 1px solid $color-primary,
                 font-family: $font-family-lato
                 );
+
+$glossary-term : ( 
+                color: $color-glossary, 
+                text-decoration-style: dashed
+                );
+
 
 // h1 {
 //font-family: "Roboto", "Open Sans", sans-serif;
