@@ -1,5 +1,3 @@
-![logo](/assets/OpenMINTED_Tag_Color_small.png)
-
 # OpenMinTeD guidelines
 
 Welcome to the OpenMinTeD Guidelines!

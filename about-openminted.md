@@ -1,9 +1,9 @@
 # About OpenMinTeD
 
-###  What is OpenMinTeD?
+##  What is OpenMinTeD?
 [OpenMinTeD](htttp://openminted.eu) enables the creation of an infrastructure that fosters and facilitates the use of **Text and Data Mining (TDM) technologies **in the world of **scholarly content**, builds on existing TDM tools and platforms, and renders them discoverable and interoperable through a dedicated registry and a standards-based interoperability layer.
 
-###  What is the OpenMinTeD platform?
+##  What is the OpenMinTeD platform?
 The [OpenMinTeD platform](https://services.openminted.eu) acts as a **facilitator** of TDM. 
 
 It's the place where 
@@ -21,7 +21,7 @@ It's the place where
 To implement this vision, OpenMinTeD takes advantage of the existing ecosystem of e-infrastructures and repositories. It thus relies on the addition by registered users of **resources only if they can be used for running TDM operations** It also collects from other trusted sources, transforms all resources to the desired format and makes them available to the end users. 
 
 
-{% blurb style='tip'%}
+{% blurb style='warning'%}
 Resources are added in OpenMinTeD **only if they can be accessed and deployed in the context of a TDM processing operation**.
 {% endblurb %}
 
@@ -29,7 +29,7 @@ Resources are added in OpenMinTeD **only if they can be accessed and deployed in
 The OpenMinTeD platform is neither a repository for the curation and long-term preservation of content and services, nor a catalog of information about resources that might be of interest to TDM stakeholders.
 
 
-### What types of resources does OpenMinTeD target?
+## What types of resources does OpenMinTeD target?
 TDM involves a wide range of resource types:
 
 * the _content resources to be mined_, i.e. _scholarly publications_ in the current phase,
