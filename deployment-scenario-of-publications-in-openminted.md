@@ -1,5 +1,4 @@
-## Building corpora of scholarly content offered in OpenMinTeD {#Deployment of publications in OpenMinTeD}
-
+## Building corpora of scholarly content offered in OpenMinTeD
 Scholarly publications that have been imported into the  [OpenMinTeD platform](https://services.openminted.eu) can be used by researchers for TDM processing via _**a query-based creation of corpora**_.  
 Researchers can [build a corpus](https://services.openminted.eu/resourceRegistration/corpus/searchForPublications) by selecting publications from various sources based on specific criteria, e.g. "a corpus of English articles in the biomedicine area", and then apply TDM services on them.
 

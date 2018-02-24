@@ -1,18 +1,24 @@
 ## How to share content directly to OpenMinTeD
 
-For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. Interested content providers are also able to contribute directly to the [OpenMinTeD platform ](https://services.openminted.eu)if they implement the following:
+If you are a **publisher or a repository of scholarly works** and wish to share your content directly to the [OpenMinTeD platform ](https://services.openminted.eu) instead of following the [procedure through aggregators](/guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md), you can do so if you implement the following:
 
-* Map the metadata of their contents to the [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md)
+* Map the metadata of your contents to the [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md)
 * Provide search capabilities on the metadata, according to the specifications of the **ContentConnector** described below
-* Provide the actual content \(i.e. the full text\)
+* Provide the actual content \(i.e. the full text\).
 
+{% blurb style='tip'%}
 It should be noted that the providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
+{% endblurb %}
 
-For further requirements and recommendations that ensure compatibility of publications with OpenMinTeD tools and services, please see [here](/recommendations-for-publishers.md).
+
+###Minimum requirements for single documents (publications)
+For each publication, you must 
+* ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
+* provide access to a file with the **full text** 
+* deliver a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
 
 ### How to connect to OpenMinTeD
-
-Interested content providers must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, their contents will be integrated in the [OpenMinTeD platform](https://services.openminted.eu).
+You must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, your contents will be integrated in the [OpenMinTeD platform](https://services.openminted.eu).
 
 The interface implements the operations of the corpus building process \(cf. [Federated content search and corpus building](/deployment-scenario-of-publications-in-openminted.md)\):
 
@@ -21,13 +27,6 @@ The interface implements the operations of the corpus building process \(cf. [Fe
 * retrieval of the full texts of the pulications.
 
 Additional technical information is provided in the Java code of the interface.
-
-### Minimal requirements
-
-For each publication, you must deliver:
-
-* a file with the **full text** 
-* a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
 
 ---
 

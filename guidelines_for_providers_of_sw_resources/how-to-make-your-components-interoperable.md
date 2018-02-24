@@ -26,7 +26,7 @@ the resource
 {% blurb style='tip'%}
 Please note that 
 * FOSS licences are recommended for software resources
-* You can use the [licence compatibility matrix](https://openminted.github.io/releases/license-matrix/) to check whether your components can be combined with other components on the basis of their licencing terms
+* you can use the [licence compatibility matrix](https://openminted.github.io/releases/license-matrix/) to check whether your components can be combined with other components on the basis of their licencing terms to create a new workflow.
 {% endblurb %}
   
 * **Operation and access**:

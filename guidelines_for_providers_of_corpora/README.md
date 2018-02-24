@@ -1,5 +1,15 @@
 # Guidelines for providers of corpora {#guidelines-for-providers-of-corpora}
 
+##Providers of corpora
+Corpora may also be imported (upon bilateral agreements) from repositories of language resources, or discipline-specific repositories, or **uploaded by users** for processing with TDM applications.
+
+If you wish to share corpora through OpenMinTeD, you will find more information [here](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md).
+
+###Minimum requirements for corpora
+
+
+
+
 OpenMinTeD facilitates the use of TDM technologies in the scientific publications world, ranging from generic scholarly communication to literature related to specific disciplines.
 
 Corpora in the OpenMinTeD framework refer mainly to the _**collections of publications that will be used as mining source**_ in the TDM process. In fact, the OpenMinTeD platform includes a mechanism for automatically generating corpora based on user criteria selected from a faceted view of all publications provided by the OpenMinTeD partners - more details are included in the [Building corpora of scholarly content offered in OpenMinTeD](/deployment-scenario-of-publications-in-openminted.md).
