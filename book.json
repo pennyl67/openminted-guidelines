@@ -1,15 +1,16 @@
 {
     "plugins": [
+        "theme-gestalt", 
+        "-theme-default", 
+        "styles-sass-fix",
         "-fontsettings",
         "blurbs",
         "-highlight",
         "toggle-chapters",
         "image-class"
-        "theme-gestalt", "-theme-default", "styles-sass-fix"
     ],
     "pluginsConfig": {
         "theme-gestalt": {
-            "logo": "/assets/OpenMINTED_Tag_Color_small.png",			// path to the logo file to use in the sidebar
             "baseUrl": null,				// sets the base url in the HTML head
             "excludeDefaultStyles": true,		// excludes the pre-compiled theme css in favor of your custom css
             "doNotHideChildrenChapters" : false		// in summary, disables hiding of child chapters for inactive chapter
