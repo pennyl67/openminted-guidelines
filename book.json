@@ -11,6 +11,7 @@
     ],
     "pluginsConfig": {
         "theme-gestalt": {
+            "logo": "/assets/OpenMINTED_Tag_Color_small.png",
             "baseUrl": null,
             "excludeDefaultStyles": true,
             "doNotHideChildrenChapters" : false
