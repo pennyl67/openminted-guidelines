@@ -1,4 +1,4 @@
-## Sharing scholarly content by connecting to OpenMinTeD
+## How to share content directly to OpenMinTeD
 
 For the first phase of the project, [**OpenAIRE**](https://www.openaire.eu/) and [**CORE**](https://core.ac.uk/) are responsible for bringing content resources into OpenMinTeD. Interested content providers are also able to contribute directly to the [OpenMinTeD platform ](https://services.openminted.eu)if they implement the following:
 

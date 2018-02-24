@@ -1,9 +1,9 @@
 # Summary
 
 * [OpenMinTeD guidelines](README.md)
-* [For providers of scholarly content](guidelines_for_providers_of_publications/README.md)
-  * [Sharing scholarly content through aggregators](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
-  * [Sharing scholarly content by connecting to OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
+* [For providers of content](guidelines_for_providers_of_publications/README.md)
+  * [How to share content through aggregators](guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md)
+  * [How to share content directly to OpenMinTeD](guidelines_for_providers_of_publications/instructions_for_aggregators.md)
   * [Achieving compatibility with OpenMinTeD and interoperability across TDM resources](recommendations-for-publishers.md)
   * [Building corpora of scholarly content offered in OpenMinTeD](deployment-scenario-of-publications-in-openminted.md)
   * [​Recommended metadata for publications ](guidelines_for_providers_of_publications/recommended_schema_for_publications.md)
@@ -95,7 +95,7 @@
     * [relatedResource](corpora_relatedResource.md)
   * [Example metadata records for corpora](guidelines_for_providers_of_corpora/example-metadata-records-for-corpora.md)
 * [For providers of software \(applications and components\)](guidelines_for_providers_of_sw_resources/README.md)
- * [How to comply with OpenMinTeD interoperability specs](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
+  * [How to comply with OpenMinTeD interoperability specs](guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)
   * [How to share software \(applications and components\)](guidelines_for_providers_of_sw_resources/sharing-software-through-openminted.md)
     * [UIMA and GATE components](/sharing-uima-and-gate-components.md)
     * [Apps/components as Docker images](/sharing-components-as-dockerised-images.md)

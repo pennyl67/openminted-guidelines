@@ -1,4 +1,4 @@
-## Sharing scholarly content through aggregators {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
+## How to share content through aggregators {#instructions-for-publication-repositories-libraries-journals-publishers-etc}
 
 If you are a publisher, literature repository, archive etc., and wish to register scholarly publications that can be harvested for TDM purposes through the [OpenMinTeD platform](https://services.openminted.eu), you can do so
 
