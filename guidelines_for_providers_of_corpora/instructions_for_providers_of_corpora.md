@@ -1,4 +1,4 @@
-### Sharing corpora {#How-to-share-your-resources}
+### How to share corpora {#How-to-share-your-resources}
 
 Corpora can be registered only by authorised users at the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/corpus/upload).
 

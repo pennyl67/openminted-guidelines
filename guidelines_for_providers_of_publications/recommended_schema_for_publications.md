@@ -1,9 +1,8 @@
 ## ​Recommended metadata for publications {#recommended-schema-for-publications}
 
-This section includes the overview of the recommended [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md) for scholarly publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.
+This section includes the overview of the recommended (aka minimal) [OMTD-SHARE metadata schema](/the_omtd-share_metadata_schema.md) for scholarly publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.
 
 These elements have been selected so as to help
-
 * identify the publication \(e.g. identifier, title\)
 * classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research \(e.g. documentType, publicationType, keywords\)
 * describe the legal terms for using the publication \(e.g.licence, rightsStatement\)
