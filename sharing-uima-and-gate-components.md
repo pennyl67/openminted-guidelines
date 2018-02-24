@@ -8,16 +8,19 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 
 #### **Step 1 - Preparing and packaging**
 
-* Please, put together in a single folder \(in the form that is required from the used technologies/frameworks\)
+* Please, put together in a single folder \(in the form that is required by the used technologies/frameworks\)
   * all files that implement the component \(e.g. Java classes, etc.\)
   * licence text\(s\), preferably in a text file entitled "LICENCE.TXT" in order to be unambiguously recognised; in the case of multiple licences, they should be all aggregated in the same file
   * a "readme" notice, that describes the contents of the folder as well as any important notice for the compilation and execution of the component
-  * all descriptors \(UIMA/uimaFIT, GATE CREOLE, OMTD-SHARE etc.\) available for the component according to the implementation framework; OMTD-SHARE descriptors must be identified with the filename extension ".omtds.xml"[^1]
+  * all descriptors \(UIMA/uimaFIT, GATE CREOLE, OMTD-SHARE etc.\) available for the component according to the implementation framework[^1]
   * a "DESCRIPTORS.TXT" file in the folder META-INF/eu.openminted.share with a list of the descriptors
   * a Maven POM XML file.
 * Pack them as a JAR using the respective Maven plugin.
 * Upload them to the Maven repository according to the [Maven guidelines](http://maven.apache.org/guides/mini/guide-central-repository-upload.html).
 
+{% blurb style='tip'%}
+Please, make sure that you add the following elements in the POM: _name_, _description_, _version_, _organization URL_ (for developers) and _license name_. These are needed for creating a valid OMTD-SHARE metadata record.
+{% endblurb %}
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
 
@@ -28,10 +31,6 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
 * submit the Maven coordinates directly in the interface; in this case, 
   * if the package includes one or more  OMTD-SHARE files corresponding to the components contained in the package, the available components will be displayed to the user, the user will select the component to register, the metadata will be validated and, if valid, uploaded to the registry; 
   * if there are no OMTD-SHARE files in the package, an OMTD-SHARE record can be partially converted from the Maven POM file and other descriptors and the user will be prompted to fill in the missing information.
-  
-{% blurb style='tip'%}
-Please, make sure that you add the following elements in the POM: name, description, version, organization URL (for developers) and license name. These are needed for creating a valid OMTD-SHARE metadata record.
-{% endblurb %}
 
 In all of these cases, the metadata record can be viewed and edited at the end of the process.
 

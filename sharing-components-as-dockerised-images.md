@@ -17,7 +17,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 * edit from scratch the OMTD-SHARE metadata record[^1] using the OpenMinTeD editor or
 
-* upload an XML file with the OMTD-SHARE metadata record
+* upload an XML file with the OMTD-SHARE metadata record.
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
@@ -29,5 +29,5 @@ The location of the docker image must be provided in the element **_distribution
 ---
 
 
-[^1]: You can find examples of OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
+[^1]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
 

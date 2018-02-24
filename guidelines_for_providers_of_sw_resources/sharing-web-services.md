@@ -19,11 +19,10 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-You must provide the the URL where the web service can be executed in the metadata element _&lt;distributionLocation&gt;_, e.g.
+You must provide the the URL where the web service can be executed in the metadata element **_distributionLocation_**, e.g.
 
 `<distributionLocation>http://nactem.ac.uk/api/openminted/chebi</distributionLocation>`
 
-
 --- 
-[^1]: You can find examples of OMTD-SHARE metadata records [here](/guidelines_for_providers_of_sw_resources/examples-for-software-resources.md).
+[^1]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
 
