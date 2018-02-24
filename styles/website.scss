@@ -8,15 +8,13 @@ $color-border: $color-gray-dark;
  
 $color-primary: #0055b9;
 $color-text: black;
-$font-family-lato: 'Lato', sans-serif;
+$font-family-lato: 'Lato', open-sans;
  
 $heading-map : ( 
                 color: $color-primary, 
                 border-bottom: 1px solid $color-primary,
                 font-family: $font-family-lato
                 );
-
-
 
 // h1 {
 //font-family: "Roboto", "Open Sans", sans-serif;
