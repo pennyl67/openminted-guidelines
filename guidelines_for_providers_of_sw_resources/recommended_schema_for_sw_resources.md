@@ -1,8 +1,6 @@
-
-
 ### Recommended metadata for software {#recommended-schema-for-s-w-resources}
 
-This section includes a synopsis of the recommended schema for sofware resources, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OMTD platform.
+This section includes a synopsis of the **recommended (aka minimal) metadata schema for sofware resources**, i.e. the subset of Mandatory and strongly Recommended metadata elements, only as regards elements related to the resource itself. Additional elements required for the management of the metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OpenMinTeD platform.
 
 {% blurb style='tip'%}
 You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for all cases of software  resources [here](https://openminted.github.io/releases/omtd-share/3.0.2/).

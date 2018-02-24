@@ -1,9 +1,9 @@
-## How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
+### How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
 
 OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content.
 These specifications aim to support TDM experts by offering them a plethora of interoperable components that can interact seamlessly without complex manipulations; by selecting and combining appropriate components, they can build **end-to-end solutions** for the technology agnostic researchers; moreover, the specifications take into account the resources (content to be mined and ancillary knowledge resources) that interact with the applications and/or components. 
 
-###Minimum requirements
+####Minimum requirements
 {% blurb style='warning'%}
 At present, the OpenMinTeD platform deploys
 
@@ -13,7 +13,7 @@ At present, the OpenMinTeD platform deploys
 
 As regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^3]
 
-###Recommendations
+####Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
 To be fully compatible with OpenMinTeD, you must
@@ -45,7 +45,7 @@ Please note that
   * in addition to plain UIMA/uimaFIT and GATE-CREOLE descriptors, OpenMinTeD also supports Argo descriptors
   * ensure that you describe appropriately the functionalities of the software, both through the OMTD-SHARE ontology class [function](/components_function.md) as well as in a free text description, supplying more information for the use
 * **Scalability**: to ensure that provided software components can be scaled as required for different workloads, it is recommended that they are implemented in a stateless fashion, i.e. without the need to maintain information about one or more documents and the need to share this information with other instances of the same component
-* **Re-usability of ancillary knowledge resources**: please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier in the relevant metadata element.
+* **Re-usability of ancillary knowledge resources**: please, keep ancillary knowledge resources, e.g. models, annotation resources, etc., separate from the component itself; document and upload these also in the OpenMinTeD Registry following the procedure described in [_**Guidelines for providers of ancillary knowledge resources**_](/guidelines_for_providers_of_ancillary_resources/README.md). If you want to refer to these resources from the software metadata record, please add also the resource identifier in the relevant metadata element. You will find a list of recommended ancillary knowledge resources [here](/guidelines_for_providers_of_sw_resources/recommended-knowledge-resources.md); feel free to let us know of other resources that you think should be added to this list.
 
 Further recommendations that contribute to interoperability include the following:
 

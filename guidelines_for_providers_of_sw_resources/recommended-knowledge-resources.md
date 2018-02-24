@@ -29,7 +29,7 @@ TDM components and applications should use resources from the following initial 
   * [ISOcat/CCR](https://www.clarin.eu/ccr) \(linguistic and metadata terminology\)[^1]
   * [GOLD](http://linguistics-ontology.org/version) \(linguistic ontology\)
 * **Typesystems**
-  * used by the software components integrated in the OpenMinTeD platform \(GATE, DKPRO, ALVIS, ARGO and ILSP\)
+  * used by the software components integrated in the OpenMinTeD platform \(GATE, DKPRO, ALVIS\)
 * **General resources**
   * [Schema.org](http://schema.org/)
 

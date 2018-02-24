@@ -1,4 +1,4 @@
-### How to share UIMA and GATE components through MAVEN
+#### How to share UIMA and GATE components through MAVEN
 
 You can provide components compatible with the [UIMA](https://uima.apache.org/) and [GATE](https://gate.ac.uk/) frameworks through the [Maven Central repository](https://mvnrepository.com/) according to the following instructions. Components provided in this mode are dockerized by OpenMinTeD.
 
@@ -6,7 +6,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 **Don't forget!** Check that your software complies with **at least the minimal level** of the [OpenMinTeD interoperability requirements and recommendations](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
 {% endblurb %}
 
-#### **Step 1 - Preparing and packaging**
+##### **Step 1 - Preparing and packaging**
 
 * Please, put together in a single folder \(in the form that is required by the used technologies/frameworks\)
   * all files that implement the component \(e.g. Java classes, etc.\)
@@ -22,7 +22,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
 Please, make sure that you add the following elements in the POM: _name_, _description_, _version_, _organization URL_ (for developers) and _license name_. These are needed for creating a valid OMTD-SHARE metadata record.
 {% endblurb %}
 
-#### **Step 2 - Adding in the OpenMinTeD platform**
+##### **Step 2 - Adding in the OpenMinTeD platform**
 
 You can then visit the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) where you can register your component in one of the following ways:
 
