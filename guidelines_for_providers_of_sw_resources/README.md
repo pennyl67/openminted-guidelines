@@ -1,4 +1,4 @@
-## ​Guidelines for providers of software \(applications and components\) {#guidelines-for-providers-of-s-w-resources}
+# ​Guidelines for providers of software \(applications and components\) {#guidelines-for-providers-of-s-w-resources}
 
 We welcome 
 * end-user **applications **that can be used as-is to perform TDM operations on content resources, as well as
@@ -6,7 +6,7 @@ We welcome
 
 This is in line with the OpenMinTeD vision of helping technology agnostic researchers to easily find and run TDM applications. To this end, TDM developers are invited to share their software in any of the above forms and more expert users to develop new applications with the offered resources.
 
-### Conditions for sharing TDM software
+## Conditions for sharing TDM software
 If you wish to share TDM software through the [OpenMinTeD platform](https://services.openminted.eu/home), you must
 
 * ensure that your software adheres to **at least the minimal level of the [OpenMinTeD interoperability specifications](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md)**,

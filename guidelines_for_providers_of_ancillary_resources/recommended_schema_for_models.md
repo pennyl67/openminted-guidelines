@@ -1,7 +1,10 @@
 ## ​Recommended metadata for language descriptions, incl. ML models and grammars {#recommended-schema-for-models}
 
-The following table presents mandatory and recommended elements for Language descriptions \(incl. Machine Learning models and computational grammars\); these have been selected so as to help
+{% blurb style='tip'%}
+You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for Language descriptions \(incl. Machine Learning models and computational grammars\)  [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
+{% endblurb %}
 
+The following table presents mandatory and recommended elements for Language descriptions \(incl. Machine Learning models and computational grammars\); these have been selected so as to help
 * identify the resource and provide information about it \(e.g. resourceIdentifier, resourceName, description\)
 * describe the legal terms for using the resource \(e.g. licence or rightsStatement\)
 * encode  technical features that are useful for achieving interoperability with TDM tools and services \(e.g. variant, dataFormat, language,  typesystem\)

@@ -1,4 +1,4 @@
-### ​Recommended ancillary knowledge resources {#recommended-ancillary-knowledge-resources}
+## ​Recommended ancillary knowledge resources {#recommended-ancillary-knowledge-resources}
 
 In order to further encourage interoperability, OpenMinTeD makes specific recommendations about particular knowledge resources that TDM applications and components should use. These recommendations are in the areas of linguistics and of the initial domains of use targeted by OpenMinTeD. The current recommendations should not be seen as a final and static set. They will evolve with experience, and as OpenMinTeD is used for TDM of new domains. Users are therefore encouraged to use the existing recommendations, but to make use of others where these are not suitable.
 

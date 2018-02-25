@@ -1,9 +1,9 @@
-### How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
+## How to comply with OpenMinTeD interoperability specifications {#how-to-make-your-components-interoperable}
 
 OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content.
 These specifications aim to support TDM experts by offering them a plethora of interoperable components that can interact seamlessly without complex manipulations; by selecting and combining appropriate components, they can build **end-to-end solutions** for the technology agnostic researchers; moreover, the specifications take into account the resources (content to be mined and ancillary knowledge resources) that interact with the applications and/or components. 
 
-####Minimum requirements
+###Minimum requirements
 {% blurb style='warning'%}
 At present, the OpenMinTeD platform deploys
 
@@ -13,7 +13,7 @@ At present, the OpenMinTeD platform deploys
 
 As regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^3]
 
-####Recommendations
+###Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
 To be fully compatible with OpenMinTeD, you must

@@ -1,7 +1,11 @@
 ## ​Recommended metadata for annotation resources \(lexical/conceptual resources\) {#recommended-schema-for-lexical-conceptual-resources}
 
-The following table presents mandatory and recommended elements for annotation resources; these have been selected so as to help
+{% blurb style='tip'%}
+You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for annotation resources [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
+{% endblurb %}
 
+
+The following table presents mandatory and recommended elements for annotation resources; these have been selected so as to help
 * identify the resource and provide information about it \(e.g. identifier, name, version\)
 * describe the legal terms for using the resource \(e.g. licence or rightsStatement\) 
 * encode  technical features that are useful for achieving interoperability by tools and services \(e.g. dataFormat, language,  metalanguage\)
