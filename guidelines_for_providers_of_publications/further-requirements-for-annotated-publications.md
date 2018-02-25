@@ -11,6 +11,6 @@ The mechanism for using as input of a TDM application annotated publications is 
 In these cases, the annotated output (publication) is considered a new resource and should follow the technical specifications that have been set for processing resources inside the OpenMinTeD platform. More specifically, it should be
 * encoded with the [XML Metadata Interchange](http://www.omg.org/spec/XMI/) \(XMI\) format, and most specifically with a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi)
 * described with its own metadata record, using [metadata for annotated publications](/guidelines_for_providers_of_publications/metadata-schema-for-annotated-publications.md)
-* packaged with all other raw and annotated publications into a corpus and registered following the instructions for [sharing corpora](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md).
+* packaged with all other raw and annotated publications into a corpus and registered following the instructions for [sharing corpora](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md) and [further requirements for annotated corpora](/guidelines_for_providers_of_corpora/further-requirements-for-annotated-corpora.md).
 
 

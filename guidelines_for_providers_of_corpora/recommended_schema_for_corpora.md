@@ -1,9 +1,12 @@
 ## ​Recommended metadata for corpora {#recommended-schema-for-corpora}
 
-This section includes a synopsis of the minimal schema for corpora, i.e. the subset of Mandatory and strongly Recommended metadata elements. Additional elements required for the management of metadata record \(e.g. _metadataCreationDate, metadataCreator_ etc.\) are not presented here, as they are to be handled by the OpenMinTeD platform.
+This section includes a synopsis of the recommended (aka minimal) [OMTD-SHARE metadata schema](/the_omtd-share_metadata_schema.md) for corpora, i.e. the subset of Mandatory and strongly Recommended metadata elements. Additional elements required for the management of metadata record \(e.g. metadataCreationDate, metadataCreator, etc.\) are not presented here, as they are to be handled by the OpenMinTeD platform.
+
+{% blurb style='tip'%}
+You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for corpora [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
+{% endblurb %}
 
 These elements have been selected so as to help
-
 * identify the corpus and provide information about it \(e.g. resourceIdentifier, resourceName, version, description\)
 * describe the legal terms for using the corpus \(e.g. licence or rightsStatement, nonStandardLicenceTermsURL\)
 * encode  technical features that are useful for achieving interoperability by tools and services \(e.g. dataFormat, language\)

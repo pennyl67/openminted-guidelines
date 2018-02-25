@@ -2,6 +2,10 @@
 
 This section includes the overview of the recommended (aka minimal) [OMTD-SHARE metadata schema](/the_omtd-share_metadata_schema.md) for scholarly publications, i.e. the subset of Mandatory and strongly Recommended metadata elements.
 
+{% blurb style='tip'%}
+You can find more information on the **full OMTD-SHARE metadata schema** and **examples** of metadata records for publications [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
+{% endblurb %}
+
 These elements have been selected so as to help
 * identify the publication \(e.g. identifier, title\)
 * classify the publication along a variety of criteria that end-users can apply for locating publications of interest for their research \(e.g. documentType, publicationType, keywords\)

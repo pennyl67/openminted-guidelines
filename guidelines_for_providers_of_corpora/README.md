@@ -17,7 +17,7 @@ At present, OpenMinTeD processes only **raw corpora** that follow all the techni
 If you want to share your corpus through OpenMinTeD, you must
 * ensure that the single documents comprising the corpus adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
 * describe the corpus with a metadata record compliant with the [OMTD-SHARE schema](/guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md), at least at the minimal level,
-* provide a zipped file with the contents (texts) of the corpus packaged in the folder structure recommended for OpenMinTeD publications.
+* prepare, package and register a zipped file with the contents (texts) of the corpus according to the [instructions for uploading corpora](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md).
 
 ---
 [^1]: In the case of single documents (publications) uploaded in the registry, the OpenMinTeD platform includes a mechanism for automatically generating corpora based on user criteria selected from a faceted view - more details are included in the [Building corpora of scholarly content offered in OpenMinTeD](/deployment-scenario-of-publications-in-openminted.md).
