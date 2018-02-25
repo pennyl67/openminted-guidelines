@@ -12,6 +12,16 @@ OR
 For each publication, you must 
 * ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
 * provide access to a file with the **full text** 
-* deliver a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
+* deliver a **metadata record** with a minimal set of metadata elements required by the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\). 
+
+{% blurb style='tip'%}
+Please, note that you need to deliver these metadata elements following the OpenAIRE/CORE guidelines[^1]; the aggregators are responsible for converting them to the OMTD-SHARE specifications.
+{% endblurb %}
+
+---
+
+[^1]: The OpenAIRE schema and guidelines are currently under revision; collaboration with the relevant actors has been established to take into account the new features and, where desired, influence the changes so as to support TDM processes in accordance to the interoperability requirements.
+
+
 
 

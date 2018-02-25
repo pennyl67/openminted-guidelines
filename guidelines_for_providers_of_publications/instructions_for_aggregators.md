@@ -1,6 +1,6 @@
 ## How to share content directly to OpenMinTeD
 
-If you are a **publisher or a repository of scholarly works** and wish to share your content directly to the [OpenMinTeD platform ](https://services.openminted.eu) instead of following the [procedure through aggregators](/guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md), you can do so if you implement the following:
+If you are a publisher or a repository, archive, etc. of scholarly works and wish to share your content directly to the [OpenMinTeD platform ](https://services.openminted.eu) instead of following the [procedure through aggregators](/guidelines_for_providers_of_publications/instructions_for_publication_repositories_librari.md), you can do so if you implement the following:
 
 * Map the metadata of your contents to the [OMTD-SHARE schema](/the_omtd-share_metadata_schema.md)
 * Provide search capabilities on the metadata, according to the specifications of the **ContentConnector** described below
@@ -15,7 +15,7 @@ It should be noted that the providers \(e.g. publication repositories, publisher
 For each publication, you must 
 * ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
 * provide access to a file with the **full text** 
-* deliver a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications and in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
+* deliver a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
 
 ### How to connect to OpenMinTeD
 You must implement a Java interface, called **ContentConnector**, according to the instructions found at [https://github.com/openminted/content-connector-api](https://github.com/openminted/content-connector-api). Through this interface, your contents will be integrated in the [OpenMinTeD platform](https://services.openminted.eu).
@@ -28,9 +28,5 @@ The interface implements the operations of the corpus building process \(cf. [Fe
 
 Additional technical information is provided in the Java code of the interface.
 
----
 
-[^1]: The OpenAIRE schema and guidelines are currently under revision; collaboration with the relevant actors has been established to take into account the new features and, where desired, influence the changes so as to support TDM processes in accordance to the interoperability requirements.
-
-[^2]: Mappings with other metadata schemas, including OpenAIRE and CORE, are included in the presentation of the recommended metadata schema.
 

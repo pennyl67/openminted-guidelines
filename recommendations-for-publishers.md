@@ -1,6 +1,6 @@
 ### How to comply with OpenMinTeD interoperability specifications
 
-OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content. The specifications for content aim at ensure they can properly interact with the applications and/or components. 
+OpenMinTeD has defined a set of technical and legal specifications that intend to facilitate the secure and robust deployment of TDM applications running on scholarly content. The specifications for content focus on their interaction with the applications and/or components. 
 
 ####Minimum requirements
 At present, the [OpenMinTeD platform](https://services.openminted.eu) supports the following:
@@ -28,9 +28,10 @@ If you wish your material to be **easily processable and interoperable with TDM 
 
 * **Linking through authority lists**: In all cases, where linking to other resources or entities \(e.g. persons, projects etc.\) in the metadata records is added, please try to do this through unique and persistent identifiers of authority lists and sources \(e.g. ORCID for persons, ISNI or fundref for organizations\), to the extent possible, documenting also the authority and/or scheme it adheres to.
 
-* **Annotation formats**: If you want to** **provide **annotated publications**, please note that OpenMinTeD has endorsed the use of the [_**XML Metadata Interchange**_](http://www.omg.org/spec/XMI/)_** \(XMI\) format**_, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a workflow.
+* **Annotation formats**: If you want to** **provide **annotated publications**[^1], please note that OpenMinTeD has endorsed the use of the [_**XML Metadata Interchange**_](http://www.omg.org/spec/XMI/)_** \(XMI\) format**_, specifically the representation of a [UIMA CAS](https://uima.apache.org/d/uimaj-2.9.0/references.html#ugr.ref.xmi) to encode annotations on text in particular when exchanging data between components within a workflow.
 
-
+---
+[^1]: For annotated publications, please check [here](/guidelines_for_providers_of_publications/further-requirements-for-annotated-publications.md) for more information.
 
 
 
