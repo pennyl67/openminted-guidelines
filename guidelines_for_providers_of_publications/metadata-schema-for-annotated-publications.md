@@ -1,6 +1,13 @@
 ### Recommended metadata for annotated publications {#metadata-schema-for-annotated-publications}
 
-Annotated publications are documented as separate resources with a link to the raw publication and their own set of metadata elements providing information on the annotation process, TDM application etc.
+Annotated publications are documented as separate resources with a link to the raw publication and their own set of **additional** metadata elements providing information on the annotation process, TDM application etc.
+
+{% blurb style='tip'%}
+Metadata for publications annotated through the OpenMinTeD platform are automatically generated on the basis of the metadata of the original (raw) publications and the metadata of the TDM application that has been used for their processing.
+{% endblurb %}
+
+
+
 
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |

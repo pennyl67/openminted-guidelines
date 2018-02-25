@@ -2,6 +2,10 @@
 
 Annotated corpora are documented with metadata elements relevant to the raw corpus \(e.g. domain, language etc.\) and metadata specific to annotations \(e.g. providing information on the annotation process, tool, etc.\).
 
+{% blurb style='tip'%}
+Metadata for corpora annotated through the OpenMinTeD platform are automatically generated on the basis of the metadata of the original (raw) corpora and the metadata of the TDM application that has been used for their processing.
+{% endblurb %}
+
 
 
 | OMTD-SHARE element | Usage |

@@ -1,14 +1,16 @@
 ##Providers of corpora
-Content may also be imported in OpenMinTeD already packaged in the form of **corpora**, i.e. collections of single documents. They may come (upon bilateral agreements) from repositories of language resources, or discipline-specific repositories, or **uploaded by users** for processing with TDM applications.
+Content may be imported in OpenMinTeD in the form of [single documents](/guidelines_for_providers_of_publications/README.md) or already packaged in the form of **corpora**, i.e. collections of single documents. 
+
+Corpora may come (upon bilateral agreements) from repositories of language resources, or discipline-specific repositories, or **uploaded by users** for processing with TDM applications.
 
 If you wish to share corpora through OpenMinTeD, you will find more information [here](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md).
 
 ##What types of corpora
-Corpora in the OpenMinTeD framework refer mainly to _**collections of documents that will be used as mining source**_ in the TDM process. If they have been uploaded in OpenMinTeD, they may not necessarily be composed of scholarly works. Examples include reference corpora \(i.e. corpora deemed representative of general language or a sublanguage usage\), news corpora, collections of domain-specific texts, such as manuals, etc. as well as annotated corpora, such as treebanks, morphologically tagged golden corpora etc. Nevertheless, in order to be mined they must follow the same technical requirements defined for the corpora that have been built through the OpenMinTeD mechanism[^1].
-Otherwise, they can be used \(upon availability of the respective components/applications\) for other objectives, such as training Machine Learning models, evaluating the performance of applications, etc.
+Corpora in the OpenMinTeD framework refer mainly to _**collections of documents that will be used as mining source**_ in the TDM process. If they are uploaded in OpenMinTeD, they may not necessarily be composed of scholarly works. Examples include reference corpora \(i.e. corpora deemed representative of general language or a sublanguage usage\), news corpora, collections of domain-specific texts, such as manuals, technical reports, etc., as well as annotated corpora, such as treebanks, morphologically tagged golden corpora etc. Nevertheless, in order to be mined they must follow the technical requirements that have been defined for corpora built through the OpenMinTeD mechanism[^1].
+Otherwise, they can be used \(**upon availability of the respective components/applications**\) for other objectives, such as training Machine Learning models, evaluating the performance of applications, etc.
 
 {% blurb style='warning'%}
-At present, OpenMinTeD processes only raw corpora that follow all the technical specifications defined for corpora that have been built through the OpenMinTeD mechanism.
+At present, OpenMinTeD processes only **raw corpora** that follow all the technical specifications defined for corpora built through the OpenMinTeD mechanism.
 {% endblurb %}
 
 ###Minimum requirements for corpora
