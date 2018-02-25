@@ -35,6 +35,8 @@ For publications, an additional set of metadata elements relevant to the source 
 | [relationType ](/relationType.md) | Recommended |
 | [relatedResource ](/relatedResource.md) | Mandatory when applicable |
 
+
+
 | **OMTD-SHARE element** | **Usage** |
 | --- | --- |
 | [collectedFrom repositoryName or repositoryIdentifier](/publications_collectedFrom.md) | Recommended |

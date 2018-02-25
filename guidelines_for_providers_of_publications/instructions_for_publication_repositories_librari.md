@@ -8,6 +8,8 @@ OR
 
 * by registering through [CORE](http://core.ac.uk), following procedures at: [https://core.ac.uk/join](https://core.ac.uk/join)
 
+By following these guidelines, your metadata and data will be harvested by the aggregator and passed on to OpenMinTeD, without further actions on your part.
+
 ###Minimum requirements for single documents (publications)
 For each publication, you must 
 * ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 

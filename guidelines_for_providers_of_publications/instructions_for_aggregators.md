@@ -7,7 +7,7 @@ If you are a publisher or a repository, archive, etc. of scholarly works and wis
 * Provide the actual content \(i.e. the full text\).
 
 {% blurb style='tip'%}
-It should be noted that the providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD[^2].
+It should be noted that the providers \(e.g. publication repositories, publishers etc.\) that offer publications via OpenAIRE and CORE do not have to change their current schemas. Mappings and conversions between the OpenAIRE[^1] and CORE metadata and the OMTD-SHARE schema are made by the providers themselves in the framework of OpenMinTeD.
 {% endblurb %}
 
 
@@ -27,6 +27,13 @@ The interface implements the operations of the corpus building process \(cf. [Fe
 * retrieval of the full texts of the pulications.
 
 Additional technical information is provided in the Java code of the interface.
+
+For more information and/or to notify us of your connector, you can [contact us](http://openminted.eu/contact-us/).
+
+---
+
+[^1]: The OpenAIRE schema and guidelines are currently under revision; collaboration with the relevant actors has been established to take into account the new features and, where desired, influence the changes so as to support TDM processes in accordance to the interoperability requirements.
+
 
 
 
