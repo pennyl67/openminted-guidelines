@@ -3,7 +3,7 @@
 
 // Put your variable overrides here
 //$book-background: white;
-//$page-background: white;
+$page-background: white;
 //$sidebar-background: #0055b9;
 //$sidebar-color: white;
 $color-border: $color-gray-dark;
@@ -24,7 +24,6 @@ $heading-map : (
 $page-inner-map	: (
                     background: $page-background,
                     margin: 0px auto,
-                    padding: $spacing-unit*3 $spacing-unit*2
 ) !important;
 
 //table, th, td {
