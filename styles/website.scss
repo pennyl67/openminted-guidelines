@@ -2,14 +2,15 @@
 @import "https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Roboto+Condensed|Lato"; 
 
 // Put your variable overrides here
-$book-background: white;
-$page-background: white;
+//$book-background: white;
+//$page-background: white;
 //$sidebar-background: #0055b9;
 //$sidebar-color: white;
 $color-border: $color-gray-dark;
  
 $color-primary: #0055b9;
 $color-text: black;
+$font-family-headings: Lato, 'Open Sans';
 $font-family-lato: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
 $font-size-base: 14px;
@@ -20,6 +21,11 @@ $heading-map : (
                 border-bottom: 1px solid $color-primary,
                 font-family: $font-family-lato
                 );
+$page-inner-map	: (
+                    background: $page-background,
+                    margin: 0px auto,
+                    padding: $spacing-unit*3 $spacing-unit*2
+) !important;
 
 //table, th, td {
 //   border: 1px solid rgb(0, 185, 180);
