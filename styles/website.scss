@@ -39,7 +39,7 @@ $heading-map : (
 //}
 
 .markdown-section .glossary-term {
-        text-decoration-style: dashed;
+        text-decoration-style: dashed  !important;
         color: rgb(0, 191, 195) !important;
 }
 
