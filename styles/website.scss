@@ -1,5 +1,6 @@
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/variables";
- 
+@import "https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Roboto+Condensed|Lato"; 
+
 // Put your variable overrides here
 $book-background: white;
 $page-background: white;
@@ -10,8 +11,8 @@ $color-border: $color-gray-dark;
 $color-primary: #0055b9;
 $color-text: black;
 $color-glossary: red;
-$font-family-lato: 'Lato', open-sans;
-$font-family-base: 'Lato', open-sans;
+$font-family-lato: Lato, 'Open Sans';
+$font-family-base: Lato, 'Open Sans';
 $font-size-base: 14px;
  
 $heading-map : ( 
@@ -37,10 +38,10 @@ $heading-map : (
 //    color: white;
 //}
 
-//.markdown-section .glossary-term {
-//        text-decoration-style: dashed;
-//        color: rgb(0, 191, 195) !important;
-//}
+.markdown-section .glossary-term {
+        text-decoration-style: dashed;
+        color: rgb(0, 191, 195) !important;
+}
 
 //.image-wrapper .about-openminted {
 //    text-align: center ;
