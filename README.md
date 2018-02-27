@@ -12,10 +12,9 @@ _**Note: **If you've landed here accidentally and want to find out more about Op
 _
 
 ## Structure of the guidelines
-Four guidelines are released addressing **providers of the [resources that OpenMinTeD targets](/about-openminted.md)**:
+Three guidelines are released addressing **providers of the [resources that OpenMinTeD targets](/about-openminted.md)**:
 
-* [Guidelines for providers of scholarly content](/guidelines_for_providers_of_publications/README.md)
-* [Guidelines for providers of corpora](/guidelines_for_providers_of_corpora/README.md)
+* [Guidelines for providers of content (scholarly and scientific publications & corpora)](/for-providers-of-content.md)
 * [Guidelines for providers of software (applications & components)](/guidelines_for_providers_of_sw_resources/README.md)
 * [Guidelines for providers of ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md)
 
@@ -29,4 +28,4 @@ Each set of guidelines contains the following information:
 * further instructions per type of contributors or resource type/subtype where required.
 
 ---
-[^1] The [OpenMinTeD platform](https://services.openminted.eu) is currently under development and more features and functionalities are constantly added; keep visiting to find more!
+[^1] The [OpenMinTeD platform](https://services.openminted.eu) is currently under development and more features and functionalities are constantly added; keep visiting us to find more!
