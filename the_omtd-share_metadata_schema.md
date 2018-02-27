@@ -20,10 +20,10 @@ As in META-SHARE, the schema sets out to document the full lifecycle of a resour
 
 * the _**resources**_, further classified into:
   * _**corpora**_, i.e. datasets of text documents - mainly scholarly publications in OMTD-SHARE
-  * _**lexical/conceptual resources**_, including lexica, ontologies, term lists, gazetteers etc., but also tagsets and annotation schemas, which are used for annotating corpora - hence also called _**annotation resources **_in the OpenMinTeD context
-  * _**language descriptions**_, which mainly refer to computational grammars and machine learning and statistical _**models**_[^2],
-  * software _**components**_, pieces of software, tools offered as locally executable codes or as web services, wrapped in a workflow or as standalone end-to-end applications, and, finally,
-  * _**publications**_, which constitute a peculiar resource type, as they are viewed in OpenMinTeD only in a collective form, as a "corpus",
+  * _**lexical/conceptual resources**_, including lexica, ontologies, term lists, gazetteers etc., but also tagsets and annotation schemas, which are used for annotating corpora - hence also called _**annotation resources**_ in the OpenMinTeD context
+  * _**language descriptions**_, which mainly refer to computational _**grammars**_ and machine learning and statistical _**models**_[^2],
+  * software _**components**_, i.e. pieces of software, that can be combined together in a workflow or standalone end-to-end **_applications_**, and, finally,
+  * _**publications**_, which are viewed in OpenMinTeD only in a collective form, as a "corpus",
 * but also satellite entities, such as the _**actors**_, be it _**persons**_** **or _**organizations**_** **that have created the resources, or the _**projects**_** **that have funded them or where they are used.
 
 Obviously, lexical/conceptual resources, language descriptions and models are ancillary resources used for the TDM operation. Corpora are an in-between case as they may refer to corpora used for the TDM operation, such as training or evaluation corpora and thus play a supportive role, or they can be composed of scholarly publications, in which case they are approached as a proper content resource to be mined.
@@ -40,11 +40,12 @@ The OMTD-SHARE schema classifies elements into three levels of optionality:
 
 The schema is currently implemented as an XSD[^5]. An important difference from META-SHARE lies in the organisation vis-a-vis the different resource types covered: while META-SHARE describes all resources types in one common XSD, in OMTD-SHARE, the resource types are described in a more modular way as separate sets of XSDs.
 
-The current version of the schema makes use of the OMTD-SHARE ontology, which caters for:
+The current version of the schema makes use of the [OMTD-SHARE ontology](http://w3id.org/meta-share/omtd-share/), which caters for:
 
 * annotation types
 * data formats
-* component and application types.
+* component and application types (functions) and
+* TDM methods.
 
 The OMTD-SHARE ontology will continue to evolve in order to take into account the emerging needs for registering new TDM components and applications.
 
