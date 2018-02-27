@@ -30,16 +30,15 @@ $heading-map : (
   text-align: justify;
   };
 
+.book-logo {
+            background: $color-gray-darkest;
+            };
+            
 .img {
-    display: block;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 };
-
-.book-logo : {
-                       background: $color-gray-darkest;
-              };
 
                                                             
 //table, th, td {
