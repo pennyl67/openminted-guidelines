@@ -12,11 +12,14 @@ To be **fully compatible with OpenMinTeD**, you must endorse the following rules
 * **Licensing**: 
   * You must ensure that the publications are_** distributed under Open Access conditions**_
   * You must include in the metadata record of each publication _**a link to the licence document**_ that describes the terms and conditions under which it is provided, and attach the licence document together with the publication
+  
+  
 {% blurb style='tip'%}
 Please note that 
 * using a standard licence, such as [Creative Commons](https://creativecommons.org/share-your-work/) the most recent version, is recommended for data resources
 * you can use the [licence compatibility matrix](https://openminted.github.io/releases/license-matrix/) to check whether your publications can be combined with other publications on the basis of their licencing terms to be processed as a single corpus.
 {% endblurb %}
+  
   
 * **Unique and persistent identifiers**:
   * If you already have a _**PID for your publication**_ \(preferably DOI\), make sure it is included in the metadata record \(cf. [identifier](/publications_identifier.md) for more information on identifier schemes\).
