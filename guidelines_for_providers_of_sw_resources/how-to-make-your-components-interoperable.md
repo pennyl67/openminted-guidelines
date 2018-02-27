@@ -13,6 +13,10 @@ At present, the OpenMinTeD platform deploys
 
 As regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^3]
 
+For **semantic interoperability**, OpenMinTeD recommends the use of the [DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html) for known types. For types not covered by the DKPro Core Type System, users can select a type system of their choice, and document it following the [specifications for ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md).
+
+
+
 ###Recommendations
 If you want to be fully compliant with the OpenMinTeD interoperability requirements, please ensure that you adopt the following rules; if you fail to abide to them, it might still be possible to operate your software resources via the OpenMinTeD platform, but this cannot be guaranteed and interoperability with other resources will suffer loss.
 
