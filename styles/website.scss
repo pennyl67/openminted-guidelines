@@ -13,7 +13,7 @@ $font-family-headings: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
 $font-size-base: 14px;
 $navigation-show : false;
-$sidebar-background: $color-gray;
+$sidebar-background: $color-gray-lightest;
  
 $heading-map : ( 
                 color: $color-primary, 
@@ -31,10 +31,14 @@ $heading-map : (
   };
 
 .book-logo {
-            background: $color-gray !important;
+            background: $color-gray-lightest !important;
             };
             
-.image-wrapper {
+.book-search-input {
+                    background: $color-gray-lighter !important;
+                  };
+                  
+ .image-wrapper {
     max-width: 50%;
     margin-left: auto;
     margin-right: auto;
