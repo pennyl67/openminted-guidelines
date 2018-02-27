@@ -13,7 +13,7 @@ $font-family-headings: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
 $font-size-base: 14px;
 $navigation-show : false;
-$sidebar-background: $color-gray-darkest;
+$sidebar-background: $color-gray;
  
 $heading-map : ( 
                 color: $color-primary, 
@@ -31,14 +31,20 @@ $heading-map : (
   };
 
 .book-logo {
-            background: $color-gray-darkest;
+            background: $color-gray !important;
             };
             
-.img {
-    max-width: 500px;
+.image-wrapper {
+    max-width: 50%;
     margin-left: auto;
     margin-right: auto;
 };
+
+.markdown-section .glossary-term {
+        text-decoration-style: dashed  !important;
+        color: rgb(255, 81, 27) !important;
+}
+
 
                                                             
 //table, th, td {
@@ -58,10 +64,7 @@ $heading-map : (
 //    color: white;
 //}
 
-.markdown-section .glossary-term {
-        text-decoration-style: dashed  !important;
-        color: rgb(255, 81, 27) !important;
-}
+
 
 //.image-wrapper .about-openminted {
 //    text-align: center ;
