@@ -3,11 +3,10 @@
 
 // Put your variable overrides here
 //$book-background: white;
-$page-background: white;
+//$page-background: white;
 //$sidebar-background: #0055b9;
 //$sidebar-color: white;
 $color-border: $color-gray-dark;
- 
 $color-headings: #0055b9;
 $color-primary: #0055b9;
 $font-family-headings: Lato, 'Open Sans';
@@ -19,8 +18,9 @@ $sidebar-background: $color-gray-darkest;
 $heading-map : ( 
                 color: $color-primary, 
                 border-bottom: 1px solid $color-primary,
-                margin-top: 200px;
+                margin-top: 200px
                 );
+
 .page-inner {
   max-width: 1000px  !important; 
   margin: 0px 40px  !important;
@@ -30,13 +30,18 @@ $heading-map : (
   text-align: justify;
   };
 
-img {
+.img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
-                                
+};
+
+.book-logo : {
+                       background: $color-gray-darkest;
+              };
+
+                                                            
 //table, th, td {
 //   border: 1px solid rgb(0, 185, 180);
 //}
