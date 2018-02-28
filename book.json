@@ -3,11 +3,7 @@
         "theme-gestalt", 
         "-theme-default", 
         "styles-sass-fix",
-        "-fontsettings",
         "blurbs",
-        "-highlight",
-        "toggle-chapters",
-        "image-class"
     ],
     "pluginsConfig": {
         "theme-gestalt": {
@@ -15,11 +11,6 @@
             "baseUrl": null,
             "excludeDefaultStyles": true,
             "doNotHideChildrenChapters" : false
-        },
-        "fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": 3
         }
     },
     "layout": {
