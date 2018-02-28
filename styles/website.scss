@@ -22,24 +22,30 @@ $heading-map : (
                 margin-top: 60px
                 );
 
-$sidebar-header-map                 : (
-                                        color: white,
-                                        text-transform: uppercase,
-                                        font-family: $font-family-headings
-                                    ) !important;
-                                    
+.book-summary {
+                color: white !important;
+                font-family: $font-family-headings !important;
+              };
+                
+                
+//$sidebar-header-map                 : (
+//                                        color: white,
+//                                       text-transform: uppercase,
+//                                        font-family: $font-family-headings
+//                                    ) !important;
+//                                    
 
-$sidebar-header-selected-map        : ( color: white) !important;
+//$sidebar-header-selected-map        : ( color: white) !important;
+//
+//$sidebar-link-map                   : ( 
+//                                        color: white,
+//                                        font-family: $font-family-base
+//                                    ) !important;
 
-$sidebar-link-map                   : ( 
-                                        color: white,
-                                        font-family: $font-family-base
-                                    ) !important;
-
-$sidebar-link-hover-map             : (
-                                        color: white,
-                                        text-decoration: none
-) !important;
+//$sidebar-link-hover-map             : (
+//                                        color: white,
+//                                        text-decoration: none
+//) !important;
 
 .page-inner {
   max-width: 1000px  !important; 
