@@ -5,7 +5,7 @@
 //$book-background: white;
 //$page-background: white;
 $sidebar-background: #0055b9;
-$sidebar-color: white;
+$sidebar-color: rgb(255, 81, 27);
 $color-border: $color-gray-dark;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
@@ -16,33 +16,32 @@ $navigation-show : false;
 //$sidebar-background: $color-gray-lightest;
 
 $heading-map : (
-color: $color-primary,
-border-bottom: 1px solid $color-primary,
+border-bottom: 1px solid $color-headings,
 margin-top: 60px
 );
 
-.book-summary {
- color: white !important;
- font-family: $font-family-headings !important;
- };
+//.book-summary {
+// color: white !important;
+// font-family: $font-family-headings !important;
+// };
 
-//$sidebar-header-map : (
-//color: white,
-//text-transform: uppercase,
-//font-family: $font-family-headings
-//) !important;
+$sidebar-header-map : (
+color: $sidebar-color,
+text-transform: uppercase,
+font-family: $font-family-headings
+);
 
-//$sidebar-header-selected-map : ( color: white) !important;
-//
-//$sidebar-link-map : (
-// color: white,
-// font-family: $font-family-base
-// ) !important;
+$sidebar-header-selected-map : ( color: $sidebar-color);
 
-//$sidebar-link-hover-map : (
-// color: white,
-// text-decoration: none
-//) !important;
+$sidebar-link-map : (
+ color: $sidebar-color,
+ font-family: $font-family-base
+ );
+
+$sidebar-link-hover-map : (
+ color: $sidebar-color,
+ text-decoration: none
+);
 
 .page-inner {
 max-width: 1000px !important;
