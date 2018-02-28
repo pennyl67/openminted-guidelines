@@ -27,6 +27,11 @@ margin-top: 60px
 // font-family: $font-family-headings !important;
 // };
 
+$search-input-wrapper-map           : ( 
+                                        background: #fff,
+                                        border-bottom: 1px solid $color-border
+);
+
 $sidebar-header-map : (
 color: $sidebar-color,
 text-transform: uppercase,
