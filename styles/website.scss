@@ -4,8 +4,8 @@
 // Put your variable overrides here
 //$book-background: white;
 //$page-background: white;
-//$sidebar-background: #0055b9;
-//$sidebar-color: white;
+$sidebar-background: #0055b9;
+$sidebar-color: white;
 $color-border: $color-gray-dark;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
@@ -13,13 +13,33 @@ $font-family-headings: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
 $font-size-base: 14px;
 $navigation-show : false;
-$sidebar-background: $color-gray-lightest;
+//$sidebar-background: $color-gray-lightest;
+
  
 $heading-map : ( 
                 color: $color-primary, 
                 border-bottom: 1px solid $color-primary,
                 margin-top: 60px
                 );
+
+$sidebar-header-map                 : (
+                                        color: white,
+                                        text-transform: uppercase,
+                                        font-family: $font-family-headings
+                                    ) !important;
+                                    
+
+$sidebar-header-selected-map        : ( color: white) !important;
+
+$sidebar-link-map                   : ( 
+                                        color: white,
+                                        font-family: $font-family-base
+                                    ) !important;
+
+$sidebar-link-hover-map             : (
+                                        color: white,
+                                        text-decoration: none
+) !important;
 
 .page-inner {
   max-width: 1000px  !important; 
@@ -31,11 +51,11 @@ $heading-map : (
   };
 
 .book-logo {
-            background: $color-gray-lightest !important;
+            background: #0055b9 !important;
             };
             
 .book-search-input {
-                    background: $color-gray-lightest !important;
+                    background: #0055b9 !important;
                   };
                   
  .image-wrapper {
