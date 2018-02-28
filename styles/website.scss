@@ -21,15 +21,16 @@ border-bottom: 1px solid $color-primary,
 margin-top: 60px
 );
 
-//.book-summary {
-// color: white !important;
-// font-family: $font-family-headings !important;
-// };
-$sidebar-header-map : (
-color: white,
-text-transform: uppercase,
-font-family: $font-family-headings
-) !important;
+.book-summary {
+ color: white !important;
+ font-family: $font-family-headings !important;
+ };
+
+//$sidebar-header-map : (
+//color: white,
+//text-transform: uppercase,
+//font-family: $font-family-headings
+//) !important;
 
 //$sidebar-header-selected-map : ( color: white) !important;
 //
@@ -47,6 +48,7 @@ font-family: $font-family-headings
 max-width: 1000px !important;
 margin: 0px 40px !important;
 };
+
 .comments-section {
 text-align: justify;
 };
@@ -54,9 +56,11 @@ text-align: justify;
 .book-logo {
 background: #0055b9 !important;
 };
+
 .book-search-input {
 background: #0055b9 !important;
 };
+
 .image-wrapper {
 max-width: 50%;
 margin-left: auto;
@@ -92,7 +96,5 @@ color: rgb(255, 81, 27) !important;
 // text-align: center ;
 // padding: 15px 0px;
 //}
-
-
 
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/all";
