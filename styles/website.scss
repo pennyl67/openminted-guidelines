@@ -1,6 +1,6 @@
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/variables";
 @import "https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Roboto+Condensed|Lato"; 
-@import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/all";
+
 
 // Put your variable overrides here
 //$book-background: white;
@@ -103,4 +103,6 @@ $sidebar-header-selected-map        : ( color: #ffffff ) !important;
 //}
 
 
+
+@import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/all";
 
