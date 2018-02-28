@@ -22,18 +22,18 @@ $heading-map : (
                 margin-top: 60px
                 );
 
-.book-summary {
-                color: white !important;
-                font-family: $font-family-headings !important;
-              };
+//.book-summary {
+//                color: white !important;
+//                font-family: $font-family-headings !important;
+//              };
                 
-                
-//$sidebar-header-map                 : (
-//                                        color: white,
-//                                       text-transform: uppercase,
-//                                        font-family: $font-family-headings
-//                                    ) !important;
-//                                    
+              
+$sidebar-header-map : (
+                        color: white,
+                        text-transform: uppercase,
+                        font-family: $font-family-headings
+                      ) !important;
+                                    
 
 //$sidebar-header-selected-map        : ( color: white) !important;
 //
