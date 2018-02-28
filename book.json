@@ -5,7 +5,8 @@
         "styles-sass-fix",
         "blurbs",
         "-fontsettings",
-        "-highlight"
+        "-highlight",
+        "image-wrapper"
     ],
     "pluginsConfig": {
         "theme-gestalt": {
