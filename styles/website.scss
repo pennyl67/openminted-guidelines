@@ -5,7 +5,7 @@
 //$book-background: white;
 //$page-background: white;
 $sidebar-background: #0055b9;
-$sidebar-color: white;
+$sidebar-color: #ffffff;
 $color-border: $color-gray-dark;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
@@ -29,13 +29,13 @@ $heading-map : (
                 
               
 $sidebar-header-map : (
-                        color: white,
+                        color: #ffffff,
                         text-transform: uppercase,
                         font-family: $font-family-headings
                       ) !important;
                                     
 
-//$sidebar-header-selected-map        : ( color: white) !important;
+$sidebar-header-selected-map        : ( color: #ffffff) !important;
 //
 //$sidebar-link-map                   : ( 
 //                                        color: white,
