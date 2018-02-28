@@ -12,7 +12,12 @@
             "baseUrl": null,
             "excludeDefaultStyles": true,
             "doNotHideChildrenChapters" : false
-        }
+        },
+    "fontsettings": {
+                    "theme": "white",
+                    "family": "sans",
+                    "size": 3
+                    }
     },
     "layout": {
         "headerPath": "layouts/header.html",

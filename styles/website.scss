@@ -1,12 +1,11 @@
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/variables";
 @import "https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Roboto+Condensed|Lato"; 
 
-
 // Put your variable overrides here
 //$book-background: white;
 //$page-background: white;
 $sidebar-background: #0055b9;
-$sidebar-color: #ffffff;
+$sidebar-color: white;
 $color-border: $color-gray-dark;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
@@ -16,70 +15,62 @@ $font-size-base: 14px;
 $navigation-show : false;
 //$sidebar-background: $color-gray-lightest;
 
- 
-$heading-map : ( 
-                color: $color-primary, 
-                border-bottom: 1px solid $color-primary,
-                margin-top: 60px
-                );
+$heading-map : (
+color: $color-primary,
+border-bottom: 1px solid $color-primary,
+margin-top: 60px
+);
 
 //.book-summary {
-//                color: white !important;
-//                font-family: $font-family-headings !important;
-//              };
-                
-              
+// color: white !important;
+// font-family: $font-family-headings !important;
+// };
 $sidebar-header-map : (
-                        color: #ffffff,
-                        text-transform: uppercase,
-                        font-family: $font-family-headings
-                      ) !important;
-                                    
+color: white,
+text-transform: uppercase,
+font-family: $font-family-headings
+) !important;
 
-$sidebar-header-selected-map        : ( color: #ffffff ) !important;
+//$sidebar-header-selected-map : ( color: white) !important;
 //
-//$sidebar-link-map                   : ( 
-//                                        color: white,
-//                                        font-family: $font-family-base
-//                                    ) !important;
+//$sidebar-link-map : (
+// color: white,
+// font-family: $font-family-base
+// ) !important;
 
-//$sidebar-link-hover-map             : (
-//                                        color: white,
-//                                        text-decoration: none
+//$sidebar-link-hover-map : (
+// color: white,
+// text-decoration: none
 //) !important;
 
 .page-inner {
-  max-width: 1000px  !important; 
-  margin: 0px 40px  !important;
-  };
-  
+max-width: 1000px !important;
+margin: 0px 40px !important;
+};
 .comments-section {
-  text-align: justify;
-  };
+text-align: justify;
+};
 
 .book-logo {
-            background: #0055b9 !important;
-            };
-            
+background: #0055b9 !important;
+};
 .book-search-input {
-                    background: #0055b9 !important;
-                  };
-                  
- .image-wrapper {
-    max-width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+background: #0055b9 !important;
+};
+.image-wrapper {
+max-width: 50%;
+margin-left: auto;
+margin-right: auto;
 };
 
 .markdown-section .glossary-term {
-        text-decoration-style: dashed  !important;
-        color: rgb(255, 81, 27) !important;
+text-decoration-style: dashed !important;
+color: rgb(255, 81, 27) !important;
 }
 
 
-                                                            
 //table, th, td {
-//   border: 1px solid rgb(0, 185, 180);
+// border: 1px solid rgb(0, 185, 180);
 //}
 
 
@@ -88,21 +79,20 @@ $sidebar-header-selected-map        : ( color: #ffffff ) !important;
 //tr:hover {background-color: rgb(5, 255, 249);}
 
 //th {
-//    padding-top: 12px;
-//    padding-bottom: 12px;
-//    text-align: left;
-//    background-color: rgb(0, 185, 180);
-//    color: white;
+// padding-top: 12px;
+// padding-bottom: 12px;
+// text-align: left;
+// background-color: rgb(0, 185, 180);
+// color: white;
 //}
 
 
 
 //.image-wrapper .about-openminted {
-//    text-align: center ;
-//    padding: 15px 0px;
+// text-align: center ;
+// padding: 15px 0px;
 //}
 
 
 
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/all";
-
