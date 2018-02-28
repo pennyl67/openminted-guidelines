@@ -3,7 +3,7 @@
         "theme-gestalt", 
         "-theme-default", 
         "styles-sass-fix",
-        "blurbs",
+        "blurbs"
     ],
     "pluginsConfig": {
         "theme-gestalt": {
