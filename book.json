@@ -3,8 +3,9 @@
         "theme-gestalt", 
         "-theme-default", 
         "styles-sass-fix",
-        "-font-settings", 
-        "blurbs"
+        "blurbs",
+        "-fontsettings",
+        "-highlight"
     ],
     "pluginsConfig": {
         "theme-gestalt": {
