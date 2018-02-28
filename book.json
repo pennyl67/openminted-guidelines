@@ -2,6 +2,7 @@
     "plugins": [
         "theme-gestalt", 
         "-theme-default", 
+        "-font-settings", 
         "styles-sass-fix",
         "blurbs"
     ],
