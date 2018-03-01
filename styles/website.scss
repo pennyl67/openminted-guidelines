@@ -4,18 +4,20 @@
 // Put your variable overrides here
 //$book-background: white;
 //$page-background: white;
-$color-blue-lighter: darken( #0055b9, 20% )
+$color-blue-lighter: darken( #0055b9, 20% );
 $sidebar-background: $color-blue-lighter;
 $sidebar-color: white;
 $color-border: $color-blue-lighter;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
-$color-border: 
+
 $font-family-headings: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
 $font-size-base: 14px;
+
 $navigation-show : false;
-//$sidebar-background: $color-gray-lightest;
+
+
 
 $heading-map : (
 border-bottom: 1px solid $color-primary,
