@@ -5,7 +5,8 @@
 //$book-background: white;
 //$page-background: white;
 $color-blue-lighter: lighten( #0055b9, 20% );
-$sidebar-background: $color-blue-lighter;
+//$sidebar-background: $color-blue-lighter;
+$sidebar-background: #0055b9;
 $sidebar-color: white;
 $color-border: $color-blue-lighter;
 $color-headings: #0055b9;
@@ -32,7 +33,7 @@ margin-top: 60px
 // };
 
 $search-input-wrapper-map           : ( 
-                                        background: $color-blue-lighter,
+                                        background: $sidebar-background,
                                         border-bottom: 1px solid $color-border,
                                         color: $sidebar-color
 );
@@ -81,12 +82,32 @@ margin-right: auto;
 .markdown-section .glossary-term {
 text-decoration-style: dashed !important;
 color: rgb(255, 81, 27) !important;
-}
+};
 
 
 //table, th, td {
 // border: 1px solid rgb(0, 185, 180);
 //}
+
+
+$table-tr-map                       : (
+                                        background-color: white,
+                                        border-top: 1px solid $color-primary
+                                    );
+// Styling for even-numbered rows
+$table-tr-2-map                     : ( background-color: $color-blue-lighter );
+
+// Styling for TD elements
+$table-td-map                       : ( 
+                                        
+                                        padding: $spacing-unit/2 $spacing-unit,
+                                        border: 1px solid $color-blue-lighter
+                                    );
+
+// Styling for TH elements
+$table-th-map                       : map-merge( $table-td-map, ( font-weight: bold, 
+                                        background-color: $color-primary,
+                                        color: $sidebar-color) )
 
 
 //tr:nth-child(even){background-color: rgb(183, 255, 253);}
