@@ -4,7 +4,7 @@
 // Put your variable overrides here
 //$book-background: white;
 //$page-background: white;
-$color-blue-lighter: darken( #0055b9, 20% );
+$color-blue-lighter: lighten( #0055b9, 20% );
 $sidebar-background: $color-blue-lighter;
 $sidebar-color: white;
 $color-border: $color-blue-lighter;
@@ -65,12 +65,12 @@ text-align: justify;
 };
 
 .book-logo {
-background: #0055b9 !important;
+background: $sidebar-background !important;
 };
 
-.book-search-input {
-background: #0055b9 !important;
-};
+//.book-search-input {
+//background: #0055b9 !important;
+//};
 
 .image-wrapper {
 max-width: 50%;
