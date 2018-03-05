@@ -4,6 +4,7 @@
         "-theme-default", 
         "styles-sass-fix",
         "blurbs",
+        "toggle-chapters",
         "-fontsettings",
         "-highlight",
         "image-wrapper"
