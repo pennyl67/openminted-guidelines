@@ -8,7 +8,11 @@
 
 #### **Step 1 - Preparing and packaging**
 
-If you intend to share your TDM software \(application or component\) as a web service through OpenMinTeD, please ensure that it uses UIMA CAS XMI messaging system as specified at [https://openminted.github.io/releases/processing-web-services/1.0.0/specification](https://openminted.github.io/releases/processing-web-services/1.0.0/specification).
+If you intend to share your TDM software \(application or component\) as a web service through OpenMinTeD, please 
+* ensure that it uses UIMA CAS XMI messaging system as specified at [https://openminted.github.io/releases/processing-web-services/1.0.0/specification](https://openminted.github.io/releases/processing-web-services/1.0.0/specification) and
+* upload the typesystem that the web service deploys in Maven.
+
+
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
 
@@ -19,15 +23,13 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-You must provide the the URL where the web service can be executed in the metadata element **_distributionLocation_**, e.g.
+Please, note that in the metadata record, you must include
+(1) the URL where the web service can be executed in the element **_distributionLocation_**, e.g.
 
 `<distributionLocation>http://nactem.ac.uk/api/openminted/chebi</distributionLocation>`
 
-In addition, you must provide access to the typesystem that the web service deploys by
+(2) the typesystem details in the the module **_componentDependencies/typesystem_** and more specifically in the elements **_resourceName_** and **_resourceIdentifier_** (Maven coordinates), e.g.
 
-(a) uploading the typesystem in Maven and 
-
-(b) providing information about it in the metadata record: please, use the elements _resourceName_ and _resourceIdentifier_ inside the module _componentDependencies/typesystem_), e.g.
 
 `<resourceName>Chebi Curation Type System</resourceName>`
 
