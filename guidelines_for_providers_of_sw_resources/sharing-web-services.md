@@ -24,11 +24,15 @@ You must provide the the URL where the web service can be executed in the metada
 `<distributionLocation>http://nactem.ac.uk/api/openminted/chebi</distributionLocation>`
 
 If you are using a typesystem, you must 
+
 (a) upload the typesystem in Maven and 
-(b) include the name and identifier in the metadata record (using the elements _resourceName_ and _resourceIdentifier_ inside the module componentDependencies/typesystem), e.g.
+
+(b) include the name and identifier in the metadata record (using the elements _resourceName_ and _resourceIdentifier_ inside the module _componentDependencies/typesystem_), e.g.
 
 `<resourceName>Chebi Curation Type System</resourceName>`
+
 and
+
 `<resourceIdentifier resourceIdentifierSchemeName="maven">mvn:uk.ac.nactem.uima:ChebiCurationTypeSystem:0.1</resourceIdentifier>`
 
 
