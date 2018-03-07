@@ -2,6 +2,8 @@
 
 {% blurb style='warning'%}
 **Don't forget!** Check that your software complies with **at least the minimal level** of the [OpenMinTeD interoperability requirements and recommendations](/guidelines_for_providers_of_sw_resources/how-to-make-your-components-interoperable.md).
+
+In addition for web services, please keep in mind that we currently support only REST services.
 {% endblurb %}
 
 
@@ -11,6 +13,10 @@
 If you intend to share your TDM software \(application or component\) as a web service through OpenMinTeD, please 
 * ensure that it uses UIMA CAS XMI messaging system as specified at [https://openminted.github.io/releases/processing-web-services/1.0.0/specification](https://openminted.github.io/releases/processing-web-services/1.0.0/specification) and
 * upload the typesystem that the web service deploys in Maven.
+
+{% blurb style='warning'%}
+N.B. We currently support only REST web services compliant with the OMTD. 
+{% endblurb %}
 
 
 
