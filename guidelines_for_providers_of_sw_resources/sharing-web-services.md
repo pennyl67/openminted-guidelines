@@ -15,7 +15,7 @@ If you intend to share your TDM software \(application or component\) as a web s
 * upload the typesystem that the web service deploys in Maven.
 
 {% blurb style='warning'%}
-N.B. We currently support only REST web services compliant with the OMTD. 
+N.B. We currently support only REST web services compliant with the OpenMinTeD specifications. 
 {% endblurb %}
 
 
