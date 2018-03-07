@@ -14,11 +14,6 @@ If you intend to share your TDM software \(application or component\) as a web s
 * ensure that it uses UIMA CAS XMI messaging system as specified at [https://openminted.github.io/releases/processing-web-services/1.0.0/specification](https://openminted.github.io/releases/processing-web-services/1.0.0/specification) and
 * upload the typesystem that the web service deploys in Maven.
 
-{% blurb style='warning'%}
-N.B. We currently support only REST web services compliant with the OpenMinTeD specifications. 
-{% endblurb %}
-
-
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
 

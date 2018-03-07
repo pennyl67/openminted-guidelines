@@ -12,6 +12,12 @@ To ensure **semantic interoperability** between components that are combined in 
 
 Finally, as regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^3]
 
+{% blurb style='warning'%}
+Please, note that additional requirements may be in order depending on the way the software is invoked. More information on this can be found in the following pages.
+{% endblurb %}
+
+
+
 
 
 ###Recommendations
