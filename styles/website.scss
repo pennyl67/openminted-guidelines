@@ -109,6 +109,11 @@ $table-th-map                       : map-merge( $table-td-map, ( font-weight: b
                                         color: $color-text ) );
 
 
+$blockquote-map                     : (
+                                        border-left: none
+                                    ) ;
+
+
 //tr:nth-child(even){background-color: rgb(183, 255, 253);}
 
 //tr:hover {background-color: rgb(5, 255, 249);}
