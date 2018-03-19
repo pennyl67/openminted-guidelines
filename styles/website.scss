@@ -67,9 +67,9 @@ text-align: justify;
 background: $sidebar-background !important;
 };
 
-$sidebar-logo-height                : 40px ;
 .book-logo img {
                   width: 100%;
+                  max-height: 70px;
                   }
                   
 //.book-search-input {
