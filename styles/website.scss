@@ -11,6 +11,7 @@ $sidebar-color: white;
 $color-border: $color-blue-lighter;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
+$color-text: #524f4f;
 
 $font-family-headings: Lato, 'Open Sans';
 $font-family-base: 'Open Sans';
@@ -107,7 +108,7 @@ $table-th-map                       : map-merge( $table-td-map, ( font-weight: b
                                         padding: 10px 15px,
                                         background-color: #e8e8e8,  
                                         text-align:left,  
-                                        color: #666666 ) );
+                                        color: $color-text ) );
 
 
 //tr:nth-child(even){background-color: rgb(183, 255, 253);}
