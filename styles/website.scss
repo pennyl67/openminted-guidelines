@@ -43,6 +43,14 @@ $font-size-h6						: 0.9rem;
 border-right: none  !important;
 }
 
+.book-summary ul.summary li a.custom-link {
+text-transform:uppercase  !important;
+}
+
+.book-summary ul.summary li.divider {
+background:#fafafa  !important;
+}
+
 $search-input-wrapper-map           : ( 
                                         background: $sidebar-background,
                                         border-bottom: 1px solid $color-border,
