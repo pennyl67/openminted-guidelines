@@ -106,7 +106,8 @@ $table-td-map                       : (
 // Styling for TH elements
 $table-th-map                       : map-merge( $table-td-map, ( font-weight: bold, 
                                         background-color: #e8e8e8,  
-                                        text-align:left) );
+                                        text-align:left,  
+                                        color: #666666 ) );
 
 
 //tr:nth-child(even){background-color: rgb(183, 255, 253);}
