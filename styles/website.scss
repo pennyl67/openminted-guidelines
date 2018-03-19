@@ -6,8 +6,10 @@
 //$page-background: white;
 $color-blue-lighter: lighten( #0055b9, 20% );
 //$sidebar-background: $color-blue-lighter;
-$sidebar-background: #0055b9;
-$sidebar-color: white;
+//$sidebar-background: #0055b9;
+$sidebar-background: white;
+//$sidebar-color: white;
+$sidebar-color: $color-text;
 $color-border: $color-blue-lighter;
 $color-headings: #0055b9;
 $color-primary: #0055b9;
