@@ -91,21 +91,21 @@ color: rgb(255, 81, 27) !important;
 
 $table-tr-map                       : (
                                         background-color: white,
-                                        border-top: 1px solid $color-primary
+                                        border-top: 1px solid #e8e8e8
                                     );
 // Styling for even-numbered rows
-$table-tr-2-map                     : ( background-color: $color-blue-lighter );
+$table-tr-2-map                     : ( background-color: #fafafa);
 
 // Styling for TD elements
 $table-td-map                       : ( 
                                         
                                         padding: $spacing-unit/2 $spacing-unit,
-                                        border: 1px solid $color-blue-lighter
+                                        border: 1px solid #e8e8e8
                                     );
 
 // Styling for TH elements
 $table-th-map                       : map-merge( $table-td-map, ( font-weight: bold, 
-                                        background-color: #fafafa,
+                                        background-color: #e8e8e8,
                                         color: $sidebar-color) );
 
 
