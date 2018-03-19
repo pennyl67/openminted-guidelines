@@ -5,12 +5,12 @@ These specifications aim to support TDM experts by offering them a plethora of i
 
 ###Minimum requirements
 At present, the OpenMinTeD platform deploys
-* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, and more specifically the representation of a UIMA CAS; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^1];
-* **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI (again as a UIMA CAS)[^2].
+* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, and more specifically the representation of a UIMA CAS[^1]; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^2];
+* **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI (again as a UIMA CAS)[^3].
 
 To ensure **semantic interoperability** between components that are combined in the same workflow and thus exchange annotations between them, OpenMinTeD recommends the use of the **[DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html)** for known types shared between the components. For types not covered by the DKPro Core Type System, users can select a type system of their choice, and document it following the [specifications for ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md).
 
-Finally, as regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^3]
+Finally, as regards the **final output of the applications**, OpenMinTeD recommends the use of the XMI format for annotated corpora; other formats, such as the [WebAnnotation](https://www.w3.org/annotation/) standard, can also be used but _**only XMI-formatted annotated corpora** can be viewed with the OpenMinTeD annotation viewer and/or edited with the annotation editors_.[^4]
 
 {% blurb style='warning'%}
 Please, note that additional requirements may be in order depending on the way the software is invoked. More information on this can be found in the following pages.
@@ -59,13 +59,14 @@ Further recommendations that contribute to interoperability include the followin
 * **Documentation and citation**
   * It is important that you provide the appropriate documentation for your resource \(e.g. manuals, help files etc.\), which you should also version along with the software and add as reference to your metadata record. 
   * Recommend one of the publications about your resource as the one to be cited for scholarly attribution and add this information in the metadata record.
-  * Make sure that you fill in the metadata record all the elements required for citing your resource[^4], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor.
+  * Make sure that you fill in the metadata record all the elements required for citing your resource[^5], i.e. the creator of the resource, a title, the resource type and an identifier, and optionally, the publication date, the version and the publisher or distributor.
 * **Linking to other entities**: In all cases, where linking to other resources or entities \(e.g. persons, projects etc.\), please try to do this through unique and persistent identifiers of authority lists and sources, to the extent possible, documenting also the authority and/or scheme it adheres to.
 
 ---
-[^1]: For applications built with the OpenMinTeD workflow editor, converters from PDF and other popular formats for publications into XMI are provided by OpenMinTeD. 
-[^2]: For applications uploaded in OpenMinTeD that consume XMI, the appropriate converters for handling scholarly content input are provided by OpenMinTeD.
-[^3]: For other types of output results (e.g. lists of named entities, lists of terms with statistical information etc.), application providers are welcome to use any format(s) they find fit.
-[^4]: For citation, OpenMinTeD endorses the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final), as well as the more specialised [RDA recommendations for data citation of evolving data](https://www.rd-alliance.org/system/files/RDA-DC-Recommendations_151020.pdf) and [DataCite guidelines](https://www.datacite.org/cite-your-data.html). 
+[^1]: You can find samples of XMI files [here](https://openminted.github.io/releases/xmiExamples/). 
+[^2]: For applications built with the OpenMinTeD workflow editor, converters from PDF and other popular formats for publications into XMI are provided by OpenMinTeD. 
+[^3]: For applications uploaded in OpenMinTeD that consume XMI, the appropriate converters for handling scholarly content input are provided by OpenMinTeD.
+[^4]: For other types of output results (e.g. lists of named entities, lists of terms with statistical information etc.), application providers are welcome to use any format(s) they find fit.
+[^5]: For citation, OpenMinTeD endorses the [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final), as well as the more specialised [RDA recommendations for data citation of evolving data](https://www.rd-alliance.org/system/files/RDA-DC-Recommendations_151020.pdf) and [DataCite guidelines](https://www.datacite.org/cite-your-data.html). 
 
 
