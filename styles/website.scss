@@ -7,7 +7,7 @@
 $color-blue-lighter: lighten( #0055b9, 20% );
 //$sidebar-background: $color-blue-lighter;
 //$sidebar-background: #0055b9;
-$sidebar-background: white;
+$sidebar-background: #fafafa;
 //$sidebar-color: white;
 $sidebar-color: $color-text;
 $color-border: $color-blue-lighter;
@@ -38,6 +38,10 @@ $font-size-h6						: 0.9rem;
 // color: white !important;
 // font-family: $font-family-headings !important;
 // };
+
+.book-summary {
+border-right: none  !important;
+}
 
 $search-input-wrapper-map           : ( 
                                         background: $sidebar-background,
