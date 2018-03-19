@@ -1,4 +1,4 @@
-# OpenMinTeD guidelines
+# Introduction
 
 Welcome to the OpenMinTeD Guidelines!
 
