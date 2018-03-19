@@ -98,13 +98,13 @@ $table-tr-2-map                     : ( background-color: #fafafa);
 
 // Styling for TD elements
 $table-td-map                       : ( 
-                                        
-                                        padding: $spacing-unit/2 $spacing-unit,
-                                        border: 1px solid #e8e8e8
+                                        padding: 10px 15px,
+                                        border-bottom: 1px solid #e8e8e8
                                     );
 
 // Styling for TH elements
 $table-th-map                       : map-merge( $table-td-map, ( font-weight: bold, 
+                                        padding: 10px 15px,
                                         background-color: #e8e8e8,  
                                         text-align:left,  
                                         color: #666666 ) );
