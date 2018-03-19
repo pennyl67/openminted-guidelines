@@ -67,6 +67,11 @@ text-align: justify;
 background: $sidebar-background !important;
 };
 
+$sidebar-logo-height                : 40px ;
+.book-logo img {
+                  width: 100%;
+                  }
+                  
 //.book-search-input {
 //background: #0055b9 !important;
 //};
@@ -118,8 +123,6 @@ $hr-map                             : (
                                         margin: $spacing-unit*3 0,
                                         background-color: #e5e5e5
                                     ) ;
-
-$sidebar-logo-height                : 40px ;
 
 
 //tr:nth-child(even){background-color: rgb(183, 255, 253);}
