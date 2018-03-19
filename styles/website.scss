@@ -74,8 +74,9 @@ text-align: justify;
 
 .book-logo {
 background: $color-primary !important;
-padding: 20px 15px 10px;
-border-bottom: none;
+padding: 20px 15px 10px !important;
+border-bottom: none !important;
+border-top: none !important;
 };
 
 .book-logo img {
@@ -87,18 +88,17 @@ $sidebar-logo-height                : 70px;
             
 #book-search-input {
 background: $color-primary !important;
-padding: 0px 15px 15px;
-color: #404040;
-font-size: 14px;
-border-bottom: none;
+padding: 0px 15px 15px !important;
+color: #404040 !important;
+font-size: 14px !important;
+border-bottom: none !important;
 };
 
 #book-search-input input {
-outline: none;
-background: white;
-padding: 10px 15px;
-border: none;
-border-radius: 20px;
+outline: none !important;
+background: white !important;
+padding: 10px 15px !important;
+border: none !important;
 };
 
 
