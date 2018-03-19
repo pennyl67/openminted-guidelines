@@ -1,6 +1,6 @@
 # Summary
 
-* [OpenMinTeD guidelines](README.md)
+* [Introduction](README.md)
 * [For providers of content](for-providers-of-content.md)
   * [Providers of single documents \(publications\)](guidelines_for_providers_of_publications/README.md)
     * [How to comply with OpenMinTeD interoperability specifications](recommendations-for-publishers.md)
