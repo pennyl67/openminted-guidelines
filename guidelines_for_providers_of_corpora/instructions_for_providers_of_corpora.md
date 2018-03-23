@@ -4,7 +4,7 @@ At present, corpora can be added only by **authorised users** at the [OpenMinTeD
 
 If you wish to add a corpus, you must provide:
 
-* a zipped file with the contents of the corpus; where possible, the zipped file should follow the folder structure recommended for OpenMinTeD publications, i.e. separate folders for contents \(entitled "fulltext"\), metadata records \(entitled "metadata"\)[^1] and licence documents \(entitled "licence"\)
+* a zipped file with the contents of the corpus; where possible, the zipped file should follow the folder structure recommended for OpenMinTeD publications, i.e. separate folders for full text contents \(entitled "fulltext"\), metadata records \(entitled "metadata"\)[^1] and licence documents \(entitled "licence"\); if available, you can also use an additional folder entitled "abstract" for delivering abstracts;
 
 * a metadata record compliant with the [OMTD-SHARE schema for corpora, at least at the minimal level](/guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md) which you can upload to the Registry as an XML file and/or edit with the OpenMinTeD metadata editor.
 
