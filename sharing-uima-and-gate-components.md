@@ -13,7 +13,7 @@ You can provide components compatible with the [UIMA](https://uima.apache.org/) 
   * licence text\(s\), preferably in a text file entitled "LICENCE.TXT" in order to be unambiguously recognised; in the case of multiple licences, they should be all aggregated in the same file
   * a "readme" notice, that describes the contents of the folder as well as any important notice for the compilation and execution of the component
   * all descriptors \(UIMA/uimaFIT, GATE CREOLE, OMTD-SHARE etc.\) available for the component according to the implementation framework[^2]
-  * a "DESCRIPTORS.TXT" file in the folder META-INF/eu.openminted.share with a list of the descriptors
+  * a "descriptors.txt" file in the folder META-INF/eu.openminted.share with a list of the descriptors
   * a Maven POM XML file.
 * Pack them as a JAR using the respective Maven plugin.
 * Upload them to the Maven repository according to the [Maven guidelines](http://maven.apache.org/guides/mini/guide-central-repository-upload.html).
