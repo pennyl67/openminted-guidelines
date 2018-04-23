@@ -22,7 +22,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
 {% blurb style='warning'%}
-**Important: the following must be in the metadata record otherwise the app/component will not run!** 
+**Important: the following elements must be in the metadata record as described below, otherwise the app/component will not run!** 
 
 
 * OpenMinTeD looks into the Central Docker hub to locate the docker images; so, please provide in the element **_distributionLocation_** (a) the docker image name and (b) the version; i.e. OpenMinTeD will use the command "docker pull _image_name:version_" to retrieve the image, so in the _**distributionLocation**_ you must add _image_name:version_
