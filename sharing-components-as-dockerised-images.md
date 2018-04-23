@@ -21,10 +21,21 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 In both cases, the metadata record can be viewed and edited at the end of the process.
 
-The location of the docker image must be provided in the element **_distributionLocation_**; the command for invoking the app/component in the metadata element _**command**_, e.g.
+{% blurb style='warning'%}
+**Important: the following must be in the metadata record otherwise the app/component will not run!** 
+(1) OpenMinTeD looks into the Central Docker hub to locate the docker images; so, please provide in the element **_distributionLocation_** (a) the docker image name and (b) the version; i.e. OpenMinTeD will use the command "docker pull _image_name:version_" to retrieve the image, so in the _**distributionLocation**_ you must add _image_name:version_
 
-    `<distributionLocation>bibliome/alvisengine</distributionLocation>
-    <command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
+`<distributionLocation>bibliome/alvisengine:1.0.0</distributionLocation>`
+
+
+(2) please add the command for invoking the app/component in the metadata element _**command**_, e.g.
+
+    `<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
+The command element must (a) only contain your executor i.e. the part required to run your command by excluding the parameters and their respective values, and (b) be available to run from everywhere in the docker image (i.e. add your executor in the /usr/bin/ or use absolute paths).
+
+{% endblurb %}
+
+
 
 ---
 
