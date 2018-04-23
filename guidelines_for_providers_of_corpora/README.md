@@ -15,7 +15,7 @@ At present, OpenMinTeD processes only **raw corpora** that follow all the techni
 
 ###Minimum requirements for corpora
 If you want to share your corpus through OpenMinTeD, you must
-* ensure that the single documents comprising the corpus adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
+* ensure that the single documents comprising the corpus adhere to the minimal level of the [OpenMinTed Interoperability specifications](/recommendations-for-publishers.md), 
 * describe the corpus with a metadata record compliant with the [OMTD-SHARE schema](/guidelines_for_providers_of_corpora/recommended_schema_for_corpora.md), at least at the minimal level,
 * prepare, package and register a zipped file with the contents (texts) of the corpus according to the [instructions for uploading corpora](/guidelines_for_providers_of_corpora/instructions_for_providers_of_corpora.md).
 

@@ -70,9 +70,10 @@ The process of training an ML model involves providing an ML algorithm \(that is
 
 ## metadata
 
-Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. Metadata is often called data about data or information about information. \[National Information Standards Organization, Understanding metadata, [http://www.niso.org/publications/press/UnderstandingMetadata.pdf](http://www.niso.org/publications/press/UnderstandingMetadata.pdf)\]
+Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource. Metadata is often called data about data or information about information. \[National Information Standards Organization, Understanding metadata, [https://groups.niso.org/apps/group\_public/download.php/17446/Understanding%20Metadata.pdf](https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf)\]
 
 ## OA
+
 Open Access
 
 ## Open Access

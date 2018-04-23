@@ -13,7 +13,7 @@ It should be noted that the providers \(e.g. publication repositories, publisher
 
 ###Minimum requirements for single documents (publications)
 For each publication, you must 
-* ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/guidelines_for_providers_of_publications/recommendations-for-publishers.md), 
+* ensure that you adhere to the minimal level of the [OpenMinTed Interoperability specifications](/recommendations-for-publishers.md), 
 * provide access to a file with the **full text** 
 * deliver a **metadata description** with a minimal set of metadata elements in compliance with the [**OMTD-SHARE schema**](/the_omtd-share_metadata_schema.md) for publications in XML format; the metadata elements are used for creating uniform facets for querying the entire set of publications uploaded in OpenMinTeD \(see [here](/deployment-scenario-of-publications-in-openminted.md) for more information on the deployment of publications in OpenMinTeD\).
 
