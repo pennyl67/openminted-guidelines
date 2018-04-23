@@ -14,8 +14,8 @@ Any location \(e.g. URL, repository, etc.\) where the resource can be accessed f
 
 **Recommended usage**
 
-* For components registered through Maven, use the Maven coordinates preceded by "mvn:", e.g. `<distributionLocation>mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</distributionLocation>`
-* For components registered as Docker images, use the name under which they are registered in the Docker Central hub, e.g. `<distributionLocation>bibliome/alvisengine</distributionLocation>`
+* For components registered through Maven, use the _**Maven coordinates**_ preceded by "mvn:", e.g. `<distributionLocation>mvn:de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.berkeleyparser-gpl:1.9.0-SNAPSHOT#de.tudarmstadt.ukp.dkpro.core.berkeleyparser.BerkeleyParser</distributionLocation>`
+* For components registered as Docker images, use the _**image name**_ and the _**version**_ with which they are registered in the Docker Central hub, e.g. `<distributionLocation>bibliome/alvisengine</distributionLocation>`
 * For web services, use the URL endpoint where it can be invoked from
 * Worfklows created in the OpenMinTeD platform, are automatically assigned the relevant value.
 
