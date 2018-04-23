@@ -34,7 +34,7 @@ In both cases, the metadata record can be viewed and edited at the end of the pr
 
     `<command>alvisnlp org.bibliome.alvisnlp.modules.ccg.CCGParser</command>`
 
-The _**command **_element must (a) only contain your executor i.e. the part required to run your command by excluding the parameters and their respective values, and (b) be available to run from everywhere in the docker image (i.e. add your executor in the /usr/bin/ or use absolute paths).
+The _**command **_ element must (a) only contain your executor i.e. the part required to run your command by excluding the parameters and their respective values, and (b) be available to run from everywhere in the docker image (i.e. add your executor in the /usr/bin/ or use absolute paths).
 
 {% endblurb %}
 
