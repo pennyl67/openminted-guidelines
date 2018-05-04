@@ -19,7 +19,7 @@ There are three ways you can add TDM software in the [OpenMinTeD platform](https
 
 [^1]: Docker is a middleware technology that packages software along with their dependencies in order to run independently of operating systems or local setup - see more at [https://docs.docker.com](https://docs.docker.com).
 
-[^2]: For more information, see [https://uima.apache.org/](https://uima.apache.org/). Please note that OpenMinTeD is presently only compatible with UIMA components using UIMA version 2.8.1 or higher. Older versions of UIMA 2.x might work as well, but there is no guarantee. UIMA 3.x is presently not supported.
+[^2]: For more information, see [https://uima.apache.org/](https://uima.apache.org/). Please note that the OpenMinTeD UIMA wrapper is presently only compatible with UIMA components using UIMA version 2.8.1 or higher. Older versions of UIMA 2.x might work as well, but there is no guarantee. UIMA 3.x is presently not supported. This applies only to UIMA components submitted via Maven. Components using Docker are not affected and may internally make use of any UIMA version.
 
 [^3]: For more information, see [https://gate.ac.uk/.](https://gate.ac.uk/)
 

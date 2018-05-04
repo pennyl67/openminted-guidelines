@@ -36,7 +36,7 @@ In all of these cases, the metadata record can be viewed and edited at the end o
 
 ---
 
-[^1]: Please note that OpenMinTeD is presently only compatible with UIMA components using UIMA version 2.8.1 or higher. Older versions of UIMA 2.x might work as well, but there is no guarantee. UIMA 3.x is presently not supported.
+[^1]: Please note that the OpenMinTeD UIMA wrapper is presently only compatible with UIMA components using UIMA version 2.8.1 or higher. Older versions of UIMA 2.x might work as well, but there is no guarantee. UIMA 3.x is presently not supported. This applies only to UIMA components submitted via Maven. Components using Docker are not affected and may internally make use of any UIMA version.
 [^2]: If you prefer, you can provide your components as Docker images following the  relevant [instructions](https://guidelines.openminted.eu/sharing-components-as-dockerised-images.html). 
 [^3]: You will find more information on how to embed the OMTD-SHARE metadata records in the package and how to use related tooling [here](https://builds.openminted.eu/view/WP%205.2/job/OpenMinTeD%20SHARE%20Annotations/eu.openminted.share.annotations%24omtd-share-annotations-doc/doclinks/1/#sect_introduction).
 [^4]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
