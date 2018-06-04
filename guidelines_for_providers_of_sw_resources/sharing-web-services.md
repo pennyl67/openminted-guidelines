@@ -46,5 +46,3 @@ and
 [^1]: Please, note that for semantic interoperability reasons, OpenMinTeD recommends the use of the [DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html) for known types shared between the components; this typesystem is already available at Maven. For types not covered by the DKPro Core Type System, users can select a typesystem of their choice, document it following the specifications for ancillary knowledge resources and upload it at Maven.
 [^2]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
 
-
-In both cases, as long as the metadata record is private (i.e. the metadata element "public" has the value "no"), it can be viewed and edited at the end of the process.
