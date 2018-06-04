@@ -16,7 +16,7 @@ If you intend to share your TDM software \(application or component\) as a web s
 
 
 #### **Step 2 - Adding in the OpenMinTeD platform**
-
+,
 You can then visit the [OpenMinTeD registry](https://services.openminted.eu/resourceRegistration/component) where you can register your web service in one of the following ways:
 
 * edit from scratch the [OMTD-SHARE](/the_omtd-share_metadata_schema.md) metadata record[^1] using the OpenMinTeD editor or
@@ -41,5 +41,5 @@ and
 
 --- 
 [^1]: You can find examples of OMTD-SHARE metadata records [here](https://openminted.github.io/releases/omtd-share/3.0.2/).
-[^2]: Please, note that for semantic interoperability reasons, OpenMinTeD recommends the use of the [DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html) for known types shared between the components. For types not covered by the DKPro Core Type System, users can select a typesystem of their choice, and document it following the specifications for ancillary knowledge resources. For web services, the typesystem must be uploaded in the Maven central repository.
+[^2]: Please, note that for semantic interoperability reasons, OpenMinTeD recommends the use of the [DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html) for known types shared between the components; this typesystem is already available at Maven. For types not covered by the DKPro Core Type System, users can select a typesystem of their choice, document it following the specifications for ancillary knowledge resources and upload it at Maven.
 
