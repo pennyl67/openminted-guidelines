@@ -33,7 +33,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
   * if there are no OMTD-SHARE files in the package, an OMTD-SHARE record can be partially converted from the Maven POM file and other descriptors and the user will be prompted to fill in the missing information.
 
 {% blurb style='tip'%}
-It is best that you register your component(s) as private (i.e. using the value "no" for the metadata element "public") so that you can view and edit the metadata record at the end of the process.
+It is best that you register your component(s) as private (i.e. using the value "no" for the metadata element "[public](/public.md)") so that you can view and edit the metadata record at the end of the process.
 {% endblurb %}
 
 ---
