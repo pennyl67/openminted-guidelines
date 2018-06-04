@@ -5,8 +5,8 @@ These specifications aim to support TDM experts by offering them a plethora of i
 
 ###Minimum requirements
 At present, the OpenMinTeD platform deploys
-* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**, and more specifically the representation of a UIMA CAS[^1]; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^2];
-* **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI (again as a UIMA CAS)[^3].
+* **components** that support \(i.e. produce & consume\) **data in the [XML Metadata Interchange \(XMI\)](http://www.omg.org/spec/XMI/) format**[^1]; in the case of components that support other formats, appropriate readers and writers for converting XMI messages from and to the components’ format must also be provided[^2];
+* **applications** that support as input file formats that are used for publications (e.g. PDF, PubMed XML, plain text etc.) or XMI[^3].
 
 To ensure **semantic interoperability** between components that are combined in the same workflow and thus exchange annotations between them, OpenMinTeD recommends the use of the **[DKPro Core Type System (current v1.9.0)](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/typesystem-reference.html)** for known types shared between the components. For types not covered by the DKPro Core Type System, users can select a type system of their choice, and document it following the [specifications for ancillary knowledge resources](/guidelines_for_providers_of_ancillary_resources/README.md).
 
