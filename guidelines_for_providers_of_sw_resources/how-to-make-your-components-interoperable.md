@@ -43,7 +43,7 @@ Please note that
 * **Persistent and Unique identifiers**:
   * if you already have a PID for your resource \(e.g. a URI or a HANDLE\), make sure it is included in the metadata record \(cf. [resourceIdentifier](/components_resourceIdentifier.html) for more information\)
   * in the case of applications/components delivered 
-    * via Maven, please provide the Maven coordinates in this element
+    * via Maven, please provide the Maven coordinates and Java qualifier class name in this element
     * as Docker images, provide the name for the application/component used in the image.
 * **Versioning**: ensure that you version all your software resources and label the versions in an unambiguous way, preferably following the [Semantic Versioning recommendations](http://semver.org)
 * **Formal description and documentation**:
