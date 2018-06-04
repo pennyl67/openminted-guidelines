@@ -19,7 +19,7 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu) whe
 
 * upload an XML file with the OMTD-SHARE metadata record.
 
-In both cases, the metadata record can be viewed and edited at the end of the process.
+In both cases, as long as the metadata record is private (i.e. the metadata element "public" has the value "no"), it can be viewed and edited at the end of the process.
 
 {% blurb style='warning'%}
 **Important: the following elements must be in the metadata record as described below, otherwise the app/component will not run!** 
