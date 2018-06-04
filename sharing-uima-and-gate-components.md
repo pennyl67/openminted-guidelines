@@ -32,7 +32,9 @@ You can then visit the [OpenMinTeD registry](https://services.openminted.eu/reso
   * if the package includes one or more  OMTD-SHARE files corresponding to the components contained in the package, the available components will be displayed to the user, the user will select the component to register, the metadata will be validated and, if valid, uploaded to the registry; 
   * if there are no OMTD-SHARE files in the package, an OMTD-SHARE record can be partially converted from the Maven POM file and other descriptors and the user will be prompted to fill in the missing information.
 
-In all of these cases, the metadata record can be viewed and edited at the end of the process.
+{% blurb style='tip'%}
+It is best that you register your component(s) as private (i.e. using the value "no" for the metadata element "public") so that you can view and edit the metadata record at the end of the process.
+{% endblurb %}
 
 ---
 
